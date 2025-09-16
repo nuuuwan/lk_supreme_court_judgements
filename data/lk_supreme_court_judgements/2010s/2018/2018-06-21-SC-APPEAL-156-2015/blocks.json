@@ -1,0 +1,1728 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      303.29,
+      38.16,
+      311.31,
+      49.2
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      94.28,
+      510.97,
+      111.95
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      112.64,
+      613.1,
+      705.13
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA In the matter of an Appeal Danthasinghe Patabendi Hangidigedera Abeyrathna No.29, Pannawa, Ganewatta. Plaintiff SC Appeal 156/2015 SC/HCCA/LA/556/2012 NWP/HCCA/KUR/135/2005(F) DC Kurunegala Case No.5442/L Vs B.G. Nimal Kumara Hemasiri of Kumbukgate Defendant And B.G. Nimal Kumara Hemasiri of Kumbukgate Defendant-Appellant Vs Danthasinghe Patabendi Hangidigedera Abeyrathna No.29, Pannawa, Ganewatta. Plaintiff-Respondent",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.29,
+      38.16,
+      311.31,
+      49.2
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      93.97,
+      506.89,
+      705.13
+    ],
+    "text": "AND NOW BEWEEN B.G. Nimal Kumara Hemasiri of Kumbukgate Defendant-Appellant-Petitioner-Appellant Vs Danthasinghe Patabendi Hangidigedera Abeyrathna No.29, Pannawa, Ganewatta. (Deceased) 1a. Danthasinghe Patabendi Hangidigedera Mangalika Abeyrathna 2a. Danthasinghe Patabendi Hangidigedera Lakshman Prasad Abeyrathna Both of No.29, Pannawa, Ganewatta. Substituted Plaintiff-Respondent- Respondent-Respondents Before : Sisira J de Abrew J Prasanna Jayawardena PC J L.T.B.Dehideniya J Counsel : Athula Perera with Nayomi N Karunaratne for the Defendant-Appellant-Petitioner-Appellant Kamal Dissanayake instructed by Samadi Seneviratne for the 1(a) and 1(b) substituted Plaintiff-Respondent-Respondent-Respondents",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      303.29,
+      38.16,
+      311.31,
+      49.2
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      93.83,
+      456.46,
+      314.36
+    ],
+    "text": "Argued on : 14.2.2018 Written Submission Tendered on :11.12.2015 by the Defendant-Appellant-Petitioner-Appellant 13.1.2016 by the Substituted Plaintiff-Respondent- Respondent-Respondents Decided on : 21.6.2018 Sisira J de Abrew J",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      327.02,
+      529.07,
+      342.56
+    ],
+    "text": "The Plaintiff-Respondent-Respondent-Respondent (hereinafter referred",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      351.26,
+      528.77,
+      366.8
+    ],
+    "text": "to as the Plaintiff-Respondent) filed case No.5442/L in the District Court of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      375.38,
+      529.14,
+      390.92
+    ],
+    "text": "Kurunegala against the Defendant-Appellant-Petitioner-Appellant (hereinafter",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      399.52,
+      529.2,
+      415.06
+    ],
+    "text": "referred to as the Defendant-Appellant) asking for a declaration that he is the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      423.64,
+      525.94,
+      439.18
+    ],
+    "text": "lawful lessee of the lands described in the plaint and to eject the Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      447.76,
+      528.72,
+      463.3
+    ],
+    "text": "Appellant. The learned District Judge by his judgment dated 1.9.2005 granted",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      472.0,
+      528.9,
+      487.54
+    ],
+    "text": "relief sought by the Plaintiff-Respondent. Being aggrieved by the said",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      496.12,
+      529.21,
+      511.66
+    ],
+    "text": "judgment of the learned District Judge, the Defendant-Appellant appealed to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      520.24,
+      528.89,
+      535.78
+    ],
+    "text": "the Civil Appellate High Court. The Civil Appellate High Court by its",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      544.39,
+      529.01,
+      559.93
+    ],
+    "text": "judgment dated 8.11.2012 dismissed the appeal. Being aggrieved by the said",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      568.63,
+      529.2,
+      584.17
+    ],
+    "text": "judgment of the Civil Appellate High Court, the Defendant-Appellant has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      592.75,
+      528.54,
+      608.29
+    ],
+    "text": "appealed to this court. This court by its order dated 22.9.2015, granted leave",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      616.87,
+      529.22,
+      632.41
+    ],
+    "text": "to appeal on questions of law set out in paragraphs 17(a),(b) and (c) of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      640.99,
+      428.26,
+      656.53
+    ],
+    "text": "petition of appeal dated 20.12.2012 which are set out below.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.29,
+      38.16,
+      311.31,
+      49.2
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.42,
+      93.63,
+      528.89,
+      109.37
+    ],
+    "text": "1. In the circumstances of the case, has the plaintiff established before",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      117.95,
+      528.65,
+      133.49
+    ],
+    "text": "court the ownership of the two lands in dispute vested with Maha",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      142.07,
+      528.71,
+      157.61
+    ],
+    "text": "Vishnu Dewalaya of Kandy and the plaintiff is the lawful tenant/lessee",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      166.31,
+      255.92,
+      181.85
+    ],
+    "text": "of the lands in dispute?",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.42,
+      200.19,
+      529.21,
+      215.93
+    ],
+    "text": "2. Has the plaintiff identified the land in dispute to obtain a declaration",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      224.54,
+      313.4,
+      240.08
+    ],
+    "text": "that he is the tenant of the lands?",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.42,
+      258.54,
+      528.71,
+      274.28
+    ],
+    "text": "3. In the circumstances pleaded, are the judgments of the learned District",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      282.86,
+      529.1,
+      298.4
+    ],
+    "text": "Judge as well as the Civil Appellate High Court according to law and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      307.1,
+      426.94,
+      322.64
+    ],
+    "text": "according to the evidence adduced in the case?",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      341.18,
+      529.18,
+      356.72
+    ],
+    "text": "The Plaintiff-Respondent in his plaint and evidence claims that he, on a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      365.3,
+      528.95,
+      380.84
+    ],
+    "text": "permit issued by Vishnu Dewalaya Kandy marked P4, was in possession of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      389.56,
+      528.6,
+      405.1
+    ],
+    "text": "the lands described in the plaint; that he is the lawful lessee of the said",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      413.68,
+      529.01,
+      429.22
+    ],
+    "text": "property; that in October 1997 the Defendant-Appellant forcibly entered the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      437.8,
+      529.01,
+      453.34
+    ],
+    "text": "said property; that on 13.10.1997 he made a complaint to Gokarella Police",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      461.92,
+      529.1,
+      477.46
+    ],
+    "text": "Station complaining of the said unlawful acts of the Defendant-Appellant; and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      486.04,
+      353.62,
+      501.58
+    ],
+    "text": "that he is the lawful lessee of the said property.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      520.24,
+      528.81,
+      535.78
+    ],
+    "text": "The Defendant-Appellant in his answer and the evidence takes up the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      544.39,
+      528.61,
+      559.93
+    ],
+    "text": "position that he is the owner of the property described in the plaint. He relies",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      568.63,
+      529.05,
+      584.17
+    ],
+    "text": "on Deed No. 16016 dated 20.11.1997 (V1) attested by Padma Kumari",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      592.75,
+      256.4,
+      608.29
+    ],
+    "text": "Wanigasuriya, Notary Public.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      626.83,
+      529.08,
+      642.37
+    ],
+    "text": "On an application made by the Plaintiff-Respondent, District Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      651.07,
+      528.73,
+      666.61
+    ],
+    "text": "issued a commission on H.M. Karunaratne Licensed Surveyor who prepared",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      675.19,
+      528.66,
+      690.73
+    ],
+    "text": "Plan No.24899. The said plan was produced at the trial marked as P1. H.M.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      303.29,
+      38.16,
+      311.31,
+      49.2
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      93.83,
+      529.21,
+      109.37
+    ],
+    "text": "Karunaratne Licensed Surveyor in his evidence states that he surveyed the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      117.95,
+      528.64,
+      133.49
+    ],
+    "text": "lands described in the plaint and that the lands described in the plaint are",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      142.07,
+      529.06,
+      157.61
+    ],
+    "text": "depicted in his Plan No. 24899. The Defendant-Appellant too made an",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      166.31,
+      528.85,
+      181.85
+    ],
+    "text": "application for a commission and the District Court issued a commission on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      190.43,
+      528.68,
+      205.97
+    ],
+    "text": "H.B.Abeyratne Licensed Surveyor who prepared Plan No.2885. The lands",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      214.55,
+      529.18,
+      230.09
+    ],
+    "text": "described in the plaint according to the evidence of the Plaintiff-Respondent",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      238.7,
+      528.81,
+      254.24
+    ],
+    "text": "and H.M. Karunaratne Licensed Surveyor are situated in a village called",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      262.94,
+      529.07,
+      278.48
+    ],
+    "text": "Kumbukgate and the names of the lands are Dalupothyaya and Paluwatta. Are",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      287.06,
+      529.21,
+      302.6
+    ],
+    "text": "these the same lands claimed by the Defendant-Appellant? When",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      311.18,
+      525.94,
+      326.72
+    ],
+    "text": "H.B.Abeyratne Licensed Surveyor surveyed the land, the Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      335.3,
+      525.82,
+      350.84
+    ],
+    "text": "Appellant has shown the land. But the land shown by the Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      359.54,
+      528.97,
+      375.08
+    ],
+    "text": "Appellant is not situated in a village called Kumbukgate. It is situated in a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      383.68,
+      529.21,
+      399.22
+    ],
+    "text": "village called Waliharagedera. The distance between Kumbukgate and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      407.8,
+      528.93,
+      423.34
+    ],
+    "text": "Waliharagedera is about one kilometer. Further the name of the land shown",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      431.92,
+      528.87,
+      447.46
+    ],
+    "text": "by the Defendant-Appellant is Galkamathagawa Godapillaawa",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      456.04,
+      528.76,
+      471.58
+    ],
+    "text": "Dambagahamulahena. It has to be noted here that the land described in the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      480.28,
+      529.07,
+      495.82
+    ],
+    "text": "plaint is situated in Kumbukgate. Further the Plaintiff-Respondent too had",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      504.4,
+      528.64,
+      519.94
+    ],
+    "text": "been present when the when H.B.Abeyratne Licensed Surveyor surveyed the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      528.52,
+      529.0,
+      544.06
+    ],
+    "text": "land. The Plaintiff-Respondent had told H.B.Abeyratne Licensed Surveyor",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      552.67,
+      528.88,
+      568.21
+    ],
+    "text": "that this was not the land in dispute. The above evidence has been given by",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      576.91,
+      528.82,
+      592.45
+    ],
+    "text": "H.B.Abeyratne Licensed Surveyor. When the above evidence is considered, it",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      601.03,
+      529.03,
+      616.57
+    ],
+    "text": "is clear that the land described by the Defendant-Appellant is not the land",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      625.15,
+      528.96,
+      640.69
+    ],
+    "text": "described in the plaint. The Defendant-Appellant relies on Deed No.16016",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      649.27,
+      528.67,
+      664.81
+    ],
+    "text": "dated 20.11.1997 marked (V1). The said deed too described the land situated",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      673.51,
+      529.05,
+      689.05
+    ],
+    "text": "in a village called Waliharagedera and the name of the land is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      303.29,
+      38.16,
+      311.31,
+      49.2
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      93.83,
+      529.11,
+      109.37
+    ],
+    "text": "Galkamathagawa Pillaawa Dambagahamulahena. When I consider all the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      117.95,
+      529.01,
+      133.49
+    ],
+    "text": "above matters, I am of the opinion that the Defendant-Appellants claim that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      142.07,
+      528.7,
+      157.61
+    ],
+    "text": "he is the owner of the lands described in the plaint cannot be accepted and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      166.31,
+      528.6,
+      181.85
+    ],
+    "text": "should be rejected. When I consider all the above matters, the contention of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      190.43,
+      528.82,
+      205.97
+    ],
+    "text": "learned counsel for the Defendant-Appellant that the corpus had not been",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      214.55,
+      374.14,
+      230.09
+    ],
+    "text": "identified has to be rejected and is hereby rejected.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      248.78,
+      529.19,
+      264.32
+    ],
+    "text": "The Land Officer of the Vishnu Dewalaya Kandy K.B.Piyasiri states",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      272.9,
+      529.09,
+      288.44
+    ],
+    "text": "in his evidence that the land described in the permit marked P4 was leased to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      297.02,
+      529.0,
+      312.56
+    ],
+    "text": "the Plaintiff-Respondent; that the Plaintiff-Respondent has been paying yearly",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      321.14,
+      528.85,
+      336.68
+    ],
+    "text": "rent to the Vishnu Dewalaya Kandy; and that permit marked P4 was issued by",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      345.38,
+      529.05,
+      360.92
+    ],
+    "text": "Basnayake Nilame of the Vishnu Dewalaya Kandy. When I consider all the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      369.5,
+      528.99,
+      385.04
+    ],
+    "text": "above matters, I hold that the judgment of the learned District Judge giving",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      393.64,
+      529.23,
+      409.18
+    ],
+    "text": "relief to the Plaintiff-Respondent is correct and the judgment of the Civil",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      417.76,
+      529.06,
+      433.3
+    ],
+    "text": "Appellate High Court dismissing the appeal of the Defendant-Appellant too is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      440.01,
+      529.13,
+      457.54
+    ],
+    "text": "correct. In view of the conclusion reached above, I answer the 1st question of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      466.12,
+      174.29,
+      481.66
+    ],
+    "text": "law as follows.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      500.2,
+      528.79,
+      515.74
+    ],
+    "text": "The Plaintiff-Respondent has established that he is the lawful lessee of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      524.44,
+      201.89,
+      539.98
+    ],
+    "text": "the lands in dispute.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      556.56,
+      375.46,
+      574.09
+    ],
+    "text": "The 2nd question of law is answered as follows.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      592.75,
+      528.97,
+      608.29
+    ],
+    "text": "The Plaintiff-Respondent has identified the lands in dispute to obtain a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      616.87,
+      463.54,
+      632.41
+    ],
+    "text": "declaration that he is the lessee of the lands described in the plaint.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      649.08,
+      353.02,
+      666.61
+    ],
+    "text": "The 3rd question of law is answered as follows.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      303.29,
+      38.16,
+      311.31,
+      49.2
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      93.83,
+      528.7,
+      109.37
+    ],
+    "text": "Both judgments of the District Court and the Civil Appellate High Court are",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      117.95,
+      135.77,
+      133.49
+    ],
+    "text": "correct.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      152.15,
+      528.76,
+      167.69
+    ],
+    "text": "For the above reasons, I affirm the judgments of the District Court and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      176.27,
+      459.82,
+      191.81
+    ],
+    "text": "the Civil Appellate High Court and dismiss this appeal with costs.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      210.47,
+      191.09,
+      226.01
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      278.78,
+      478.09,
+      294.32
+    ],
+    "text": "Judge of the Supreme Court.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      313.1,
+      263.0,
+      328.64
+    ],
+    "text": "Prasanna Jayawardena PC J",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      347.06,
+      131.93,
+      362.6
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      381.16,
+      481.57,
+      396.7
+    ],
+    "text": "Judge of the Supreme Court.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      415.6,
+      206.6,
+      431.14
+    ],
+    "text": "L.T.B.Dehideniya J",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      449.56,
+      131.93,
+      465.1
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      483.64,
+      481.57,
+      499.18
+    ],
+    "text": "Judge of the Supreme Court.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  }
+]
