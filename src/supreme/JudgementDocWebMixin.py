@@ -51,9 +51,12 @@ class JudgementDocWebMixin:
         trs = table.find_elements(By.TAG_NAME, "tr")
         assert len(trs) >= 1
         for tr in trs:
-            doc = cls.__parse_tr__(tr)
-            if doc:
-                yield doc
+            try:
+                doc = cls.__parse_tr__(tr)
+                if doc:
+                    yield doc
+            except Exception as e:
+                log.error(f"Error occurred while parsing tr: {e}")
 
     @classmethod
     def sleep(cls):
