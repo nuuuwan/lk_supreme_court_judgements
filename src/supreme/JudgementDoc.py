@@ -35,9 +35,7 @@ class JudgementDoc(AbstractDoc):
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
-            "href"
-        )
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
         assert url_pdf.endswith(".pdf")
 
         return cls(
@@ -65,8 +63,3 @@ class JudgementDoc(AbstractDoc):
                 yield doc
 
         driver.quit()
-
-
-if __name__ == "__main__":
-    for doc in JudgementDoc.gen_docs():
-        print(doc)
