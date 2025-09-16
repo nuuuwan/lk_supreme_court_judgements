@@ -1,4 +1,4 @@
-# Supreme_Court_Judgement
+# Lk_Supreme_Court_Judgements
 
 Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgements/).
 
@@ -34,8 +34,8 @@ Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgement
 
 ## 🤗 Hugging Face Datasets
 
-- [nuuuwan/supreme-court-judgement-docs](https://huggingface.co/datasets/nuuuwan/supreme-court-judgement-docs)
-- [nuuuwan/supreme-court-judgement-chunks](https://huggingface.co/datasets/nuuuwan/supreme-court-judgement-chunks)
+- [nuuuwan/lk-supreme-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-docs)
+- [nuuuwan/lk-supreme-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-chunks)
 
 ## 20 Latest documents
 
