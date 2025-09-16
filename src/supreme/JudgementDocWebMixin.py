@@ -32,9 +32,7 @@ class JudgementDocWebMixin:
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
-            "href"
-        )
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
         assert url_pdf.endswith(".pdf")
 
         return cls(
@@ -63,13 +61,18 @@ class JudgementDocWebMixin:
         time.sleep(cls.T_SLEEP)
 
     @classmethod
-    def gen_docs(cls) -> Generator[AbstractDoc, None, None]:
+    def get_driver(cls):
         options = Options()
         options.add_argument("--width=1280")
         options.add_argument("--height=12800")
         options.add_argument("--headless")
         driver = webdriver.Firefox(options=options)
         cls.sleep()
+        return driver
+
+    @classmethod
+    def gen_docs(cls) -> Generator[AbstractDoc, None, None]:
+        driver = cls.get_driver()
 
         log.debug(f"🌐 Openning {cls.BASE_URL}...")
         driver.get(cls.BASE_URL)
