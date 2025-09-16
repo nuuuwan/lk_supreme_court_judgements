@@ -1,0 +1,74 @@
+name: pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_dt:
+        description: "max_dt"
+        required: false
+        default: "1"
+  schedule:
+    - cron: "*/20 * * * *"
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/nuuuwan/pdf-scraper-image:latest
+
+    env:
+      HUGGING_FACE_USERNAME: ${{ secrets.HUGGING_FACE_USERNAME }}
+      HUGGING_FACE_TOKEN: ${{ secrets.HUGGING_FACE_TOKEN }}
+
+    steps:
+      - name: "⬇️ Checkout lk_supreme_court_judgements"
+        uses: actions/checkout@v4
+        with:
+          ref: "main"
+          path: "lk_supreme_court_judgements"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
+
+      - name: "⬇️ Checkout lk_supreme_court_judgements_data"
+        uses: actions/checkout@v4
+        with:
+          ref: "data"
+          path: "lk_supreme_court_judgements_data"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
+
+      - name: "⚙️ Run pipeline"
+        run: |
+          cd lk_supreme_court_judgements
+          export PYTHONPATH="$PYTHONPATH:./src"
+
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+          git config --global --add safe.directory /__w/lk_supreme_court_judgements/lk_supreme_court_judgements
+
+          git pull origin main --rebase
+          python workflows/pipeline.py ${{ github.event.inputs.max_dt }}
+
+      - name: "⬆️ Push lk_supreme_court_judgements"
+        run: |
+          cd lk_supreme_court_judgements
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
+          git pull origin main --rebase
+          git push origin main
+
+      - name: "⬆️ Push lk_supreme_court_judgements_data"
+        run: |
+          cd lk_supreme_court_judgements_data
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 [pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
+          git pull origin data --rebase
+          git push origin data
