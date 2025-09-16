@@ -47,3 +47,21 @@ class JudgementDoc(JudgementDocWebMixin, AbstractDoc):
                 self.dir_doc_relative_to_class,
             ]
         )
+
+    # HACK!
+    @classmethod
+    def get_lines_for_latest_docs(cls):
+        lines = [f"## {cls.N_LATEST} Latest documents", ""]
+        for doc in cls.list_all()[: cls.N_LATEST]:
+            line = "- " + " | ".join(
+                [
+                    doc.date_str,
+                    f"`{doc.num}`",
+                    doc.parties,
+                    doc.judgement_by,
+                    f"[data]({doc.remote_data_url})",
+                ]
+            )
+            lines.append(line)
+        lines.append("")
+        return lines
