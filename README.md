@@ -7,9 +7,9 @@ Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgement
 |   |    |
 | :-- | --: |
 | Data Source | supremecourt.lk |
-| Date Range | 2025-09-04 to 2025-09-16 |
-| Number of Docs | 20 |
-| Number of Docs with PDFs | 20 |
+| Date Range | 2023-10-24 to 2025-09-16 |
+| Number of Docs | 254 |
+| Number of Docs with PDFs | 24 |
 | Dataset Size | 0.0GB |
 
 ## Document Metadata Example
@@ -54,8 +54,8 @@ Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgement
 - 2025-09-08 | `SC/APPEAL/115/2013` |  | [data](None)
 - 2025-09-04 | `SC/FR/276/2018` |  | [data](None)
 - 2025-09-04 | `SC/CHC APPEAL/52/2019` |  | [data](None)
+- 2025-09-04 | `SC/APPEAL/98/2014` |  | [data](None)
 - 2025-09-04 | `SC/APPEAL/85/2023` |  | [data](None)
+- 2025-09-04 | `SC/APPEAL/67/2025` |  | [data](None)
 - 2025-09-04 | `SC/APPEAL/54/2022` |  | [data](None)
 - 2025-09-04 | `SC/APPEAL/38/2022` |  | [data](None)
-- 2025-09-04 | `SC/APPEAL/175/2011` |  | [data](None)
-- 2025-09-04 | `SC/APPEAL/126/2015` |  | [data](None)
