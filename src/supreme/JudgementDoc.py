@@ -19,7 +19,7 @@ class JudgementDoc(AbstractDoc):
 
     @classmethod
     def get_doc_class_label(cls) -> str:
-        return "supreme_court_judgement"
+        return "lk_supreme_court_judgements"
 
     @classmethod
     def get_doc_class_description(cls) -> str:
@@ -45,9 +45,7 @@ class JudgementDoc(AbstractDoc):
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
-            "href"
-        )
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
         assert url_pdf.endswith(".pdf")
 
         return cls(

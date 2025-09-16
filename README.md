@@ -7,9 +7,9 @@ Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgement
 |   |    |
 | :-- | --: |
 | Data Source | supremecourt.lk |
-| Date Range | 2025-09-16 to 2025-09-16 |
-| Number of Docs | 1 |
-| Number of Docs with PDFs | 1 |
+| Date Range | 2025-09-04 to 2025-09-16 |
+| Number of Docs | 20 |
+| Number of Docs with PDFs | 20 |
 | Dataset Size | 0.0GB |
 
 ## Document Metadata Example
@@ -34,9 +34,28 @@ Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgement
 
 ## 🤗 Hugging Face Datasets
 
-- [nuuuwan/lk-docs-supreme_court_judgement-docs](https://huggingface.co/datasets/nuuuwan/lk-docs-supreme_court_judgement-docs)
-- [nuuuwan/lk-docs-supreme_court_judgement-chunks](https://huggingface.co/datasets/nuuuwan/lk-docs-supreme_court_judgement-chunks)
+- [nuuuwan/supreme-court-judgement-docs](https://huggingface.co/datasets/nuuuwan/supreme-court-judgement-docs)
+- [nuuuwan/supreme-court-judgement-chunks](https://huggingface.co/datasets/nuuuwan/supreme-court-judgement-chunks)
 
 ## 20 Latest documents
 
 - 2025-09-16 | `SC/FR/3/2009` |  | [data](None)
+- 2025-09-12 | `SC/APPEAL/59/2024` |  | [data](None)
+- 2025-09-12 | `SC/APPEAL/40/2015` |  | [data](None)
+- 2025-09-11 | `SC/FR/403/2015 AND SC/FR/404/2015` |  | [data](None)
+- 2025-09-11 | `SC/FR/402/2019 AND SC/FR/429/2015` |  | [data](None)
+- 2025-09-11 | `SC/APPEAL/86/2009` |  | [data](None)
+- 2025-09-11 | `SC/APPEAL/34/2021` |  | [data](None)
+- 2025-09-11 | `SC/APPEAL/28/2023` |  | [data](None)
+- 2025-09-11 | `SC/APPEAL/153/2018` |  | [data](None)
+- 2025-09-10 | `SC/FR/282/2015` |  | [data](None)
+- 2025-09-09 | `SC/FR/371/2015` |  | [data](None)
+- 2025-09-08 | `SC/APPEAL/162/2013` |  | [data](None)
+- 2025-09-08 | `SC/APPEAL/115/2013` |  | [data](None)
+- 2025-09-04 | `SC/FR/276/2018` |  | [data](None)
+- 2025-09-04 | `SC/CHC APPEAL/52/2019` |  | [data](None)
+- 2025-09-04 | `SC/APPEAL/85/2023` |  | [data](None)
+- 2025-09-04 | `SC/APPEAL/54/2022` |  | [data](None)
+- 2025-09-04 | `SC/APPEAL/38/2022` |  | [data](None)
+- 2025-09-04 | `SC/APPEAL/175/2011` |  | [data](None)
+- 2025-09-04 | `SC/APPEAL/126/2015` |  | [data](None)
