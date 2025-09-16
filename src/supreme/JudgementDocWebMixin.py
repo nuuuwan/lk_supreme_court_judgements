@@ -24,7 +24,7 @@ class JudgementDocWebMixin:
 
         # num
         num = td_text_list[1]
-        assert num.startswith("SC"), num
+        assert num.startswith("SC") or num.startswith("CS"), num
 
         # date_str
         date_str = td_text_list[0]
