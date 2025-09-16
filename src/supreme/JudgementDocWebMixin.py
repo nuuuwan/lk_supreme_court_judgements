@@ -2,8 +2,8 @@ import time
 from typing import Generator
 
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.options import Options
 from utils import Log
 
 from pdf_scraper import AbstractDoc
@@ -32,9 +32,7 @@ class JudgementDocWebMixin:
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
-            "href"
-        )
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
         assert url_pdf.endswith(".pdf")
 
         return cls(
@@ -65,12 +63,11 @@ class JudgementDocWebMixin:
     @classmethod
     def get_driver(cls):
         options = Options()
-        options.add_argument("--width=1280")
-        options.add_argument("--height=12800")
         options.add_argument("--headless")
-        driver = webdriver.Firefox(options=options)
-        cls.sleep()
-        return driver
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--window-size=1920,1080")
+        return webdriver.Chrome(options=options)
 
     @classmethod
     def gen_docs(cls) -> Generator[AbstractDoc, None, None]:
