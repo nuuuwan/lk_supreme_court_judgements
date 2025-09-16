@@ -1,0 +1,2895 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      71.99,
+      488.8,
+      88.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.83,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      163.56,
+      523.54,
+      177.56
+    ],
+    "text": "Distilleries Company of Sri Lanka Limited,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      184.68,
+      435.7,
+      198.68
+    ],
+    "text": "No.110, Norris Canal Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      205.8,
+      348.55,
+      219.8
+    ],
+    "text": "Colombo 10.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      226.92,
+      319.99,
+      240.92
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      281.19,
+      331.75,
+      295.17
+    ],
+    "text": "SC APPEAL NO: SC/APPEAL 125/2014",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      302.31,
+      312.07,
+      316.29
+    ],
+    "text": "SC LA NO: SC/HCCA/LA/406/2013",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      323.55,
+      313.51,
+      337.53
+    ],
+    "text": "CA NO: WP/HCCA/COL 84/2003 (F)",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      136.1,
+      344.67,
+      323.59,
+      358.65
+    ],
+    "text": "WP/HCCA/COL 84/2003A (F)",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      365.79,
+      280.37,
+      379.77
+    ],
+    "text": "DC COLOMBO NO: 19147/ MR",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      408.05,
+      293.09,
+      422.05
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      450.29,
+      401.83,
+      464.29
+    ],
+    "text": "P.D.A. Gunawardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      471.41,
+      458.5,
+      485.41
+    ],
+    "text": "No.31/4, Thalakotuwa Garden,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      492.53,
+      348.55,
+      506.53
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      513.65,
+      335.35,
+      527.65
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      555.89,
+      367.75,
+      569.89
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      598.16,
+      401.83,
+      612.16
+    ],
+    "text": "P.D.A. Gunawardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      619.4,
+      458.5,
+      633.4
+    ],
+    "text": "No.31/4, Thalakotuwa Garden,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      640.52,
+      348.55,
+      654.52
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      661.64,
+      396.07,
+      675.64
+    ],
+    "text": "Defendant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.77,
+      703.87,
+      293.09,
+      717.88
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      35.14,
+      579.36,
+      62.94
+    ],
+    "text": "2 SC/APPEAL/125/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      93.12,
+      523.54,
+      107.12
+    ],
+    "text": "Distilleries Company of Sri Lanka Limited,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      114.24,
+      435.7,
+      128.24
+    ],
+    "text": "No.110, Norris Canal Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      135.36,
+      348.55,
+      149.36
+    ],
+    "text": "Colombo 10.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      156.48,
+      394.15,
+      170.48
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      198.72,
+      401.59,
+      212.72
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      241.11,
+      401.83,
+      255.11
+    ],
+    "text": "P.D.A. Gunawardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      262.23,
+      458.5,
+      276.23
+    ],
+    "text": "No.31/4, Thalakotuwa Garden,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      283.35,
+      348.55,
+      297.35
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      304.47,
+      456.82,
+      318.47
+    ],
+    "text": "Defendant-Appellant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      346.71,
+      296.93,
+      360.71
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      388.95,
+      523.54,
+      402.95
+    ],
+    "text": "Distilleries Company of Sri Lanka Limited,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      410.09,
+      392.71,
+      424.09
+    ],
+    "text": "Presently known as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      431.21,
+      503.14,
+      445.21
+    ],
+    "text": "Distilleries Company of Sri Lanka PLC,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      452.33,
+      435.7,
+      466.33
+    ],
+    "text": "No.110, Norris Canal Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      473.45,
+      348.55,
+      487.45
+    ],
+    "text": "Colombo 10.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.77,
+      494.57,
+      468.34,
+      508.57
+    ],
+    "text": "Plaintiff-Respondent-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      536.93,
+      303.65,
+      550.93
+    ],
+    "text": "Before: P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      558.05,
+      295.01,
+      572.05
+    ],
+    "text": "Achala Wengappuli, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      579.2,
+      346.15,
+      593.2
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      621.44,
+      483.94,
+      635.44
+    ],
+    "text": "Counsel: R. Chula Bandara with G. Kodagoda for the Defendant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.42,
+      642.56,
+      286.61,
+      656.56
+    ],
+    "text": "Appellant-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.42,
+      663.68,
+      484.18,
+      677.68
+    ],
+    "text": "N.R. Sivendran with Renuka Udumulla for the Plaintiff-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.42,
+      684.79,
+      309.67,
+      698.8
+    ],
+    "text": "Respondent-Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      35.14,
+      579.36,
+      62.94
+    ],
+    "text": "3 SC/APPEAL/125/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      72.0,
+      228.17,
+      86.0
+    ],
+    "text": "Argued on : 07.02.2022",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      105.12,
+      215.33,
+      119.12
+    ],
+    "text": "Written submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158.42,
+      138.24,
+      477.91,
+      152.24
+    ],
+    "text": "by Defendant-Appellant-Appellant on 10.11.2014 and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158.42,
+      159.36,
+      233.33,
+      173.36
+    ],
+    "text": "24.02.2022.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158.42,
+      192.48,
+      489.43,
+      206.48
+    ],
+    "text": "by Plaintiff-Respondent-Respondent on 28.10.2014 and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      158.42,
+      213.6,
+      233.33,
+      227.6
+    ],
+    "text": "23.02.2022.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      246.75,
+      230.45,
+      260.75
+    ],
+    "text": "Decided on: 12.05.2023",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      289.11,
+      213.65,
+      303.11
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      322.23,
+      529.34,
+      336.23
+    ],
+    "text": "The plaintiff company filed this action against the defendant employee in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      343.35,
+      529.53,
+      357.35
+    ],
+    "text": "the District Court of Colombo seeking an order for the return of the share",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      364.47,
+      529.42,
+      378.47
+    ],
+    "text": "certificate for 11,606 bonus shares in the plaintiff company and the sum of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      385.59,
+      529.54,
+      399.59
+    ],
+    "text": "Rs. 7,776.02 paid as dividends on those shares on the basis that the share",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      406.73,
+      529.52,
+      420.73
+    ],
+    "text": "certificate was delivered and the dividend payment made by mistake. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      427.85,
+      529.33,
+      441.85
+    ],
+    "text": "defendant filed answer denying the plaintiffs claim and made a claim in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      448.97,
+      529.54,
+      462.97
+    ],
+    "text": "reconvention seeking an order against the plaintiff for delivery of the original",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      470.09,
+      529.3,
+      484.09
+    ],
+    "text": "share certificate and damages in a sum of Rs. 1 million for failure to allot",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      491.21,
+      327.67,
+      505.21
+    ],
+    "text": "bonus shares and dividends after 1993.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      524.33,
+      529.31,
+      538.33
+    ],
+    "text": "After trial, the District Court answered the issues raised by the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      545.45,
+      529.49,
+      559.45
+    ],
+    "text": "against the plaintiff and the issues raised by the defendant in favour of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      566.6,
+      529.53,
+      580.6
+    ],
+    "text": "defendant and dismissed the plaintiffs action. The District Judge states in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      587.84,
+      529.44,
+      601.84
+    ],
+    "text": "several places of the judgment that the defendant is entitled to bonus shares",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      608.96,
+      180.26,
+      622.96
+    ],
+    "text": "and dividends.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      642.08,
+      529.43,
+      656.14
+    ],
+    "text": "The District Judge answered inter alia the following issues in favour of the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      663.2,
+      152.66,
+      677.2
+    ],
+    "text": "defendant:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      696.31,
+      366.31,
+      710.32
+    ],
+    "text": "10) Has the plaintiff any legal right or status to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      35.14,
+      579.36,
+      62.94
+    ],
+    "text": "4 SC/APPEAL/125/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      72.0,
+      529.5,
+      86.0
+    ],
+    "text": "(I) refuse to allot the 11606 shares allotted to the defendant by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      93.12,
+      281.57,
+      107.12
+    ],
+    "text": "Secretary to the Treasury?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      126.24,
+      529.48,
+      140.24
+    ],
+    "text": "(II) recall the 11606 Bonus Share Certificate No. 035411 issued to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      147.36,
+      191.33,
+      161.36
+    ],
+    "text": "defendant?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      180.48,
+      529.54,
+      194.48
+    ],
+    "text": "(III) recall the dividend of Rs. 7776/02 paid to the defendant in 1992?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      213.6,
+      529.44,
+      227.6
+    ],
+    "text": "(IV) instruct the Central Depository System that the Bonus Share",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      234.75,
+      498.34,
+      248.75
+    ],
+    "text": "Certificate No. 03541 for 11606 shares had been lost or stolen?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      267.99,
+      529.49,
+      281.99
+    ],
+    "text": "11) If issue No.10 is answered in favour of the defendant, is the act of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      289.11,
+      261.41,
+      303.11
+    ],
+    "text": "plaintiff wrongful and illegal?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      322.23,
+      529.5,
+      336.23
+    ],
+    "text": "12) If issues 10 and 11 are answered in favour of the defendant is the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      343.35,
+      211.97,
+      357.35
+    ],
+    "text": "defendant entitled to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      376.47,
+      529.45,
+      390.47
+    ],
+    "text": "(i) an order of Court directing the plaintiff to issue the original share",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      397.59,
+      529.33,
+      411.59
+    ],
+    "text": "certificate in respect of the 11606 shares issued by the Secretary to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      418.73,
+      207.41,
+      432.73
+    ],
+    "text": "the Treasury?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      451.85,
+      529.54,
+      465.85
+    ],
+    "text": "(II) an order of Court directing the plaintiff to withdraw the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      472.97,
+      529.53,
+      486.97
+    ],
+    "text": "instructions given to the Central Depository System that the 11606",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      494.09,
+      520.9,
+      508.09
+    ],
+    "text": "Bonus Share Certificate issued to the defendant was lost or stolen?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      527.21,
+      529.53,
+      541.21
+    ],
+    "text": "(III) an order of Court directing the plaintiff to issue to the defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      548.33,
+      529.52,
+      562.33
+    ],
+    "text": "all dividends, bonus shares and rights issued by the plaintiff after",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      569.48,
+      162.5,
+      583.48
+    ],
+    "text": "1993?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      602.6,
+      529.54,
+      616.6
+    ],
+    "text": "Having answered the above issues in favour of the defendant, the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      623.84,
+      247.25,
+      637.84
+    ],
+    "text": "Judge, at last, states thus:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      656.97,
+      528.7,
+      670.59
+    ],
+    "text": ".",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      677.36,
+      528.7,
+      691.59
+    ],
+    "text": "11606 11606 , .7776.02",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      698.6,
+      528.7,
+      712.22
+    ],
+    "text": ". ,",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      35.14,
+      579.36,
+      62.94
+    ],
+    "text": "5 SC/APPEAL/125/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      92.4,
+      528.7,
+      106.63
+    ],
+    "text": ". 11606 11606",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      113.77,
+      528.7,
+      127.39
+    ],
+    "text": ",",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      153.96,
+      277.01,
+      168.19
+    ],
+    "text": ".",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      187.08,
+      528.7,
+      201.31
+    ],
+    "text": ".6",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      208.33,
+      528.7,
+      221.95
+    ],
+    "text": ".",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      228.73,
+      528.7,
+      242.35
+    ],
+    "text": ",",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      248.67,
+      442.06,
+      262.9
+    ],
+    "text": ".",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      281.67,
+      529.42,
+      295.67
+    ],
+    "text": "This means the plaintiff need not pay dividends on those shares from 1993",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      302.79,
+      529.45,
+      316.79
+    ],
+    "text": "until the date of the judgment. The District Judge is silent on damages",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      323.91,
+      529.32,
+      337.91
+    ],
+    "text": "although she answered that issue (issue No. 12 quoted above) in favour of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      345.03,
+      175.22,
+      359.03
+    ],
+    "text": "the defendant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      378.15,
+      529.54,
+      392.15
+    ],
+    "text": "Both parties appealed to the High Court of Civil Appeal against the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      399.29,
+      153.62,
+      413.29
+    ],
+    "text": "judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      432.41,
+      529.5,
+      446.41
+    ],
+    "text": "In the petition of appeal, the defendant sought the following reliefs from the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      453.53,
+      159.14,
+      467.53
+    ],
+    "text": "High Court:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      486.65,
+      529.54,
+      500.65
+    ],
+    "text": "(i) to vary that part of the judgment to entitle the defendant-appellant",
+    "fonts": [
+      "BookmanOldStyle",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      507.77,
+      529.49,
+      521.77
+    ],
+    "text": "to obtain all rights and dividends from the inception of the action",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      529.01,
+      406.87,
+      543.01
+    ],
+    "text": "without limiting it to after the date of judgment,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      562.16,
+      529.5,
+      576.16
+    ],
+    "text": "(ii) to award damages in a sum of rupees one million (Rs.1,000,000)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      583.28,
+      529.3,
+      597.28
+    ],
+    "text": "being damages suffered by him for not being able to sell or deal with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      604.4,
+      190.61,
+      618.4
+    ],
+    "text": "his shares,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      637.52,
+      529.53,
+      651.52
+    ],
+    "text": "(iii) to award costs and such other reliefs as to the Court shall seem",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      658.64,
+      158.42,
+      672.64
+    ],
+    "text": "meet.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      35.14,
+      579.36,
+      62.94
+    ],
+    "text": "6 SC/APPEAL/125/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      72.0,
+      529.51,
+      86.0
+    ],
+    "text": "The High Court dismissed the appeal of the plaintiff. In respect of the appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      93.12,
+      529.43,
+      107.12
+    ],
+    "text": "of the defendant, the High Court says counsel for the defendant informed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      114.24,
+      529.39,
+      128.24
+    ],
+    "text": "Court at the argument that he does not pursue the claim for damages.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      135.36,
+      529.54,
+      149.36
+    ],
+    "text": "Therefore the High Court has rightly not considered the claim for damages.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      156.48,
+      529.54,
+      170.48
+    ],
+    "text": "I quoted above the reliefs sought by the defendant before the High Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      177.6,
+      529.45,
+      191.6
+    ],
+    "text": "The claim for damages is the second relief sought by the defendant. That is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      198.72,
+      529.54,
+      212.72
+    ],
+    "text": "the claim not pursued by the defendant at the argument. The High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      219.96,
+      529.53,
+      233.96
+    ],
+    "text": "judgment is silent about the first relief the dividend issue which the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      241.11,
+      449.86,
+      255.11
+    ],
+    "text": "District Court denied from 1993 till the date of the judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      274.23,
+      529.52,
+      288.23
+    ],
+    "text": "The plaintiff did not appeal against the judgment of the High Court to this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      295.35,
+      529.54,
+      309.35
+    ],
+    "text": "Court but the defendant did. Although this Court granted leave to appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      316.47,
+      529.28,
+      330.47
+    ],
+    "text": "on all three questions of law stated in paragraph 17(a), (b) and (c), at the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      337.59,
+      529.36,
+      351.59
+    ],
+    "text": "argument before this Court, learned counsel for the defendant informed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      358.71,
+      529.44,
+      372.71
+    ],
+    "text": "Court that the defendant confines himself to the question of law stated in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      379.83,
+      263.33,
+      393.83
+    ],
+    "text": "17(b), which reads as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      412.97,
+      529.54,
+      426.97
+    ],
+    "text": "Have the Judges of Civil Appeal High Court erred in law in holding",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      434.09,
+      529.38,
+      448.09
+    ],
+    "text": "that the petitioner is entitled to all shares under the two share",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      455.21,
+      529.49,
+      469.21
+    ],
+    "text": "certificates but failing and or not giving a decision whether or not the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      476.33,
+      529.47,
+      490.33
+    ],
+    "text": "petitioner is entitled to the declared dividends attached to the said",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      497.45,
+      171.62,
+      511.45
+    ],
+    "text": "shares?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      530.57,
+      529.46,
+      544.57
+    ],
+    "text": "The defendant claims that dividends were given to all other shareholders",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      551.81,
+      529.4,
+      565.81
+    ],
+    "text": "but denied to him, except for the year 1993. It is not the contention of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      572.96,
+      529.54,
+      586.96
+    ],
+    "text": "plaintiff at the trial or before this Court that dividends were not approved",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      594.08,
+      529.54,
+      608.08
+    ],
+    "text": "by the Board of Directors and shareholders at the annual general meetings",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      615.2,
+      529.49,
+      629.2
+    ],
+    "text": "and therefore the defendant is disentitled to them. The only submission",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      636.32,
+      529.52,
+      650.32
+    ],
+    "text": "made by learned counsel for the plaintiff at the argument was that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      657.44,
+      529.51,
+      671.44
+    ],
+    "text": "defendant in the prayer to the answer sought damages instead of dividends",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      678.56,
+      529.54,
+      692.56
+    ],
+    "text": "and the defendant withdrew that claim before the High Court and therefore",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      35.14,
+      579.36,
+      62.94
+    ],
+    "text": "7 SC/APPEAL/125/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      72.0,
+      529.26,
+      86.0
+    ],
+    "text": "the defendant is not entitled to dividends. I am unable to agree with that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      93.12,
+      194.45,
+      107.12
+    ],
+    "text": "line of argument.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      126.24,
+      529.49,
+      140.24
+    ],
+    "text": "A judgment has to be understood holistically, not piecemeal. The defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      147.36,
+      529.32,
+      161.36
+    ],
+    "text": "sought dividends for his shares by way of issues and the Court answered",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      168.48,
+      529.33,
+      182.48
+    ],
+    "text": "those issues in the affirmative. Therefore the plaintiff cannot say that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      189.6,
+      529.54,
+      203.6
+    ],
+    "text": "defendant did not claim dividends but only damages. The District Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      210.72,
+      529.3,
+      224.72
+    ],
+    "text": "held that the defendant can retain paid dividends in a sum of Rs. 7776.02",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      231.96,
+      529.35,
+      245.96
+    ],
+    "text": "until 1993 and that the defendant is entitled to dividends after the date of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      253.11,
+      529.46,
+      267.11
+    ],
+    "text": "the judgment but not entitled to dividends from 1993 until the date of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      274.23,
+      529.52,
+      288.23
+    ],
+    "text": "judgment. No basis or reason whatsoever was given for this by the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      295.35,
+      529.46,
+      309.35
+    ],
+    "text": "Court. A Court cannot come to such a conclusion without giving reasons.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      316.47,
+      529.32,
+      330.47
+    ],
+    "text": "The High Court failed to address that issue in the judgment possibly by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      337.59,
+      529.51,
+      351.59
+    ],
+    "text": "oversight. I set aside the finding of the District Court which denies dividends",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      358.71,
+      529.52,
+      372.71
+    ],
+    "text": "for a specified period and answer the question of law above-quoted in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      379.83,
+      156.5,
+      393.83
+    ],
+    "text": "affirmative.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      412.97,
+      529.49,
+      426.97
+    ],
+    "text": "The District Court shall enter decree recognising the defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      434.09,
+      529.54,
+      448.09
+    ],
+    "text": "entitlement not only to shares but also to dividends on those shares,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      455.21,
+      529.28,
+      469.21
+    ],
+    "text": "without limiting it to take effect from the date of the judgment. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      476.33,
+      529.54,
+      490.33
+    ],
+    "text": "defendant is not entitled to damages but entitled to costs in all three courts.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      509.45,
+      529.47,
+      523.45
+    ],
+    "text": "The judgments of the District Court and the High Court are varied to that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      530.57,
+      330.55,
+      544.57
+    ],
+    "text": "extent. The appeal is allowed with costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      359.35,
+      569.84,
+      529.54,
+      583.84
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      590.96,
+      231.65,
+      604.96
+    ],
+    "text": "P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      612.08,
+      133.22,
+      626.08
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      359.35,
+      633.2,
+      529.54,
+      647.2
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      654.32,
+      222.05,
+      668.32
+    ],
+    "text": "Achala Wengappuli, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      675.44,
+      133.22,
+      689.44
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      359.35,
+      696.55,
+      529.54,
+      710.56
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

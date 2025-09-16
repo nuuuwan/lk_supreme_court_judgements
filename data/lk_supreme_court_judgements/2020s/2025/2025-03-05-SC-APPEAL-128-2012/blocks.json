@@ -1,0 +1,2234 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      83.99,
+      488.8,
+      100.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      108.59,
+      446.83,
+      124.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      157.32,
+      513.46,
+      171.32
+    ],
+    "text": "Gotabhaya Upali Wickramasinghe",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      178.44,
+      408.55,
+      192.44
+    ],
+    "text": "Ravindra Disna,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      199.56,
+      466.66,
+      213.56
+    ],
+    "text": "241, Hunupitiya, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      220.68,
+      514.18,
+      234.68
+    ],
+    "text": "1st Defendant-Appellant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      241.83,
+      313.75,
+      255.81
+    ],
+    "text": "SC/APPEAL/128/2012",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      262.95,
+      318.55,
+      276.93
+    ],
+    "text": "WP/HCCA/COLOMBO/448/2007(F)",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      284.07,
+      250.37,
+      298.05
+    ],
+    "text": "DC/COLOMBO/19084/P",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      305.19,
+      331.99,
+      319.19
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      347.55,
+      516.82,
+      361.55
+    ],
+    "text": "Werakkodi Arachchige Mary Nona,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      368.67,
+      463.06,
+      382.67
+    ],
+    "text": "761, Hunupitya, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      389.79,
+      469.9,
+      403.79
+    ],
+    "text": "2nd Defendant Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      410.93,
+      449.14,
+      424.93
+    ],
+    "text": "Respondent (Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      432.05,
+      488.5,
+      446.05
+    ],
+    "text": "Roshan Pradeep Kannangara,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      453.17,
+      466.66,
+      467.17
+    ],
+    "text": "761, Hunupitiya, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      474.29,
+      468.82,
+      488.29
+    ],
+    "text": "2A Defendant-Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      495.41,
+      382.87,
+      509.41
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      537.65,
+      514.66,
+      551.65
+    ],
+    "text": "Mohamed Hanifa Ummu Raseena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      558.77,
+      448.42,
+      572.77
+    ],
+    "text": "764, Kanthi Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      579.92,
+      441.22,
+      593.92
+    ],
+    "text": "Hunupititya, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      601.04,
+      507.22,
+      615.04
+    ],
+    "text": "Plaintiff-Respondent-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      655.4,
+      356.95,
+      669.4
+    ],
+    "text": "Before: Hon. Justice S. Thurairaja, P.C.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      676.52,
+      411.67,
+      690.52
+    ],
+    "text": "Hon. Justice Mahinda Samayawardhena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      697.63,
+      365.11,
+      711.64
+    ],
+    "text": "Hon. Justice Arjuna Obeyesekere",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      36.04,
+      518.67,
+      61.76
+    ],
+    "text": "2 SC/APPEAL/128/2012",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      72.0,
+      506.02,
+      86.0
+    ],
+    "text": "Counsel: M. Nizam Kariapper, P.C., with M.I.M. Iynullah for the 1st",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      93.12,
+      355.51,
+      107.12
+    ],
+    "text": "Defendant-Appellant-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      114.24,
+      510.02,
+      128.24
+    ],
+    "text": "M.U.M. Ali Sabry, P.C., with Shamith Fernando for the 2A",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      135.36,
+      382.39,
+      149.36
+    ],
+    "text": "Defendant-Respondent-Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      162.48,
+      236.45,
+      176.48
+    ],
+    "text": "Argued on: 21.10.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      189.6,
+      228.05,
+      203.6
+    ],
+    "text": "Written Submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      216.72,
+      480.34,
+      230.72
+    ],
+    "text": "By the 2A Defendant Respondent on 18.10.2012 and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      237.99,
+      240.53,
+      251.99
+    ],
+    "text": "21.11.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      259.11,
+      465.91,
+      273.11
+    ],
+    "text": "By the 1st Defendant Appellant on 13.12.2012 and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      280.23,
+      236.69,
+      294.23
+    ],
+    "text": "24.10.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      307.35,
+      237.65,
+      321.35
+    ],
+    "text": "Decided on: 05.03.2025",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      340.47,
+      225.65,
+      354.47
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      373.59,
+      522.12,
+      387.59
+    ],
+    "text": "The plaintiff filed this action in the District Court of Colombo seeking to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      394.71,
+      522.34,
+      408.71
+    ],
+    "text": "partition the land described in the schedule to the plaint between the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      415.85,
+      522.32,
+      429.85
+    ],
+    "text": "plaintiff and the 1st defendant in equal shares. The 2nd defendant was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      436.97,
+      522.17,
+      450.97
+    ],
+    "text": "named as a party as she was in possession of the land. The position of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      458.09,
+      522.08,
+      472.09
+    ],
+    "text": "the plaintiff was that she became entitled to a share of the land by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      479.21,
+      522.34,
+      493.21
+    ],
+    "text": "Deed marked P2 executed by the 1st defendant approximately six months",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      500.33,
+      522.31,
+      514.33
+    ],
+    "text": "prior to the institution of the partition action. The 2nd defendant claimed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      521.45,
+      522.14,
+      535.45
+    ],
+    "text": "prescriptive title to the entire land. In two previous litigations (5048/ZL",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      542.57,
+      522.34,
+      556.57
+    ],
+    "text": "and 4917/RE), the 2nd defendants rights had been affirmed. There is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      563.84,
+      522.21,
+      577.84
+    ],
+    "text": "overwhelming evidence that the 2nd defendant has been in possession of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      584.96,
+      522.25,
+      598.96
+    ],
+    "text": "the land for several decades without recognising the rights of any other",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      606.08,
+      522.29,
+      620.08
+    ],
+    "text": "person, thereby entitling her to successfully claim a prescriptive title to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      627.2,
+      149.78,
+      641.2
+    ],
+    "text": "the land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      660.32,
+      522.11,
+      674.32
+    ],
+    "text": "After trial, the District Judge, by judgment dated 26.11.2007, held that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      681.43,
+      522.24,
+      695.44
+    ],
+    "text": "the 2nd defendant had acquired prescriptive title to the entire land, except",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      702.55,
+      522.34,
+      716.56
+    ],
+    "text": "for the building identified as No. 1 in the Preliminary Plan marked X at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      36.04,
+      518.67,
+      61.76
+    ],
+    "text": "3 SC/APPEAL/128/2012",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      72.0,
+      522.12,
+      86.0
+    ],
+    "text": "the trial. The District Judge further held that the building marked No. 1",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      93.12,
+      521.5,
+      107.35
+    ],
+    "text": "should be allotted to the plaintiff based on Deed P2 and prescription. (",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      134.89,
+      521.5,
+      148.51
+    ],
+    "text": "1",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      155.28,
+      192.77,
+      169.51
+    ],
+    "text": ".)",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      188.52,
+      522.29,
+      202.52
+    ],
+    "text": "The District Judge ordered partition of the land and directed that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      209.76,
+      521.5,
+      223.99
+    ],
+    "text": "interlocutory decree be entered accordingly. (",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      231.01,
+      434.86,
+      244.63
+    ],
+    "text": ". .)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      263.43,
+      522.13,
+      277.43
+    ],
+    "text": "Only the 1st defendant preferred an appeal against this judgment to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      284.55,
+      522.24,
+      298.55
+    ],
+    "text": "High Court. The High Court, by judgment dated 11.11.2010, affirmed the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      305.67,
+      436.18,
+      319.67
+    ],
+    "text": "judgment of the District Court and dismissed the appeal.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      338.79,
+      522.28,
+      352.79
+    ],
+    "text": "This appeal by the 1st defendant is against the said judgment of the High",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      359.91,
+      522.13,
+      373.91
+    ],
+    "text": "Court. This Court has granted leave to appeal on the following question",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      381.15,
+      314.23,
+      395.15
+    ],
+    "text": "of law proposed by the 1st defendant:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.62,
+      414.29,
+      521.99,
+      428.35
+    ],
+    "text": "Did the Civil Appeal High Court fail to answer the question whether",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.62,
+      435.41,
+      522.02,
+      449.47
+    ],
+    "text": "the interlocutory decree could be entered in a partition case between",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.62,
+      456.53,
+      521.99,
+      470.59
+    ],
+    "text": "two persons who were supposed to have obtained prescriptive title",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.62,
+      477.65,
+      254.21,
+      491.71
+    ],
+    "text": "to undivided shares?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      510.77,
+      522.31,
+      524.77
+    ],
+    "text": "In my view, this question is misconceived both in law and fact and cannot",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      531.89,
+      522.26,
+      545.89
+    ],
+    "text": "be answered, as the District Court judgment was not entered on the basis",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      553.01,
+      522.24,
+      567.01
+    ],
+    "text": "of prescriptive title to undivided shares. If I may repeat, what the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      574.16,
+      522.29,
+      588.16
+    ],
+    "text": "District Judge states in the judgment is that the plaintiff, based on Deed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      595.28,
+      522.1,
+      609.28
+    ],
+    "text": "P2 and prescriptive possession, is entitled to building No.1, and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      616.4,
+      522.34,
+      630.4
+    ],
+    "text": "remaining portion has been acquired by the 2nd defendant by prescriptive",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      637.52,
+      168.74,
+      651.52
+    ],
+    "text": "possession.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      670.64,
+      522.08,
+      684.64
+    ],
+    "text": "I accept that once that finding is made, the interlocutory decree can be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      691.87,
+      522.34,
+      705.88
+    ],
+    "text": "entered, but partitioning the land between the plaintiff and the 2nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      36.04,
+      518.67,
+      61.76
+    ],
+    "text": "4 SC/APPEAL/128/2012",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      72.0,
+      522.18,
+      86.0
+    ],
+    "text": "defendant does not arise. I cannot accept the argument advanced on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      93.12,
+      522.21,
+      107.12
+    ],
+    "text": "behalf of the 1st defendant that, when partitioning is not possible, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      114.24,
+      251.09,
+      128.24
+    ],
+    "text": "action must be dismissed.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      147.36,
+      522.12,
+      161.36
+    ],
+    "text": "Once the District Court decides that a party has acquired prescriptive",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      168.48,
+      522.12,
+      182.48
+    ],
+    "text": "title to an identifiable portion of the corpus, that portion needs to be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      189.6,
+      522.33,
+      203.6
+    ],
+    "text": "excluded from the corpus. In this case, except for building No.1, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      210.72,
+      522.22,
+      224.72
+    ],
+    "text": "remaining portion of the corpus shall be excluded on the basis that it has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      231.96,
+      522.25,
+      245.96
+    ],
+    "text": "been acquired by the 2nd defendant through prescriptive possession.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      253.11,
+      522.17,
+      267.11
+    ],
+    "text": "What remains is building No.1 and the land connected thereto, which",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      274.23,
+      522.23,
+      288.23
+    ],
+    "text": "has been allotted to the plaintiff. One might wonder whether the Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      295.35,
+      452.74,
+      309.35
+    ],
+    "text": "can make such orders. It is possible under the partition law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      328.47,
+      443.14,
+      342.47
+    ],
+    "text": "Section 26(2)(d) and (f) of the Partition Law read as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      361.59,
+      521.9,
+      375.65
+    ],
+    "text": "The interlocutory decree may include one or more of the following",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      382.71,
+      521.9,
+      396.77
+    ],
+    "text": "orders, so however that the orders are not inconsistent with one",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      403.85,
+      184.82,
+      417.91
+    ],
+    "text": "another:-",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.62,
+      436.97,
+      522.05,
+      451.03
+    ],
+    "text": "(d) order that any portion of the land representing the share of",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.65,
+      458.09,
+      521.94,
+      472.15
+    ],
+    "text": "any particular party only shall be demarcated and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.65,
+      479.21,
+      428.02,
+      493.27
+    ],
+    "text": "separated from the remainder of the land;",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.62,
+      500.33,
+      521.93,
+      514.39
+    ],
+    "text": "(f) order that any specified portion of the land sought to be",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.65,
+      521.45,
+      521.92,
+      535.51
+    ],
+    "text": "partitioned or surveyed be excluded from the scope of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      183.65,
+      542.57,
+      225.41,
+      556.63
+    ],
+    "text": "action;",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      575.84,
+      522.13,
+      589.84
+    ],
+    "text": "In terms of section 48(1) of the Partition Law, both the interlocutory",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      596.96,
+      522.1,
+      610.96
+    ],
+    "text": "decree and the final decree of partition are final and conclusive against",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      618.08,
+      119.3,
+      632.08
+    ],
+    "text": "all.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      651.2,
+      521.9,
+      665.26
+    ],
+    "text": "Save as provided in subsection (5) of this section, the interlocutory",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      672.32,
+      521.9,
+      686.38
+    ],
+    "text": "decree entered under section 26 and the final decree of partition",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      693.43,
+      522.0,
+      707.5
+    ],
+    "text": "entered under section 36 shall, subject to the decision on any appeal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      36.04,
+      518.67,
+      61.76
+    ],
+    "text": "5 SC/APPEAL/128/2012",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      72.0,
+      521.9,
+      86.06
+    ],
+    "text": "which may be preferred therefrom, and in the case of an",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      93.12,
+      521.89,
+      107.18
+    ],
+    "text": "interlocutory decree, subject also to the provisions of subsection (4)",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      114.24,
+      521.88,
+      128.3
+    ],
+    "text": "of this section, be good and sufficient evidence of the title of any",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      135.36,
+      522.1,
+      149.42
+    ],
+    "text": "person as to any right, share or interest awarded therein to him and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      156.48,
+      521.9,
+      170.54
+    ],
+    "text": "be final and conclusive for all purposes against all persons",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      177.6,
+      521.9,
+      191.66
+    ],
+    "text": "whomsoever, whatever right, title or interest they have, or claim to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      198.72,
+      521.89,
+      212.78
+    ],
+    "text": "have, to or in the land to which such decree relates and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      219.96,
+      522.09,
+      234.02
+    ],
+    "text": "notwithstanding any omission or defect of procedure or in the proof",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      241.11,
+      522.02,
+      255.17
+    ],
+    "text": "of title adduced before the court or the fact that all persons concerned",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      262.23,
+      522.02,
+      276.29
+    ],
+    "text": "are not parties to the partition action; and the right, share or interest",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      283.35,
+      521.85,
+      297.41
+    ],
+    "text": "awarded by any such decree shall be free from all encumbrances",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      304.47,
+      437.86,
+      318.53
+    ],
+    "text": "whatsoever other than those specified in that decree.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      337.59,
+      522.26,
+      351.59
+    ],
+    "text": "For the foregoing reasons, except for building No.1 in the Preliminary",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      358.71,
+      522.22,
+      372.71
+    ],
+    "text": "Plan marked X, the remaining portion shall be excluded from the corpus",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      379.83,
+      522.22,
+      393.83
+    ],
+    "text": "on the basis that the 2nd defendant has acquired prescriptive title to it.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      400.97,
+      522.24,
+      414.97
+    ],
+    "text": "Building No.1 and the portion of land on which it stands shall be allotted",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      422.09,
+      522.13,
+      436.09
+    ],
+    "text": "to the plaintiff. The interlocutory decree shall be entered accordingly.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      443.21,
+      522.32,
+      457.21
+    ],
+    "text": "Upon the registration of the interlocutory decree, no further steps are",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      464.33,
+      272.45,
+      478.33
+    ],
+    "text": "required to partition the land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      497.45,
+      522.27,
+      511.45
+    ],
+    "text": "Subject to the above variations and clarifications, I dismiss the appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      518.57,
+      164.42,
+      532.57
+    ],
+    "text": "with costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      352.15,
+      557.81,
+      522.34,
+      571.81
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      584.96,
+      225.65,
+      598.96
+    ],
+    "text": "S. Thurairaja, P.C., J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      606.08,
+      241.49,
+      620.08
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      352.15,
+      627.2,
+      522.34,
+      641.2
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      648.32,
+      233.81,
+      662.32
+    ],
+    "text": "Arjuna Obeyesekere, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      669.44,
+      140.42,
+      683.44
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      352.15,
+      702.55,
+      522.34,
+      716.56
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

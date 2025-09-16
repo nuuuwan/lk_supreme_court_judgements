@@ -1,0 +1,165 @@
+1
+
+IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
+
+In the maer of an appeal under and in terms of Secon 5C(1) of the High Court of the Provinces (Special Provisions) Act, No. 19 of 1990, as amended SC Appeal No. 25/2012 SC/HCCA/LA/18/2011 SP/HCCA/RAT/100/2008(FA) DC Embilipiya Case No. 7875/P
+
+Waewa Kankanamge Siripala, No. 242, Pahala Andaluwa, Kolambage Ara. PLAINTIFF
+
+- Vs (1) Waewa Kankanamge Sirisena,
+
+Kekunagoda, Halwinna, Godakawela. (2) J M Ranmenike,
+
+Pahala Andaluwa, Kolambage Ara. (3) Waewa Kankanamge Renuka,
+
+Pahala Andaluwa, Kolambage Ara. (4) Waewa Kankanamge Ramani,
+
+Pahala Andaluwa, Kolambage Ara. (5) Waewa Kankanamge Deepika,
+
+Pahala Andaluwa, Kolambage Ara. (6) Waewa Kankanamge Lalith,
+
+Pahala Andaluwa, Kolambage Ara. (7) Waewa Kankanamge Chaminda,
+
+Pahala Andaluwa, Kolambage Ara. DEFENDANTS
+
+2
+
+And between Waewa Kankanamge Sirisena, Kekunagoda, Halwinna, Godakawela. 1ST DEFENDANT APPELLANT
+
+- Vs Waewa Kankanamge Siripala, No. 242, Pahala Andaluwa, Kolambage Ara. PLAINTIFF RESPONDENT (2) J M Ranmenike,
+
+Pahala Andaluwa, Kolambage Ara. (3) Waewa Kankanamge Renuka,
+
+Pahala Andaluwa, Kolambage Ara. (4) Waewa Kankanamge Ramani,
+
+Pahala Andaluwa, Kolambage Ara. (5) Waewa Kankanamge Deepika,
+
+Pahala Andaluwa, Kolambage Ara. (6) Waewa Kankanamge Lalith,
+
+Pahala Andaluwa, Kolambage Ara. (7) Waewa Kankanamge Chaminda,
+
+Pahala Andaluwa, Kolambage Ara. 2ND 7TH DEFENDANTS RESPONDENTS And now between
+
+3
+
+Waewa Kankanamge Sirisena, Kekunagoda, Halwinna, Godakawela. 1ST DEFENDANT APPELLANT APPELLANT Waewa Kankanamge Dayawansha Kumarasiri, Kekunagoda, Halwinna, Godakawela. SUBSTITUTED 1ST DEFENDANT APPELLANT APPELLANT
+
+- Vs - Waewa Kankanamge Siripala, No. 242, Pahala Andaluwa, Kolambage Ara. PLAINTIFF RESPONDENT RESPONDENT (2) J M Ranmenike,
+
+Pahala Andaluwa, Kolambage Ara. (3) Waewa Kankanamge Renuka,
+
+Pahala Andaluwa, Kolambage Ara. (4) Waewa Kankanamge Ramani,
+
+Pahala Andaluwa, Kolambage Ara. (5) Waewa Kankanamge Deepika,
+
+Pahala Andaluwa, Kolambage Ara. (6) Waewa Kankanamge Lalith,
+
+Pahala Andaluwa, Kolambage Ara. (7) Waewa Kankanamge Chaminda,
+
+Pahala Andaluwa, Kolambage Ara. 2ND 7TH DEFENDANTS RESPONDENTS RESPONDENTS
+
+4
+
+Before: Yasantha Kodagoda, PC, J Arjuna Obeyesekere, J Sobhitha Rajakaruna, J Counsel: Navin Marapana, PC with Uchitha Wickremasinghe for the Substuted 1st Defendant Appellant Appellant J M Wijebandara with Dimitri Pandiwita and Milindu Sarathchandra for the Plain Respondent Respondent Argued on: 10th February 2025 Wrien Tendered by the Substuted 1st Defendant Appellant Appellant on 12th Submissions: March 2012 and 23rd March 2025 Tendered by the Plain Respondent Respondent on 5th July 2012, 15th December 2023 and 10th March 2025 Decided on: 8th July 2025 Obeyesekere, J The Plain Respondent Respondent [the Plain] and the 1st Defendant Appellant Appellant [the 1st Defendant] are brothers. It is admied that, (a) the father of the Plain and the 1st Defendant was Waewa Kankanamlage Podi Appuhamy, (b) their mother was Baby Hamy, and (c) in addion to the Plain and the 1st Defendant, Podi Appuhamy and Baby Hamy had three daughters, namely W.K. Missynona, W.K. Karunawathie and W.K Siriyawathie and another son, W. K. Seen. The 2nd Defendant Respondent Respondent [the 2nd Defendant] is the wife of Seen, and the 3rd 7th Defendants Respondents Respondents [the 3rd 7th Defendants] are the children of the 2nd Defendant and Seen. I must observe that the words, Kankanamge and Kankanamlage have been used interchangeably by both pares. The case of the Plain The Plain states that the land that is the subject maer of this acon morefully referred to in the schedule to the plaint i.e. Sub lot No. 268 in Lot No. 85 of Village Plan No. 888 in extent of 1A 3R 3P was seled in the name of his father in terms of the Selement Order [P1] made in his favour under the Land Selement Ordinance, No. 20 of 1931, as amended [the Ordinance], and that tle to the said land vested in his father by virtue of such Order.
+
+5
+
+In terms of P1, the above lot has been seled in favour of Waa Kankanamlage Podi Appuhamy, and not in the name of Waewa Kankanamlage Podi Appuhamy, which the 1st Defendant claims is the name of their father. The Plain however claims that their father was also known by the name, Waa Kankanamlage Podi Appuhamy. Whether Waewa Kankanamlage Podi Appuhamy and Waa Kankanamlage Podi Appuhamy are one and the same person is one of the principal issues in this case, for the aforemenoned reason that while the Selement Order P1 published in 1996 carries the name Waa Kankanamlage Podi Appuhamy, all other documents including the death cercate of Podi Appuhamy refers to him as Waewa Kankanamlage Podi Appuhamy. According to the Plain, pursuant to the death of Podi Appuhamy in 1967, share of the land had devolved on his wife, and the other share on his six children. The Plain states that with the death of Baby Hamy, her share had devolved in equal proporon among the six children and with the death of Karunawathie, her share had devolved on the remaining ve children, thus leaving each surviving child of Podi Appuhamy and Baby Hamy with 1/5th share of the said land. The Plain states further that Missy Nona and Siriyawathie sold their 1/5th share in the land to the Plain and that the Plain holds 3/5th share of the land, with the 1st Defendant holding 1/5th share and the other 1/5th share being held by the 2nd 7th Defendants pursuant to the demise of Seen. Paron acon On 23rd December 2002, the Plain led acon in the District Court of Embilipiya [the District Court] against the 1st 7th Defendants on the basis that tle that Podi Appuhamy had derived in terms of P1 had devolved on his heirs and seeking to paron the said land among the Plain, the 1st Defendant and the 2nd 7th Defendants on the basis of the aforemenoned share rao. An amended plaint was led on 30th July 2004. The 2nd 7th Defendants did not le a statement of claim and the trial proceeded against them ex parte. In his statement of claim, the 1st Defendant, having admied the situaon of the land, stated that he has been in exclusive possession of the land since 1969, a claim which has been rejected by the Plain, and that he has culvated the land since then. The 1st Defendant raised two principal defences in his statement of claim. The rst is that the said land had been seled in favour of Waa Kankanamlage Podi Appuhamy and not in favour
+
+6
+
+of their father, Waewa Kankanamlage Podi Appuhamy, and for that reason, neither the Plain nor the 2nd 7th Defendants are entled to any share in the land by virtue of the Selement Order. The second was that in any event, the Selement Order has been published in the Gazee pursuant to the death of Podi Appuhamy and hence, Podi Appuhamy does not acquire any rights over the said land and aforori neither the Plain nor the 2nd 7th Defendants. Judgment of the District Court and the High Court Trial commenced in the District Court on 21st May 2005. The Plain gave evidence and led the evidence of four other witnesses. The 1st Defendant too gave evidence. By its judgment delivered on 25th August 2008, the District Court held with the Plain and allowed the said land to be paroned on the basis of 3/5th share to the Plain, 1/5th share to the 1st Defendant and the balance 1/5th share to the 2nd 7th Defendant. With regard to the discrepancy in the name of Podi Appuhamy, the District Court acted upon the evidence of the Plain, the 1st Defendant, their sister, Missy Nona and the other witnesses in arriving at the conclusion that Waa Kankanamlage Podi Appuhamy and Waewa Kankanamlage Podi Appuhamy are one and the same person and therefore P1 has been seled in favour of the father of the Plain and the 1st Defendant. On the queson of the validity of P1, the District Court took into consideraon the evidence of the witness from the Land Selement Department that the Selement Order P1 has been made in favour of the person with whom an agreement has been entered into in terms of Secon 5(4)(c) of the Ordinance and that the death of the person in whose favour the selement has been made does not aect the validity of the Selement Order. Aggrieved by the judgment of the District Court, the 1st Defendant invoked the appellate jurisdicon of the Civil Appellate High Court of the Sabaragamuwa Province holden in Ratnapura [the High Court]. The appeal was dismissed by judgment delivered on 7th December 2010, with the High Court taking the view that the death of Podi Appuhamy did not aect the validity of P1 for the reason that the Ordinance did not contain any specic provision in this regard. The High Court relied on the judgment of the Court of Appeal in Fernando v De Silva and others [(2000) 3 Sri LR 29] in arriving at its conclusion that, there is no provision in the Ordinance which enacts that a selement order to be
+
+7
+
+valid the person in favour of whom it is made must necessarily be alive. This Court is not expected to act upon the principle that every act is to be taken as prohibited unless it is expressly provided for by the Ordinance but on the converse principle that every act to be understood as permissible ll it is shown to be prohibited by the Ordinance. Quesons of Law The 1st Defendant thereaer sought and obtained leave to appeal from this Court on 30th January 2012 on the following quesons of law: (1) Did the High Court err in law in interpreng the provisions of the Land Selement
+
+Ordinance, No. 20 of 1931, as amended, and in parcular, Secon 8 thereof?
+
+(2) Did the High Court err in law in interpreng the decision in Fernando v De Silva and
+
+others [(2000) 3 Sri LR 29]?
+
+(3) Did the High Court err in law in agreeing with the learned trial judge on the following
+
+points of contest:
+
+(a) Has Waa Kankanamlage Podi Appuhamy alias Waewe Kankanamlage Podi Appuhamy derived ownership to the said land by virtue of the Selement Order P1? (b) Has Waewe Kankanamlage Podi Appuhamy derived any rights in terms of the Selement Order P1? (c) Does any tle ow to a person who has passed away by the me the Selement Order is published in the Gazee? (4) Did the High Court err in law in interpreng the legal validity of the Selement Order
+
+published in the Gazee P1 There is an overlap in the above quesons of law, and for beer clarity, the said quesons can be condensed as follows: (1) Has the land been seled in favour of the father of the Plain and the 1st
+
+Defendant? (2) What is the eect and validity of the Selement Order P1 published aer the death
+
+of Podi Appuhamy?
+
+8
+
+I shall rst consider the background relang to land selement and the scheme set out in the Ordinance and thereaer consider the above two quesons. Land Selement background In order to give context to the rst queson, it is important to understand the origins of the concept of land selement. With Ceylon, as we were known at that me, becoming a colony of the Brish, the system that prevailed with regard to land ownership was replaced with the Prevenon of Encroachments upon Crown Lands Ordinance, No. 12 of 1840. In terms of this Ordinance, all lands were declared as Crown land unl any claim of ownership to a parcular land was established by way of deeds, grants and/or such other documentary evidence. Through this process of land selement arose the presumpon that all lands within the Country belonged to the Crown unless the contrary was established. The above Ordinance, as expected, resulted in many Ceylonese having to forgo ownership to their lands. Owing to the dissasfacon that ensued, the Government of that me had introduced the Waste Lands Ordinance, No. 1 of 1897, in terms of which, all unculvated lands were declared as Crown land. The harsh manner in which the new law was implemented and the injusce caused to the People by the said law has been well documented and was even the subject maer of debate in the House of Lords where Lord Stanley of Alderly had implored upon the necessity of an independent inquiry into the working of the Ceylon Waste Lands Ordinance, and to the injusce caused . [Debates of 17th July 1899 - hps://api.parliament.uk/historic-hansard/lords/1899/jul/17/ceylon-waste-lands-ordinance] The indiscriminate manner in which the presumpon that all unculvated lands are State lands was applied in pracce was referred to by Chief Jusce Bertram in Hamina Etena v The Assistant Government Agent, Pualam [23 NLR 289; at page 290], when he stated that, According to that presumpon, all forests, waste, unoccupied, or unculvated lands, and all chenas are presumed to be the property of the Crown unless the contrary thereof is proved. It is hardly contested that, if the presumpon applies, the evidence adduced on behalf of the complainant is not sucient to displace it.
+
+9
+
+The Land Selement Ordinance the provisions It is in this background that the Land Selement Ordinance was introduced for the selement of lands. The scheme laid down in the Ordinance comprised of three stages, they being (1) the publicaon of a Selement Noce specifying the lands that the State wished to sele, (2) the acceptance of claims in respect of the lands referred to in such Selement Noce, and an inquiry into such claims, and nally (3) the making of a Selement Order followed by its publicaon in the Gazee. I shall now consider these three stages in detail. In terms of Secon 4(1), whenever it appears to the Selement Ocer that any land (a) is forest, waste, unoccupied, or unculvated land, or (b) is culvated or otherwise improved land but was forest, waste, unoccupied, or unculvated land in the preceding twenty ve years, he may publish a Selement Noce containing details of such lands and specifying that, if no claim to such land or to any share of or interest in such land is made to him within a period of three months from a date to be specied in such noce the land to which or to any share of or interest in which no claim has been made as aforesaid will be declared under Secon 5 (1) to be the property of the State and will be dealt with on account of the State. In terms of Secon 5(1), If no claim is made within a period of three months , the Selement Ocer shall make a declaraon in wring, which shall be deemed for the purposes of this Ordinance to be a selement in favour of the State, that such land to which or to any share of or interest in which no claim has been made is the property of the State. If however a claim is made within such period, Secon 5(2) requires the Selement Ocer to proceed to hold an inquiry into such claim. At the conclusion of the inquiry, the Selement Ocer may do one of the following specied in Secon 5(4): (a) Make a declaraon in wring [which shall be deemed to be a selement] that any
+
+land specied in the Selement Noce is not claimed by the State;
+
+10
+
+(b) Make a declaraon in wring [which shall be deemed to be a selement] that some
+
+person unascertained is entled to a parcular share of or interest in any land specied in the Selement Noce; (c) Enter with the claimant, upon such terms and condions as may appear t to the
+
+Selement Ocer, into an agreement in wring signed by the Selement Ocer and by the claimant, providing , that the said claimant shall be declared by Selement Order under subsecon (5) to be entled either wholly or in part, to any land or to any share of or interest in any land specied in the selement noce, and make a selement of such land or share or interest in pursuance of such agreement: Secon 5(5) requires the Selement Ocer to thereaer embody such selement under (a), (b) or (c) above in a Selement Order. The process of land selement culminates with Secon 8 in terms of which:
+
+every selement order shall be published in the Gazee, and every selement order so published shall be judicially noced and shall be conclusive proof, so far as the State or any person is thereby declared to be entled to any land or to any share of or interest in any land, that the State or such person is entled to such land or to such share of or interest in the land free of all encumbrances whatsoever other than those specied in such order and that subject to the encumbrances specied in such order such land or share or interest vests absolutely in such person to the exclusion of all unspecied interests of whatsoever nature . Thus, the scheme laid down in the Ordinance seeks to achieve two objecves. The rst is to idenfy lands that belong to private pares within the area specied in the Selement Noce and for the State to recognise the interests and/or entlement of such persons to a parcular land referred to in such Noce. The second is to determine and declare the lands that belong to the State which are situated within such Selement Noce. Once this process is completed and the Selement Order is published in the Gazee, such Order becomes conclusive proof of the status of the lands referred to in the Order and wipes out all encumbrances that existed upto that point in respect of such lands. This is reected in the spulaon in Secon 8 that a Selement Order shall be conclusive proof that the
+
+11
+
+State or such person is entled to such land free of all encumbrances whatsoever other than those specied in such order and that the land shall vest absolutely in such person or the State, as the case may be. The Scheme sequence of events It is admied that: (1) Selement Noce No. 2855 was published in Gazee No. 10,526 dated 15th May
+
+1953 in respect of Village Plan No. 888; (2) The father of the Plain and the 1st Defendant lodged a claim in response to the
+
+said Noce;
+
+(3) An Agreement was executed on 23rd July 1954 [P7] in terms of which Wea
+
+Kankanamlage Podi Appuhamy of Kumburugamuwa was declared entled to Sub Lot No. 268 in Lot No. 85 in Village Plan No. 888 in extent of 1A 3R 3P; (4) Podi Appuhamy passed away on 31st January 1967; (5) The Selement Order under Secon 5(5) was made on 23rd April 1993; (6) The said Selement Order was published in Gazee No. 934/20 dated 1st August
+
+1996 [P1], with Sub Lot No. 268 of Lot No. 85 being seled in favour of Waa Kankanamlage Podi Appuhami of Kumburugamuwa. Is it Waa Kankanamlage or Waewa Kankanamlage? This brings me to the rst issue that needs to be determined in this case. It is admied that P7 refers to Wea Kankanamlage and P1 to Waa Kankanamlage whereas the name of the father of the Plain and the 1st Defendant is Waewa Kankanamlage. It is in this factual scenario that the 1st Defendant took up the posion that the land has not been seled in favour of their father, and hence, the Plain cannot have and maintain any claim to such land.
+
+12
+
+The evidence of the Plain was that his father was known as Waa Kankanamlage Podi Appuhamy as well as Waewa Kankanamlage Podi Appuhamy and that the person referred to in P1 is his father. The fact that the father of the Plain was also known as Waa Kankanamlage is not supported by any documentary evidence. Thus, on the face of it, P1 and P7 may not be a reference to the father of the Plain and the 1st Defendant. However, the Plain stated that his parents were in occupaon of the land that is the subject maer of this case, his father took part at an inquiry held by the Land Commissioner, and that the said land was seled in favour of his father. This evidence went unchallenged. Missy Nona, the sister of the Plain too stated that the impugned land had been owned by her father. The Grama Niladhari of the area stated that he made inquiries and found that there was no such person by the name of Waa Kankanamlage. The Ocer from the Land Selement Department stated that except for the discrepancy in the rst name, the balance part of the name and the address of the beneciary was one and the same. He stated further that when it came to handing over a copy of P1, he had made inquiries regarding the heirs of Podi Appuhamy and that P1 was handed over to the 1st Defendant on the basis that he is the son of the person on whom the land had been seled. The most important evidence was perhaps that of the 1st Defendant. Having stated that, (a) he, together with his parents and siblings were resident on the said land, (b) he commenced culvang the land at the request of his father, and (c) aer the death of his father, he culvated the land on his own, the 1st Defendant stated as follows:
+
+5(4)
+
+. The following quesons posed to the 1st Defendant during cross examinaon and the answers thereto puts the issue to rest: Q - 1996 A -
+
+13
+
+Q - .eigs 1996 A - .eigs 1996 Q - A - The 1st Defendant also admied that the lot number of the land that was seled in favour of his father was 268, which is the number specied in P1 and P7 in respect of Waa/Wea Kankanamlage Podi Appuhamy. The District Court has very carefully analysed the above evidence and acted thereon in arriving at the conclusion that, (a) even though there is a discrepancy in the name, Waa Kankanamlage and Waewa Kankanamlage are one and the same person, and (b) the land referred to in P7 and P1 has been seled in favour of the father of the Plain and the 1st Defendant. The High Court has not considered this issue, probably for the reason that the reference in P1 to Waa Kankanamlage was an obvious error. I am of the view that the conclusion reached by the District Court is not only logical but correct, and I am therefore in agreement with the nding of the District Court. The legal validity of the Selement Order The second queson in this case is with regard to the validity of P1. The argument of the learned Presidents Counsel for the 1st Defendant with regard to the validity of the Selement Order was twofold. The rst was that tle would devolve upon a person only once the Selement Order is published in the Gazee. The second is that since Podi Appuhamy had passed away by the me the Selement Order was published, the said Order made in favour of Podi Appuhamy is a nullity, and therefore no tle passes to Podi Appuhamy and the tle in the land reverts back to the State. It was therefore argued that since P1 does not confer any tle on Podi Appuhamy, the Plain cannot rely on P1 to derive tle to the land referred to in P1 and hence, there is no legal basis for the Plain to have led the paron acon since he is neither an owner nor a co-owner of the said land.
+
+14
+
+The purpose of entering into an agreement as provided for in Secon 5(4)(c) is to recognise the claim of the person who responds to a Selement Noce and is proof that the claimant shall be declared by a Selement Order to be made under Secon 5(5) at the end of the statutory scheme to be entled either wholly or in part to any land specied in the selement noce. Thus, there is a nexus that is established between such agreement and the Selement Order that is to be made and published on a future date, with the Selement Order having the ulmate force of law. This nexus was considered in Hethuhamy v Boteju [(1941) 43 NLR 83], where Nihill, J having referred to Secon 8, stated as follows:
+
+Now, the intenon of this secon seems to be clear; it excludes the unspecied interest and seeks to achieve nality. It only does so, however, so far as the Crown or any person is thereby declared to be entled to any land or to any share of or interest in any land that is to say, declared by the terms of the Selement Order. The word thereby must mean that. [Page 85] a Selement Order drawn up according to Form 2 is meant to be and can be implied to be a declaraon. I have no doubt, as I think a study of the wording used in secon 5 of the Ordinance will show. This secon, inter alia, provides that a Selement Ocer may enter into an agreement with a claimant whereby a claimant or any other person shall be declared by Selement Order under sub-secon (5) of the secon to be entled either wholly or in part to any land specied in the Selement Noce [subsecon (4)(c)] and sub-secon (5) says that the Selement Ocer shall embody any such selement in a Selement Order which shall be substanally as set out in Form No. 2 in the First Schedule. That seems to me to make it reasonably certain that the Legislature meant Form No. 2 to be declaratory for proceedings iniated under the Land Selement Ordinance [Page 86] Under secon 8 it is the Selement Order so published, that is in the Ceylon Government Gazee, that shall be judicially noted as conclusive proof of tle. Can it be said that tle passes from the Crown at the date of the agreement although it is the published Selement Order which ulmately provides the tle holder with conclusive proof of his tle?
+
+15
+
+I do not think that the wording of sub-secon (4) (c) of secon 5 of the Land Selement Ordinance supports such a view. The essence of the agreement is the undertaking by the Crown to sele land subsequently on the claimant by the procedure provided for by sub-secon (5 ). [page 86-87; emphasis added] Thus, the entlement of a claimant to a parcular land which is recognised through an agreement is formalised by the publicaon of a Selement Order, vesng such land absolutely in such claimant, with such Order receiving the legal sancty referred to in Secon 8. In Periacaruppen Chear v Messrs Proprietors and Agents Ltd and others [(1946) 47 NLR 121; at page 125] Chief Jusce Howard, having considered the precise eect of an order under Secon 8 of the Land Selement Ordinance stated that, In my opinion the order of October 27, 1933, is conclusive proof of the tle of Gunasekera. The order vests the tle in Gunasekera subject to any encumbrances specied in the order. All unspecied interests are excluded. The selement order, therefore, wiped out and destroyed all previous tles to the property and vested it in Gunasekera. [emphasis added] Thus, Chief Jusce Howard proceeded on the basis that a deed executed prior to the Selement Order cannot be classied as an encumbrance since no reference has been made in the Selement Order to the said deed and therefore accepted the posion laid down in Secon 8 that the eect of the publicaon of a Selement Order is that it shall be conclusive proof that the person referred to in a Selement Order is entled to such land free of all encumbrances whatsoever other than those specied in such order. While Secon 8 is clear with regard to the eect of a Selement Order, what a Selement Order does is twofold. The rst is, there is recognion by the State that the private party who claimed the land pursuant to the publicaon of a Selement Noce has an entlement in respect of such land and for that reason, declares that the State has no claim over such land. The second is a Selement Order confers conclusive proof that such person is entled to such land free of all encumbrances whatsoever other than those specied in such order, and that the said land shall vest absolutely in such person.
+
+16
+
+In this case, pursuant to the Selement Noce being published, Agreement P7 was executed on 23rd July 1954 which recognised and declared that Podi Appuhamy is entled to 1A 3R 3P in Sub Lot No. 268 in Lot No. 85 in Village Plan No. 888. Thus, the interest of Podi Appuhami to the said land has been recognised as far back as 1954, and the Selement Order published in 1996 is a formal recognion of the entlement of Podi Appuhamy to such land to the exclusion of all others including the State. The Selement Order P1 was published 43 years aer the publicaon of the Selement Noce specifying the names of the persons on whom lands referred to in Village Plan No. 888 have been seled. The claim of Podi Appuhamy has been duly recognised in 1954, the land has been seled in his favour in 1993, and there is formal recognion by the publicaon of P1 in 1996 that tle has vested absolutely in Podi Appuhamy. As expected, most of the persons on whom lands have been seled since the publicaon of the Selement Noce in 1953, including Podi Appuhamy had passed away by the me P1 was published. Keeping in mind the objecve that is sought to be achieved by the system of land selement that I have referred to, I am of the view that Podi Appuhamy, and since he had passed away by the me of the publicaon of the Selement Order, his heirs, are entled to the land referred to in P1. The death of Podi Appuhamy does not viate his tle to the said land nor does the land revert to the State but the land shall devolve on his heirs and they shall be entled to claim such land. To say that the right of the heirs of Podi Appuhamy to claim the benet of such selement has been exnguished by the passing away of Podi Appuhamy does not stand to reason. Accordingly, the Plain, being a son of Podi Appuhamy is entled to a share of such land upon the death of Podi Appuhamy. The High Court stated that:
+
+P7 goes to show that a decision has been taken to sele the land in favour of Podi Appuhami in that both Lots 85 and 268 have been menoned. It is clear by perusing P1 that what has been seled in favour of Podi Appuhamy is Sub division No. 268 of Lot No. 85, which has been registered at the Land Registry in Volume No. G136 and Folio No. 180. It is also signicant to note that in the Gazee P1, it is menoned that Selement Noce under Secon 4 of the Land Selement Ordinance was duly published in the Gazee No. 10526 of 15th May 1953 and all claims received in
+
+17
+
+pursuance of the said Noce were duly dealt with prior to making that Selement Order. Hence, it is abundantly clear that despite the fact that the Selement Order has been published aer the death of Podi Appuhamy the maer had been set in moon at least since 1953 when Podi Appuhamy was very much alive. Therefore it is apparent that the provisional decision reected in P7 is a consequenal step taken aer the publicaon of the Selement Noce in 1953. I am in agreement with the view taken by the High Court. The selement process that commenced in 1953 culminated in 1996. The fact that Podi Appuhamy passed away prior to the publicaon of the Selement Order does not make P1 a nullity nor does the land revert to the State. Instead, his tle devolves on his heirs. In these circumstances, I am of the view that the Plain was entled to le a paron acon. Conclusion In the above circumstances, I answer the quesons of law Nos. 1, 3 and 4 in the negave. The necessity to consider queson of law No. 2 does not arise. The judgments of the District Court and the High Court are hereby armed and this appeal is accordingly dismissed, without costs.
+
+JUDGE OF THE SUPREME COURT Yasantha Kodagoda, PC, J I agree
+
+JUDGE OF THE SUPREME COURT Sobhitha Rajakaruna, J I agree
+
+JUDGE OF THE SUPREME COURT
