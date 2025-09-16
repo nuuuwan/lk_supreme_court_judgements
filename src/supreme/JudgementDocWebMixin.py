@@ -57,7 +57,7 @@ class JudgementDocWebMixin:
 
     @classmethod
     def sleep(cls):
-        log.debug(f"💤 {cls.T_SLEEP}s...")
+        log.debug(f"😴 {cls.T_SLEEP}s...")
         time.sleep(cls.T_SLEEP)
 
     @classmethod
