@@ -1,0 +1,3441 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      71.99,
+      488.8,
+      88.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.83,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      167.04,
+      487.78,
+      181.04
+    ],
+    "text": "Juwan Hettige Sriyalatha Silva,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      188.16,
+      484.15,
+      202.16
+    ],
+    "text": "No.19/80, New Neegrodharama",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      209.28,
+      428.74,
+      223.28
+    ],
+    "text": "Road, Kalutara North.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      230.52,
+      344.47,
+      244.52
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      284.79,
+      347.83,
+      298.77
+    ],
+    "text": "SC APPEAL NO: SC/APPEAL/6/2021",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      305.91,
+      340.87,
+      319.89
+    ],
+    "text": "SC LA NO: SC/HCCA/LA/133/2020",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      327.03,
+      367.27,
+      341.01
+    ],
+    "text": "HCCA NO: WP/HCCA/KAL/179/2013/F",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      348.15,
+      289.01,
+      362.13
+    ],
+    "text": "DC KALUTARA NO: 7890/P",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      402.41,
+      317.59,
+      416.41
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      444.65,
+      428.81,
+      458.65
+    ],
+    "text": "Meemanage Duneetha",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      465.77,
+      423.79,
+      479.77
+    ],
+    "text": "Chandrakanthi Silva,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      486.89,
+      486.91,
+      500.89
+    ],
+    "text": "No. 19/80, New Neegrodharama",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      508.01,
+      427.63,
+      522.01
+    ],
+    "text": "Road, Kalutara North.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      529.25,
+      358.75,
+      543.25
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      571.52,
+      392.23,
+      585.52
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      613.76,
+      487.78,
+      627.76
+    ],
+    "text": "Juwan Hettige Sriyalatha Silva,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      634.88,
+      484.13,
+      648.88
+    ],
+    "text": "No.19/80, New Neegrodharama",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      656.0,
+      428.74,
+      670.0
+    ],
+    "text": "Road, Kalutara North.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      677.12,
+      405.19,
+      691.12
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      34.18,
+      307.63,
+      61.74
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394.75,
+      31.9,
+      500.21,
+      43.52
+    ],
+    "text": "SC/APPEAL/6/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      93.12,
+      317.59,
+      107.12
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      135.36,
+      428.81,
+      149.36
+    ],
+    "text": "Meemanage Duneetha",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      156.48,
+      423.79,
+      170.48
+    ],
+    "text": "Chandrakanthi Silva,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      177.6,
+      486.89,
+      191.6
+    ],
+    "text": "No. 19/80, New Neegrodharama",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      198.72,
+      427.63,
+      212.72
+    ],
+    "text": "Road, Kalutara North.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      219.96,
+      432.94,
+      233.96
+    ],
+    "text": "Defendant-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      262.23,
+      426.07,
+      276.23
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      304.47,
+      428.81,
+      318.47
+    ],
+    "text": "Meemanage Duneetha",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      325.59,
+      423.79,
+      339.59
+    ],
+    "text": "Chandrakanthi Silva,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      346.71,
+      486.89,
+      360.71
+    ],
+    "text": "No. 19/80, New Neegrodharama",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      367.83,
+      427.63,
+      381.83
+    ],
+    "text": "Road, Kalutara North.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      388.95,
+      493.66,
+      402.95
+    ],
+    "text": "Defendant-Respondent-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      431.21,
+      317.59,
+      445.21
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      473.45,
+      487.78,
+      487.45
+    ],
+    "text": "Juwan Hettige Sriyalatha Silva,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      494.57,
+      484.13,
+      508.57
+    ],
+    "text": "No.19/80, New Neegrodharama",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      515.81,
+      428.74,
+      529.81
+    ],
+    "text": "Road, Kalutara North.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      536.93,
+      479.38,
+      550.93
+    ],
+    "text": "Plaintiff-Appellant-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      600.32,
+      314.71,
+      614.32
+    ],
+    "text": "Before: L.T.B. Dehideniya, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      621.44,
+      322.87,
+      635.44
+    ],
+    "text": "Achala Wengappuli, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      642.56,
+      370.15,
+      656.56
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      34.18,
+      307.63,
+      61.74
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      394.75,
+      31.9,
+      500.21,
+      43.52
+    ],
+    "text": "SC/APPEAL/6/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      72.0,
+      484.37,
+      86.0
+    ],
+    "text": "Counsel: Shyamal A. Collure with Prabath S. Amarasinghe,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      93.12,
+      446.21,
+      107.12
+    ],
+    "text": "A.P. Jayaweera and Raveendra Silva for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      114.24,
+      390.55,
+      128.24
+    ],
+    "text": "Defendant-Respondent-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      141.36,
+      488.02,
+      155.36
+    ],
+    "text": "Dr. Thashira Gunatilake for the Plaintiff-Appellant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      162.48,
+      264.29,
+      176.48
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      189.6,
+      254.21,
+      203.6
+    ],
+    "text": "Argued on: 17.11.2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      216.72,
+      244.13,
+      230.72
+    ],
+    "text": "Written submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      243.99,
+      445.54,
+      257.99
+    ],
+    "text": "by the Defendant-Respondent-Appellant on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      265.11,
+      262.13,
+      279.11
+    ],
+    "text": "04.04.2021.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      292.23,
+      430.15,
+      306.23
+    ],
+    "text": "by the Plaintiff-Appellant-Respondent on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      313.35,
+      262.13,
+      327.35
+    ],
+    "text": "26.07.2021.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      340.47,
+      259.25,
+      354.47
+    ],
+    "text": "Decided on: 20.01.2022",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      388.71,
+      298.13,
+      402.71
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      421.85,
+      504.37,
+      435.85
+    ],
+    "text": "There is no corpus or pedigree dispute in this partition action.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      442.97,
+      500.54,
+      456.97
+    ],
+    "text": "The plaintiff in the plaint itself concedes that she and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      464.09,
+      500.74,
+      478.09
+    ],
+    "text": "defendant are entitled to equal shares in the corpus. In the prayer",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      485.21,
+      500.74,
+      499.21
+    ],
+    "text": "to the plaint the plaintiff sought the partition of the land and then",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      506.33,
+      500.73,
+      520.33
+    ],
+    "text": "stated that, if the court finds the partition inexpedient, an order",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      527.45,
+      500.71,
+      541.45
+    ],
+    "text": "can be made for the sale of the land in lots in terms of the Partition",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      548.57,
+      500.71,
+      562.57
+    ],
+    "text": "Law, No. 21 of 1977. According to the preliminary plan, the extent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      569.84,
+      500.73,
+      583.84
+    ],
+    "text": "of the land to be partitioned is only 1.86 perches and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      590.96,
+      500.72,
+      604.96
+    ],
+    "text": "defendant is living in the house standing on the land. The plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      612.08,
+      500.73,
+      626.08
+    ],
+    "text": "had made no claim to the house at the preliminary survey. There",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      633.2,
+      500.67,
+      647.2
+    ],
+    "text": "is no plantation on the land because the whole land is occupied",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      654.32,
+      202.37,
+      668.32
+    ],
+    "text": "by the house.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      34.18,
+      307.63,
+      61.74
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      394.75,
+      31.9,
+      500.21,
+      43.52
+    ],
+    "text": "SC/APPEAL/6/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      72.0,
+      500.65,
+      86.0
+    ],
+    "text": "After trial the District Judge held that the plaintiff and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      93.12,
+      500.65,
+      107.12
+    ],
+    "text": "defendant are each entitled to a share in the corpus and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      114.24,
+      500.73,
+      128.24
+    ],
+    "text": "defendant is additionally entitled to the improvements, i.e. the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      135.36,
+      500.74,
+      149.36
+    ],
+    "text": "house. It was further held that due to the trivialness of the extent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      156.48,
+      500.74,
+      170.48
+    ],
+    "text": "of the land, it is inexpedient to allot divided portions as it would",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      177.6,
+      500.54,
+      191.6
+    ],
+    "text": "be less than the minimum extent required by law regulating the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      198.72,
+      500.74,
+      212.72
+    ],
+    "text": "subdivision of land for development purposes. Hence, in terms of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      219.96,
+      500.73,
+      233.96
+    ],
+    "text": "section 26(3) of the Partition Law, the District Judge instead of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      241.11,
+      500.72,
+      255.11
+    ],
+    "text": "allotting divided portions of the land to the plaintiff and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      262.23,
+      500.66,
+      276.23
+    ],
+    "text": "defendant, ordered the sale of the plaintiffs share to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      283.35,
+      500.73,
+      297.35
+    ],
+    "text": "defendant, who is in possession of the house, upon a valuation by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      304.47,
+      261.65,
+      318.47
+    ],
+    "text": "the court commissioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      337.59,
+      500.55,
+      351.59
+    ],
+    "text": "On appeal, the High Court set aside the part of the judgment",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      358.71,
+      500.74,
+      372.71
+    ],
+    "text": "whereby the District Judge ordered that the plaintiffs undivided",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      379.83,
+      500.46,
+      393.89
+    ],
+    "text": "share be sold to the defendant on the basis that the learned",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      400.97,
+      500.31,
+      415.03
+    ],
+    "text": "District Judge misdirected herself in ordering a sale of the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      422.09,
+      500.29,
+      436.15
+    ],
+    "text": "share to the defendant despite that there was evidence to the effect",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      443.21,
+      500.22,
+      457.27
+    ],
+    "text": "that the plaintiff is also interested in soil rights as the owner of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      464.33,
+      500.31,
+      478.39
+    ],
+    "text": "adjacent land. And also, without considering the evidence adduced",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      485.57,
+      500.42,
+      499.63
+    ],
+    "text": "on behalf of the plaintiff to show her intention to expand her",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      506.69,
+      292.13,
+      520.75
+    ],
+    "text": "roadway with her due share.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      539.81,
+      500.72,
+      553.81
+    ],
+    "text": "It is from this judgment of the High Court that the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      560.93,
+      372.79,
+      574.93
+    ],
+    "text": "preferred the present appeal to this court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      594.08,
+      500.73,
+      608.08
+    ],
+    "text": "There is no issue that the plaintiff is entitled to a share of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      615.2,
+      500.72,
+      629.2
+    ],
+    "text": "soil rights of the land. However, the fact that the plaintiff is the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      636.32,
+      500.74,
+      650.32
+    ],
+    "text": "owner of the adjoining land is beside the point in order to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      657.44,
+      500.61,
+      671.44
+    ],
+    "text": "determine the rights of the parties in respect of the land to be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      678.56,
+      500.73,
+      692.56
+    ],
+    "text": "partitioned in this action. As I stated previously, the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      34.18,
+      307.63,
+      61.74
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      394.75,
+      31.9,
+      500.21,
+      43.52
+    ],
+    "text": "SC/APPEAL/6/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      72.0,
+      500.61,
+      86.0
+    ],
+    "text": "herself prayed in the prayer to the plaint that in the event",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      93.12,
+      500.02,
+      107.12
+    ],
+    "text": "partition is inexpedient, the court can order the sale of the land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      126.24,
+      500.74,
+      140.24
+    ],
+    "text": "The orders the District Judge is empowered to make after trial in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      147.36,
+      504.58,
+      161.36
+    ],
+    "text": "a partition action are listed in section 26(2) of the Partition Law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      168.48,
+      285.89,
+      182.48
+    ],
+    "text": "This section runs as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      201.6,
+      500.2,
+      215.66
+    ],
+    "text": "The interlocutory decree may include one or more of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      222.72,
+      500.26,
+      236.78
+    ],
+    "text": "following orders, so however that the orders are not",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      243.99,
+      331.99,
+      258.05
+    ],
+    "text": "inconsistent with one another:-",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.25,
+      277.11,
+      389.83,
+      291.17
+    ],
+    "text": "(a) order for a partition of the land;",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.25,
+      298.23,
+      470.98,
+      312.29
+    ],
+    "text": "(b) order for a sale of the land in whole or in lots;",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.25,
+      319.35,
+      500.37,
+      333.41
+    ],
+    "text": "(c) order for a sale of a share or portion of the land and",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      205.25,
+      340.47,
+      370.15,
+      354.53
+    ],
+    "text": "a partition of the remainder;",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.25,
+      361.59,
+      500.29,
+      375.65
+    ],
+    "text": "(d) order that any portion of the land representing the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      205.25,
+      382.71,
+      500.26,
+      396.77
+    ],
+    "text": "share of any particular party only shall be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      205.25,
+      403.85,
+      500.28,
+      417.91
+    ],
+    "text": "demarcated and separated from the remainder of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      205.25,
+      424.97,
+      259.97,
+      439.03
+    ],
+    "text": "the land;",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.25,
+      446.09,
+      500.41,
+      460.15
+    ],
+    "text": "(e) order that any specified portion of the land shall",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      205.25,
+      467.21,
+      500.35,
+      481.27
+    ],
+    "text": "continue to belong in common to specified parties or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      205.25,
+      488.33,
+      327.91,
+      502.39
+    ],
+    "text": "to a group of parties;",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.25,
+      509.45,
+      500.27,
+      523.51
+    ],
+    "text": "(f) order that any specified portion of the land sought",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      205.25,
+      530.57,
+      500.28,
+      544.63
+    ],
+    "text": "to be partitioned or surveyed be excluded from the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      205.25,
+      551.81,
+      318.79,
+      565.87
+    ],
+    "text": "scope of the action;",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.25,
+      572.96,
+      436.42,
+      587.02
+    ],
+    "text": "(g) order that any share remain unallotted.",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      606.08,
+      500.69,
+      620.08
+    ],
+    "text": "This list is not exhaustive: the words used in the section are may",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      627.2,
+      500.35,
+      641.26
+    ],
+    "text": "include, not shall include. (Hewavitharana v. Themis Silva",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      648.32,
+      223.49,
+      662.38
+    ],
+    "text": "(1961) 63 NLR 68)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      681.43,
+      500.71,
+      695.44
+    ],
+    "text": "It is clear from this section that after trial, the District Judge can",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      702.55,
+      504.58,
+      716.56
+    ],
+    "text": "order the sale of the land in whole instead of partitioning the land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      34.18,
+      307.63,
+      61.74
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394.75,
+      31.9,
+      500.21,
+      43.52
+    ],
+    "text": "SC/APPEAL/6/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      72.0,
+      500.61,
+      86.06
+    ],
+    "text": "He can inter alia order the sale of part of the land and partition",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      93.12,
+      500.4,
+      107.18
+    ],
+    "text": "the remaining portion. It was held in Ferdinands v. De Alwis",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      114.24,
+      500.37,
+      128.3
+    ],
+    "text": "(1957) 59 NLR 253 that paragraphs (c) and (e) of section 26 of the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      135.48,
+      500.41,
+      149.54
+    ],
+    "text": "new Partition Act read together authorise the court to allot one",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      156.6,
+      500.18,
+      170.66
+    ],
+    "text": "portion of a land to a party or a set of parties and to order the sale",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      177.72,
+      500.18,
+      191.78
+    ],
+    "text": "of another portion and the division of the proceeds of the sale",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      198.84,
+      500.26,
+      212.9
+    ],
+    "text": "among other parties alone or among them and some or all of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      219.96,
+      500.7,
+      234.02
+    ],
+    "text": "parties to whom the former portion is allotted. In the Privy Council",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      241.11,
+      500.73,
+      255.17
+    ],
+    "text": "case of Ceylon Theatres Ltd v. Cinemas Ltd (1968) 70 NLR 337, the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      262.23,
+      500.55,
+      276.23
+    ],
+    "text": "subject matter of partition was the land almost entirely occupied",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      283.35,
+      500.53,
+      297.35
+    ],
+    "text": "by the Tower Hall Theatre in Maradana. The District Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      304.47,
+      500.65,
+      318.47
+    ],
+    "text": "ordered the sale of the land, as no physical partition of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      325.59,
+      500.69,
+      339.59
+    ],
+    "text": "property was practicable, but subject to the life interest in favour",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      346.71,
+      500.66,
+      360.71
+    ],
+    "text": "of the 2nd defendant in respect of 1/3 share of the soil and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      367.95,
+      500.53,
+      381.95
+    ],
+    "text": "buildings. This was held to be in consonance with the Partition",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      389.07,
+      154.1,
+      403.07
+    ],
+    "text": "Law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      422.21,
+      500.7,
+      436.21
+    ],
+    "text": "Section 26(3), which the District Judge relied upon in the instant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      443.33,
+      500.7,
+      457.33
+    ],
+    "text": "case to order the sale of the plaintiffs undivided share (i.e. 0.93",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      464.45,
+      373.03,
+      478.45
+    ],
+    "text": "perches) to the defendant, reads as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      497.57,
+      500.29,
+      511.63
+    ],
+    "text": "Where by virtue of an order made under subsection (1), a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      518.69,
+      500.19,
+      532.75
+    ],
+    "text": "person is entitled to an undivided extent of land which, by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      539.81,
+      500.13,
+      553.87
+    ],
+    "text": "reason of its trivialness in extent or value or of it being less",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      560.93,
+      500.19,
+      574.99
+    ],
+    "text": "than the minimum extent required by any written law",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      582.08,
+      500.45,
+      596.14
+    ],
+    "text": "regulating the subdivision of land for development purposes,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      603.2,
+      500.23,
+      617.26
+    ],
+    "text": "the court considers it inexpedient to allot to that person a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      624.32,
+      500.22,
+      638.38
+    ],
+    "text": "divided portion, the court may, in lieu of ordering the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      645.44,
+      500.16,
+      659.5
+    ],
+    "text": "allotment of a divided portion of the land to that person and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      666.56,
+      500.48,
+      680.62
+    ],
+    "text": "on the payment to that person of such compensation as may",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      687.79,
+      500.19,
+      701.86
+    ],
+    "text": "be determined by court, allot that extent to any other person",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      34.18,
+      307.63,
+      61.74
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      394.75,
+      31.9,
+      500.21,
+      43.52
+    ],
+    "text": "SC/APPEAL/6/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.22,
+      72.0,
+      500.14,
+      86.06
+    ],
+    "text": "who is entitled to an undivided extent of the land to which",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.22,
+      93.12,
+      257.33,
+      107.18
+    ],
+    "text": "the action relates.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      126.24,
+      500.74,
+      140.24
+    ],
+    "text": "I might add that even if the District Judge does not order the sale",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      147.36,
+      500.74,
+      161.36
+    ],
+    "text": "of the land in the judgment, such a sale can still be ordered after",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      168.48,
+      500.73,
+      182.48
+    ],
+    "text": "the scheme inquiry which is held after the judgment but before",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      189.6,
+      500.41,
+      203.66
+    ],
+    "text": "the final decree of partition is entered. (Leelawathie v. Abeykoon",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      210.84,
+      500.62,
+      224.9
+    ],
+    "text": "[2005] 3 Sri LR 127) Section 36(1)(b) of the Partition Law states",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      231.96,
+      500.4,
+      246.02
+    ],
+    "text": "that after the scheme inquiry, the court may order the sale of any",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      253.11,
+      500.3,
+      267.17
+    ],
+    "text": "lot, in accordance with the provisions of this Law, at the appraised",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      274.23,
+      500.36,
+      288.29
+    ],
+    "text": "value of such lot given by the surveyor under section 32, where the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      295.35,
+      500.5,
+      309.41
+    ],
+    "text": "commissioner has reported to court under section 32 that the extent",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      316.47,
+      500.31,
+      330.53
+    ],
+    "text": "of such lot is less than the minimum extent required by written law",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      337.59,
+      500.23,
+      351.65
+    ],
+    "text": "relating to the subdivision of land for development purposes and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      358.71,
+      500.11,
+      372.77
+    ],
+    "text": "shall enter final decree of partition subject to such alterations as",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      379.83,
+      468.82,
+      393.89
+    ],
+    "text": "may be rendered necessary by reason of such order of sale.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      413.09,
+      500.71,
+      427.09
+    ],
+    "text": "It is clear that the District Judges order is in accordance with the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      434.21,
+      500.7,
+      448.21
+    ],
+    "text": "Partition Law. The plaintiff does not complain of the procedure",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      455.33,
+      457.78,
+      469.33
+    ],
+    "text": "for sale. Her complaint is in respect of the order for sale.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      488.45,
+      500.74,
+      502.45
+    ],
+    "text": "At the argument, learned counsel for the plaintiff defended the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      509.57,
+      500.74,
+      523.57
+    ],
+    "text": "judgment of the High Court stating that the plaintiff is entitled to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      530.69,
+      500.66,
+      544.69
+    ],
+    "text": "one half of the house. This claim has been rejected by the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      551.81,
+      500.67,
+      565.81
+    ],
+    "text": "Judge in her judgment and the High Court in appeal has not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      572.96,
+      500.69,
+      586.96
+    ],
+    "text": "reversed that finding. There is no appeal by the plaintiff against",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      594.08,
+      500.64,
+      608.08
+    ],
+    "text": "the judgment of the High Court. The submission of learned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      615.2,
+      500.74,
+      629.2
+    ],
+    "text": "counsel is in any event unsupported by evidence and is therefore",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      636.32,
+      206.93,
+      650.32
+    ],
+    "text": "unsustainable.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      669.44,
+      500.65,
+      683.44
+    ],
+    "text": "This court granted leave to appeal against the judgment of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      690.55,
+      407.83,
+      704.56
+    ],
+    "text": "High Court on the following two questions of law:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      34.18,
+      307.63,
+      61.74
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      394.75,
+      31.9,
+      500.21,
+      43.52
+    ],
+    "text": "SC/APPEAL/6/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      72.0,
+      500.71,
+      86.0
+    ],
+    "text": "(a) Does the judgment of the High Court defeat the purpose",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169.22,
+      93.12,
+      387.67,
+      107.12
+    ],
+    "text": "of section 26(3) of the Partition Law?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      114.24,
+      500.62,
+      128.24
+    ],
+    "text": "(b) Has the High Court erred in law by failing to appreciate",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169.22,
+      135.36,
+      500.65,
+      149.36
+    ],
+    "text": "that the District Judge has answered issue Nos. 9 and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169.22,
+      156.48,
+      248.69,
+      170.54
+    ],
+    "text": "10 correctly?",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      189.6,
+      500.67,
+      203.6
+    ],
+    "text": "By the answers to issue Nos. 9 and 10, the District Judge came",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      210.72,
+      500.59,
+      224.72
+    ],
+    "text": "to the conclusion that an order for sale of the plaintiffs share to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      231.96,
+      497.02,
+      245.96
+    ],
+    "text": "the defendant is the most practical way of terminating the co-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      253.11,
+      253.97,
+      267.11
+    ],
+    "text": "ownership of this land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      286.23,
+      500.67,
+      300.23
+    ],
+    "text": "I answer both questions in the affirmative and set aside the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      307.35,
+      500.66,
+      321.35
+    ],
+    "text": "judgment of the High Court and restore the judgment of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      328.47,
+      500.61,
+      342.47
+    ],
+    "text": "District Court. The appeal is accordingly allowed but without",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      349.59,
+      160.58,
+      363.59
+    ],
+    "text": "costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      330.55,
+      415.85,
+      500.74,
+      429.85
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      458.09,
+      246.53,
+      472.09
+    ],
+    "text": "L.T.B. Dehideniya, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      479.21,
+      162.02,
+      493.21
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      330.55,
+      500.33,
+      500.74,
+      514.33
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      542.57,
+      250.85,
+      556.57
+    ],
+    "text": "Achala Wengappuli, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      563.84,
+      162.02,
+      577.84
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      330.55,
+      606.08,
+      500.74,
+      620.08
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
