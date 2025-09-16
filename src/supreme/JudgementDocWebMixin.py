@@ -19,23 +19,21 @@ class JudgementDocWebMixin:
         tds = tr.find_elements(By.TAG_NAME, "td")
         if len(tds) == 0:
             return None
-        assert len(tds) == 7
         td_text_list = [td.text for td in tds]
+        assert len(td_text_list) == 7, td_text_list
 
         # num
         num = td_text_list[1]
-        assert num.startswith("SC/")
+        assert num.startswith("SC"), num
 
         # date_str
         date_str = td_text_list[0]
-        assert len(date_str) == 10
+        assert len(date_str) == 10, date_str
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
-            "href"
-        )
-        assert url_pdf.endswith(".pdf")
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
+        assert url_pdf.endswith(".pdf"), url_pdf
 
         return cls(
             num=num,
