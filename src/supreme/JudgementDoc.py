@@ -18,6 +18,16 @@ class JudgementDoc(AbstractDoc):
     BASE_URL = "https://supremecourt.lk/judgements/"
 
     @classmethod
+    def get_doc_class_label(cls) -> str:
+        return "supreme_court_judgement"
+
+    @classmethod
+    def get_doc_class_description(cls) -> str:
+        return (
+            f"Judgements of the [Supreme Court of Sri Lanka]({cls.BASE_URL})."
+        )
+
+    @classmethod
     def __parse_tr__(cls, tr) -> "JudgementDoc":
         tds = tr.find_elements(By.TAG_NAME, "td")
         if len(tds) == 0:
@@ -35,7 +45,9 @@ class JudgementDoc(AbstractDoc):
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
+            "href"
+        )
         assert url_pdf.endswith(".pdf")
 
         return cls(

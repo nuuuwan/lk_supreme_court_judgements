@@ -1,6 +1,4 @@
-def main():
-    pass
-
+from supreme import JudgementDoc
 
 if __name__ == "__main__":
-    main()
+    JudgementDoc.run_pipeline()
