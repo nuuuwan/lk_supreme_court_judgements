@@ -1,0 +1,8 @@
+utils-nuuuwan
+bs4
+pymupdf
+matplotlib
+datasets
+huggingface_hub
+pandas
+selenium
