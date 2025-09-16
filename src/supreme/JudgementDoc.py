@@ -48,6 +48,12 @@ class JudgementDoc(JudgementDocWebMixin, AbstractDoc):
             ]
         )
 
+    @cached_property
+    def parties_short(self) -> str:
+        if len(self.parties) > 32:
+            return self.parties[:29] + "..."
+        return self.parties
+
     # HACK!
     @classmethod
     def get_lines_for_latest_docs(cls):
@@ -57,7 +63,7 @@ class JudgementDoc(JudgementDocWebMixin, AbstractDoc):
                 [
                     doc.date_str,
                     f"`{doc.num}`",
-                    doc.parties,
+                    doc.parties_short,
                     doc.judgement_by,
                     f"[data]({doc.remote_data_url})",
                 ]
