@@ -32,9 +32,7 @@ class JudgementDocWebMixin:
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
-            "href"
-        )
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
         assert url_pdf.endswith(".pdf"), url_pdf
 
         return cls(
@@ -90,6 +88,8 @@ class JudgementDocWebMixin:
             try:
                 a_next = driver.find_element(By.LINK_TEXT, "Next")
                 if not a_next:
+                    break
+                if "disabled" in a_next.get_attribute("class"):
                     break
                 a_next.click()
                 cls.sleep()
