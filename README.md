@@ -1,18 +1,25 @@
-# Lk_Supreme_Court_Judgements
+# 📜 🇱🇰 #SriLanka Supreme Court Judgements
 
-Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgements/).
+ 🔗 Data Source: supremecourt.lk
 
-## Data Summary
+ 🔗 All Raw Data: [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data)
 
-|   |    |
-| :-- | --: |
-| Data Source | supremecourt.lk |
-| Date Range | 2016-07-22 to 2025-09-16 |
-| Number of Docs | 1,229 |
-| Number of Docs with PDFs | 697 |
-| Dataset Size | 0.6GB |
+ 📅 Date Range: 2016-07-22 to 2025-09-16
 
-## Document Metadata Example
+ 📑 Number of Docs: 1,229
+
+ 📎 Number of Docs with PDFs: 697
+
+ 💾 Dataset Size: 0.6GB
+
+🆓 Public data, fully open-source – fork freely!
+
+🔍 Useful for Journalists, Researchers, Lawyers & law students, Policy watchers & Citizens who want to stay informed
+
+🐞 #WorkInProgress - Suggestions, Questions, Ideas, [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
+
+#SriLanka #OpenData #GovTech
+## 📝 Example Metadata
 
 ```json
 {
@@ -34,8 +41,8 @@ Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgement
 
 ## 🤗 Hugging Face Datasets
 
-- [nuuuwan/lk-supreme-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-docs)
-- [nuuuwan/lk-supreme-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-chunks)
+- 📄 [nuuuwan/lk-supreme-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-docs)
+- 📦 [nuuuwan/lk-supreme-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-chunks)
 
 ## 20 Latest documents
 
