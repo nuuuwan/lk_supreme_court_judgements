@@ -1,24 +1,19 @@
-# 📜 🇱🇰 #SriLanka Supreme Court Judgements
+# 🇱🇰 #SriLanka Supreme Court Judgements
 
- 🔗 Data Source: supremecourt.lk
+ 🔗 Data Source: **supremecourt.lk**
 
- 🔗 All Raw Data: [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data)
+ 🪣 All Raw Data: **[https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data)**
 
- 📅 Date Range: 2016-07-22 to 2025-09-16
+ 📅 Date Range: **2016-07-22 to 2025-09-16**
 
- 📑 Number of Docs: 1,229
+ 📑 Number of Docs: **1,229**
 
- 📎 Number of Docs with PDFs: 697
+ 📎 Number of Docs with PDFs: **701**
 
- 💾 Dataset Size: 0.6GB
+ 💾 Dataset Size: **0.6GB**
 
-🆓 Public data, fully open-source – fork freely!
+🪲 #WorkInProgress - Suggestions, Questions, Ideas, and [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
 
-🔍 Useful for Journalists, Researchers, Lawyers & law students, Policy watchers & Citizens who want to stay informed
-
-🐞 #WorkInProgress - Suggestions, Questions, Ideas, [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
-
-#SriLanka #OpenData #GovTech
 ## 📝 Example Metadata
 
 ```json
