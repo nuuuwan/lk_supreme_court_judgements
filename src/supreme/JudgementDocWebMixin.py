@@ -64,7 +64,7 @@ class JudgementDocWebMixin:
         time.sleep(cls.T_SLEEP)
 
     @classmethod
-    def get_driver(cls):
+    def get_driver(cls) -> webdriver.Chrome:
         options = Options()
         options.add_argument("--headless")
         options.add_argument("--no-sandbox")
