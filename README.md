@@ -1,18 +1,21 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements
 
- 🔗 Data Source: **supremecourt.lk**
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_13:20:59-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-0.6_GB-green)
 
- 🪣 All Raw Data: **[https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data)**
+📜 **1,232** documents, from **2016-07-22** to **2025-09-16**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**.
 
- 📅 Date Range: **2016-07-22 to 2025-09-16**
+📒 PDFs have been downloaded for **714** documents.
 
- 📑 Number of Docs: **1,230**
+📚 Complete [Dataset](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.6 GB**)
+ - 🆓 Public data, & fully open-source.
+ - 🙏 Please share & fork!
 
- 📎 Number of Docs with PDFs: **709**
+🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
 
- 💾 Dataset Size: **0.6GB**
+⏰ Updated **daily**.
 
-🪲 #WorkInProgress - Suggestions, Questions, Ideas, and [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
+#OpenData #DataScience #DataForGood #ResearchData #NLP
 
 ## 📝 Example Metadata
 
@@ -35,6 +38,8 @@
 ![Documents by year](images/docs_by_year.png)
 
 ## 🤗 Hugging Face Datasets
+
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace)
 
 - 📄 [nuuuwan/lk-supreme-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-docs)
 - 📦 [nuuuwan/lk-supreme-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-chunks)
@@ -61,3 +66,8 @@
 - 2025-09-04 | `SC/APPEAL/67/2025` | Lillie Rupasinghe No. 25, Hil... | Hon. Sobhitha Rajakaruna J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-67-2025)
 - 2025-09-04 | `SC/APPEAL/54/2022` | Ignatius Brito Kaithan Pulle ... | Hon. M. Sampath K. B. Wijeratne J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-54-2022)
 - 2025-09-04 | `SC/APPEAL/38/2022` | 1. International Center for E... | Hon. Sobhitha Rajakaruna J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-38-2022)
+
+---
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
