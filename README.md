@@ -1,11 +1,11 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_19:52:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_00:29:31-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-0.6_GB-yellow)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements)
 
-📜 [**1,232** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.6 GB**), from **2016-07-22** to **2025-09-16**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+📜 [**1,233** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.6 GB**), from **2016-07-22** to **2025-09-17**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
 📑 In JSON, PDF, TXT and 🤗 Hugging Face Formats
 
@@ -17,7 +17,7 @@
 
 ...
 
-*📒 PDFs have been downloaded for **714** (**58%**) documents*
+*📒 PDFs have been downloaded for **715** (**58%**) documents*
 
 🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
 
@@ -25,13 +25,13 @@
 
 ```json
 {
-    "num": "SC/FR/3/2009",
-    "date_str": "2025-09-16",
+    "num": "SC/FR/77/2018",
+    "date_str": "2025-09-17",
     "description": "",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_3_2009.pdf",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_77_2018.pdf",
     "url_metadata": "https://supremecourt.lk/judgements/",
-    "parties": "1. Sumith Aluthkorala. 42/C, Western Malamulla, Panadura. PETITIONER Vs. 1. Western Province Provincial Road Development Authority, No. 50, Kithulwala Road, Colombo 08. And presently No. 59, Sebastian Hill, Colombo 12. 2. W. Jayasekara Former Chairman, Western Province Provincial Road Development Authority, Kithulwatta Road, Colombo 08. 2a. Rohan Kulasiri, Former Chairman, Western Province Provincial Road Development Authority, No. 50, Kithulwatta Road, Colombo 08. 2b. Upali Kodikara Chairman, No. 59, Sebastian Hill, Colombo 12 Kithulwatta Road, Colombo 08. 3. I.A.M. Jousie, Former Director, 3a. N. Bandula Prama Kumara, Director, 4. Lakshman Hettiarachchi Former Director, 4a. P.K.D. Thisera, Director, 5. Sepala Ruparatne, Former Director, 5a. J.E.L.T. Rathnayake, Former Director, 5b. T.M.W. Mudali, Director, 6. Silva Priyaratne, Former Director, 6a. I.J. Mirando Former Director, 6b. N.I. Senaratne, Director, 7. P. Sivapada Sundaram, Former Director, 7a. U.O. Janmuthupura, Former Director, 7b. T.G.W. Rajapaksha, Director, All of the Western Province Provincial Road Development Authority, No. 50, Kithulwatta Road, Colombo 08. 8. R.M.S. Bandaranayake, General Manager, Western Province Provincial Road Development Authority, No. 50, Kithulwatta Road, Colombo 08. 9. A. Ramanayake, Former Secretary, Provincial Ministry of Roadways and Co-operatives, Denzil Kobbekaduwa Mawatha, Battaramulla. 9a. Sunil Abayawardena, Former Secretary, Provincial Ministry of Roadways and Co-operatives, Denzil Kobbekaduwa Mawatha, Battaramulla. 9b. Champa N. Perera, Secretary, Provincial Ministry of Roadways and Co-operatives, Denzil Kobbekaduwa Mawatha, Battaramulla. 10. Lalith Wanigaratne Former Provincial Ministry of Roadways and Co-operatives, Denzil Kobbekaduwa Mawatha, Battaramulla. 10a. W.A. Nimal Lansa, Former Provincial Ministry of Road Development Housing and Constructions, Live Stock Development, Fisheries and Tourism, Denzil Kobbekaduwa Mawatha, Battaramulla. 11. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Janak De Silva J"
+    "parties": "1. Atham Lebbe Mohamed Nawas No. 30, Methaippalli road, Kattankudy 2 Petitioner V. 1. Pujitha Jayasundara Inspector General of Police Police Head Quarters Colombo-01 1A. C.D. Wickramaratne Inspector General of Police Police Head Quarters Colombo-01 2. P.P. Kasthooriarachchi Office-in-Charge 3. Mr. Muwsseer PC 5867 Police Constable 4. Mr. Muhajith PC 5868 Police Constable The 2nd to the 4th Respondents above named all of Police Station of Kathankudy Hisbulla Street Ward No 19 Manchanthuduwai 5. Hon. Attorney General Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
 }
 ```
 
@@ -48,6 +48,7 @@
 
 ## 20 Latest documents
 
+- 2025-09-17 | `SC/FR/77/2018` | 1. Atham Lebbe Mohamed Nawas ... | Hon. K. Priyantha Fernando J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-17-SC-FR-77-2018)
 - 2025-09-16 | `SC/FR/3/2009` | 1. Sumith Aluthkorala. 42/C, ... | Hon. Janak De Silva J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-16-SC-FR-3-2009)
 - 2025-09-12 | `SC/APPEAL/59/2024` | China Great Wall Hospital Pri... | Hon. Achala Wengappuli J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-12-SC-APPEAL-59-2024)
 - 2025-09-12 | `SC/APPEAL/40/2015` | Ihala Hewage Don Bonny Jayara... | Hon. Janak De Silva J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-12-SC-APPEAL-40-2015)
@@ -67,7 +68,6 @@
 - 2025-09-04 | `SC/APPEAL/85/2023` | Mallawa Waduge Jayaratne No. ... | Hon. M. Sampath K. B. Wijeratne J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-85-2023)
 - 2025-09-04 | `SC/APPEAL/67/2025` | Lillie Rupasinghe No. 25, Hil... | Hon. Sobhitha Rajakaruna J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-67-2025)
 - 2025-09-04 | `SC/APPEAL/54/2022` | Ignatius Brito Kaithan Pulle ... | Hon. M. Sampath K. B. Wijeratne J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-54-2022)
-- 2025-09-04 | `SC/APPEAL/38/2022` | 1. International Center for E... | Hon. Sobhitha Rajakaruna J | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-38-2022)
 
 ---
 
