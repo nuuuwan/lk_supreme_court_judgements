@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_17:20:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_17:54:33-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-0.6_GB-green)
 
 📜 **1,232** documents, from **2016-07-22** to **2025-09-16**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**.
