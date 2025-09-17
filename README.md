@@ -2,7 +2,7 @@
 
 ![PDF Preview](images/pdf_preview.png)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_15:22:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_15:52:11-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-0.6_GB-green)
 
 📜 **1,232** documents, from **2016-07-22** to **2025-09-16**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**.
