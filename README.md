@@ -9,7 +9,7 @@ Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgement
 | Data Source | supremecourt.lk |
 | Date Range | 2016-07-22 to 2025-09-16 |
 | Number of Docs | 1,229 |
-| Number of Docs with PDFs | 684 |
+| Number of Docs with PDFs | 697 |
 | Dataset Size | 0.6GB |
 
 ## Document Metadata Example
