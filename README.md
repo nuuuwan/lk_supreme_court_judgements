@@ -1,21 +1,25 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_18:34:38-green)
-![DatasetSize](https://img.shields.io/badge/dataset_size-0.6_GB-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_18:59:23-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-0.6_GB-yellow)
 
-📜 **1,232** documents, from **2016-07-22** to **2025-09-16**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**.
+[https://github.com/nuuuwan/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements)
 
-📒 PDFs have been downloaded for **714** (**58%**) documents.
+📜 [**1,232** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.6 GB**), from **2016-07-22** to **2025-09-16**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
-📚 Complete [Dataset](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.6 GB**)
- - 🆓 Public data, & fully open-source.
- - 🙏 Please share & fork!
+📑 In JSON, PDF, TXT and 🤗 Hugging Face Formats
 
-⏰ Updated **at least Daily**.
+⏰ Updated **at least Daily**
 
-🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
+🆓 Public data & fully open-source
 
 #OpenData #DataScience #DataForGood #ResearchData #NLP
+
+...
+
+*📒 PDFs have been downloaded for **714** (**58%**) documents*
+
+🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
 
 ## 📝 Example Metadata
 
@@ -31,8 +35,6 @@
 }
 ```
 
-[More details](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-16-SC-FR-3-2009)
-
 ## Documents By Year
 
 ![Documents by year](images/docs_by_year.png)
@@ -43,12 +45,6 @@
 
 - 📄 [nuuuwan/lk-supreme-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-docs)
 - 📦 [nuuuwan/lk-supreme-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-chunks)
-
-## 📃 Example Document
-
-![PDF Preview](images/pdf_preview.png)
-
-[More details](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2010s/2018/2018-04-04-SC-APPEAL-99-2014)
 
 ## 20 Latest documents
 
