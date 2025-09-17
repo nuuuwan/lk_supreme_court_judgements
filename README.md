@@ -1,8 +1,6 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![PDF Preview](images/pdf_preview.png)
-
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_15:52:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_16:24:31-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-0.6_GB-green)
 
 📜 **1,232** documents, from **2016-07-22** to **2025-09-16**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**.
@@ -33,7 +31,7 @@
 }
 ```
 
-[source data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-16-SC-FR-3-2009)
+[More details](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-16-SC-FR-3-2009)
 
 ## Documents By Year
 
@@ -45,6 +43,12 @@
 
 - 📄 [nuuuwan/lk-supreme-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-docs)
 - 📦 [nuuuwan/lk-supreme-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-chunks)
+
+## 📃 Example Document
+
+![PDF Preview](images/pdf_preview.png)
+
+[More details](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2010s/2018/2018-04-04-SC-APPEAL-99-2014)
 
 ## 20 Latest documents
 
