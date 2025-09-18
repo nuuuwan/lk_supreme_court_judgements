@@ -1,0 +1,3553 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      781.18,
+      302.93,
+      805.66
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.5,
+      72.47,
+      519.6,
+      85.75
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.53,
+      93.13,
+      333.91,
+      106.41
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      123.61,
+      78.98,
+      136.89
+    ],
+    "text": "`",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.3,
+      197.29,
+      253.37,
+      210.57
+    ],
+    "text": "Case No. SC/CHC/Appeal 33/2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.3,
+      223.57,
+      202.61,
+      236.85
+    ],
+    "text": "HC (Civil) 476/2010/MR",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.47,
+      146.65,
+      527.24,
+      223.41
+    ],
+    "text": "In the matter of an application in term of Chapter LVIII and Section 754(1) of the Civil Procedure Code reading with the provisions of the High Court of Provinces (Special Provisions) Act No 10 of 1996.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      263.65,
+      472.06,
+      276.93
+    ],
+    "text": "Sri Lanka Savings Bank Ltd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      289.6,
+      510.34,
+      302.88
+    ],
+    "text": "No: 110, D.S. Senanayake Mawatha",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      315.4,
+      395.83,
+      328.68
+    ],
+    "text": "Colombo 08",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      341.56,
+      450.22,
+      354.84
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      367.12,
+      388.39,
+      380.4
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      393.04,
+      502.06,
+      406.32
+    ],
+    "text": "1. Good Value Importers (pvt) Ltd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      418.84,
+      478.78,
+      432.12
+    ],
+    "text": "536, R.A.De Mel Mawatha",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      444.76,
+      407.86,
+      458.04
+    ],
+    "text": "Colombo 04",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      470.7,
+      509.86,
+      483.98
+    ],
+    "text": "2.Good Value Distributors (pvt) Ltd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      496.5,
+      461.74,
+      509.78
+    ],
+    "text": "104/11, Grandpas Road",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      522.42,
+      407.86,
+      535.7
+    ],
+    "text": "Colombo 14",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      548.46,
+      466.06,
+      561.74
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      574.38,
+      427.54,
+      587.66
+    ],
+    "text": "And now between",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      599.94,
+      472.06,
+      613.22
+    ],
+    "text": "Sri Lanka Savings Bank Ltd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      625.86,
+      510.34,
+      639.14
+    ],
+    "text": "No: 110, D.S. Senanayake Mawatha",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      651.78,
+      395.83,
+      665.06
+    ],
+    "text": "Colombo 08",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      677.85,
+      504.82,
+      691.13
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      703.53,
+      388.39,
+      716.81
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      729.33,
+      502.06,
+      742.61
+    ],
+    "text": "1. Good Value Importers (pvt) Ltd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      755.24,
+      499.78,
+      768.53
+    ],
+    "text": "No: 536, R.A.De Mel Mawatha",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      781.04,
+      407.86,
+      794.33
+    ],
+    "text": "Colombo 04",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      781.18,
+      302.93,
+      805.66
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      225.73,
+      256.73,
+      239.01
+    ],
+    "text": "Before: L. T. B. Dehideniya, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      256.45,
+      291.19,
+      269.73
+    ],
+    "text": "Murdu N. B. Fernando, PC, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      287.2,
+      244.01,
+      300.48
+    ],
+    "text": "S. Thurairaja, PC, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      317.92,
+      526.16,
+      331.2
+    ],
+    "text": "Counsels: Kamal Dissanayake with Sureni Amaratunga instructed by Ms. Mayomi",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      338.56,
+      325.27,
+      351.84
+    ],
+    "text": "Ranawaka for the Plaintiff-Appellant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      369.28,
+      526.44,
+      382.56
+    ],
+    "text": "S. P. Sriskantha with Prasanna Sriskantha & shown Tissera for the Defendant-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      389.92,
+      208.37,
+      403.2
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      451.36,
+      199.37,
+      464.64
+    ],
+    "text": "Argued on: 30.01.2019",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      482.1,
+      199.01,
+      495.38
+    ],
+    "text": "Decided on: 05.12.2022",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      543.66,
+      190.25,
+      556.94
+    ],
+    "text": "L. T. B. Dehideniya, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      574.14,
+      526.44,
+      587.42
+    ],
+    "text": "This is an appeal from a judgment of the Commercial High Court. The Plaintiff-Appellant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      594.9,
+      526.28,
+      608.18
+    ],
+    "text": "(hereinafter sometimes called and referred as the Appellant) instituted action in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      615.54,
+      526.43,
+      628.82
+    ],
+    "text": "Commercial High Court to recover a loan granted by the Appellant\u2019s predecessor the Pramuka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      635.27,
+      526.34,
+      649.58
+    ],
+    "text": "Saving and Development Bank to the 1st Defendant- Respondent (hereinafter sometimes called",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      655.91,
+      526.37,
+      670.25
+    ],
+    "text": "and referred as the 1st Respondent). The 2nd Defendant- Respondent (hereinafter sometimes",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      676.7,
+      526.44,
+      691.01
+    ],
+    "text": "called and referred as the 2st Respondent) was the guarantor. The Respondents filled answer",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      698.37,
+      526.32,
+      711.65
+    ],
+    "text": "denying liability and raised several objections, namely, that the Cause of Action is prescribed,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      719.13,
+      403.75,
+      732.41
+    ],
+    "text": "there is no privity of contract and the Appellant has no locus standi.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.19,
+      47.63,
+      512.98,
+      60.91
+    ],
+    "text": "2. Good Value Distributors (pvt) Ltd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.19,
+      73.43,
+      481.54,
+      86.71
+    ],
+    "text": "No: 104/11, Grandpass Road",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.19,
+      99.37,
+      401.95,
+      112.65
+    ],
+    "text": "Colombo 14",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.19,
+      125.41,
+      494.86,
+      138.69
+    ],
+    "text": "Defendant-Respondents",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      781.18,
+      302.93,
+      805.66
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      72.23,
+      526.14,
+      85.51
+    ],
+    "text": "The Appellant has called two witnesses to prove his case. The documents marked P1 to P16",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      92.89,
+      526.44,
+      106.17
+    ],
+    "text": "were marked and produced through the said witnesses subject to proof. The Respondents at the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      113.65,
+      526.42,
+      126.93
+    ],
+    "text": "close of the Appellant\u2019s case objected to all the documents other than P1 and P3 and requested",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      134.29,
+      526.4,
+      147.57
+    ],
+    "text": "proof of other documents. After cross examining these two witnesses, the Respondent decided",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      155.05,
+      265.01,
+      168.33
+    ],
+    "text": "not to call any evidence on their behalf.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      184.74,
+      526.44,
+      199.05
+    ],
+    "text": "The Appellant\u2019s case is that the 1st Respondent has obtained a loan from the Appellant\u2019s",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      206.41,
+      526.25,
+      219.69
+    ],
+    "text": "predecessor Pramuka Saving and Development Bank and failed to repay the loan. The",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      227.17,
+      526.38,
+      240.45
+    ],
+    "text": "Appellant tendered the documents in relation to this loan transaction. Documents marked P4,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      247.81,
+      526.4,
+      261.09
+    ],
+    "text": "P5, P6 and P7 are the agreements and the offer letters. The document marked P8 is a certified",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      268.57,
+      526.36,
+      281.85
+    ],
+    "text": "copy of the relevant entries maintained in the computer of the Pramuka Savings and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      289.24,
+      526.23,
+      302.52
+    ],
+    "text": "Development Bank as customer loan account transactions. It has been certified by the Acting",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      310.0,
+      526.44,
+      323.28
+    ],
+    "text": "General Manager as a true copy of the relevant entries appearing in the books/data of Pramuka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      330.64,
+      526.41,
+      343.92
+    ],
+    "text": "Savings and Development Bank and the said entries were made in usual, ordinary course of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      350.37,
+      526.38,
+      364.68
+    ],
+    "text": "business. P10 is the letter of demand, P12 and P13 are the 2nd Respondent\u2019s undertaking to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      372.04,
+      503.38,
+      385.32
+    ],
+    "text": "indemnify the bank. The Appellant did not call any witness to prove the said documents.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      402.76,
+      526.42,
+      416.04
+    ],
+    "text": "The Counsel for the Appellant in his submissions has taken up two arguments; firstly that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      423.4,
+      526.38,
+      436.68
+    ],
+    "text": "Respondents have not denied these documents in their answer and secondly that the agreements",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      444.16,
+      526.36,
+      457.44
+    ],
+    "text": "were signed by the Respondents and the certified copies of the bankers\u2019 book need not to be",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      464.82,
+      348.91,
+      478.1
+    ],
+    "text": "proved under Section 90 (C) of the Evidence Ordinance.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      495.54,
+      526.31,
+      508.82
+    ],
+    "text": "The learned High Court Judge after trial dismissed the Appellant\u2019s action on the basis that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      516.3,
+      486.22,
+      529.58
+    ],
+    "text": "Appellant had failed to prove the fact that the Respondents are in arrears of payment.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      547.02,
+      526.4,
+      560.3
+    ],
+    "text": "The learned High Court Judge in his judgment held that the Appellant, though he marked the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      567.66,
+      526.19,
+      580.94
+    ],
+    "text": "documents subject to proof, has failed to prove the documents. In his judgment he has",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      588.3,
+      526.36,
+      601.58
+    ],
+    "text": "considered the agreements signed by the Appellant and the Respondents. The High Court Judge",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      608.03,
+      526.4,
+      622.34
+    ],
+    "text": "has observed that the 1st Respondent has entered in to an agreement and obtained the said loan,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      629.7,
+      526.38,
+      642.98
+    ],
+    "text": "but was of the view that the date of granting the loan is not established. The learned High Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      650.46,
+      526.32,
+      663.74
+    ],
+    "text": "Judge has come to the said finding based on the loan agreement and other documents in relation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      671.13,
+      526.38,
+      684.41
+    ],
+    "text": "to the said loan. Therefore, even though the Judge was of the view that those documents are",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      691.89,
+      526.41,
+      705.17
+    ],
+    "text": "not proved, he considered the documents and had come to that finding. Even if those documents",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      712.53,
+      380.95,
+      725.81
+    ],
+    "text": "are proved it is the only observation that the court can come to.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      781.18,
+      302.93,
+      805.66
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      72.23,
+      526.4,
+      85.51
+    ],
+    "text": "However I will consider whether the Respondents have admitted the averments in the plaint.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      92.89,
+      526.03,
+      106.17
+    ],
+    "text": "At the commencement of the trial, parties have recorded only two admissions. Those are the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      112.62,
+      526.44,
+      126.93
+    ],
+    "text": "7th paragraph of the plaint and the jurisdiction of the court. All the other matters were put in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      134.29,
+      526.27,
+      147.57
+    ],
+    "text": "issue by the Appellant himself. These issues were not raised by the court but were raised by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      155.05,
+      526.44,
+      168.33
+    ],
+    "text": "the parties with consent. After raising the said issues at the commencement of the trial, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      175.69,
+      526.36,
+      188.97
+    ],
+    "text": "Appellant cannot change his position in appeal and argue that the Respondents have admitted",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      196.45,
+      118.34,
+      209.73
+    ],
+    "text": "the facts.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      227.17,
+      526.35,
+      240.45
+    ],
+    "text": "On the other hand Respondents have admitted only paragraph 7 of the plaint. They have denied",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      247.81,
+      526.44,
+      261.09
+    ],
+    "text": "the knowledge of paragraph 2, 3, 4, 5 and 8 of the plaint. Except paragraph 7 the Respondent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      268.57,
+      526.4,
+      281.85
+    ],
+    "text": "bestowed the burden of proof on the plaintiff. Further the Respondents in their answer referring",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      289.24,
+      526.24,
+      302.52
+    ],
+    "text": "to paragraphs 2, 3, 4, 5, 8, 9, 10, 11, 13, 14 (i) to (v), 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      310.0,
+      526.44,
+      323.28
+    ],
+    "text": "27, 28 (a) to (e), 29, 30, 31, 32, 33, and 34 (in paragraph 4 and 5 of the answer) said in Sinhalese",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      330.61,
+      526.54,
+      344.5
+    ],
+    "text": "letters \u201c..\u0dba\u0db1 \u0da1\u0dda\u0daf \u0dc0\u0dbd \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 \u0d86\u0dbd\u0dcf\u0db4\u0db1\u0dba \u0d9a\u0dbb \u0dc3\u0dd2\u0da7\u0dd2\u0db1 \u0d85\u0dad\u0dbb \u0d92\u0dc0\u0dcf \u0d94\u0db4\u0dca\u0db4\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0da1\u0dda \u0db7\u0dcf\u0dbb\u0dba \u0dad\u0dbb\u0da1\u0dda\u0db8",
+    "fonts": [
+      "IskoolaPota-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      351.85,
+      217.73,
+      365.74
+    ],
+    "text": "\u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dd2\u0d9a\u0dbb\u0dd4 \u0da1\u0dc0\u0dad \u0db4\u0dc0\u0dbb\u0dcf \u0dc3\u0dd2\u0da7\u0dd3\u201d.",
+    "fonts": [
+      "IskoolaPota-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      383.2,
+      526.4,
+      396.48
+    ],
+    "text": "The Respondent in his answer paragraph 4 and 5 specifically referring to several paragraphs of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      403.84,
+      417.22,
+      417.12
+    ],
+    "text": "the plaint had averred that the Appellant should prove those averments.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      434.53,
+      526.36,
+      448.42
+    ],
+    "text": "In Charles & Caters Sinhala-English Dictionary, the word \u201c\u0d86\u0dbd\u0dcf\u0db4\u0db1\u0dba\u201d is explained as",
+    "fonts": [
+      "IskoolaPota-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      455.8,
+      526.36,
+      469.08
+    ],
+    "text": "\u201cSpeaking to, talking with, addressing\u201d. If this explanation is applied to the words used in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      476.46,
+      526.41,
+      489.74
+    ],
+    "text": "answer, it does not give any sense. Therefore, the court has to consider the balance portion of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      497.22,
+      526.25,
+      510.5
+    ],
+    "text": "paragraph 4 and 5 of the answer where the Respondents have put the burden of proof on the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      517.86,
+      526.37,
+      531.14
+    ],
+    "text": "Appellant. When the answer is considered as whole, it appears that the Respondents are not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      538.62,
+      526.23,
+      551.9
+    ],
+    "text": "admitting any averments other than paragraph 7 of the plaint. Therefore court cannot consider",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      559.26,
+      526.41,
+      572.54
+    ],
+    "text": "that the Respondent have admitted the plaint. Therefore, the Appellant cannot base his case on",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      580.02,
+      334.39,
+      593.3
+    ],
+    "text": "the footing that Respondents have admitted the plaint.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      610.74,
+      526.25,
+      624.02
+    ],
+    "text": "The Appellant based his case on P8, the certified copy of the ledger/data. This document was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      631.38,
+      526.44,
+      644.66
+    ],
+    "text": "marked subject to proof. Even at the closure of the Appellant\u2019s evidence, the Respondent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      652.14,
+      526.37,
+      665.42
+    ],
+    "text": "objected to this document on basis that it was not proved. The counsel for the Appellant submits",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      672.81,
+      526.42,
+      686.09
+    ],
+    "text": "that it is not necessary to prove the certified copy of the Bankers\u2019 books. Under section 90C of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      693.57,
+      526.4,
+      706.85
+    ],
+    "text": "the Evidence Ordinance, the Counsel argue that the certified copies of bankers\u2019 books need not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      714.21,
+      141.02,
+      727.49
+    ],
+    "text": "to be proved.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      744.92,
+      190.73,
+      758.21
+    ],
+    "text": "Section 90C reads thus:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      781.18,
+      302.93,
+      805.66
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      72.23,
+      526.31,
+      85.51
+    ],
+    "text": "90C. Subject to the provisions of this Chapter, a certified copy of any entry in a banker'",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      92.89,
+      526.17,
+      106.17
+    ],
+    "text": "book shall in all legal proceedings be received as prima facie evidence of the existence",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      113.65,
+      526.1,
+      126.93
+    ],
+    "text": "of such entry, and shall be admitted as evidence of the matters, transactions, and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      134.29,
+      526.09,
+      147.57
+    ],
+    "text": "accounts therein recorded in every case where, and to the same extent as the original",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      155.05,
+      427.42,
+      168.33
+    ],
+    "text": "entry itself is now by law admissible, but not further or otherwise.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      185.77,
+      526.28,
+      199.05
+    ],
+    "text": "This section applies subject to the provisions of the chapter stated therein. Section 90A of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      206.41,
+      506.26,
+      219.69
+    ],
+    "text": "Ordinance interprets the bankers\u2019 books and the certified copies in the following manner.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      237.13,
+      513.82,
+      250.41
+    ],
+    "text": "90A. In this Chapter, unless there is something repugnant in the subject or context -",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      267.85,
+      260.45,
+      281.13
+    ],
+    "text": "\u201cbank\u201d and \u201cbanker\u201d mean -",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      298.6,
+      386.95,
+      311.88
+    ],
+    "text": "(i) any company carrying on the business of bankers,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      329.32,
+      526.11,
+      342.6
+    ],
+    "text": "(ii) any partnership or individual to whose books the provisions of this Chapter",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.02,
+      349.96,
+      385.99,
+      363.24
+    ],
+    "text": "shall have been extended as hereinafter provided,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      380.68,
+      468.1,
+      393.96
+    ],
+    "text": "(iii) any savings bank, post office savings bank, or money order office;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      411.64,
+      526.14,
+      424.92
+    ],
+    "text": "\u201cbankers\u2019 books\u201d include ledgers, day books, cash books, account books, and all",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      432.28,
+      369.19,
+      445.56
+    ],
+    "text": "other books used in the ordinary business of a bank.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      462.76,
+      526.18,
+      476.04
+    ],
+    "text": "\u201ccertified copy\u201d means a copy of any entry in the books of a bank, together with a",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      483.42,
+      526.38,
+      496.7
+    ],
+    "text": "certificate written at the foot of such copy that it is a true copy of such entry ; that such",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      504.18,
+      526.4,
+      517.46
+    ],
+    "text": "entry is contained in one of the ordinary books of the bank, and was made in the usual",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      524.82,
+      526.33,
+      538.1
+    ],
+    "text": "and ordinary course of business ; and that such book is still in the custody of the bank,",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      545.58,
+      526.35,
+      558.86
+    ],
+    "text": "such certificate being dated and subscribed by the principal accountant or manager of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      566.22,
+      304.39,
+      579.5
+    ],
+    "text": "the bank with his name and official title.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      596.94,
+      526.16,
+      610.22
+    ],
+    "text": "\u201ccompany\u201d means a company registered under the enactments relating to companies",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      617.7,
+      526.26,
+      630.98
+    ],
+    "text": "from time to time in force in Ceylon, or in Burma, India or Pakistan, or under any Acts",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      638.34,
+      526.04,
+      651.62
+    ],
+    "text": "of Parliament of the United Kingdom, or incorporated by an Act of the Legislature of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      659.13,
+      526.26,
+      672.41
+    ],
+    "text": "Ceylon, Burma, India, Pakistan or the United Kingdom, or by Royal Charter or Letters",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      679.77,
+      232.37,
+      693.05
+    ],
+    "text": "Patent.(Emphasis added)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      710.49,
+      526.33,
+      723.77
+    ],
+    "text": "Under section 90 (C) of the Evidence Ordinance a certified copy of the Banker\u2019s books can be",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      731.13,
+      526.44,
+      744.41
+    ],
+    "text": "admitted as evidence. E. R. S. R. Coomaraswamy in \u2018Law of Evidence Volume I\u2019 at page 160",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      781.18,
+      302.93,
+      805.66
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      72.23,
+      526.31,
+      85.51
+    ],
+    "text": "says that even the loose sheets obtained from the computer can be considered as Banker\u2019s",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      92.89,
+      109.7,
+      106.17
+    ],
+    "text": "books.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      123.61,
+      526.16,
+      136.89
+    ],
+    "text": "\"Bankers Books include ledger, day books, cash books, account books, and all other",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      144.37,
+      526.26,
+      157.65
+    ],
+    "text": "books used in the ordinary business of a bank. The Editors of Halsbury\u2019s Statutes of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      165.01,
+      526.22,
+      178.29
+    ],
+    "text": "England submit that loose sheets, whether produced by a computer or not may be within",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      185.77,
+      188.45,
+      199.05
+    ],
+    "text": "this definition. \"",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      216.49,
+      526.02,
+      229.77
+    ],
+    "text": "In the present case the P8 was obtained from the computer data where the transactions were",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      237.13,
+      526.4,
+      250.41
+    ],
+    "text": "recorded. Under this section copy of transactions done in the normal cause of business can be",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      257.89,
+      526.33,
+      271.17
+    ],
+    "text": "accepted as prima facie evidence without proof. Whether the Pramuka Saving and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      278.56,
+      503.5,
+      291.84
+    ],
+    "text": "Development Bank was functioning in the normal cause of business is a matter in issue.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      309.28,
+      526.38,
+      322.56
+    ],
+    "text": "The functions of the Pramuka Saving and Development Bank were questioned before this court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      329.92,
+      526.2,
+      343.2
+    ],
+    "text": "in the case of Benedict and the Others vs. Monetary Board of Central Bank of Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      350.68,
+      526.36,
+      363.96
+    ],
+    "text": "and Others (Pramuka Bank case) [2003] 3 Sri. L. R 69. In this case several acts of",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      371.32,
+      526.31,
+      384.6
+    ],
+    "text": "mismanagements and financial irregularities of the Pramuka Savings and Development Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      392.08,
+      526.4,
+      405.36
+    ],
+    "text": "were brought to the notice of the court. It was observed by his lordship Sri Pavan J. (as he was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      411.69,
+      526.25,
+      426.0
+    ],
+    "text": "then), that the 2nd Respondent in the said case has revealed the following matters in the statutory",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      432.45,
+      289.61,
+      446.76
+    ],
+    "text": "examination held by the 4th Respondent that,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      464.22,
+      526.25,
+      477.5
+    ],
+    "text": "The second Respondent in his affidavit dated 10th February 2003 states that the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      484.86,
+      526.38,
+      498.14
+    ],
+    "text": "following matters came to light during the course of the statutory examination held in",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      505.62,
+      293.71,
+      518.9
+    ],
+    "text": "1999/2000 by the fourth Respondent:-",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      536.22,
+      526.4,
+      549.5
+    ],
+    "text": "71(a) That the bank was engaged in an unsound and improper financial practice",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      556.98,
+      526.4,
+      570.26
+    ],
+    "text": "whereby interest recovered by granting fresh loans to convert non-performing loans",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      577.62,
+      526.08,
+      590.9
+    ],
+    "text": "into performing loans after the balance sheet date had been wrongfully accounted as",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      598.38,
+      212.69,
+      611.66
+    ],
+    "text": "income for the bank.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      629.1,
+      526.34,
+      642.38
+    ],
+    "text": "b) That the bank had fictitiously inflated its profit for the accounting year 1999 and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      649.74,
+      526.06,
+      663.02
+    ],
+    "text": "thereby showed a profit of Rs.8.3 million when in fact the bank has suffered a loss of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      670.53,
+      253.01,
+      683.81
+    ],
+    "text": "Rs.16.5 million for that year.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      701.13,
+      526.05,
+      714.41
+    ],
+    "text": "c) The bank had been able to avoid making the required provisioning and thereby",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      721.89,
+      423.46,
+      735.17
+    ],
+    "text": "violated the directions issued by the Central Bank on this matter.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      781.18,
+      302.93,
+      805.66
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      72.23,
+      526.24,
+      85.51
+    ],
+    "text": "Accordingly, the first Respondent after considering the report submitted by the fourth",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      92.89,
+      526.17,
+      106.17
+    ],
+    "text": "Respondent formed an opinion that the bank was engaged in certain irregular",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      113.65,
+      526.38,
+      126.93
+    ],
+    "text": "transactions so as to distort the true financial condition of the bank, directed the fourth",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      134.29,
+      526.04,
+      147.57
+    ],
+    "text": "Respondent to issue a direction in terms of Sec. 76K of the said Act. Thus, the fourth",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      155.05,
+      526.11,
+      168.33
+    ],
+    "text": "Respondent issued an order on the bank on 9th December 1999 (1R8) directing it to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      175.69,
+      526.31,
+      188.97
+    ],
+    "text": "cease the unsound and improper financial practice of recovering interest after the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      196.45,
+      406.06,
+      209.73
+    ],
+    "text": "balance sheet date and showing them as income for the bank.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      227.17,
+      526.27,
+      240.45
+    ],
+    "text": "It appears that the fourth Respondent carried out a second statutory examination into",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      247.81,
+      526.44,
+      261.09
+    ],
+    "text": "the activities of the bank as at 30th September 2001. The affidavit of the second",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      268.57,
+      488.74,
+      281.85
+    ],
+    "text": "Respondent shows that the following matters revealed at the said examination.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      299.32,
+      526.22,
+      312.6
+    ],
+    "text": "a) That the bank had continued with the imprudent activities highlighted in the previous",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      319.96,
+      526.1,
+      333.24
+    ],
+    "text": "examination by resorting to different irregular and complex practices and thereby",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      340.6,
+      396.67,
+      353.88
+    ],
+    "text": "circumventing the directions given by the first Respondent.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      371.32,
+      526.08,
+      384.6
+    ],
+    "text": "b) The bank had resorted to other unusual and questionable transactions and violated",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      392.08,
+      268.01,
+      405.36
+    ],
+    "text": "several prudential requirements.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      422.8,
+      440.74,
+      436.08
+    ],
+    "text": "c) That the financial condition of the bank was further deteriorating.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      453.4,
+      419.98,
+      466.68
+    ],
+    "text": "d) That several provisions of the Banking Act had been violated.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      484.14,
+      526.07,
+      497.42
+    ],
+    "text": "The mode of transactions and the accuracy of those transactions have been questioned before",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      504.9,
+      526.24,
+      518.18
+    ],
+    "text": "this court. Under these circumstances whether the court can consider the transactions recorded",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      525.54,
+      516.22,
+      538.82
+    ],
+    "text": "in the computer were transactions done during the normal cause of business is questionable.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      556.26,
+      526.43,
+      569.54
+    ],
+    "text": "According to the Appellant\u2019s witnesses the Central Bank ceased the operation of the Pramuka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      577.02,
+      526.4,
+      590.3
+    ],
+    "text": "Saving and Development Bank in 1992. After some inquiries and discussions the Central Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      597.66,
+      526.38,
+      610.94
+    ],
+    "text": "had vested the banking business of Pramuka Savings and Development Bank with the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      618.3,
+      526.27,
+      631.58
+    ],
+    "text": "Appellant bank in 1997. The learned High Court Judge questions accuracy of the entries in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      639.06,
+      526.28,
+      652.34
+    ],
+    "text": "computer under these circumstances. I see no reason to find fault with the learned High Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      659.73,
+      173.66,
+      673.01
+    ],
+    "text": "Judge\u2019s observation.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      690.45,
+      526.03,
+      703.73
+    ],
+    "text": "If the Appellant fails to prove the balance in arrears that has to be recovered from the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      711.21,
+      343.99,
+      724.49
+    ],
+    "text": "Respondent, the Appellant cannot succeed in this case.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      781.18,
+      302.93,
+      805.66
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      72.23,
+      526.42,
+      85.51
+    ],
+    "text": "The Respondent has taken up an objection that the Appellant does not have locus standi and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      92.89,
+      526.06,
+      106.17
+    ],
+    "text": "there is no privity of contract. In the present case the loan was granted by the predecessor of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      113.65,
+      526.04,
+      126.93
+    ],
+    "text": "the Appellant bank. The Central Bank of Sri Lanka by a vesting order vested all operations of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      134.29,
+      526.35,
+      147.57
+    ],
+    "text": "the said Pramuka Savings and Development Bank with the Appellant bank. Therefore the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      155.05,
+      526.18,
+      168.33
+    ],
+    "text": "Appellant bank has the locus standi as the successor of the said Pramuka Bank and since the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      175.69,
+      526.28,
+      188.97
+    ],
+    "text": "banking business is vested with Appellant, the Respondent cannot say that there is no privity",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      196.45,
+      132.62,
+      209.73
+    ],
+    "text": "of contract.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      227.17,
+      526.35,
+      240.45
+    ],
+    "text": "As I discussed earlier the learned High Court Judge\u2019s finding that the Appellant had failed to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      247.81,
+      235.73,
+      261.09
+    ],
+    "text": "prove his case is unquestionable.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      278.56,
+      238.01,
+      291.84
+    ],
+    "text": "I dismiss the appeal without cost.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      370.84,
+      523.44,
+      384.12
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      463.0,
+      233.33,
+      476.28
+    ],
+    "text": "Murdu N. B. Fernando, PC, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      493.5,
+      255.05,
+      506.78
+    ],
+    "text": "I agree",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      360.07,
+      524.46,
+      523.44,
+      537.74
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      616.5,
+      203.09,
+      629.78
+    ],
+    "text": "S. Thurairaja, PC, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      646.98,
+      267.05,
+      660.26
+    ],
+    "text": "I agree",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      360.07,
+      677.97,
+      523.44,
+      691.25
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
