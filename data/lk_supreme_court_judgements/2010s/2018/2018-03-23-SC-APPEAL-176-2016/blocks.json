@@ -1,0 +1,2837 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.3,
+      87.56,
+      504.01,
+      105.23
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      105.92,
+      459.94,
+      180.81
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA In the matter of an Appeal",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      181.43,
+      612.07,
+      399.34
+    ],
+    "text": "Kusuma Sri Wanasinghe No.4B/6/7, Mattegoda Hosing Scheme, Mattegoda. Plaintiff SC Appeal 176/2016 SC/HCCA LA 23/2016 WP/HCCA/AV305/2013(Rev) DC Homagama Case No.7621/RE Vs",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      399.88,
+      613.17,
+      478.18
+    ],
+    "text": "Princymala Abeysuriya. No.9A/79/5, Mattegoda Hosing Scheme, Mattegoda. Defendant",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      478.12,
+      519.82,
+      534.98
+    ],
+    "text": "IN THE MATTER OF AN APPLICATION UNDER SECTION 328 OF THE CIVIL PROCEDOURE CODE.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      535.53,
+      613.56,
+      689.41
+    ],
+    "text": "Appuhannadige Kotahewage Lesly Ariyasinghe. No.125, Kirulapana Mawatha, Colombo 5. Petitioner Vs",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      265.61,
+      689.73,
+      408.34,
+      705.27
+    ],
+    "text": "Kusuma Sri Wanasinghe",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      87.11,
+      612.46,
+      160.05
+    ],
+    "text": "No.4B/6/7, Mattegoda Hosing Scheme, Mattegoda. Plaintiff Judgment Creditor Respondent",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      160.67,
+      612.07,
+      302.72
+    ],
+    "text": "Princymala Abeysuriya. No.9A/79/5, Mattegoda Hosing Scheme, Mattegoda. Defendant Judgment Debtor Respondent AND BEWEEN",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      303.38,
+      554.65,
+      427.18
+    ],
+    "text": "Appuhannadige Kotahewage Lesly Ariyasinghe. No.125, Kirulapana Mawatha, Colombo 5. Petitioner-Petitioner Vs",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261.05,
+      427.48,
+      417.7,
+      443.02
+    ],
+    "text": "1. Kusuma Sri Wanasinghe",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      443.68,
+      612.44,
+      518.98
+    ],
+    "text": "No.4B/6/7, Mattegoda Hosing Scheme, Mattegoda. Plaintiff Judgment Creditor Respondent-Respondent 2. Princymala Abeysuriya.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      519.52,
+      556.06,
+      624.73
+    ],
+    "text": "No.9A/79/5, Mattegoda Hosing Scheme, Mattegoda. Defendant Judgment Debtor Respondent-Respondent",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      265.61,
+      625.63,
+      561.61,
+      705.27
+    ],
+    "text": "AND NOW BEWEEN Appuhannadige Kotahewage Lesly Ariyasinghe.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      87.11,
+      508.69,
+      238.4
+    ],
+    "text": "No.125, Kirulapana Mawatha, Colombo 5. Petitioner-Petitioner- Petitioner-Appellant. Vs 1. Kusuma Sri Wanasinghe No.4B/6/7, Mattegoda Hosing Scheme, Mattegoda.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      238.94,
+      612.07,
+      311.96
+    ],
+    "text": "Plaintiff Judgment Creditor Respondent-Respondent- Respondent-Respondent 2. Princymala Abeysuriya.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      312.5,
+      515.41,
+      707.79
+    ],
+    "text": "No.9A/79/5, Mattegoda Hosing Scheme, Mattegoda. Defendant Judgment Debtor Respondent-Respondent- Respondent-Respondent Before : Sisira J De Abrew J NalinPerera J Prasanna Jayawardena PC J Counsel : Seevali Amithirigala for the Petitioner-Petitioner- Petitioner-Appellant. Rohana Deshapriya with C Liyanage for the Plaintiff Judgment Creditor Respondent-Respondent- Respondent-Respondent Argued on : 26.1.2018 Written Submission Tendered on : 11.11.2016 by the Petitioner-Petitioner- Petitioner-Appellant. Decided on : 23.3.2018",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      87.35,
+      194.57,
+      102.89
+    ],
+    "text": "Sisira J De Abrew J",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      115.67,
+      550.69,
+      131.21
+    ],
+    "text": "Plaintiff Judgment Creditor Respondent-Respondent-Respondent (hereinafter",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      139.79,
+      550.65,
+      155.33
+    ],
+    "text": "referred to as the Plaintiff-Respondent) filed action against the Defendant Judgment",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      163.91,
+      550.57,
+      179.45
+    ],
+    "text": "Debtor Respondent-Respondent-Respondent (hereinafter referred to as the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      188.03,
+      550.72,
+      203.57
+    ],
+    "text": "Defendant-Respondent) to get a declaration that the Defendant-Respondent was",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      212.27,
+      550.77,
+      227.81
+    ],
+    "text": "holding property in dispute in trust for the Plaintiff-Respondent; that in the event of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      236.42,
+      547.42,
+      251.96
+    ],
+    "text": "the Defendant-Respondent failing to execute a deed in favour of the Plaintiff-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      260.54,
+      550.17,
+      276.08
+    ],
+    "text": "Respondent to direct the Registrar of the court to execute the deed in favour of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      284.66,
+      550.57,
+      300.2
+    ],
+    "text": "Plaintiff-Respondent; and to eject the Defendant-Respondent and her agents from",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      308.9,
+      547.42,
+      324.44
+    ],
+    "text": "the property in dispute. The case was decided ex-parte since the Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      333.02,
+      550.65,
+      348.56
+    ],
+    "text": "Respondent did not respond to the summons. The ex-parte judgment was delivered",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      357.14,
+      550.63,
+      372.68
+    ],
+    "text": "on 13.6.2015. The writ against the defendant-Respondent was executed on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      381.28,
+      550.43,
+      396.82
+    ],
+    "text": "21.6.2006. The fiscal broke open the house (the property in dispute) which had been",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      405.4,
+      547.54,
+      420.94
+    ],
+    "text": "padlocked and handed over the possession of the property to the Plaintiff-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      429.64,
+      550.81,
+      445.18
+    ],
+    "text": "Respondent. Thereafter on 4.7.2006 the Petitioner-Petitioner-Petitioner-Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      453.76,
+      550.61,
+      469.3
+    ],
+    "text": "(hereinafter referred to as the Petitioner-Appellant) filed a petition under Section",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      477.88,
+      550.2,
+      493.42
+    ],
+    "text": "328 of the Civil Procedure Code (hereinafter referred to as the CPC) to restore him",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      502.0,
+      550.27,
+      517.54
+    ],
+    "text": "in possession. The learned District Judge by order dated 23.9.2013 refused the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      526.24,
+      550.68,
+      541.78
+    ],
+    "text": "application of the Petitioner-Appellant. Being aggrieved by the said order of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      550.39,
+      550.51,
+      565.93
+    ],
+    "text": "learned District Judge the Petitioner-Appellant filed an appeal in the Civil Appellate",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      574.51,
+      550.7,
+      590.05
+    ],
+    "text": "High Court. The Civil Appellate High Court by its judgment dated 7.12.2015",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      598.63,
+      550.77,
+      614.17
+    ],
+    "text": "dismissed the appeal. Being aggrieved by the said judgment of the Civil Appellate",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      622.87,
+      550.36,
+      638.41
+    ],
+    "text": "High Court, the Petitioner-Appellant has filed this appeal in this court. This court by",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      646.99,
+      550.57,
+      662.53
+    ],
+    "text": "its order dated 29.9.2016 granted leave to appeal on question of law set out in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      671.11,
+      528.61,
+      686.65
+    ],
+    "text": "paragraph 24(iii) of the petition of appeal dated 14.1.2016 which is stated below.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      87.11,
+      550.16,
+      102.65
+    ],
+    "text": "Have the Honourable Judges of the Civil Appellate High Court not considered the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      111.23,
+      476.53,
+      126.77
+    ],
+    "text": "possession of the Petitioner-Appellant in the form of constructive trust?",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      145.43,
+      424.78,
+      160.97
+    ],
+    "text": "Facts of this case may be briefly summarized as follows:",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      179.51,
+      550.54,
+      195.05
+    ],
+    "text": "The Defendant-Respondent by Deed No.186 attested by Gallage Indika",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      203.75,
+      550.43,
+      219.29
+    ],
+    "text": "Jayanth Perera Notary Public marked P9 sold the property in dispute to Wilfred",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      227.9,
+      550.66,
+      243.44
+    ],
+    "text": "Rohan Senaratne on 6.5.2004. Wilfred Rohan Senaratne by Deed No.228 attested by",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      252.02,
+      550.63,
+      267.56
+    ],
+    "text": "RD Attanayake marked P5 sold the property in dispute to Suresh Danial and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      276.14,
+      550.48,
+      291.68
+    ],
+    "text": "Chandrika Bernard on 30.6.2004. Suresh Danial and Chandrika Bernard on the same",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      300.38,
+      550.81,
+      315.92
+    ],
+    "text": "day (30.6.2004) mortgaged it to a Finance Company. After redeeming the mortgage,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      324.5,
+      550.81,
+      340.04
+    ],
+    "text": "said Suresh Danial and Chandrika Bernard by Deed No.235 attested by ND",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      348.62,
+      550.73,
+      364.16
+    ],
+    "text": "Hirimuthugala marked P1 sold the property in dispute to the Petitioner-Appellant on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      372.74,
+      550.75,
+      388.28
+    ],
+    "text": "20.3.2006. The Plaint was filed in the District Court on 6.7.2004 against the",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      396.88,
+      550.55,
+      412.42
+    ],
+    "text": "Defendant-Respondent Princy Mala Abeysooriya. Therefore it is seen that when the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      421.12,
+      550.49,
+      436.66
+    ],
+    "text": "plaint was filed, the Defendant-Respondent (Princy Mala Abeysooriya) was not the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      445.24,
+      550.71,
+      460.78
+    ],
+    "text": "owner of the property. As I pointed out earlier, the Defendant-Respondent Princy",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      469.36,
+      550.75,
+      484.9
+    ],
+    "text": "Mala Abeysooriya on 6.5.2004 had sold the property in dispute to Wilfred Rohan",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      493.48,
+      550.31,
+      509.02
+    ],
+    "text": "Senaratne. The writ issued by the District Court was executed on 21.6.2006. When",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      517.72,
+      550.75,
+      533.26
+    ],
+    "text": "the writ was executed the owner of the property was the Petitioner-Appellant by",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      541.87,
+      550.16,
+      557.41
+    ],
+    "text": "virtue of Deed No.235 dated 20.3.2006. The learned District Judge dismissed the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      565.99,
+      550.82,
+      581.53
+    ],
+    "text": "application of the Petitioner-Appellant filed under Section 328 of the CPC. The",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      590.11,
+      550.16,
+      605.65
+    ],
+    "text": "most important question that must be decided in this case is whether the above",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      614.35,
+      550.18,
+      629.89
+    ],
+    "text": "conclusion reached by the learned District Judge is correct or not. Section 328 of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      638.47,
+      199.13,
+      654.01
+    ],
+    "text": "CPC reads as follows.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      672.55,
+      550.62,
+      688.09
+    ],
+    "text": "\u201cWhere any person other than judgment-debtor or a person in occupation",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      696.81,
+      550.25,
+      712.35
+    ],
+    "text": "under him is dispossessed of any property in execution of a decree, he may,",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      87.11,
+      550.22,
+      102.65
+    ],
+    "text": "within fifteen days of such dispossession, apply to the Court by petition in",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      111.23,
+      550.69,
+      126.77
+    ],
+    "text": "which the judgment-creditor shall be named respondent complaining of such",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      135.35,
+      550.31,
+      150.89
+    ],
+    "text": "dispossession. The Court shall thereupon serve a copy of such petition on",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      159.59,
+      550.24,
+      175.13
+    ],
+    "text": "such respondent and require such respondent to file objections, if any, within",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      183.71,
+      550.24,
+      199.25
+    ],
+    "text": "fifteen days of the service of the petition on him. Upon such objections being",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      207.83,
+      550.26,
+      223.37
+    ],
+    "text": "filed or after the expiry of the date on which such objections were directed to",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      231.98,
+      550.22,
+      247.52
+    ],
+    "text": "be filed, the Court shall, after notice to all parties concerned, hold an inquiry.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      256.22,
+      550.18,
+      271.76
+    ],
+    "text": "Where the Court is satisfied that the person dispossessed was in possession of",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      280.34,
+      550.34,
+      295.88
+    ],
+    "text": "the whole or part of such property on his own account or on account of some",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      304.46,
+      550.2,
+      320.0
+    ],
+    "text": "person other than the Judgment debtor, it shall by order direct that the",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      328.58,
+      550.17,
+      344.12
+    ],
+    "text": "Petitioner be put into possession of the property or part thereof, as the case",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      352.82,
+      550.62,
+      368.36
+    ],
+    "text": "may be. Every inquiry under this section shall be concluded within sixty days",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      376.94,
+      368.5,
+      392.48
+    ],
+    "text": "of the date fixed for the filing of objections.\u201d",
+    "fonts": [
+      "Times New Roman,BoldItalic",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      411.04,
+      550.2,
+      426.58
+    ],
+    "text": "In order to succeed in an application under Section 328 of the CPC, the person",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      435.28,
+      550.67,
+      450.82
+    ],
+    "text": "dispossessed must prove that he was in possession of the property when the writ was",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      459.4,
+      550.42,
+      474.94
+    ],
+    "text": "executed. The Petitioner-Appellant who was dispossessed from the property in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      483.52,
+      550.66,
+      499.06
+    ],
+    "text": "dispute filed an application under Section 328 of the CPC. The learned District",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      507.64,
+      550.56,
+      523.18
+    ],
+    "text": "Judge dismissed the said application of the Petitioner-Appellant. The basis of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      531.88,
+      550.77,
+      547.42
+    ],
+    "text": "conclusion of the learned District Judge appears to be that the Petitioner-Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      556.03,
+      550.81,
+      571.57
+    ],
+    "text": "was not occupying the property in dispute at the time of execution of the writ",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      580.15,
+      550.28,
+      595.69
+    ],
+    "text": "(21.6.2006). The learned District Judge in his judgment has also observed that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      604.27,
+      550.77,
+      619.81
+    ],
+    "text": "Petitioner-Appellant was not in possession of the property in dispute. But the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      628.39,
+      550.81,
+      643.93
+    ],
+    "text": "learned District Judge has, on the basis of the evidence of the Petitioner-Appellant,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      652.63,
+      550.66,
+      668.17
+    ],
+    "text": "observed that the Petitioner-Appellant had received the keys of the property in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      676.75,
+      550.53,
+      692.29
+    ],
+    "text": "dispute on 30.4.2006. The writ issued by the District Court was executed on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      700.89,
+      550.81,
+      716.43
+    ],
+    "text": "21.6.2006. This shows that he had obtained possession of the property in dispute",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      87.11,
+      550.43,
+      102.65
+    ],
+    "text": "before the execution of the writ. It is an undisputed fact that on 21.6.2006 (the day",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      111.23,
+      550.55,
+      126.77
+    ],
+    "text": "of the execution of the writ) the Petitioner-Appellant was not in the country as he",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      135.35,
+      550.56,
+      150.89
+    ],
+    "text": "had gone abroad. If a person does not occupy a property, does it mean that he does",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      159.59,
+      550.17,
+      175.13
+    ],
+    "text": "not possess the property? In my view, occupation and possession are two different",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      183.71,
+      550.75,
+      199.25
+    ],
+    "text": "things. One can possess a property without occupying the same. To prove",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      207.83,
+      550.35,
+      223.37
+    ],
+    "text": "possession it is not necessary to prove that he or she lives in the property or occupies",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      231.98,
+      550.55,
+      247.52
+    ],
+    "text": "the property. In the present case, the Petitioner-Appellant purchased the property on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      256.22,
+      550.79,
+      271.76
+    ],
+    "text": "20.3.2006. The Petitioner-Appellant after purchasing the property, had made an",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      280.34,
+      550.81,
+      295.88
+    ],
+    "text": "application to the Ceylon Electricity Board (CEB) to convert electricity in his name.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      304.46,
+      550.27,
+      320.0
+    ],
+    "text": "In the said application marked P14, the Grama Niladhari has made an endorsement",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      328.58,
+      550.8,
+      344.12
+    ],
+    "text": "on 11.5.2006 to the effect that the Petitioner-Appellant was the present occupier of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      352.82,
+      550.23,
+      368.36
+    ],
+    "text": "the property in question. He has also made an endorsement to the effect that \u2018not in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      376.94,
+      550.17,
+      392.48
+    ],
+    "text": "occupation\u2019. The Grama Niladhari in her evidence has stated that she certified the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      401.08,
+      550.61,
+      416.62
+    ],
+    "text": "said application marked P14 on the basis that the Petitioner-Appellant is the owner",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      425.2,
+      550.25,
+      440.74
+    ],
+    "text": "of the property and that she did so after examining the relevant deed. The CEB has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      449.44,
+      550.17,
+      464.98
+    ],
+    "text": "after examining the said application P14 has converted the electricity in the name of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      473.56,
+      550.45,
+      489.1
+    ],
+    "text": "the Petitioner-Appellant on 11.5.2006. The writ was executed on 21.6.2006 when",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      497.68,
+      550.75,
+      513.22
+    ],
+    "text": "keys of the property were with the Petitioner-Appellant. The Petitioner-Appellant in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      521.8,
+      550.49,
+      537.34
+    ],
+    "text": "his evidence has clearly stated that when he purchased the property in dispute he",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      545.95,
+      550.79,
+      561.49
+    ],
+    "text": "received the keys from the previous owner; that thereafter repaired the house; that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      570.19,
+      554.17,
+      585.73
+    ],
+    "text": "when the carpenters were repairing the house the doors of the house were opened;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      594.31,
+      550.16,
+      609.85
+    ],
+    "text": "that he possessed the property in dispute on his own title; that he purchased the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      618.43,
+      550.11,
+      633.97
+    ],
+    "text": "property after studying advertisement published in Silumina News Paper; that he",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      642.55,
+      550.64,
+      658.09
+    ],
+    "text": "purchased the property as an investment; and that when the Plaint was filed by the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      666.79,
+      550.46,
+      682.33
+    ],
+    "text": "Plaintiff-Respondent, the Defendant-Respondent was not even the owner of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      690.93,
+      550.77,
+      706.47
+    ],
+    "text": "property. When I consider the above material, it is clear that the Petitioner-Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      87.11,
+      550.43,
+      102.65
+    ],
+    "text": "was in possession of the property in dispute when the writ was executed and that he",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      111.23,
+      550.35,
+      126.77
+    ],
+    "text": "was dispossessed. The Petitioner-Appellant was not the judgment debtor or is not a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      135.35,
+      550.55,
+      150.89
+    ],
+    "text": "person in occupation under the judgment debtor. When I consider all the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      159.59,
+      550.77,
+      175.13
+    ],
+    "text": "aforementioned matters, I am of the view that the Petitioner-Appellant has no",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      183.71,
+      432.22,
+      199.25
+    ],
+    "text": "connection whatsoever with the judgment debtor in this case.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      217.91,
+      550.28,
+      233.45
+    ],
+    "text": "In order to succeed an application under Section 328 of the CPC the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      242.06,
+      291.44,
+      257.6
+    ],
+    "text": "following matters must be established.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      275.94,
+      550.58,
+      291.68
+    ],
+    "text": "1. The person making the application is not the judgment debtor or is not a",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      300.38,
+      421.9,
+      315.92
+    ],
+    "text": "person holding the property under the judgment debtor.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      334.26,
+      550.77,
+      350.0
+    ],
+    "text": "2. The person making the application was in possession of the property at the",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      358.58,
+      274.76,
+      374.12
+    ],
+    "text": "time of execution of the writ.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      392.6,
+      550.8,
+      408.34
+    ],
+    "text": "3. The person making the application was dispossessed of the property as a",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      416.92,
+      301.76,
+      432.46
+    ],
+    "text": "result of the execution of the writ.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      451.12,
+      550.79,
+      466.66
+    ],
+    "text": "When I consider all the aforementioned matters, I hold that the Petitioner-Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      475.24,
+      550.65,
+      490.78
+    ],
+    "text": "has proved that he is not the judgment debtor or not a person occupying the property",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      499.36,
+      550.73,
+      514.9
+    ],
+    "text": "in dispute under him; that he was in possession of the property in dispute at the time",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      523.48,
+      550.78,
+      539.02
+    ],
+    "text": "of execution of the writ; that he was dispossessed of the property in dispute as a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      547.75,
+      550.44,
+      563.29
+    ],
+    "text": "result of the execution of the writ; and that he was possessing the property at the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      571.87,
+      550.55,
+      587.41
+    ],
+    "text": "time of dispossession on his own title derived from deed No.235 dated 20.3.2006",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      595.99,
+      547.54,
+      611.53
+    ],
+    "text": "attested by ND Hirimuthugoda Notary Public. I therefore hold that the Petitioner-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      620.11,
+      550.35,
+      635.65
+    ],
+    "text": "Appellant has satisfied the requirements under Section 328 of the CPC. Considering",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      644.35,
+      550.81,
+      659.89
+    ],
+    "text": "the all the aforementioned matters, I hold that the learned District Judge erred when",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      668.47,
+      550.58,
+      684.01
+    ],
+    "text": "he refused the application of the Petitioner-Appellant made under Section 328 of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      692.61,
+      550.79,
+      708.15
+    ],
+    "text": "CPC. The learned Judges of the Civil Appellate High Court have failed to consider",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      306.89,
+      38.16,
+      314.91,
+      49.2
+    ],
+    "text": "9",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      87.11,
+      550.67,
+      102.65
+    ],
+    "text": "the above matters and have affirmed the order of the learned District Judge. I hold",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      111.23,
+      550.61,
+      126.77
+    ],
+    "text": "that the judges of the Civil Appellate High Court too misdirected themselves on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      135.35,
+      550.65,
+      150.89
+    ],
+    "text": "facts and law when they affirmed the order of the learned District Judge. For the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      159.59,
+      547.54,
+      175.13
+    ],
+    "text": "above reasons, I answer the above question of law as follows. \u2018The Petitioner-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      183.71,
+      550.17,
+      199.25
+    ],
+    "text": "Appellant was in possession of the land on his own title and was not a judgment",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      207.83,
+      476.17,
+      223.37
+    ],
+    "text": "debtor or not a person holding the property under the judgment debtor.\u2019",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      242.06,
+      550.35,
+      257.6
+    ],
+    "text": "For the aforementioned reasons, I set aside the order of the learned",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      266.18,
+      550.51,
+      281.72
+    ],
+    "text": "District Judge dated 23.9.2013 and the judgment of the Civil Appellate High Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      290.3,
+      550.6,
+      305.84
+    ],
+    "text": "dated 7.12.2015. I hold that the Petitioner-Appellant has succeeded in the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      314.42,
+      550.27,
+      329.96
+    ],
+    "text": "application under Section 328 of the CPC and that he should be restored in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      338.66,
+      550.77,
+      354.2
+    ],
+    "text": "possession of the property in dispute forthwith. The learned District Judge is hereby",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      362.78,
+      550.76,
+      378.32
+    ],
+    "text": "directed to take all necessary legal steps to restore the Petitioner-Appellant in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      386.92,
+      550.81,
+      402.46
+    ],
+    "text": "possession of the property in dispute. The Petitioner-Appellant is entitled to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      411.04,
+      379.66,
+      426.58
+    ],
+    "text": "costs from the Plaintiff-Respondent in all three courts.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      445.24,
+      446.14,
+      460.78
+    ],
+    "text": "The Petitioner-Appellant is restored in possession of the property.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      507.88,
+      488.29,
+      523.42
+    ],
+    "text": "Judge of the Supreme Court.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      536.47,
+      154.85,
+      552.01
+    ],
+    "text": "Nalin Perera J",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      564.91,
+      117.53,
+      580.45
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      593.47,
+      484.81,
+      609.01
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      622.03,
+      234.92,
+      637.57
+    ],
+    "text": "Prasanna Jayawardena PC J",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      650.47,
+      121.01,
+      666.01
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      679.03,
+      484.81,
+      694.57
+    ],
+    "text": "Judge of the Supreme Court.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      304.01,
+      38.16,
+      317.67,
+      49.2
+    ],
+    "text": "10",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  }
+]
