@@ -1,0 +1,5943 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 1 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      199.01,
+      72.0,
+      399.95,
+      86.48
+    ],
+    "text": "IN THE SUPREME COURT OF THE",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.9,
+      93.74,
+      455.06,
+      108.22
+    ],
+    "text": "DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.31,
+      133.46,
+      530.54,
+      146.79
+    ],
+    "text": "In the matter of a Rule in terms of Section",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.31,
+      153.38,
+      530.54,
+      166.71
+    ],
+    "text": "42(2) of the Judicature Act No. 2 of 1978,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.31,
+      173.3,
+      530.5,
+      186.63
+    ],
+    "text": "against Wickramage Don Dharmasiri",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.31,
+      193.22,
+      394.09,
+      206.55
+    ],
+    "text": "Karunaratne.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      231.14,
+      428.81,
+      244.47
+    ],
+    "text": "W. S. B. S. Fernando",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      251.06,
+      485.24,
+      264.39
+    ],
+    "text": "Registrar of the Court of Appeal,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      271.01,
+      451.28,
+      284.34
+    ],
+    "text": "Superior Courts Complex,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      290.93,
+      385.37,
+      304.26
+    ],
+    "text": "Colombo 12",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      440.14,
+      328.85,
+      526.65,
+      342.18
+    ],
+    "text": "COMPLAINANT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      366.77,
+      349.86,
+      380.1
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      422.69,
+      526.88,
+      436.02
+    ],
+    "text": "Wickramage Don Dharmasiri Karunaratne",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      442.61,
+      366.41,
+      455.94
+    ],
+    "text": "No. 57,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      462.55,
+      398.81,
+      475.88
+    ],
+    "text": "Baseline Road,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      482.47,
+      385.37,
+      495.8
+    ],
+    "text": "Colombo 08",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      522.31,
+      356.93,
+      535.64
+    ],
+    "text": "No. 1,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      542.23,
+      452.96,
+      555.56
+    ],
+    "text": "M.D.H. Jayawardenapura,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      562.15,
+      378.05,
+      575.48
+    ],
+    "text": "Pelawatte,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      582.07,
+      392.57,
+      595.4
+    ],
+    "text": "Battarumulla.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      447.22,
+      619.87,
+      526.65,
+      633.2
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.7,
+      232.7,
+      199.11,
+      246.03
+    ],
+    "text": "SC Rule No. 16/2023",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 2 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.7,
+      75.96,
+      339.78,
+      89.29
+    ],
+    "text": "BEFORE : P. PADMAN SURASENA, J1",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.49,
+      101.9,
+      381.18,
+      115.23
+    ],
+    "text": "KUMUDINI WICKREMASINGHE, J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.49,
+      127.82,
+      333.53,
+      141.15
+    ],
+    "text": "ACHALA WENGAPPULI, J",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.7,
+      178.82,
+      519.51,
+      192.15
+    ],
+    "text": "COUNSEL : Shanil Kularatne, PC with Ms. Hashini Opatha, SSC for the Attorney-",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.49,
+      198.74,
+      237.63,
+      212.07
+    ],
+    "text": "General.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.49,
+      230.66,
+      391.49,
+      243.99
+    ],
+    "text": "Yalith Wijesurendra for the Respondent.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.49,
+      262.46,
+      522.77,
+      275.79
+    ],
+    "text": "Rohan Sahabandu, PC with Ms. Chathurika Elvitigala, Ms. Sachini",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.49,
+      282.41,
+      467.72,
+      295.74
+    ],
+    "text": "Senanayake and Ms. Pubudu Weerasuriya for the BASL.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.7,
+      334.25,
+      252.99,
+      347.58
+    ],
+    "text": "INQUIRY ON : 11-12-2024",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      193.49,
+      359.57,
+      252.99,
+      372.9
+    ],
+    "text": "18-02-2025",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.7,
+      392.81,
+      252.99,
+      406.14
+    ],
+    "text": "DECIDED ON : 06-08-2025",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      442.13,
+      221.2,
+      455.46
+    ],
+    "text": "P. PADMAN SURASENA, CJ",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      474.07,
+      526.88,
+      487.4
+    ],
+    "text": "This Court having considered a complaint made by the Registrar of the Court of Appeal, has",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      493.99,
+      526.88,
+      507.32
+    ],
+    "text": "caused the Rule dated 28-08-2024 issued against the Respondent Attorney-at-Law, under the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      513.91,
+      523.71,
+      527.24
+    ],
+    "text": "hand of the Registrar of this Court. The said Rule has alleged that the Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      533.83,
+      278.43,
+      547.16
+    ],
+    "text": "at-Law has engaged in the following acts:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.18,
+      565.75,
+      526.88,
+      579.09
+    ],
+    "text": "(a) applying to peruse the case record of the case bearing No. COC-0011-22",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.02,
+      585.67,
+      526.88,
+      599.0
+    ],
+    "text": "from the main record room of the Court of Appeal Registry which is",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.02,
+      605.59,
+      526.88,
+      618.92
+    ],
+    "text": "situated at the Kaluthota Building, No. 19, Sangharaja Mawatha, Colombo",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.02,
+      625.51,
+      190.35,
+      638.84
+    ],
+    "text": "10;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.18,
+      657.46,
+      526.88,
+      670.8
+    ],
+    "text": "(b) furnishing a false name i.e., Mr. C Fernando (Mr. Chandrasiri Fernando)",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.02,
+      677.38,
+      446.24,
+      690.71
+    ],
+    "text": "when applying for permission to peruse the said record;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      744.58,
+      283.25,
+      770.04
+    ],
+    "text": "1 As he was, at the time of hearing this matter.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 3 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.18,
+      72.0,
+      526.88,
+      85.34
+    ],
+    "text": "(c) proceeding to tear two pages (four sides) from the afore-said case record,",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.02,
+      91.94,
+      526.88,
+      105.27
+    ],
+    "text": "(torn pages contain the caption of the case and notice issued to the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.02,
+      111.86,
+      526.88,
+      125.19
+    ],
+    "text": "Respondent which contained the charges) which was detected by the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.02,
+      131.78,
+      428.33,
+      145.11
+    ],
+    "text": "staff of the said record room of the Court of Appeal;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.18,
+      163.7,
+      526.88,
+      177.04
+    ],
+    "text": "(d) stating to the staff of the record room that he was a relative of one",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.02,
+      183.62,
+      526.88,
+      196.95
+    ],
+    "text": "Jayathunga (an Attorney-at-Law) who is the Petitioner in the case bearing",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.02,
+      203.54,
+      526.88,
+      216.87
+    ],
+    "text": "No. COC-0011-22 which is the case relevant to the case record he had",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.02,
+      223.46,
+      252.15,
+      236.79
+    ],
+    "text": "tampered with;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.18,
+      255.38,
+      526.88,
+      268.72
+    ],
+    "text": "(e) not providing any further explanation in respect of causing damage and",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.02,
+      275.33,
+      512.12,
+      288.66
+    ],
+    "text": "mischief to the said case record and removing pages from the same;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.18,
+      307.25,
+      526.88,
+      320.59
+    ],
+    "text": "(f) engaging in that act with an intention to cause the theft of the said pages;",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      339.17,
+      523.47,
+      352.5
+    ],
+    "text": "Upon the staff of the record room detecting the afore-said acts of the Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      359.09,
+      526.88,
+      372.42
+    ],
+    "text": "at-Law and upon complaint, the officers of Maradana Police Station took him into custody and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      379.01,
+      526.88,
+      392.34
+    ],
+    "text": "produced him before the Magistrate of Maligakanda who has enlarged him on two surety bail",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      398.93,
+      526.88,
+      412.26
+    ],
+    "text": "of Rs. 500,000.00 on or around 25.01.2023. This was on the basis that he is a heart patient",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      418.85,
+      147.0,
+      432.18
+    ],
+    "text": "and a diabetic.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      450.65,
+      526.88,
+      463.98
+    ],
+    "text": "Thus, there is a case pending against the Respondent Attorney-at-Law in the Magistrates",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      470.59,
+      526.88,
+      483.92
+    ],
+    "text": "Court of Maligakanda under case bearing No. B/3285/23 based on the above-mentioned",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      490.51,
+      125.04,
+      503.84
+    ],
+    "text": "incidents.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      522.43,
+      526.88,
+      535.76
+    ],
+    "text": "The Rule having considered the serious, felonious nature and the fraudulent tenor of his",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      542.35,
+      226.11,
+      555.68
+    ],
+    "text": "actions, has alleged as follows:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.18,
+      574.27,
+      526.7,
+      587.61
+    ],
+    "text": "(a) by the fraudulent and felonious actions in submitting a false name to",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.58,
+      594.19,
+      526.83,
+      607.52
+    ],
+    "text": "peruse the Case Record of case bearing No. COC-0011-22 and tearing",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.58,
+      614.11,
+      526.86,
+      627.44
+    ],
+    "text": "two pages of the same, the Respondent Attorney-at-Law has committed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.58,
+      634.03,
+      526.76,
+      647.36
+    ],
+    "text": "a breach of Rule 11 of the Supreme Court (Conduct of and Etiquette for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.58,
+      653.98,
+      526.81,
+      667.31
+    ],
+    "text": "Attorneys-at-Law) Rules 1988 made under Article 136 of the Constitution",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.58,
+      673.9,
+      417.53,
+      687.23
+    ],
+    "text": "of the Democratic Socialist Republic of Sri Lanka;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      142.18,
+      713.74,
+      526.67,
+      727.08
+    ],
+    "text": "(b) the aforesaid conduct amounts to acts of deceit, malpractice, crime or",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      175.58,
+      733.66,
+      526.87,
+      746.98
+    ],
+    "text": "offence which warrants the Respondent Attorney-at-Laws suspension",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 4 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      72.0,
+      526.81,
+      85.33
+    ],
+    "text": "from office or removal from office under Section 42(2) of the Judicature",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      91.94,
+      268.23,
+      105.27
+    ],
+    "text": "Act No. 2 of 1978;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.18,
+      131.78,
+      526.87,
+      145.12
+    ],
+    "text": "(c) by reason of the aforesaid conduct which cannot be countenanced, the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      151.7,
+      526.78,
+      165.03
+    ],
+    "text": "Respondent Attorney-at-Law has conducted himself in a manner which",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      171.62,
+      526.74,
+      184.95
+    ],
+    "text": "would reasonably be regarded as disgraceful or dishonourable of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      191.54,
+      526.77,
+      204.87
+    ],
+    "text": "Attorneys-at-Law of good repute and competence and has thus",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      211.46,
+      526.62,
+      224.79
+    ],
+    "text": "committed a breach of Rule 60 of the Supreme Court (Conduct of and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      231.38,
+      526.76,
+      244.71
+    ],
+    "text": "Etiquette for Attorneys-at-Law) Rules 1988 made under Article 136 of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      251.3,
+      497.96,
+      264.63
+    ],
+    "text": "the Constitution of the Democratic Socialist Republic of Sri Lanka;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.18,
+      291.17,
+      523.59,
+      304.51
+    ],
+    "text": "(d) by reason of the aforesaid acts and conduct, the Respondent Attorney-",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      311.09,
+      526.79,
+      324.42
+    ],
+    "text": "at-Law has conducted himself in a manner which is inexcusable and such",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      331.01,
+      526.73,
+      344.34
+    ],
+    "text": "as to be regarded as deplorable by his fellows in the profession and has",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      350.93,
+      441.41,
+      364.26
+    ],
+    "text": "thus committed a breach of Rule 60 of the said Rules;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.18,
+      390.65,
+      523.59,
+      403.99
+    ],
+    "text": "(e) by reason of the aforesaid acts and conduct, the Respondent Attorney-",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      410.57,
+      523.59,
+      423.9
+    ],
+    "text": "at-Law has conducted himself in a manner unworthy of an Attorney-at-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.58,
+      430.49,
+      522.08,
+      443.82
+    ],
+    "text": "Law and has thus committed a breach of Rule No 61 of the said Rules.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      470.35,
+      526.87,
+      483.68
+    ],
+    "text": "It is on the above basis that the Rule has commanded the Respondent Attorney-at-Law in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      490.27,
+      526.82,
+      503.6
+    ],
+    "text": "terms of Section 42(3) of the Judicature Act No.2 of 1978, to show cause as to why he should",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      510.19,
+      526.85,
+      523.52
+    ],
+    "text": "not be suspended from practice or be removed from the office of Attorney-at-Law of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      530.11,
+      526.66,
+      543.44
+    ],
+    "text": "Supreme Court of the Democratic Socialist Republic of Sri Lanka in terms of Section 42(2) of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      550.03,
+      166.32,
+      563.36
+    ],
+    "text": "the Judicature Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      581.95,
+      526.88,
+      595.28
+    ],
+    "text": "When the Court read out the Rule on 02-04-2024, the Respondent Attorney-at-Law pleaded",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      601.87,
+      304.23,
+      615.2
+    ],
+    "text": "not guilty to the charges contained in the Rule.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      633.79,
+      526.88,
+      647.12
+    ],
+    "text": "The learned Additional Solicitor General led before Court, the evidence of three witnesses.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      653.74,
+      526.88,
+      667.07
+    ],
+    "text": "The learned Counsel who appeared for the Respondent Attorney-at-Law cross-examined",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      673.66,
+      523.47,
+      686.99
+    ],
+    "text": "them. After the learned Additional Solicitor General closed his case, the Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      693.58,
+      526.88,
+      706.91
+    ],
+    "text": "at-Law gave evidence under oath before Court. It is in that background that I commence",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      713.5,
+      296.31,
+      726.83
+    ],
+    "text": "evaluating the evidence placed before Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 5 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      72.0,
+      526.88,
+      85.33
+    ],
+    "text": "The witness, Mapitigama Sumedha Priyadarshana Perera, who was first called to give evidence",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      91.94,
+      526.88,
+      105.27
+    ],
+    "text": "before Court is a Binder attached to the Registry of the Court of Appeal. In the course of his",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      111.86,
+      378.29,
+      125.19
+    ],
+    "text": "evidence, the following items of evidence have been revealed:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.02,
+      143.78,
+      523.59,
+      157.14
+    ],
+    "text": "i. He was on duty in record room No. 01, housed in the Kaluthota building on 24-01-",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      163.7,
+      157.44,
+      177.03
+    ],
+    "text": "2023;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.02,
+      195.62,
+      526.88,
+      208.98
+    ],
+    "text": "ii. This serves as a part of the main record room of the Court of Appeal; it is housed",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      215.54,
+      526.88,
+      228.87
+    ],
+    "text": "on the third floor of Kaluthota building which is about 500-800 metres away from",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      235.46,
+      259.35,
+      248.79
+    ],
+    "text": "the main Courts Complex;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.34,
+      267.41,
+      526.88,
+      280.77
+    ],
+    "text": "iii. The incident relevant to this case had occurred at around 2:30 p.m. - 3:00 p.m.",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      287.33,
+      204.99,
+      300.66
+    ],
+    "text": "on 24-01-2023;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.34,
+      319.25,
+      526.88,
+      332.61
+    ],
+    "text": "iv. At that time, the Respondent Attorney-at-Law had come there and obtained the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      339.17,
+      526.88,
+      352.5
+    ],
+    "text": "record of the case bearing No. COC/11/2022 for inspection. The record room",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      359.09,
+      526.88,
+      372.42
+    ],
+    "text": "officials had released this record for the Respondent Attorney-at-Law to inspect",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      379.01,
+      526.88,
+      392.34
+    ],
+    "text": "and study, upon entering the name of the applicant lawyer, the case number, etc.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      398.93,
+      420.41,
+      412.26
+    ],
+    "text": "on the register maintained by the Registry for that purpose;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.34,
+      430.85,
+      526.88,
+      444.21
+    ],
+    "text": "v. A little while later, he had heard a sound of tearing of papers. He then came close",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      450.65,
+      526.88,
+      463.98
+    ],
+    "text": "to the Respondent Attorney-at-Law from behind. It was at that time that he had",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      470.59,
+      526.88,
+      483.92
+    ],
+    "text": "seen that the Respondent Attorney-at-Law had torn some pages from the record",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      490.51,
+      526.88,
+      503.84
+    ],
+    "text": "of the case bearing No. COC/11/2022; that was the case record the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      510.43,
+      526.88,
+      523.76
+    ],
+    "text": "Attorney-at-Law had obtained from the record room officials for his inspection and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      530.35,
+      159.6,
+      543.68
+    ],
+    "text": "study;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.34,
+      562.27,
+      526.88,
+      575.63
+    ],
+    "text": "vi. The Binder Sumedha Priyadarshana Perera had seen this incident at a close range.",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      582.19,
+      526.88,
+      595.52
+    ],
+    "text": "He also had seen the Respondent Attorney-at-Law placing the papers torn from",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      602.11,
+      526.88,
+      615.44
+    ],
+    "text": "the record in the file he had brought when he came requesting for this case record",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      622.03,
+      199.11,
+      635.36
+    ],
+    "text": "for inspection;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.34,
+      653.98,
+      526.88,
+      667.34
+    ],
+    "text": "vii. The Binder Sumedha Priyadarshana Perera had then immediately proceeded to",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      673.9,
+      526.88,
+      687.23
+    ],
+    "text": "keep Jude Dhanushka Perera informed about this incident. Sumedha Priyadarshana",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      693.82,
+      526.88,
+      707.15
+    ],
+    "text": "Perera has also stated that thereafter Jude Dhanushka Perera too went and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      713.74,
+      526.88,
+      727.07
+    ],
+    "text": "questioned the Respondent Attorney-at-Law as to why he had done such a thing.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      733.66,
+      526.88,
+      746.98
+    ],
+    "text": "Thereafter, Jude Dhanushka Perera having informed the Assistant Registrar",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 6 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      72.0,
+      526.88,
+      85.33
+    ],
+    "text": "Shamali had proceeded to bring this incident to the immediate attention of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      91.94,
+      429.53,
+      105.27
+    ],
+    "text": "Deputy Registrar of the Court of Appeal Maheshi Welagedara.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      123.86,
+      526.88,
+      137.19
+    ],
+    "text": "Although the learned Counsel for the Respondent Attorney-at-Law has cross-examined this",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      143.78,
+      526.88,
+      157.11
+    ],
+    "text": "witness (Sumedha Priyadarshana Perera), the material elicited from the cross-examination",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      163.7,
+      526.88,
+      177.03
+    ],
+    "text": "has only enabled the witness Sumedha Priyadarshana Perera to repeatedly reiterate the facts",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      183.62,
+      526.88,
+      196.95
+    ],
+    "text": "of this incident, i.e., the incident of the Respondent Attorney-at-Law tearing some pages from",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      203.54,
+      526.88,
+      216.87
+    ],
+    "text": "the case bearing No. COC/11/2022 which he had obtained from the record room officials for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      223.46,
+      195.75,
+      236.79
+    ],
+    "text": "his inspection and study.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      255.38,
+      526.88,
+      268.71
+    ],
+    "text": "After the conclusion of the evidence of the witness Sumedha Priyadarshana Perera, it was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      275.33,
+      526.88,
+      288.66
+    ],
+    "text": "Gurunnanselage Jude Dhanushka Perera who was called to give evidence as the second",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      295.25,
+      179.28,
+      308.58
+    ],
+    "text": "witness before Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      327.17,
+      526.88,
+      340.5
+    ],
+    "text": "Jude Dhanushka Perera has stated in his evidence that it was Sumedha Priyadarshana Perera",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      347.09,
+      526.88,
+      360.42
+    ],
+    "text": "who drew his attention to this incident on the date of the incident. Upon him being told by",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      367.01,
+      526.88,
+      380.34
+    ],
+    "text": "Sumedha Priyadarshana Perera that something suspicious was happening, he too had come",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      386.93,
+      526.88,
+      400.26
+    ],
+    "text": "close to the Respondent Attorney-at-Law and had observed the Respondent Attorney-at-Law",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      406.85,
+      526.88,
+      420.18
+    ],
+    "text": "inserting some torn papers into the file the Respondent Attorney-at-Law had brought. He had",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      426.65,
+      526.88,
+      439.98
+    ],
+    "text": "observed that these papers were the two pages from the record of the case bearing No.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      446.57,
+      144.24,
+      459.9
+    ],
+    "text": "COC/11/2022.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      478.51,
+      526.88,
+      491.84
+    ],
+    "text": "The learned Counsel for the Respondent Attorney-at-Law has also cross-examined Jude",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      498.43,
+      523.59,
+      511.76
+    ],
+    "text": "Dhanushka Perera at length. However, the learned Counsel for the Respondent Attorney-at-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      518.35,
+      526.88,
+      531.68
+    ],
+    "text": "Law has not been able to elicit any important factor which could have been capable of assailing",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      538.27,
+      526.88,
+      551.6
+    ],
+    "text": "the evidence of Jude Dhanushka Perera. It must be noted that all that has happened during",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      558.19,
+      526.88,
+      571.52
+    ],
+    "text": "the cross-examination is only the fact that Jude Dhanushka Perera has got a second",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      578.11,
+      414.17,
+      591.44
+    ],
+    "text": "opportunity to repeat whatever he has stated in his evidence-in-chief.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      610.03,
+      526.88,
+      623.36
+    ],
+    "text": "It was the Deputy Registrar of the Court of Appeal, Maheshi Anurika Premarathna Welagedara,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      629.95,
+      526.88,
+      643.28
+    ],
+    "text": "who came to give evidence before Court as the third witness. She is an Attorney-at-Law who",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      649.9,
+      526.88,
+      663.23
+    ],
+    "text": "had taken oaths in that position in 2005. On the date of the incident, she was preparing an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      669.82,
+      526.88,
+      683.15
+    ],
+    "text": "official letter along with the Assistant Registrar Shyamali Sriyalatha, when Jude Dhanushka",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      689.74,
+      526.88,
+      703.07
+    ],
+    "text": "Perera had come to inform them about this incident. Then, the Deputy Registrar Maheshi",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      709.66,
+      526.88,
+      722.99
+    ],
+    "text": "Welagedara had rushed to the place of the incident, along with Jude Dhanushka Perera and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      729.58,
+      526.88,
+      742.91
+    ],
+    "text": "Assistant Registrar Shyamali Sriyalatha. Deputy Registrar Maheshi Welagedara had then",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 7 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      72.0,
+      526.88,
+      85.33
+    ],
+    "text": "inspected the record of the case bearing No. COC/11/2022 and had observed that two pages",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      91.94,
+      258.87,
+      105.27
+    ],
+    "text": "had been torn from that case record.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      123.86,
+      526.88,
+      137.19
+    ],
+    "text": "Deputy Registrar Maheshi Welagedara has also found that the two pages torn from the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      143.78,
+      526.88,
+      157.11
+    ],
+    "text": "case record had been inserted into another personal file. She has also observed that the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      163.7,
+      526.88,
+      177.03
+    ],
+    "text": "Respondent Attorney-at-Law was seated there. Deputy Registrar Maheshi Welagedara already",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      183.62,
+      526.88,
+      196.95
+    ],
+    "text": "knew the Respondent Attorney-at-Law by his name as a lawyer. However, when she had",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      203.54,
+      526.88,
+      216.87
+    ],
+    "text": "inspected the register in which the name of the requesting lawyer was supposed to have been",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      223.46,
+      526.88,
+      236.79
+    ],
+    "text": "inserted before the record room officials could have released the record, she had observed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      243.38,
+      526.88,
+      256.71
+    ],
+    "text": "that the name of the requesting lawyer has been inserted as Chandrasiri Fernando. Thus,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      263.3,
+      526.88,
+      276.63
+    ],
+    "text": "according to the evidence of the Deputy Registrar Maheshi Welagedara it has been revealed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      283.25,
+      526.88,
+      296.58
+    ],
+    "text": "that the Respondent Attorney-at-Law has inserted a name which is different from his name in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      303.17,
+      526.88,
+      316.5
+    ],
+    "text": "the register to obtain this case record from the record room. This must be viewed as a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      323.09,
+      526.88,
+      336.42
+    ],
+    "text": "deliberate act to suppress his identity. The only inference I can draw from the suppression of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      343.01,
+      526.88,
+      356.34
+    ],
+    "text": "his identity is that it is a part of the preparation engaged in by the Respondent Attorney at",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      362.93,
+      526.88,
+      376.26
+    ],
+    "text": "Law to commit an illegal act when inspecting/studying the case record which the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      382.85,
+      371.69,
+      396.18
+    ],
+    "text": "Attorney-at-Law had obtained from the record room officials.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      414.65,
+      526.88,
+      427.98
+    ],
+    "text": "Deputy Registrar Maheshi Welagedara has been cross-examined by the learned Counsel for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      434.57,
+      526.88,
+      447.9
+    ],
+    "text": "the Respondent Attorney-at-Law. However, similar to the previous two witnesses, all that has",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      454.49,
+      526.88,
+      467.82
+    ],
+    "text": "happened during the cross-examination is that this witness too has got a second opportunity",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      474.43,
+      526.88,
+      487.76
+    ],
+    "text": "to reiterate whatever she had said in evidence-in-chief. The learned Counsel for the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      494.35,
+      526.88,
+      507.68
+    ],
+    "text": "Respondent Attorney-at-Law did not elicit through cross-examination any material which Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      514.27,
+      295.83,
+      527.6
+    ],
+    "text": "could have considered in favour of his client.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      546.19,
+      526.88,
+      559.52
+    ],
+    "text": "Thus, at the close of the case by the learned Additional Solicitor General, the evidence adduced",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      566.11,
+      514.16,
+      579.44
+    ],
+    "text": "by the three witnesses against the Respondent Attorney-at-Law remained uncontroverted.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      598.03,
+      526.88,
+      611.36
+    ],
+    "text": "It was thereafter that the Respondent Attorney-at-Law Wickramage Don Dharmasiri",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      617.95,
+      526.88,
+      631.28
+    ],
+    "text": "Karunaratne commenced giving evidence. He has admitted going to the record room of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      637.87,
+      526.88,
+      651.2
+    ],
+    "text": "Court of Appeal housed in the Kaluthota building on the date of the incident and at the time",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      657.82,
+      526.88,
+      671.15
+    ],
+    "text": "of the incident. He has also admitted that he has requested, obtained and inspected the case",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      677.74,
+      526.88,
+      691.07
+    ],
+    "text": "record of the case bearing No. COC/11/2022 from the said record room. He also has confirmed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      697.66,
+      526.88,
+      710.99
+    ],
+    "text": "the presence of the second witness Jude Dhanushka Perera at the said record room at that",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      717.58,
+      526.88,
+      730.91
+    ],
+    "text": "time. He has admitted that he studied the said case record at that point of time. However, he",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      737.5,
+      526.88,
+      750.82
+    ],
+    "text": "has denied that he removed any paper from the record. Thus, the only point which is not",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 8 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      72.0,
+      526.88,
+      85.33
+    ],
+    "text": "admitted by the Respondent Attorney-at-Law is the fact that he has removed two papers from",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      91.94,
+      503.72,
+      105.27
+    ],
+    "text": "the record as alleged by the witnesses called by the learned Additional Solicitor General.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      123.86,
+      526.88,
+      137.19
+    ],
+    "text": "The learned Additional Solicitor General has cross-examined the Respondent Attorney-at-Law.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      143.78,
+      526.88,
+      157.11
+    ],
+    "text": "During the cross-examination, the Respondent Attorney-at-Law has not been able to place",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      163.7,
+      526.88,
+      177.03
+    ],
+    "text": "before Court any acceptable reason as to why he had wanted to inspect that case record. The",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      183.62,
+      526.88,
+      196.95
+    ],
+    "text": "reason the Respondent Attorney-at-Law had placed before Court in that regard is the fact that",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      203.54,
+      526.88,
+      216.87
+    ],
+    "text": "he wanted to study how the petition in that case had been drafted as he was contemplating",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      223.46,
+      526.88,
+      236.79
+    ],
+    "text": "drafting a similar petition. Upon being asked as to how he got to know that a similar type of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      243.38,
+      526.88,
+      256.71
+    ],
+    "text": "petition is available in that case record, his reply was that he found it through a Google search.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      263.3,
+      526.88,
+      276.63
+    ],
+    "text": "However, when asked about the way in which he had previously launched a Google search in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      283.25,
+      526.88,
+      296.58
+    ],
+    "text": "order to find the case number of this record, the Respondent Attorney-at-Law has failed to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      303.17,
+      526.88,
+      316.5
+    ],
+    "text": "give any acceptable answer. It is the position of the learned Additional Solicitor General that",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      323.09,
+      526.88,
+      336.42
+    ],
+    "text": "the Respondent Attorney-at-Law could not have found the case No. COC/11/2022 through a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      343.01,
+      517.16,
+      356.34
+    ],
+    "text": "Google search conducted in the way the Respondent Attorney-at-Law claims to have done.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      374.93,
+      526.88,
+      388.26
+    ],
+    "text": "I have considered the evidence of the Respondent Attorney-at-Law and the answers he has",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      394.85,
+      526.88,
+      408.18
+    ],
+    "text": "given to the questions asked by the learned Additional Solicitor General in cross-examination.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      414.65,
+      526.88,
+      427.98
+    ],
+    "text": "Having considered them, I am of the view that the explanation offered by the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      434.57,
+      526.88,
+      447.9
+    ],
+    "text": "Attorney-at-Law as to the purpose for which he has obtained the record of the case bearing",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      454.49,
+      526.88,
+      467.82
+    ],
+    "text": "No. COC/11/2022 is unacceptable. Therefore, I am compelled to take the view that the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      474.43,
+      526.88,
+      487.76
+    ],
+    "text": "Respondent Attorney-at-Law has applied and obtained this record, not for the purpose he",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      494.35,
+      526.88,
+      507.68
+    ],
+    "text": "claimed in his evidence, but for the surreptitious removal of certain papers which he had",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      514.27,
+      526.88,
+      527.6
+    ],
+    "text": "indeed done after the record was released to him by the record room officials. Another reason",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      534.19,
+      523.59,
+      547.52
+    ],
+    "text": "as to why I am compelled to come to this conclusion is the fact that the Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      554.11,
+      526.88,
+      567.44
+    ],
+    "text": "at-Law has ensured that his name is not inserted in the register to conceal the fact that it was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      574.03,
+      526.88,
+      587.36
+    ],
+    "text": "he who had applied for the said case record. This was to ensure that no link to him will be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      593.95,
+      526.88,
+      607.28
+    ],
+    "text": "established, even at a later point of time. The absence of any acceptable explanation as to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      613.87,
+      526.88,
+      627.2
+    ],
+    "text": "any useful purpose that would have served the Respondent Attorney-at-Law by the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      633.79,
+      526.88,
+      647.12
+    ],
+    "text": "inspection/study of the said case record is another factor which indicates that the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      653.74,
+      526.88,
+      667.07
+    ],
+    "text": "Attorney-at-Law has obtained this case record for an undisclosed and surreptitious purpose",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      673.66,
+      349.01,
+      686.99
+    ],
+    "text": "and not for the purpose he has claimed in his evidence.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      705.58,
+      526.88,
+      718.91
+    ],
+    "text": "On the other hand, the Respondent Attorney-at-Law, in his evidence under oath, has stated",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      725.5,
+      526.88,
+      738.83
+    ],
+    "text": "from the witness box in no uncertain terms the following: that he knew Deputy Registrar",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      745.42,
+      526.88,
+      758.74
+    ],
+    "text": "Maheshi Welagedara for a long time; that he knew the Deputy Registrar Maheshi Welagedara",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      378.07,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 9 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      72.0,
+      526.88,
+      85.33
+    ],
+    "text": "to be an honest, hardworking and genuine officer; and that Deputy Registrar Maheshi",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      91.94,
+      526.88,
+      105.27
+    ],
+    "text": "Welagedara did not have any reason to fabricate false evidence against him. The above",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      111.86,
+      526.88,
+      125.19
+    ],
+    "text": "positions taken up by the Respondent Attorney-at-Law has transpired in his own evidence,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      131.78,
+      466.04,
+      145.11
+    ],
+    "text": "and therefore I would reproduce the following portion from this evidence below:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      167.65,
+      332.59,
+      181.27
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      208.09,
+      543.94,
+      221.71
+    ],
+    "text": ": . .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      152.06,
+      228.49,
+      543.94,
+      242.11
+    ],
+    "text": ". .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      152.06,
+      249.01,
+      543.94,
+      262.63
+    ],
+    "text": ",",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      152.06,
+      310.36,
+      274.13,
+      323.98
+    ],
+    "text": ".",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      350.8,
+      371.83,
+      364.42
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      391.24,
+      543.94,
+      404.86
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      152.06,
+      411.64,
+      405.79,
+      425.26
+    ],
+    "text": ".",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      452.08,
+      370.39,
+      465.7
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      492.54,
+      235.61,
+      506.16
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      532.98,
+      302.09,
+      546.6
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      573.42,
+      196.25,
+      587.04
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      613.86,
+      355.03,
+      627.48
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      654.33,
+      527.62,
+      667.95
+    ],
+    "text": ": . .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.58,
+      694.65,
+      368.47,
+      708.27
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      372.31,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 10 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      75.95,
+      196.25,
+      89.57
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      116.41,
+      311.93,
+      130.03
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      156.85,
+      316.03,
+      170.47
+    ],
+    "text": ": . .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      197.29,
+      392.47,
+      210.91
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      237.73,
+      543.94,
+      251.35
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      152.06,
+      258.13,
+      212.69,
+      271.75
+    ],
+    "text": ".",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      298.6,
+      299.69,
+      312.22
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      339.04,
+      258.65,
+      352.66
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      379.48,
+      295.25,
+      393.1
+    ],
+    "text": ": , ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      419.92,
+      252.05,
+      433.54
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      460.38,
+      432.19,
+      474.0
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      500.82,
+      222.29,
+      514.44
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      541.26,
+      537.82,
+      554.88
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      581.7,
+      530.26,
+      595.32
+    ],
+    "text": ": , . .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      622.14,
+      278.21,
+      635.76
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      662.61,
+      369.31,
+      676.23
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.58,
+      703.05,
+      543.94,
+      716.67
+    ],
+    "text": ": , .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      152.06,
+      723.45,
+      334.03,
+      737.07
+    ],
+    "text": "?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      372.31,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 11 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109.58,
+      75.95,
+      182.9,
+      89.57
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109.58,
+      116.41,
+      497.86,
+      130.03
+    ],
+    "text": ": ?",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109.58,
+      156.85,
+      182.9,
+      170.47
+    ],
+    "text": ": .",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      193.34,
+      526.88,
+      206.67
+    ],
+    "text": "I have already mentioned above that at the close of the case by the learned Additional Solicitor",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      213.26,
+      526.88,
+      226.59
+    ],
+    "text": "General, evidence adduced by the three witnesses against the Respondent Attorney-at-Law",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      233.18,
+      526.88,
+      246.51
+    ],
+    "text": "remained uncontroverted. It was thereafter that the Respondent Attorney-at-Law gave",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      253.1,
+      526.88,
+      266.43
+    ],
+    "text": "evidence. In his evidence, the Respondent Attorney-at-Law has not adduced any different",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      273.05,
+      526.88,
+      286.38
+    ],
+    "text": "sequence of events regarding the facts of the case. This is so in his evidence as well as in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      292.97,
+      526.88,
+      306.3
+    ],
+    "text": "line of cross-examination of the three witnesses by his Counsel. Indeed, the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      312.89,
+      526.88,
+      326.22
+    ],
+    "text": "Attorney-at-Law has not been able to discredit their testimony. The only point of evidence",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      332.81,
+      526.88,
+      346.14
+    ],
+    "text": "denied by the Respondent Attorney-at-Law is the fact that he has removed two papers from",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      352.73,
+      132.12,
+      366.06
+    ],
+    "text": "the record.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      384.65,
+      526.88,
+      397.98
+    ],
+    "text": "As I have already stated, the Respondent Attorney-at-Law does not produce any reason as to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      404.57,
+      526.88,
+      417.9
+    ],
+    "text": "why the three witnesses should implicate him in this incident by fabricating false evidence.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      424.37,
+      526.88,
+      437.7
+    ],
+    "text": "Moreover, the Respondent Attorney-at-Law, in his evidence, has categorically stated that the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      444.29,
+      526.88,
+      457.62
+    ],
+    "text": "Deputy Registrar Maheshi Welagedara is a person known to him, and is an honest and efficient",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      464.23,
+      526.88,
+      477.56
+    ],
+    "text": "officer. Therefore, what is embedded in that statement is the fact that the Deputy Registrar",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      484.15,
+      526.88,
+      497.48
+    ],
+    "text": "Maheshi Welagedara could never have fabricated and given false evidence against him. This",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      504.07,
+      526.88,
+      517.4
+    ],
+    "text": "is the thinking of the Respondent Attorney-at-Law in the course of his evidence. Moreover, I",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      523.99,
+      526.88,
+      537.32
+    ],
+    "text": "find that the evidence of all three witnesses led by the Additional Solicitor General have",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      543.91,
+      526.88,
+      557.24
+    ],
+    "text": "mutually corroborated each other with no discrepancies amongst them. All these three",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      563.83,
+      497.48,
+      577.16
+    ],
+    "text": "witnesses are persons who have independently observed the events narrated by them.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      595.75,
+      526.88,
+      609.08
+    ],
+    "text": "Having considered all the above material I am convinced that the three witnesses, whose",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      615.67,
+      526.88,
+      629.0
+    ],
+    "text": "evidence was led by the Additional Solicitor General, have given truthful evidence before",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      635.59,
+      108.6,
+      648.92
+    ],
+    "text": "Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      667.54,
+      526.88,
+      680.87
+    ],
+    "text": "Having considered the totality of evidence I am not prepared to accept the denial by the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      687.46,
+      526.88,
+      700.79
+    ],
+    "text": "Respondent Attorney-at-Law that he has not removed two papers from the record. In my view",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      707.38,
+      526.88,
+      720.71
+    ],
+    "text": "it is a false denial put forward as an attempt to escape from the responsibility for the act he",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      727.3,
+      526.88,
+      740.63
+    ],
+    "text": "had done. I cannot see any possibility of drawing a different inference upon consideration of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      747.22,
+      526.88,
+      760.54
+    ],
+    "text": "the above facts. Thus, upon consideration of the totality of the evidence adduced in this case,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      372.31,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 12 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      72.0,
+      526.88,
+      85.33
+    ],
+    "text": "I conclude that the Respondent Attorney-at-Law, on the date of the incident, having obtained",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      91.94,
+      526.88,
+      105.27
+    ],
+    "text": "the record of the case bearing No. COC/11/2022 from the record room of the Registry of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      111.86,
+      526.88,
+      125.19
+    ],
+    "text": "Court of Appeal, by misleading the record room officials to believe that he was one",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      131.78,
+      526.88,
+      145.11
+    ],
+    "text": "Chandrasiri Fernando. by inserting that false name in the register, had thereafter",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      151.7,
+      526.88,
+      165.03
+    ],
+    "text": "surreptitiously torn two pages from the said record and inserted those torn pages into a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      171.62,
+      291.27,
+      184.95
+    ],
+    "text": "personal file he had brought along with him.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      203.54,
+      523.59,
+      216.87
+    ],
+    "text": "In the aforesaid circumstances, and for the foregoing reasons, I hold that the above-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      223.46,
+      526.88,
+      236.79
+    ],
+    "text": "mentioned charges set out in (a), (b), (c), (d), (e) of the Rule dated 28-08-2024 have been",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      243.38,
+      526.88,
+      256.71
+    ],
+    "text": "proved to the satisfaction of Court and that the said acts amount to acts of deceit and/or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      263.3,
+      526.88,
+      276.63
+    ],
+    "text": "malpractice and/or crime and/or offence in terms of Section 42(2) of the Judicature Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      283.25,
+      526.88,
+      296.58
+    ],
+    "text": "Therefore, I find the Respondent Attorney-at-Law guilty of the said acts of deceit, malpractice,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      303.17,
+      526.88,
+      316.5
+    ],
+    "text": "crime and offence referred to above in paragraphs (a) to (e) of the Rule dated 28-08-2024. I",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      323.09,
+      238.11,
+      336.42
+    ],
+    "text": "order that the Rule be confirmed.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      355.01,
+      526.88,
+      368.34
+    ],
+    "text": "The Respondent Attorney-at-Law has not been sincerely and truly repentant over the above",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      374.93,
+      526.88,
+      388.26
+    ],
+    "text": "breaches for which he is clearly liable. Instead, he was determined to the last stages of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      394.85,
+      526.88,
+      408.18
+    ],
+    "text": "inquiry to contest the said allegations. That necessarily indicates the absence of any remorse",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      414.65,
+      317.57,
+      427.98
+    ],
+    "text": "on his part in relation to the said acts of defiance.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      446.55,
+      526.88,
+      459.9
+    ],
+    "text": "Rule 60 of the Supreme Court (Conduct of and Etiquette for Attorneys-at-Law) Rules 1988",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.064000129699707
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      466.51,
+      526.88,
+      479.84
+    ],
+    "text": "published in the Gazette Extraordinary of the Democratic Socialist Republic of Sri Lanka No.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      486.43,
+      280.71,
+      499.76
+    ],
+    "text": "535/7 dated 07-12-1988 states as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      518.35,
+      526.88,
+      531.68
+    ],
+    "text": "An Attorney-at-Law must not conduct himself in any manner which would be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      538.27,
+      526.88,
+      551.6
+    ],
+    "text": "reasonably regarded as disgraceful or dishonourable by Attorneys-at-Law of good",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      558.19,
+      523.35,
+      571.52
+    ],
+    "text": "repute and competency or which would render him unfit to remain an Attorney-at-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      578.11,
+      526.88,
+      591.44
+    ],
+    "text": "Law or which is inexcusable and such as to be regarded as deplorable by his fellows",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      598.03,
+      221.55,
+      611.36
+    ],
+    "text": "in the profession.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      629.95,
+      526.88,
+      643.28
+    ],
+    "text": "It is also relevant to note that while Rule 61 states that an Attorney-at-Law shall not conduct",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      649.9,
+      526.88,
+      663.23
+    ],
+    "text": "himself in any manner unworthy of an Attorney-at-Law, Rule 62 states that these rules are",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      669.82,
+      153.12,
+      683.15
+    ],
+    "text": "not exhaustive.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      701.74,
+      526.88,
+      715.07
+    ],
+    "text": "In terms of Section 42 of the Judicature Act, the Supreme Court has been vested with the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      721.66,
+      526.88,
+      734.99
+    ],
+    "text": "power to suspend from practice or remove from office, any Attorney-at-Law who is found to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      741.58,
+      334.97,
+      754.9
+    ],
+    "text": "be guilty of any deceit, malpractice, crime or offence.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      372.31,
+      35.16,
+      526.54,
+      47.18
+    ],
+    "text": "[SC Rule No. 16/2023] Page 13 of 13",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      71.98,
+      526.88,
+      85.33
+    ],
+    "text": "It must be borne in mind that this Court admits and enrolls as Attorneys-at-Law in terms of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.064000129699707
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      91.94,
+      526.88,
+      105.27
+    ],
+    "text": "Section 40 of the Judicature Act, only persons of good repute and of competent knowledge",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      111.86,
+      526.88,
+      125.19
+    ],
+    "text": "and ability. Such Attorneys-at-Law once enrolled cannot engage in any deceit, malpractice,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      131.78,
+      526.88,
+      145.11
+    ],
+    "text": "crime or offence. It is a reasonable expectation of both the public and those involved in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      151.7,
+      526.88,
+      165.03
+    ],
+    "text": "administration of justice in the country. If an Attorney-at-Law is unable to maintain the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      171.62,
+      526.88,
+      184.95
+    ],
+    "text": "expected standard, then such an Attorney-at-Law cannot be permitted to continue to function",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      191.54,
+      526.88,
+      204.87
+    ],
+    "text": "in that capacity any more. Section 42 has entrusted this Court with the responsibility of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      211.46,
+      526.88,
+      224.79
+    ],
+    "text": "maintaining the aforesaid standards. Thus, this Court has a duty to take into consideration,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      231.38,
+      526.88,
+      244.71
+    ],
+    "text": "the interests and aspirations of the general public that only persons of good repute and of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      251.3,
+      526.88,
+      264.63
+    ],
+    "text": "competent knowledge and ability function as Attorneys-at-Law. It also has a duty to maintain",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      271.25,
+      526.88,
+      284.58
+    ],
+    "text": "the quality of the administration of justice, and the need to maintain the standards expected",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      291.17,
+      526.88,
+      304.5
+    ],
+    "text": "from the members of the legal fraternity when deciding the course of action it should take in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      311.09,
+      178.08,
+      324.42
+    ],
+    "text": "a case of this nature.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      343.01,
+      526.88,
+      356.34
+    ],
+    "text": "In the above circumstances, I do not think it is necessary for me to give further reasons to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      362.93,
+      526.88,
+      376.26
+    ],
+    "text": "show how the actions of the Respondent Attorney-at-Law has tarnished the image of the legal",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      382.85,
+      260.79,
+      396.18
+    ],
+    "text": "profession of this country as a whole.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      414.65,
+      526.88,
+      427.98
+    ],
+    "text": "Having considered all those circumstances, as the Respondent Attorney-at-Law has been",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      434.57,
+      526.88,
+      447.9
+    ],
+    "text": "found guilty of an act of deceit which is also a malpractice, acting in terms of Section 42 of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      454.47,
+      526.88,
+      467.82
+    ],
+    "text": "the Judicature Act, I direct that the Respondent Attorney-at-Law Wickramage Don Dharmasiri",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.064000129699707
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      474.43,
+      413.57,
+      487.76
+    ],
+    "text": "Karunaratne be removed from office as an Attorney-at-Law forthwith.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      506.35,
+      526.88,
+      519.68
+    ],
+    "text": "The Registrar of this Court is directed to take all necessary steps to implement this order",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      526.27,
+      499.64,
+      539.6
+    ],
+    "text": "removing the Respondent Attorney-at-Law from office as an Attorney-at-Law forthwith.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      439.15,
+      587.83,
+      526.65,
+      601.16
+    ],
+    "text": "CHIEF JUSTICE",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      613.75,
+      259.72,
+      627.08
+    ],
+    "text": "KUMUDINI WICKREMASINGHE, J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      633.67,
+      113.76,
+      647.0
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      344.47,
+      667.66,
+      526.65,
+      680.99
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      693.58,
+      211.84,
+      706.91
+    ],
+    "text": "ACHALA WENGAPPULI, J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      713.5,
+      113.76,
+      726.83
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      344.47,
+      733.42,
+      526.65,
+      746.74
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  }
+]

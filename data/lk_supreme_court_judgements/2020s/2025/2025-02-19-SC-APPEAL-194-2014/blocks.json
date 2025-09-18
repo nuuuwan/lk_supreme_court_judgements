@@ -1,0 +1,2621 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.97,
+      84.35,
+      488.34,
+      100.56
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      13.920000076293945
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      169.99,
+      109.1,
+      446.74,
+      125.31
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      13.920000076293945
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.7,
+      166.35,
+      441.29,
+      180.35
+    ],
+    "text": "1. Letchumy Suntharanathan,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      187.49,
+      404.33,
+      201.49
+    ],
+    "text": "New Kalmunai Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      208.85,
+      391.82,
+      222.85
+    ],
+    "text": "Kallady, Batticaloa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.7,
+      229.97,
+      428.57,
+      243.97
+    ],
+    "text": "2. Suntharanathan Premini,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      251.09,
+      404.33,
+      265.09
+    ],
+    "text": "New Kalmunai Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      272.24,
+      391.82,
+      286.24
+    ],
+    "text": "Kallady, Batticaloa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      293.36,
+      479.47,
+      307.36
+    ],
+    "text": "Defendant-Respondent-Appellants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.65,
+      314.48,
+      241.06,
+      328.46
+    ],
+    "text": "SC/APPEAL/194/2014",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.65,
+      335.6,
+      244.42,
+      349.58
+    ],
+    "text": "EP/HCCA/BC/26/2007",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.65,
+      356.74,
+      253.06,
+      370.72
+    ],
+    "text": "DC BATTICALOA 4535/L",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      377.86,
+      296.04,
+      391.86
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      410.98,
+      439.85,
+      424.98
+    ],
+    "text": "Sellathangam Logitharajah,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      432.12,
+      404.33,
+      446.12
+    ],
+    "text": "New Kalmunai Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      453.24,
+      391.82,
+      467.24
+    ],
+    "text": "Kallady, Batticaloa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      474.36,
+      339.98,
+      488.36
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      507.51,
+      434.81,
+      521.51
+    ],
+    "text": "Janaththany Logitharajah,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      528.63,
+      404.33,
+      542.63
+    ],
+    "text": "New Kalmunai Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      549.75,
+      391.82,
+      563.75
+    ],
+    "text": "Kallady, Batticaloa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      570.87,
+      457.37,
+      584.87
+    ],
+    "text": "Substituted Plaintiff-Appellant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.7,
+      592.01,
+      346.94,
+      606.01
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.65,
+      646.25,
+      370.22,
+      660.25
+    ],
+    "text": "Before: Hon. Justice P. Padman Surasena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.65,
+      667.4,
+      360.62,
+      681.4
+    ],
+    "text": "Hon. Justice Achala Wengappuli",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.65,
+      688.51,
+      407.93,
+      702.52
+    ],
+    "text": "Hon. Justice Mahinda Samayawardhena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      161.11,
+      35.04,
+      317.4,
+      49.04
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      390.62,
+      37.86,
+      520.2,
+      50.74
+    ],
+    "text": "SC/APPEAL/194/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      72.0,
+      473.95,
+      86.0
+    ],
+    "text": "Counsel: S. Mandaleswaran with S. Abinya for the Defendant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.67,
+      93.12,
+      309.72,
+      107.12
+    ],
+    "text": "Respondent-Appellants.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.67,
+      114.27,
+      486.1,
+      128.27
+    ],
+    "text": "V. Puvitharan, P.C. with Joseph Beneraj Ragul for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.67,
+      135.39,
+      385.58,
+      149.39
+    ],
+    "text": "Plaintiff-Appellant-Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      162.51,
+      236.74,
+      176.51
+    ],
+    "text": "Argued on: 02.12.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      189.65,
+      222.58,
+      203.65
+    ],
+    "text": "Written submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      216.77,
+      462.43,
+      230.77
+    ],
+    "text": "By the Appellants and Respondent on 15.01.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      243.89,
+      241.54,
+      257.89
+    ],
+    "text": "Decided on: 19.02.2025",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      295.04,
+      225.94,
+      309.02
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      328.16,
+      522.42,
+      342.16
+    ],
+    "text": "The plaintiff filed this action against the 1st defendant in the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      349.3,
+      522.4,
+      363.3
+    ],
+    "text": "Court of Batticaloa by plaint dated 10.10.1997, seeking a declaration of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      370.42,
+      522.32,
+      384.42
+    ],
+    "text": "title to, ejectment of the defendant from, the two portions of the land",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      391.54,
+      522.41,
+      405.54
+    ],
+    "text": "described in schedules C and D to the plaint, and damages. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      412.66,
+      522.43,
+      426.66
+    ],
+    "text": "defendant filed answer seeking dismissal of the plaintiffs action. Her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      434.04,
+      522.46,
+      448.04
+    ],
+    "text": "daughter was later added as the 2nd defendant. The position of the 1st",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      455.16,
+      522.38,
+      469.16
+    ],
+    "text": "defendant was that she has prescribed to the land and on that basis she",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      476.28,
+      522.36,
+      490.28
+    ],
+    "text": "gifted the land in suit to the 2nd defendant by a deed. After trial, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      497.4,
+      522.34,
+      511.4
+    ],
+    "text": "District Judge, by judgment dated 29.10.2004, dismissed the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      518.55,
+      522.23,
+      532.55
+    ],
+    "text": "action and allowed the cross-claim of the defendant. The District Judge",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      539.67,
+      522.18,
+      553.67
+    ],
+    "text": "held that the 2nd defendant is entitled to Lots 1 and 2 of Plan No. 29",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      560.79,
+      319.8,
+      574.79
+    ],
+    "text": "marked X by prescriptive possession.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      593.93,
+      522.34,
+      607.93
+    ],
+    "text": "At the trial, during the cross-examination, the plaintiff admitted that she",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      615.05,
+      522.12,
+      629.05
+    ],
+    "text": "became entitled only to a 1/5 share of the land by her title deed marked",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      636.17,
+      522.43,
+      650.17
+    ],
+    "text": "P3, although the deed purported to convey the entire land to her. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      657.32,
+      522.17,
+      671.32
+    ],
+    "text": "plaintiff admitted in evidence that this deed was executed without any",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      678.44,
+      522.46,
+      692.44
+    ],
+    "text": "payment as a gesture of goodwill. On that basis, the District Judge",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.65,
+      699.55,
+      522.08,
+      713.62
+    ],
+    "text": "correctly answered issue No. 1 of the plaintiff, Is the plaintiff the owner",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.11,
+      35.04,
+      317.4,
+      49.04
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      390.62,
+      37.86,
+      520.2,
+      50.74
+    ],
+    "text": "SC/APPEAL/194/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      72.0,
+      521.88,
+      86.06
+    ],
+    "text": "of the property described in schedule B to the plaint as set out in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      93.12,
+      492.67,
+      107.18
+    ],
+    "text": "paragraphs 2-5 of the plaint?, as Sole ownership was not proved.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      126.27,
+      522.07,
+      140.33
+    ],
+    "text": "The third issue of the plaintiff, Was the defendants husband",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      147.39,
+      521.95,
+      161.45
+    ],
+    "text": "Kanapathipillai Suntharanathan in occupation of a divided south western",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      168.51,
+      521.92,
+      182.57
+    ],
+    "text": "portion out of the land described in schedule B morefully described in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      189.65,
+      521.9,
+      203.71
+    ],
+    "text": "schedule C to the plaint with leave and licence of the original owner",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      210.77,
+      522.41,
+      224.83
+    ],
+    "text": "Sinnathamby Thangarasa and Rasamanikabathy Seenithamby? was",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      231.89,
+      522.33,
+      245.89
+    ],
+    "text": "correctly answered by the District Judge in the negative. Although the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      253.01,
+      522.41,
+      267.01
+    ],
+    "text": "plaintiff stated in paragraph 7 of the plaint that the 1st defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      274.16,
+      522.41,
+      288.16
+    ],
+    "text": "husband was there with the leave and licence of Sinnathamby",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      295.52,
+      522.37,
+      309.52
+    ],
+    "text": "Thangarasa and Rasamanikabathy Seenithamby, no evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      316.64,
+      522.43,
+      330.64
+    ],
+    "text": "whatsoever acceptable to Court was led to establish that fact. The District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      337.76,
+      522.24,
+      351.76
+    ],
+    "text": "Judge correctly states in the judgment that even the plaintiff in his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      358.9,
+      522.36,
+      372.9
+    ],
+    "text": "evidence firmly and clearly did not take up such a position except to make",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      380.02,
+      522.36,
+      394.02
+    ],
+    "text": "a passing remark in his evidence that the 1st defendants late husband",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      401.14,
+      522.41,
+      415.14
+    ],
+    "text": "was there with the leave and licence of the plaintiffs predecessors. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      422.28,
+      522.39,
+      436.28
+    ],
+    "text": "District Judge also states that the plaintiff even in his statement made to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      443.4,
+      522.42,
+      457.4
+    ],
+    "text": "the police marked P4 does not mention about leave and licence. None of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      464.52,
+      522.43,
+      478.52
+    ],
+    "text": "the witnesses of the plaintiff spoke about leave and licence. Neither",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      485.64,
+      522.42,
+      499.64
+    ],
+    "text": "Sinnathamby Thangarasa nor Rasamanikabathy Seenithamby who are",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      506.79,
+      522.16,
+      520.79
+    ],
+    "text": "the plaintiffs predecessors in title was called to give evidence that they",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      527.91,
+      515.95,
+      541.91
+    ],
+    "text": "gave leave and licence to the defendants husband to possess the land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      561.03,
+      522.41,
+      575.03
+    ],
+    "text": "During the cross-examination of the defendant, it was put to her that her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      582.17,
+      522.25,
+      596.17
+    ],
+    "text": "late husband possessed the land with the leave and licence of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      603.29,
+      522.46,
+      617.29
+    ],
+    "text": "predecessors of the plaintiff but the defendant had completely rejected it.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      624.41,
+      522.36,
+      638.41
+    ],
+    "text": "The question of leave and licence has not been pursued further with any",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      645.53,
+      174.31,
+      659.53
+    ],
+    "text": "seriousness.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      678.68,
+      522.37,
+      692.68
+    ],
+    "text": "According to the evidence of the defendant, after her marriage to her late",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.65,
+      699.79,
+      522.41,
+      713.8
+    ],
+    "text": "husband in 1978, she came into occupation of the house on the land. At",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.11,
+      35.04,
+      317.4,
+      49.04
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      390.62,
+      37.86,
+      520.2,
+      50.74
+    ],
+    "text": "SC/APPEAL/194/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      72.0,
+      522.29,
+      86.0
+    ],
+    "text": "that time, her husband and his parents had been living in the house. All",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      93.12,
+      522.34,
+      107.12
+    ],
+    "text": "three of them are now deceased. Admittedly, the husband had been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      114.27,
+      522.36,
+      128.27
+    ],
+    "text": "operating a cycle repair shop on the premises. Several witnesses were",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      135.39,
+      522.18,
+      149.39
+    ],
+    "text": "called and several documents were marked to prove long possession.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      156.51,
+      522.43,
+      170.51
+    ],
+    "text": "Among them, the trade registration licences for the years 1981-1985 had",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      177.63,
+      522.29,
+      191.63
+    ],
+    "text": "been marked in evidence as P4-P7. The voter registration list for 1986,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      198.77,
+      522.42,
+      212.77
+    ],
+    "text": "which included the name of the 1st defendant, was marked as P8. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      219.89,
+      522.43,
+      233.89
+    ],
+    "text": "Gramaseva Officer of that area during the relevant time, Selliah",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      241.01,
+      522.42,
+      255.01
+    ],
+    "text": "Arasaratnam, also gave evidence. He stated in his evidence that when he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      262.13,
+      522.14,
+      276.13
+    ],
+    "text": "served as the Gramaseva Officer of that area for around 20 years from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      283.28,
+      522.31,
+      297.28
+    ],
+    "text": "01.01.1980, the husband of the 1st defendant was operating a cycle",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      304.4,
+      522.35,
+      318.4
+    ],
+    "text": "repairing shop on the land in suit, with the shop in the front and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      325.52,
+      522.39,
+      339.52
+    ],
+    "text": "house at the rear side of the building. He has visited the house for several",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      346.66,
+      409.85,
+      360.66
+    ],
+    "text": "official purposes which he had described in evidence.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      380.02,
+      522.16,
+      394.02
+    ],
+    "text": "All the witnesses had given evidence, and all the documents had been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      401.14,
+      522.4,
+      415.14
+    ],
+    "text": "marked before the District Judge who pronounced the well-considered",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      422.28,
+      522.13,
+      436.28
+    ],
+    "text": "judgment. Unlike the appellate Court Judge, he was in a distinctly",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      443.4,
+      522.32,
+      457.4
+    ],
+    "text": "advantageous position to observe the demeanour and deportment of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      464.52,
+      522.1,
+      478.52
+    ],
+    "text": "witnesses in the witness box. As there was ample credible evidence that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      485.64,
+      522.28,
+      499.64
+    ],
+    "text": "the defendants and their predecessors had been living on the land in suit",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      506.79,
+      522.22,
+      520.79
+    ],
+    "text": "(Lots 1 and 2 of Plan X, approximately 3 perches in extent) without paying",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      527.91,
+      522.17,
+      541.91
+    ],
+    "text": "rent to anyone or acknowledging anyones rights for over ten years, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      549.03,
+      522.39,
+      563.03
+    ],
+    "text": "District Judge held that the defendants had prescribed to the land in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      570.15,
+      123.89,
+      584.15
+    ],
+    "text": "suit.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      603.29,
+      522.36,
+      617.29
+    ],
+    "text": "Being dissatisfied with the judgment of the District Court, the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      624.41,
+      522.46,
+      638.41
+    ],
+    "text": "appealed to the High Court of Civil Appeal of Batticaloa. The High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      645.53,
+      522.36,
+      659.53
+    ],
+    "text": "set aside the judgment of the District Court and directed the judgment to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.65,
+      666.68,
+      522.13,
+      680.68
+    ],
+    "text": "be entered in favour of the plaintiff only in respect of paragraph B of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.11,
+      35.04,
+      317.4,
+      49.04
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      390.62,
+      37.86,
+      520.2,
+      50.74
+    ],
+    "text": "SC/APPEAL/194/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      72.0,
+      522.43,
+      86.0
+    ],
+    "text": "plaint, i.e. only ejectment of the defendants from the land in suit. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      93.12,
+      435.53,
+      107.12
+    ],
+    "text": "High Court did not make a finding on declaration of title.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      126.27,
+      522.29,
+      140.27
+    ],
+    "text": "The judgment of the High Court lacks any analysis of the evidence led at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      147.39,
+      522.4,
+      161.39
+    ],
+    "text": "the trial. At one point, it merely reiterates the well-established legal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      168.51,
+      522.21,
+      182.51
+    ],
+    "text": "principle that a co-owner may institute an action to have his undivided",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      189.65,
+      522.43,
+      203.65
+    ],
+    "text": "share declared and to seek the ejectment of a trespasser. The District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      210.77,
+      522.43,
+      224.77
+    ],
+    "text": "Judge has not stated anything contrary to that principle in the judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      231.89,
+      522.18,
+      245.89
+    ],
+    "text": "What the District Judge states is that the plaintiff is not the sole owner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      253.01,
+      522.42,
+      267.01
+    ],
+    "text": "of the land, which is correct. The High Court does not explain the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      274.16,
+      522.42,
+      288.16
+    ],
+    "text": "applicability of this principle to the facts of the case or make a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      295.28,
+      522.42,
+      309.28
+    ],
+    "text": "determination on that matter. As I stated previously, the High Court only",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      316.4,
+      522.29,
+      330.4
+    ],
+    "text": "orders ejectment of the defendant without any finding on the soil rights.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      337.52,
+      522.31,
+      351.52
+    ],
+    "text": "Reiterating well-established legal principles and citing judicial precedent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      358.66,
+      522.28,
+      372.66
+    ],
+    "text": "in a judgment serves no purpose unless their relevance to the facts of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      380.02,
+      260.5,
+      394.02
+    ],
+    "text": "case is properly articulated.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      413.14,
+      522.15,
+      427.2
+    ],
+    "text": "Thereafter the High Court states without any rational basis this Court is",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      434.28,
+      521.94,
+      448.34
+    ],
+    "text": "of the view that Sundaranathan (defendants husband) has entered into",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      455.4,
+      522.01,
+      469.46
+    ],
+    "text": "the land with leave and license. A person who has entered into possession",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      476.52,
+      521.88,
+      490.58
+    ],
+    "text": "of land in one capacity is presumed to continue to possess it in the same",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      497.64,
+      522.46,
+      511.7
+    ],
+    "text": "capacity and sets aside the judgment of the District Court on the premise",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      518.79,
+      522.46,
+      532.79
+    ],
+    "text": "that the defendant did not prove prescriptive title. As the District Judge",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      539.91,
+      522.33,
+      553.91
+    ],
+    "text": "correctly states after analysing the evidence, the plaintiff did not prove",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      561.03,
+      522.21,
+      575.03
+    ],
+    "text": "that the 1st defendants husband came into possession of the land with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      582.17,
+      522.43,
+      596.17
+    ],
+    "text": "the leave and licence of anybody. If this is not proved by the plaintiff, on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      603.29,
+      522.34,
+      617.29
+    ],
+    "text": "the facts and circumstances of the case, the defendants claim for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      624.41,
+      321.0,
+      638.41
+    ],
+    "text": "prescriptive title is bound to succeed.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      657.56,
+      522.13,
+      671.56
+    ],
+    "text": "The two questions of law on which leave to appeal was granted and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.65,
+      678.68,
+      278.28,
+      692.68
+    ],
+    "text": "answers thereto are as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      161.11,
+      35.04,
+      317.4,
+      49.04
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      390.62,
+      37.86,
+      520.2,
+      50.74
+    ],
+    "text": "SC/APPEAL/194/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.65,
+      72.0,
+      522.22,
+      86.0
+    ],
+    "text": "Q. Did the High Court err in law in granting ejectment without the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.65,
+      93.12,
+      246.34,
+      107.12
+    ],
+    "text": "declaration of title?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.65,
+      114.27,
+      357.74,
+      128.27
+    ],
+    "text": "A. In the circumstances of this case, yes.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.65,
+      135.39,
+      522.41,
+      149.39
+    ],
+    "text": "Q. Did the High Court err in law in holding that the 1st defendants",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.65,
+      156.51,
+      477.07,
+      170.51
+    ],
+    "text": "husband is a licensee of the plaintiffs predecessor in title?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.65,
+      177.63,
+      157.51,
+      191.63
+    ],
+    "text": "A. Yes.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.65,
+      210.77,
+      522.07,
+      224.77
+    ],
+    "text": "I set aside the judgment of the High Court and restore the judgment of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.65,
+      231.89,
+      405.29,
+      245.89
+    ],
+    "text": "the District Court. The appeal is allowed with costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      345.74,
+      307.28,
+      515.95,
+      321.28
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.65,
+      340.4,
+      238.9,
+      354.4
+    ],
+    "text": "P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.65,
+      361.54,
+      241.54,
+      375.54
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      352.22,
+      382.66,
+      522.46,
+      396.66
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.65,
+      425.16,
+      229.3,
+      439.16
+    ],
+    "text": "Achala Wengappuli, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.65,
+      446.28,
+      140.45,
+      460.28
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      352.22,
+      467.4,
+      522.46,
+      481.4
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

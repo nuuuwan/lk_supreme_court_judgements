@@ -1,0 +1,2560 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "1",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.79,
+      72.0,
+      498.82,
+      86.66
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      88.8,
+      385.39,
+      120.5
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      122.64,
+      527.39,
+      187.94
+    ],
+    "text": "In the matter of an Application in terms of Articles 17 and 126 of the Constitution of the Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.0,
+      190.08,
+      482.24,
+      255.38
+    ],
+    "text": "1. R.P. Susil Priyankar Seneviratne No. 411/3, Navateldeniya, Galadivul-wewa.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      31.5,
+      257.52,
+      527.54,
+      306.02
+    ],
+    "text": "Petitioner SC FR Application No: 690/2012",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      308.16,
+      364.24,
+      373.46
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.0,
+      375.84,
+      439.25,
+      390.5
+    ],
+    "text": "1. P. Prasanna Karunajeewa,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      392.64,
+      333.75,
+      424.1
+    ],
+    "text": "PC 37248",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.0,
+      426.24,
+      401.74,
+      440.9
+    ],
+    "text": "2. R.M.T. Karunatilake,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      443.28,
+      370.5,
+      474.74
+    ],
+    "text": "Sergeant 32781",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.0,
+      476.88,
+      379.24,
+      491.54
+    ],
+    "text": "3. M.D. Jagathpala,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.0,
+      493.92,
+      418.48,
+      542.18
+    ],
+    "text": "PC 48123. 4. M.G.A.T.B. Abeysinghe,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.0,
+      544.56,
+      389.97,
+      592.82
+    ],
+    "text": "PC 63722 5. H.M. Upali Herath,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.0,
+      595.2,
+      418.99,
+      643.46
+    ],
+    "text": "PC 45450 6. P.K.G.S.P. Prematunga,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.0,
+      645.6,
+      386.99,
+      694.1
+    ],
+    "text": "PC 35275 7. Upula Seneviratne",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.0,
+      696.24,
+      527.39,
+      761.54
+    ],
+    "text": "Officer-in-Charge The 1st 7th Respondents of the Police Station,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "2",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.0,
+      72.0,
+      440.98,
+      120.5
+    ],
+    "text": "Thambuttegama 8. Inspector General of Police,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.0,
+      122.64,
+      461.99,
+      204.74
+    ],
+    "text": "Sri Lankan Police Department, Police Head Quarters, Colombo 01. 9. Hon The Attorney General,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      206.88,
+      467.99,
+      272.18
+    ],
+    "text": "Attorney Generals Department, Hulftsdorp, Colombo 12",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      274.56,
+      527.29,
+      457.94
+    ],
+    "text": "Respondents Before : S. Thurairaja, PC, J. Y. Kodagoda, PC, J. K. Priyantha Fernando, J. Counsel : Pulasthi Hewamanna with Ms. Linuri Munasinghe instructed by Sanjeewa Kaluarachchi for the Petitioner .",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      460.08,
+      531.29,
+      643.46
+    ],
+    "text": "Shantha Jayawardena with Ms. Azra Basheer instructed by Tharmarajah Tharmaraja for the 1st 7th Respondents. Ms. Induni Punchihewa, SC, for the 8th and 9th Respondents Argued on : 03.03.2025 Decided on : 23.05.2025",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      645.6,
+      301.89,
+      710.9
+    ],
+    "text": "K. PRIYANTHA FERNANDO, J",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      713.32,
+      527.29,
+      745.46
+    ],
+    "text": "1. The Petitioner in this application was a 27-year-old who operated a",
+    "fonts": [
+      "Aptos",
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.0,
+      747.6,
+      527.03,
+      762.26
+    ],
+    "text": "communication centre situated in Regina Junction in Thambuttegama.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "3",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.0,
+      72.0,
+      527.41,
+      204.74
+    ],
+    "text": "He alleges that the 1st 6th Respondents who are officers of the Thambuttegama Police Station arbitrarily arrested him and tortured him, and that the 7th Respondent was the Officer in Charge of the Thambuttegama Police station at the time of the incident. He alleges that the Respondents violated fundamental rights guaranteed to him under Articles 11, 12(1), 13 (1), 13 (2), and 13(5) of the Constitution. This Court granted leave to proceed for the alleged violations of Articles 11, 12(1), 13(1) and 13 (5).",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      206.88,
+      527.39,
+      272.18
+    ],
+    "text": "The Facts 2. According to the Petitioner, on 02.08.2012 at around 8.00 a.m. he",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.0,
+      274.56,
+      527.45,
+      373.46
+    ],
+    "text": "opened his business place and, at around 9.00 a.m. on the same day he saw a procession moving past his business place. This procession of hundreds of people had taken place in opposition of the actions of the officers of the Thambuttegama Police Station. The Petitioner maintains that while he did observe the procession with other shop owners, he did not join the same.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      375.84,
+      527.26,
+      407.3
+    ],
+    "text": "3. Thereafter, on 03.08.2012, upon him opening the shop as usual at 8.30",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.0,
+      409.44,
+      527.36,
+      474.74
+    ],
+    "text": "a.m., at around 9.00 a.m., a police jeep, and several motorcycles containing approximately 15 individuals parked outside his business place. Of them, the Petitioner claims that 7 8 individuals including 1st 6th Respondents were in civies and the rest in police attire.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      476.88,
+      527.29,
+      508.58
+    ],
+    "text": "4. The Petitioner claims that those in civilian clothing (including 1st 6th",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.0,
+      510.72,
+      531.19,
+      694.1
+    ],
+    "text": "Respondents) then came into his business place, grabbed him and attempted to drag him out of the premises. The Petitioner submits that the 1st 6th Respondents then assaulted him with their fists and feet multiple times. He further submits that he is unable to recall in detail the extent of torture he suffered owing to the harrowing nature of circumstances. He recalls being assaulted several times on the left side of his head and on his ear with a motorcycle helmet, and being kicked several times on his left leg and body. As a result, the Petitioner has suffered several bruises, and was bleeding from his left ear and left leg. He also claims to have had his hearing capacity impaired in his left ear owing to the assault.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      696.24,
+      527.22,
+      727.94
+    ],
+    "text": "5. He further submits that he was spoken to in filth and contumelious",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.0,
+      730.08,
+      527.31,
+      761.54
+    ],
+    "text": "language for allegedly assaulting police officers of the Thambuttegama Police station upon which he suspected the officers to be mistaken as",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "4",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      72.0,
+      527.37,
+      187.94
+    ],
+    "text": "to his identity. Upon realising such, he had immediately told them that he was not party to the procession and that he was at his business place at the time, providing that such could be verified from the adjoining shop owners. The officers, having disregarded the explanation, have then thrown him inside the police jeep albeit being informed by adjoining shop owners that he was not party to the procession, causing him to be humiliated.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      190.08,
+      527.55,
+      221.54
+    ],
+    "text": "6. In the police jeep, the Petitioner was accompanied by other individuals",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      223.92,
+      527.34,
+      322.82
+    ],
+    "text": "who had been arrested and assaulted by the police under similar grounds. The Petitioner states that one of the said individuals arrested and assaulted was subject to such by a large pipe. They have then been taken to the Thambuttegama Police Station at around 10.30 a.m. on the same day and detained in the police cell, the Petitioner recalls there being 10 12 individuals in the cell.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      325.2,
+      527.22,
+      356.66
+    ],
+    "text": "7. On the same day, at around 11:00 a.m. a woman police constable has",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      358.8,
+      527.3,
+      424.1
+    ],
+    "text": "recorded a statement from the Petitioner which the Petitioner believes was not accurately recorded. The Petitioners family who came to inquire about him were not permitted to speak to him and had been chased away.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      426.24,
+      527.3,
+      457.94
+    ],
+    "text": "8. The Petitioner has then been taken to the Magistrates Court of",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      460.08,
+      527.37,
+      609.86
+    ],
+    "text": "Thambuttegama at around 2:00 p.m. on the same day. Prior to such, the Petitioner submits that the detainees including himself were threatened by the 1st - 6th Respondents to not to disclose the assault suffered by them. Owing to such fear, the Petitioner has not disclosed details of the assault suffered by him to the Magistrate. He has then learned that a fabricated case was filed by the 1st 6th Respondents against him and the others under B Report B 896/2012. The Petitioner had then been released on bail at around 6.00 p.m. of the same day amidst Police objections.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      612.0,
+      527.3,
+      643.46
+    ],
+    "text": "9. Following the release, the Petitioner has started bleeding again from his",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.0,
+      645.6,
+      527.37,
+      761.54
+    ],
+    "text": "left ear at around 7.00 p.m. of the same day and had not been able to hear properly. He has been admitted to the Thambuttegama hospital but was transferred to Anuradhapura Teaching Hospital on 04.08.2012 via an ambulance where he has received treatment until 07.08.2012. He was informed that his eardrum had burst and that it may take up to six years to heal.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "5",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      72.0,
+      531.41,
+      761.54
+    ],
+    "text": "10. The treatments he received includes having a blood clot removed from his left ear, several x-rays, and a pure tone audiometry test. The Petitioner was then examined by the Judicial Medical Officer (JMO) on 07.08.2012 (although the report of such examination was not issued to him) and discharged on the same day. He further submits that officers of the Thambuttegama Police Station visited the Petitioner at the hospital and that they recorded a statement from him regarding his arrest and torture. The Petitioner has then taken steps to submit complaints to both the Human Rights Commission and the National Police Commission. 11. In these circumstances, the Petitioner alleges that the totality of facts and circumstances as herein before described, the 1st 7th Respondents in this case, arrested, detained and assaulted the Petitioner. It is his position that the Respondents have violated his Fundamental Rights guaranteed under Articles 11, 12 (1), 13 (1), 13 (2), and 13 (5). 12. In response, the 1st 6th Respondents have submitted that they deny the position that they were the officers who arrested the Petitioner thereby also denying the claims of detaining and torturing him. They maintain that the Petitioner was in fact party to the procession that took place on 02.08.2012 and that the participants of the procession used a loudspeaker without a permit. Further that the crowd proceeded to pelt stones, and clubs inter alia at the Thambuttegama Police Station. This has led to police officers and property being affected negatively. 13. The Respondents state that the 7th Respondent and one Sub Inspector Abeywardhana had seen the Petitioner of the instant case participating in the said unlawful assembly, and causing damage to public property. 14. The Respondents state that officers from Police Stations of Thalawa, Nochchiyagama, and Rajanganaya were called to conduct the investigation and arrest the suspects of the said unlawful assembly. They state that a team of those officers who came on special duty from Nochchiyagama led by Sub Inspector of Police, Ubayanandana arrested the Petitioner of the instant case on 03.08.2012 at 8.45 a.m., and that none among 1st 6th Respondents were involved in the said arrest. The Respondents have submitted the list of names of the aforementioned team: Police Sergeant Chandrasena, Police Constable Pathiraja, Police Constable Sarath, Police Constable Thilakaratne, Police Constable",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "6",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      72.0,
+      527.45,
+      660.26
+    ],
+    "text": "Dissanayake, and the aforementioned Ubayanandana. They have submitted notes made by the aforementioned Ubayanandana on the arrest. 15. They deny the position that the statement recorded by the woman police officer, one Anjula is inaccurate or that they were present in the vicinity when the said statement was recorded. They further submit that the investigations were carried out under the supervision of the Acting Headquarters Inspector as the 7th Respondent was at the Magistrates Court of Thambuttegama at the time. 16. Addressing the alleged injuries received by the Petitioner, the Respondents submit that they were likely caused due to an object thrown by the members of the said unlawful assembly itself. Further, they submit that the 1st, 4th and 5th Respondents were not at the Thambuttegama Police Station at the time of the alleged arrest, detention, or assault and that, the 2nd, 3rd and 6th Respondents who were at the Police Station were involved in other tasks such as painting the main building of the Thambuttegama Police Station and associated refurbishment work. 17. The 7th Respondent in his response has denied that he arrested, detained, or tortured the Petitioner or that the 1st 6th Respondents were involved in the same while maintaining that the Petitioner was arrested according to law. He admits to having seen the Petitioner at the procession on 02.08.2012 and causing damage to public property. He submits an identical account as the 1st -6th Respondents regarding the arrest of the Petitioner by the outstation officers, maintaining the same on the injuries to the Petitioner being caused as a result of participating in the procession. He submits that on the 03.08.2024, he reported to duty at 6.20 a.m. and left the Thambuttegama Police Station at 10.00 a.m. to the Magistrates Court of Thambuttegama. He states that he returned at 04.15 p.m. on the same day.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      662.64,
+      527.54,
+      761.54
+    ],
+    "text": "Alleged violation of Fundamental Rights 18. In the case of Velmurugu v. The Attorney General and Another [1981] 1 SLR 406, it was held that the standard of proof that is required in cases filed under Article 126 of the Constitution for",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "7",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.0,
+      72.0,
+      527.54,
+      171.14
+    ],
+    "text": "infringement of Fundamental Rights is proof by a preponderance of probabilities as in a civil case and not proof beyond reasonable doubt. Further, in Gunawardene v. Perera and Others [1983] 1 SLR 305 at 313, Soza J. held that",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      173.28,
+      527.17,
+      373.46
+    ],
+    "text": "It is generally accepted that within this standard there could be varying degrees of probability. The degree of probability required should be commensurate with the gravity of the allegation sought to be proved. This court when called upon to determine questions of infringement of fundamental rights will insist on a high degree of probability as for instance a court having to decide a question of fraud in a civil suit would. The conscience of the court must be satisfied that there has been an infringement. Alleged violation of Article 11",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      375.84,
+      427.22,
+      440.9
+    ],
+    "text": "19. Article 11 of the Constitution of Sri Lanka provides:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      443.28,
+      527.55,
+      559.22
+    ],
+    "text": "No person shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. Torture has been defined in the Convention Against Torture And Other Cruel, Inhuman Or Degrading Treatment Or Punishment Act No. 22 of 1994 where Article 12 provides:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.0,
+      561.36,
+      527.13,
+      643.46
+    ],
+    "text": "Torture with its grammatical variations and cognate expressions, means any act which causes severe pain, whether physical or mental, to any other person, being an act which is (a) Done for any of the following purposes:",
+    "fonts": [
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.0,
+      645.6,
+      527.61,
+      761.54
+    ],
+    "text": "I. Obtaining from such person or a third person any information or confession; II. Punishing such other person for any act which he or a third person has committed, or is suspected to have committed; or III. Intimidating or coercing such other person or a third person; or",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "8",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.0,
+      72.0,
+      527.73,
+      154.1
+    ],
+    "text": "(b) Done for any such reason based on discrimination, and being in every case, an act, which is, done by, or at the instigation of, or with the consent or acquiescence of, public officer or other person acting in an official capacity.",
+    "fonts": [
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      420.8,
+      170.4,
+      527.29,
+      185.06
+    ],
+    "text": "[Emphasis mine]",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      201.36,
+      527.54,
+      249.62
+    ],
+    "text": "Article 11 is an unqualified and non-derogable right as per Athukorala J. in Sudath Silva v. Kodituakku Inspector of Police and Others [1987] 2 SLR 119 at 126:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.0,
+      265.92,
+      527.65,
+      432.5
+    ],
+    "text": "The police force, being an organ of the State, is enjoined by the Constitution to secure and advance this right and not to deny, abridge or restrict the same in any manner and under any circumstances (...) It is the duty of this court to protect and defend this right jealously to its fullest measure with a view to ensuring that this right which is declared and intended to be fundamental is always kept fundamental (...) This court cannot, in the discharge of its constitutional duty, countenance any attempt by any police officer however high or low, to cancel or distort the truth induced, perhaps, by a false sense of police solidarity.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      420.8,
+      448.56,
+      527.29,
+      463.22
+    ],
+    "text": "[Emphasis mine]",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      479.52,
+      527.31,
+      510.98
+    ],
+    "text": "20. The Court, in assessing the claim of Article 11 violation in this instant case, takes the following facts into consideration.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      558.0,
+      527.44,
+      758.42
+    ],
+    "text": "21. The Petitioner claims that on the day of the arrest, the 1st 6th Respondents hit him with fists, feet, and a helmet which caused his hearing to be impaired. To substantiate this claim, he has forwarded the following medical evidence: the Diagnosis Ticket issued on 04.08.2012 marked P3, which indicates assault by a blunt object, impact over head, and chest, and pain over the right leg. It also makes note of the impaired hearing over the left ear. The Petitioner has forwarded the test results of the pure tone audiometry test that was conducted at the Teaching Hospital of Anuradhapura on 03.08.2012 (marked P3). The Accident Observation Sheet of the Petitioner, submitted on the request of this Court, notes a contusion at the back of the head, and abrasions in the left knee.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      791.77,
+      525.81,
+      806.42
+    ],
+    "text": "9",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      102.96,
+      527.27,
+      151.22
+    ],
+    "text": "22. The paragraphs 02, 03, and 04 of document marked P7 which is an affidavit by H.G. Nilantha Udayakumara who is a barber in a neighbouring salon to the business place of the Petitioner states:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.97,
+      167.52,
+      530.26,
+      232.01
+    ],
+    "text": "2012 %( 03 + ./ +2 345 6 79 2 <5> @ 9.00 DEE F<2 H (J+ LM NQM 39R S<T 6 79 +93 E ( V W5X.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.97,
+      248.08,
+      530.2,
+      294.89
+    ],
+    "text": "T S (\\M HR >R N HR SV aM c6 e a \\ NQM 39 S<T XM M \\ c Xg2",
+    "fonts": [
+      "BookmanOldStyle-Italic",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.97,
+      311.04,
+      530.2,
+      359.93
+    ],
+    "text": "S<T XM <5 NQM E, Ji, H<, \\, jM, Jk, l( DEE F<2 NQM <aT mM <5 E nM M M m E E j X",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      407.04,
+      527.28,
+      455.54
+    ],
+    "text": "23. In the Affidavit marked P1, submitted by C.M. Sameera Lasantha who owns a business located adjacent to the business of the Petitioner, states:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.97,
+      471.6,
+      530.25,
+      552.41
+    ],
+    "text": "2012 %( 03 + ./ +2 345 6 79 ( <5> 9.00 S<T 6 79 (\\M 39R HR >R N HR SV a \\ X a DEE F<2 NQM 39R S<T c6 +93 >M <5V W5X.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.97,
+      568.8,
+      530.2,
+      617.69
+    ],
+    "text": "S<T XM <5 NQM E, Ji, H<, \\, jM, Jk, l( DEE F<2 NQM <aT mM <5 E nM M M m M >",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.0,
+      633.84,
+      527.26,
+      665.3
+    ],
+    "text": "Further, in the document marked P4 there is evidence as to the continued medical treatment received by the Petitioner in this regard.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      681.6,
+      527.49,
+      746.9
+    ],
+    "text": "24. In Response, the Respondents have furthered two positions, that they were not the officers that were involved in the arrest, detention, or torture and that the injuries recorded were not a result of police action but a result of the Petitioner taking part in the procession on",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "10",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.0,
+      72.0,
+      527.25,
+      103.46
+    ],
+    "text": "02.08.2012 and getting hit by an object at the same. To substantiate these positions, they have furthered the following evidence.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      150.72,
+      531.29,
+      283.46
+    ],
+    "text": "25. The documents marked R11- R16 provide that the 1st 6th Respondents were occupied with alternate tasks to that of arresting suspects on 03.08.2012. The 7th Respondent has submitted documents marked 7R9 (a), 7R9 (b), 7R9 (c), and 7R9 (d) to substantiate the position that he was at the Magistrate Court of Thambuththegama at the time of the incident. In addition, the Respondents have submitted the records entered by the said Sub Inspector of Police, Ubayanandana marked R5 where he recorded the fact that he arrested the Petitioner.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      330.48,
+      527.33,
+      480.02
+    ],
+    "text": "26. On behalf of the Respondents, another affidavit dated 20. 02. 2013 has been deposed by Thennakoon Mudiyanselage Sumith Chamara, filed as R9. In the said affidavit he has said that he saw the said Petitioner in fact participated in the procession on 02.08.2012. The Petitioner has come to his business premises holding a brick, asking for water as the police fired tear gas at him. He has further stated that Petitioner admitted to him that he got hit by someone at the procession. The said Thennakoon Mudiyanselage Sumith Chamara has also noticed the petitioners head to be slightly swollen as a result.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      544.32,
+      527.32,
+      626.18
+    ],
+    "text": "27. On the police notes recorded by the Respondents, the learnerd counsel for the Petitioner submitted that, although on notes they were detailed for duty in different places on the 03rd August morning, they were still in the vicinity of the incident enabling them to arrest and assault the Petitioner.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      673.44,
+      527.32,
+      755.54
+    ],
+    "text": "28. On analysing the evidence presented before this court, it is also to be noted that the affidavit R9 that was deposed by Thennakoon Mudiyanselage Sumith Chamara was dated 20th January 2013, even after the leave to proceed was granted by this Court. In the written submissions filed on behalf of the Respondents, it is stated that this",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "11",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.0,
+      72.0,
+      527.42,
+      171.14
+    ],
+    "text": "delay because the Respondents were not given notice of this application and therefore were not represented in the Court. However, the fact remains that it is a belated affidavit which was deposed 6 months after the procession on 02.08.2012. Further, although the police have investigated into the unlawful assembly there is no material to show that the said affirmants statement was even recorded by the police.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      218.16,
+      527.54,
+      502.82
+    ],
+    "text": "29. In R9, Thennakoon Mudiyanselage Sumith Chamara has clearly said that he saw the Petitioners head slightly swollen on 02. 08. 2013. On behalf of the 1st and 7th Respondents, it has been submitted that the Petitioner was arrested in the morning by some other officers who came on special duty from Nochchiyagama led by Sub Inspector of Police Ubayanandana and was handed over to the reserve police officer Anjula. When the Petitioner was handed over after arrest, not even the reserve police officer who took over the Petitioner has recorded about his injuries although, the 1st - 7th Repsondents state that he may have received injuries during the procession on 02.08.2012. According to the 7th respondent, he has seen the petitioner taking part in the procession and pelting stones at the police station. However, the B report marked 896/2012, which was signed by the 7th respondent has faild to record the fact that he saw the Petitioner at the procession. For that matter, the 7th Respondent has failed at least to place the summary of evidence against the Petitioner as required by section 115 (1) of the Code of Criminal Procedure Act (No. 15 of 1979)",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      549.84,
+      531.29,
+      598.34
+    ],
+    "text": "30. At the hearing of this Application, the Court directed the Attorney General to tender the relevant original Information Books pertaining to this case maintained by the Thambuttegama Police Station, for perusal.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      645.36,
+      527.35,
+      761.3
+    ],
+    "text": "31. Upon perusing the information books provided, I observe that the said arrest notes made by Sub Inspector Ubayanandana has been made on the Vice Branch Information (VIB) book on 03.08.2012. At 14:15 p.m. he has made notes stating that he arrested seven suspects and that such was on the instructions of the Assistant Superintendent of Police and the Headquarters Inspector. However, this information book does not contain the out entry nor the return entry of the Sub Inspector",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "12",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.0,
+      72.0,
+      527.23,
+      120.5
+    ],
+    "text": "Ubayanandana. The Station Duty Officer of the Thambuttegama police station, one Wijekoon has received fourteen suspects which includes the name of the Petitioner.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      167.52,
+      527.36,
+      266.42
+    ],
+    "text": "32. Following examination, she has taken over the said fourteen suspects from the officers who conducted the special operation. In the notes she made at 12.30 p.m. on 03.08.2012 she has failed to mention the names of the officers from whom she took over the suspects. Further, no other information book containing such information has been presented before this Court.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      313.68,
+      527.49,
+      463.22
+    ],
+    "text": "33. It is observed that the Respondents have failed to file an affidavit from Sub Inspector Ubayanandana who is said to have arrested the Petitioner. The said Ubayanandana has also failed to make any notes on the injuries sustained by the Petitioner. However, Respondents have taken up the position that the Petitioner has sustained injuries during the procession on 02.08.2012. If this version is accepted, Petitioner would have been injured at the time of the arrest and subsequent detention. No notes on such injuries have been made by any other police officers.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      510.24,
+      527.3,
+      609.38
+    ],
+    "text": "34. As I have mentioned before, not only the petitioner but also the two neighbouring business owners have sworn in affidavits clearly stating that the 1st 6th Respondents arrested and assaulted the Petitioner. Further, there is no material before this court that the Petitioner or his witnesses had any previous animosity against any of the Respondents to implicate them for this arrest and assault.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      656.64,
+      527.3,
+      738.74
+    ],
+    "text": "35. In the above circumstances, there is sufficient material, and I am inclined to accept the version of the Petitioner and that of his two eye witnesses, that the Petitioner was arrested and assaulted by the 1st to 6th respondents, and not the version of the Respondents that it was the officers on special duty that arrested the Petitioner.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "13",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      72.0,
+      527.34,
+      120.5
+    ],
+    "text": "36. Whereby, I declare that the Fundamental Rights guaranteed to the Petitioner by Article 11 have been violated by the 1st 6th Respondents of the instant case.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.0,
+      167.52,
+      395.24,
+      182.18
+    ],
+    "text": "Alleged Violation of Articles 13 (1), and 13 (5)",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      198.48,
+      527.46,
+      229.94
+    ],
+    "text": "37. Article 13 of the Constitution concerns the due process of arrest and detention. Therein, Article 13 (1) provides as follows:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.0,
+      246.0,
+      527.26,
+      277.7
+    ],
+    "text": "No person shall be arrested except according to procedure laid down by law. Any person arrested shall be informed of the reason for his arrest",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.0,
+      293.76,
+      527.54,
+      342.26
+    ],
+    "text": "The manner in which an arrest ought to be conducted is provided in s. 23 of the Code of Criminal Procedure Act No. 15 of 1979 which reads:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.0,
+      358.56,
+      527.18,
+      440.66
+    ],
+    "text": "(1) In making an arrest the person making the same shall actually touch or confine the body of the person to be arrested unless there be a submission to the custody by word or action and shall inform the person to be arrested of the nature of the charge or allegation upon which he is arrested.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.0,
+      456.96,
+      527.26,
+      505.22
+    ],
+    "text": "(2) If such person forcibly resists the endeavour to arrest him or attempts to evade the arrest, the person making the arrest may use such means as are reasonably necessary to effect the arrest.",
+    "fonts": [
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      420.8,
+      521.52,
+      527.29,
+      536.18
+    ],
+    "text": "(Emphasis mine)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.0,
+      552.24,
+      527.53,
+      634.58
+    ],
+    "text": "S. 32 (1) (b) of the Code of Criminal Procedure Act No. 15 of 1979 and s.63 of the Police Ordinance are the primary legislative instruments relating to cases of arrest without a warrant. The Former provides the categories of persons that may be arrested without an order from a Magistrate or a warrant, which includes:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.0,
+      650.64,
+      527.07,
+      699.14
+    ],
+    "text": "() Any person who has been concerned in any cognizable offence or against whom a reasonable suspicion exists of his having been so concerned",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      715.44,
+      527.49,
+      763.7
+    ],
+    "text": "38. In the instant case, the facts provide the following. The Petitioner was arrested upon the suspicion of him taking part in the procession on 02.08.2012. While the 7th Respondent provides that he has seen the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "14",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.0,
+      72.0,
+      527.31,
+      120.5
+    ],
+    "text": "Petitioner at the said procession, I am not strongly convinced by the reasonableness in suspecting that the Petitioner did in fact take part in the unlawful gathering for the following reason.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.0,
+      167.52,
+      527.47,
+      350.9
+    ],
+    "text": "39. The B Report filed in case number 896/ 2012 has identified twenty five individuals as accused, under the same B Report, thirteen suspects (including the Petitioner as the 7th suspect) were produced before the Magistrate, as persons who took part in the procession on 02.08.2012. Although the 7th respondent claims to have seen the Petitioner at the procession on the 2nd August and has made notes, the 7th respondent has failed to mention the same in the B report filed in the Magistrates Court that was signed by the 7th Respondent himself. Hence, I am inclined to hold that the documents and statements to the effect of the Petitioner being party to the procession are likely afterthoughts by the Respondents of the instant case.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.0,
+      397.92,
+      527.54,
+      429.62
+    ],
+    "text": "40. Section 115 (1) of the Code of Criminal Procedure Act (No. 15 of 1979) provides:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.0,
+      445.68,
+      527.15,
+      595.46
+    ],
+    "text": "Whenever an investigation under this Chapter cannot be completed within the period of twenty-four hours fixed by section 37, and there are grounds for believing that further investigation is necessary, the officer in charge of the police station or the inquirer shall forthwith forward the suspect to the Magistrate having jurisdiction in the case and shall at the same time transmit to such Magistrate a report of the case, together with a summary of statements, if any, made by each of the witnesses examined in the course of such investigation relating to the case.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.0,
+      642.48,
+      527.39,
+      724.58
+    ],
+    "text": "41. Although, the 7th respondent claims and made notes that he saw the Petitioner at the procession on the 2nd, he has failed to submit the same to the Magistrates court. The 7th Respondent, in the B report, signed by him, fails to submit any summary of evidence to substantiate that any reason to produce the Petitioner as a suspect.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "15",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.0,
+      72.0,
+      527.3,
+      120.5
+    ],
+    "text": "42. Further, both affidavits of the neighbouring businessmen submitted by the Petitioner provide that he was a mere observer of the procession on 02.08.2012 and not a participant.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.0,
+      167.52,
+      423.97,
+      182.18
+    ],
+    "text": "Affidavit of C.M. Sameera Lasantha provide as follows:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88.97,
+      198.48,
+      530.2,
+      246.41
+    ],
+    "text": "+2 <Wo ( pqr S<T 79 +93 < <Wo <5 E S<T n L<m +EoR u E j X",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.0,
+      262.8,
+      476.21,
+      277.46
+    ],
+    "text": "Affidavit of H.G. Nilantha Udayakumara provides the following:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      88.97,
+      293.52,
+      530.2,
+      358.01
+    ],
+    "text": "S<T j@2 % 39R <5 <5 S<T <Wo pMR i j nM L< cpp > 39 +93> <<T iM vM Tw LM Vx WN",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.0,
+      405.12,
+      527.43,
+      487.22
+    ],
+    "text": "43. I further note that the 7th Respondent in B Report 896/2012 claims to have identified the suspects arrested for the unlawful assembly on 02.08.2012 based on information from both intelligence officers and video evidence. However, they have also failed to submit such proof before this Court to support their case.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.0,
+      534.48,
+      527.33,
+      633.38
+    ],
+    "text": "44. Therefore, I am of the view that there were no reasonable grounds to arrest the Petitioner and that unreasonable force was used in the process of arrest, whereby the Petitioner has not been arrested according to the due process provided by the law. Hence, I hold that the 1st 7th Respondents have violated Article 13 (1) of the Constitution against the Petitioner.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.0,
+      680.64,
+      527.41,
+      745.94
+    ],
+    "text": "45. Article 13 (5) of the Constitution guarantees the right to be presumed innocent until proven guilty. In the case at hand, such is deemed violated given the evidence of torture, cruel, inhuman, or degrading treatment or punishment committed on the Petitioner at the time of",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "16",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90.0,
+      72.0,
+      527.28,
+      103.46
+    ],
+    "text": "arrest. Whereby I hold that the Article 13 (5) of the Constitution was violated against the Petitioner by the 1st 7th Respondents as well.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90.0,
+      119.76,
+      310.74,
+      134.42
+    ],
+    "text": "Alleged Violation of Article 12 (1)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.0,
+      150.72,
+      364.22,
+      165.38
+    ],
+    "text": "46. Article 12(1) of the Constitution provides:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.0,
+      181.44,
+      526.99,
+      213.14
+    ],
+    "text": "All persons are equal before the law and are entitled to the equal protection of the law.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic",
+      "Cambria-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.0,
+      260.16,
+      527.65,
+      291.62
+    ],
+    "text": "47. In the case of Ariyawansa and others v. The Peoples Bank and others [2006] 2 Sri LR 145 at 152 Bandaranayake J. stated that,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.0,
+      307.92,
+      527.07,
+      356.42
+    ],
+    "text": "The concepts of negation of arbitrariness and unreasonableness are embodied in the right to equality as it has been decided that any action or law which is arbitrary or unreasonable violates equality.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.0,
+      403.44,
+      527.33,
+      502.58
+    ],
+    "text": "48. Thus, the arbitrariness of the arrest made, and further actions by the Police without adhering to the legal procedures as mentioned before affects the equal protection guaranteed to the petitioner under section 12(1) of the Constitution as well. Whereby I hold that the Article 12 (1) of the Constitution was violated by the 1st 7th Respondents against the Petitioner as well.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90.0,
+      549.6,
+      324.75,
+      564.26
+    ],
+    "text": "Executive or Administrative Action",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.0,
+      580.32,
+      527.51,
+      679.46
+    ],
+    "text": "49. As stated in Gunawardene v. Perera and Others [1983] 1 SLR 305, to establish a violation of fundamental rights, in addition to the violation, it is required that the alleged violation take place at the instigation of, or with the consent or acquiescence of, public officer or other person acting in an official capacity, and the jurisprudence is straight forward on this matter.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "17",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.0,
+      72.0,
+      527.55,
+      137.3
+    ],
+    "text": "50. Dr. Jayampathy Wickremaratne in Fundamental Rights of Sri Lanka 3rd Edn [2021] at page 345 summarises the opinion of Sharvananda J. in Velmurugu v. the Attorney- General and another [1981] 1 SLR 406 regarding this point of law which states:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.0,
+      153.6,
+      527.2,
+      201.86
+    ],
+    "text": "Where the state has endowed an officer with coercive power, his exercise of its power, whether in conformity with or in disregard of fundamental rights, constitute executive action.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.0,
+      248.88,
+      527.59,
+      280.58
+    ],
+    "text": "51. Further, in Sudath Silva v. Kodituakku Inspector of Police and Others [1987] 2 SLR 119 at 126 it was held:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.0,
+      296.64,
+      527.08,
+      361.94
+    ],
+    "text": "However as the petitioner has established that he has been subjected to torture and cruel treatment by the police, whoever they be, when he was under arrest, the State is liable to pay compensation to the victim of such action.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.0,
+      409.2,
+      527.49,
+      508.1
+    ],
+    "text": "52. In light of such, in the instant case, I have no hesitation holding that the 1st 6th Respondents fall within the realm of executive action for the purposes of establishing violations of Articles 11, 12 (1), 13 (1,) and 13 (5) of the Constitution, and the 7th Respondent for the violations of Articles 12 (1), 13 (1,) and 13 (5) of the Constitution against the Petitioner.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      90.0,
+      586.08,
+      301.75,
+      600.74
+    ],
+    "text": "Declarations and Compensation",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.0,
+      617.04,
+      527.49,
+      699.14
+    ],
+    "text": "53. In the above premise, I declare that the fundamental rights that have been guaranteed to the petitioner under Articles 11, 12 (1), 13 (1,) and 13 (5) of the Constitution were violated by 1st 6th Respondents, and that the 7th Respondent has violated Articles 12 (1), 13 (1,) and 13 (5) of the Constitution against the Petitioner.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.0,
+      791.77,
+      525.74,
+      806.42
+    ],
+    "text": "18",
+    "fonts": [
+      "Aptos"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.0,
+      72.0,
+      527.36,
+      154.1
+    ],
+    "text": "54. As per Article 126(4) of the Constitution, the Supreme Court is empowered to grant such relief as it may deem just and equitable in the circumstances in respect of any petition referred to it under Article 126(2). Therefore, in the circumstances of this case, considering the injuries, the discomfort and the losses that were suffered by the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      90.0,
+      156.48,
+      527.3,
+      174.26
+    ],
+    "text": "Petitioner due to the arbitrary acts of the Respondents, I order the 1st",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      90.0,
+      176.16,
+      527.32,
+      227.54
+    ],
+    "text": "6th Respondents to pay a sum of Rs. 200,000 each, from their personal funds, totaling to Rs. 1.2 Million to the Petitioner within the period of three months from the date of this judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.0,
+      274.8,
+      527.28,
+      373.22
+    ],
+    "text": "55. Further, the Honourable Attorney General is directed to cause the conduct of a criminal investigation into the incident, upon the completion of which, consider the institution of criminal proceedings against the Respondents for having committed the offense of torture under the Convention Against Torture and Other Cruel, Inhuman Or Degrading Treatment Or Punishment Act No 22 of 1994.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      180.0,
+      389.26,
+      311.03,
+      403.34
+    ],
+    "text": "Application is Allowed",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.0,
+      465.1,
+      527.38,
+      543.98
+    ],
+    "text": "JUDGE OF THE SUPREME COURT JUSTICE S. THURAIRAJA, PC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.0,
+      546.22,
+      186.96,
+      592.7
+    ],
+    "text": "I agree",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.0,
+      594.7,
+      527.38,
+      673.58
+    ],
+    "text": "JUDGE OF THE SUPREME COURT JUSTICE YASANTHA KODAGODA, PC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.0,
+      675.82,
+      466.38,
+      738.38
+    ],
+    "text": "I agree",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      310.67,
+      740.38,
+      527.14,
+      754.46
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
