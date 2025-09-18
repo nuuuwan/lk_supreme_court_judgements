@@ -1,0 +1,6485 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 1 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.91,
+      65.76,
+      379.93,
+      79.09
+    ],
+    "text": "IN THE SUPREME COURT OF",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      145.27,
+      85.68,
+      455.57,
+      99.01
+    ],
+    "text": "THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.22,
+      125.52,
+      530.21,
+      138.85
+    ],
+    "text": "In the matter of an appeal in terms of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.22,
+      145.44,
+      530.26,
+      158.77
+    ],
+    "text": "section 5 C of the High Court of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.22,
+      165.36,
+      530.18,
+      178.69
+    ],
+    "text": "Provinces (Special Provisions) Act No. 19",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.22,
+      185.28,
+      530.2,
+      198.61
+    ],
+    "text": "of 1990 as amended by Act No. 54 of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.22,
+      205.2,
+      442.35,
+      218.53
+    ],
+    "text": "2006.",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.0,
+      245.04,
+      502.4,
+      258.42
+    ],
+    "text": "1. Karawita Aarachchige Nihal,",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.0,
+      264.96,
+      506.58,
+      278.29
+    ],
+    "text": "No. 22A, Dumindu Mawatha,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.0,
+      284.88,
+      510.94,
+      298.21
+    ],
+    "text": "Watapuluwa Housing Scheme,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.0,
+      304.8,
+      400.16,
+      318.13
+    ],
+    "text": "Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.0,
+      324.72,
+      422.18,
+      338.73
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Calibri",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.95,
+      364.56,
+      381.7,
+      377.89
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.0,
+      404.16,
+      526.44,
+      417.54
+    ],
+    "text": "1. Pepiliyanage Sriyani Manjula Perera",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      424.08,
+      526.53,
+      437.41
+    ],
+    "text": "alias Pepiliyane Sriyani Manjula",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      444.0,
+      440.82,
+      457.33
+    ],
+    "text": "Perera Tennakoon,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      463.92,
+      526.48,
+      477.25
+    ],
+    "text": "No. 74/1/B, Bomaluwa Road,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      483.84,
+      445.43,
+      497.17
+    ],
+    "text": "Watapuluwa, Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.0,
+      523.68,
+      494.3,
+      537.06
+    ],
+    "text": "2. DFCC Vardhana Bank Limited,",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      543.6,
+      526.47,
+      556.93
+    ],
+    "text": "No. 73, W.A.D Ramanayake",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      563.52,
+      457.13,
+      576.85
+    ],
+    "text": "Mawatha, Colombo 02.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      583.44,
+      420.23,
+      596.77
+    ],
+    "text": "DEFENDANTS",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      623.28,
+      526.45,
+      636.61
+    ],
+    "text": "AND THEN BETWEEN (IN THE",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      643.2,
+      526.48,
+      656.53
+    ],
+    "text": "APPLICATION FOR INTERIM",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      663.12,
+      526.43,
+      676.45
+    ],
+    "text": "INJUNCTION IN THE DISTRICT",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      683.04,
+      384.52,
+      696.37
+    ],
+    "text": "COURT)",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.28,
+      296.64,
+      193.5,
+      309.97
+    ],
+    "text": "SC Appeal No. 89/2019",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.28,
+      336.48,
+      217.11,
+      349.81
+    ],
+    "text": "SC (HC CA) Leave to Appeal",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.28,
+      362.4,
+      197.42,
+      375.73
+    ],
+    "text": "Application No. 55/2018",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.28,
+      408.24,
+      204.0,
+      421.57
+    ],
+    "text": "Civil Appellate High Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.28,
+      434.16,
+      221.43,
+      447.49
+    ],
+    "text": "Kandy Case No. 04/2016(LA)",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.28,
+      480.0,
+      248.13,
+      493.33
+    ],
+    "text": "DC Kandy Case No. DLM",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.28,
+      499.92,
+      138.99,
+      513.25
+    ],
+    "text": "00143/2014",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 2 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.0,
+      65.76,
+      526.44,
+      79.14
+    ],
+    "text": "1. Pepiliyanage Sriyani Manjula Perera",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      85.68,
+      526.46,
+      99.01
+    ],
+    "text": "alias Pepiliyanege Sriyani Manjula",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      105.6,
+      440.82,
+      118.93
+    ],
+    "text": "Perera Tennakoon,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      125.52,
+      526.48,
+      138.85
+    ],
+    "text": "No. 74/1/B, Bomaluwa Road,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      145.44,
+      445.43,
+      158.77
+    ],
+    "text": "Watapuluwa, Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      165.36,
+      506.53,
+      178.69
+    ],
+    "text": "1ST DEFENDANT-PETITIONER",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      205.2,
+      363.7,
+      218.53
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.0,
+      245.04,
+      484.4,
+      258.42
+    ],
+    "text": "1. Karawita Aarachchige Nihal,",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      264.96,
+      526.48,
+      278.29
+    ],
+    "text": "No. 22A, Dumindu Mawatha,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      284.88,
+      526.44,
+      298.21
+    ],
+    "text": "Watapuluwa Housing Scheme,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      304.8,
+      382.16,
+      318.13
+    ],
+    "text": "Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      324.72,
+      486.09,
+      338.05
+    ],
+    "text": "PLAINTIFF-RESPONDENT",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.0,
+      364.56,
+      494.3,
+      377.94
+    ],
+    "text": "2. DFCC Vardhana Bank Limited,",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      384.24,
+      526.47,
+      397.57
+    ],
+    "text": "No. 73, W.A.D Ramanayake",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      404.16,
+      457.13,
+      417.49
+    ],
+    "text": "Mawatha, Colombo 02.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      424.08,
+      366.85,
+      437.41
+    ],
+    "text": "AND",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      444.0,
+      490.86,
+      457.33
+    ],
+    "text": "DFCC Vardhana Bank Limited,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      463.92,
+      413.95,
+      477.25
+    ],
+    "text": "Branch Office,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      483.84,
+      453.58,
+      497.17
+    ],
+    "text": "No. 05, Deva Veediya,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      503.76,
+      378.72,
+      517.09
+    ],
+    "text": "Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      523.68,
+      513.74,
+      537.01
+    ],
+    "text": "2ND DEFENDANT-RESPONDENT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      563.52,
+      492.33,
+      576.85
+    ],
+    "text": "AND THEN BETWEEN (IN THE",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      583.44,
+      501.9,
+      596.77
+    ],
+    "text": "HIGH COURT OF CIVIL APPEAL)",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.0,
+      623.28,
+      526.44,
+      636.66
+    ],
+    "text": "1. Pepiliyanage Sriyani Manjula Perera",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      643.2,
+      526.53,
+      656.53
+    ],
+    "text": "alias Pepiliyane Sriyani Manjula",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      663.12,
+      440.82,
+      676.45
+    ],
+    "text": "Perera Tennakoon,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      683.04,
+      526.48,
+      696.37
+    ],
+    "text": "No. 74/1/B, Bomaluwa Road,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      702.96,
+      445.43,
+      716.29
+    ],
+    "text": "Watapuluwa, Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      722.88,
+      511.27,
+      736.21
+    ],
+    "text": "1ST DEFENDANT-PETITIONER-",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 3 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      65.76,
+      409.32,
+      79.09
+    ],
+    "text": "APPELLANT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      105.6,
+      363.7,
+      118.93
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.0,
+      145.44,
+      484.4,
+      158.82
+    ],
+    "text": "1. Karawita Aarachchige Nihal,",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      165.36,
+      526.48,
+      178.69
+    ],
+    "text": "No. 22A, Dumindu Mawatha,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      185.28,
+      526.44,
+      198.61
+    ],
+    "text": "Watapuluwa Housing Scheme,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      205.2,
+      382.16,
+      218.53
+    ],
+    "text": "Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      225.12,
+      487.39,
+      238.45
+    ],
+    "text": "PLAINTIFF-RESPONDENT-",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      245.04,
+      421.66,
+      258.37
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.0,
+      284.88,
+      494.3,
+      298.26
+    ],
+    "text": "2. DFCC Vardhana Bank Limited,",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      304.8,
+      526.47,
+      318.13
+    ],
+    "text": "No. 73, W.A.D Ramanayake",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      324.72,
+      457.13,
+      338.05
+    ],
+    "text": "Mawatha, Colombo 02.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      344.64,
+      366.85,
+      357.97
+    ],
+    "text": "AND",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      364.56,
+      515.88,
+      377.89
+    ],
+    "text": "DFCC Vardhana Bank Limited PLC,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      384.24,
+      417.39,
+      397.57
+    ],
+    "text": "Branch Office,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      404.16,
+      453.68,
+      417.49
+    ],
+    "text": "No. 05 Deva Veediya,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      424.08,
+      378.72,
+      437.41
+    ],
+    "text": "Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      444.0,
+      516.43,
+      457.33
+    ],
+    "text": "2NDDEFENDANT-RESPONDENT-",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      463.92,
+      421.44,
+      477.25
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      503.76,
+      526.45,
+      517.09
+    ],
+    "text": "AND NOW BETWEEN (IN THE",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      523.68,
+      438.45,
+      537.01
+    ],
+    "text": "SUPREME COURT)",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.0,
+      563.52,
+      424.08,
+      576.9
+    ],
+    "text": "1. DFCC Bank PLC,",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      583.44,
+      526.45,
+      596.77
+    ],
+    "text": "(Formerly DFCC Vardhana Bank",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      603.36,
+      391.72,
+      616.69
+    ],
+    "text": "Limited),",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      623.28,
+      526.47,
+      636.61
+    ],
+    "text": "No. 73, W.A.D Ramanayake",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      643.2,
+      396.0,
+      656.53
+    ],
+    "text": "Mawatha,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      663.12,
+      410.03,
+      676.45
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      702.96,
+      523.02,
+      716.29
+    ],
+    "text": "2ND DEFENDNT-RESPONDENT-",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      722.88,
+      490.27,
+      736.21
+    ],
+    "text": "RESPONDENT-APPELLANT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 4 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      85.68,
+      363.7,
+      99.01
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.0,
+      125.52,
+      526.44,
+      138.9
+    ],
+    "text": "1. Pepiliyanage Sriyani Manjula Perera",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      145.44,
+      526.53,
+      158.77
+    ],
+    "text": "alias Pepiliyane Sriyani Manjula",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      165.36,
+      440.82,
+      178.69
+    ],
+    "text": "Perera Tennakoon,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      185.28,
+      526.48,
+      198.61
+    ],
+    "text": "No. 74/1/B, Bomaluwa Road,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      205.2,
+      445.43,
+      218.53
+    ],
+    "text": "Watapuluwa, Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      225.12,
+      511.27,
+      238.45
+    ],
+    "text": "1ST DEFENDANT-PETITIONER-",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      245.04,
+      490.27,
+      258.37
+    ],
+    "text": "APPELLANT-RESPONDENT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.0,
+      284.88,
+      484.4,
+      298.26
+    ],
+    "text": "2. Karawita Aarachchige Nihal,",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      304.8,
+      526.48,
+      318.13
+    ],
+    "text": "No. 22A, Dumindu Mawatha,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      324.72,
+      526.44,
+      338.05
+    ],
+    "text": "Watapuluwa Housing Scheme,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      344.64,
+      382.16,
+      357.97
+    ],
+    "text": "Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      364.56,
+      487.39,
+      377.89
+    ],
+    "text": "PLAINTIFF-RESPONDENT-",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      342.0,
+      384.24,
+      502.61,
+      397.57
+    ],
+    "text": "RESPONDENT-RESPONDENT",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      424.08,
+      311.56,
+      437.41
+    ],
+    "text": "Before : P. Padman Surasena J",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.0,
+      444.0,
+      328.25,
+      457.33
+    ],
+    "text": "E. A. G. R. Amarasekara J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.0,
+      463.92,
+      302.2,
+      477.25
+    ],
+    "text": "Shiran Gooneratne J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      503.76,
+      526.45,
+      517.09
+    ],
+    "text": "Counsel : Kushan de Alwis, PC with Mr. Kaushalya Nawaratne and Ms. Surangi",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.4,
+      523.68,
+      523.01,
+      537.01
+    ],
+    "text": "Kannangara for the 2nd DefendantRespondentRespondent-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.4,
+      543.6,
+      240.78,
+      556.93
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.4,
+      583.44,
+      526.46,
+      596.77
+    ],
+    "text": "Ms. Sandya Kalalpitiya with Ms. Kaushalya Samaratunga for the 1st",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.4,
+      603.36,
+      406.61,
+      616.69
+    ],
+    "text": "Defendant-Petitioner-Appellant-Respondent.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.4,
+      643.2,
+      523.01,
+      656.53
+    ],
+    "text": "Ms. Panchali Ekanayake for the Plaintiff-Respondent-Respondent-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      185.4,
+      663.12,
+      256.46,
+      676.45
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      702.96,
+      239.49,
+      716.29
+    ],
+    "text": "Argued on : 15-05-2023",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      722.88,
+      239.49,
+      736.21
+    ],
+    "text": "Decided on : 12-10-2023",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 5 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      125.52,
+      204.54,
+      138.85
+    ],
+    "text": "P. Padman Surasena, J:",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      145.44,
+      526.45,
+      158.77
+    ],
+    "text": "The Plaintiff-Respondent-Respondent-Respondent (hereinafter referred to as the Plaintiff)",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      165.36,
+      526.46,
+      178.69
+    ],
+    "text": "instituted action against the 1st Defendant-Petitioner-Appellant-Respondent (hereinafter",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      185.28,
+      526.44,
+      198.61
+    ],
+    "text": "referred to as the 1st Defendant) and the 2nd Defendant-Respondent-Respondent-Appellant",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      205.2,
+      526.46,
+      218.53
+    ],
+    "text": "(hereinafter referred to as the 2nd Defendant) in the District Court of Kandy. The Plaintiff in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      225.12,
+      247.2,
+      238.45
+    ],
+    "text": "his Plaint had prayed inter alia for:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      264.96,
+      526.55,
+      278.34
+    ],
+    "text": "(i) a declaration that the he is the owner of the property morefully described in",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      284.88,
+      277.94,
+      298.21
+    ],
+    "text": "the schedule to the Plaint.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      304.8,
+      526.44,
+      318.18
+    ],
+    "text": "(ii) ejectment of the 1st Defendant and her assigns and for restoration of the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      324.72,
+      264.88,
+      338.05
+    ],
+    "text": "premises for his benefit",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      344.64,
+      526.45,
+      358.02
+    ],
+    "text": "(iii) damages payable for the alleged illegal occupation of the said premises by the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      364.56,
+      216.14,
+      377.89
+    ],
+    "text": "1st Defendant",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      404.16,
+      526.46,
+      417.49
+    ],
+    "text": "The 1st Defendant filed the answer to the Plaint (document produced marked X2) praying",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.22,
+      424.08,
+      124.87,
+      437.41
+    ],
+    "text": "inter alia :",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      444.0,
+      526.56,
+      457.38
+    ],
+    "text": "(i) for a declaration that the Plaintiff has no right to claim the relevant property",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      463.92,
+      526.46,
+      477.25
+    ],
+    "text": "as the Plaintiff must hold the relevant property as a trust in favour of the 1st",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      483.84,
+      201.69,
+      497.17
+    ],
+    "text": "Defendant;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      503.76,
+      526.5,
+      517.14
+    ],
+    "text": "(ii) for a declaration that the 1st Defendant is the lawful owner of the property",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.0,
+      523.68,
+      247.58,
+      537.01
+    ],
+    "text": "relevant to the case;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      543.6,
+      273.09,
+      556.98
+    ],
+    "text": "(iii) for dismissal of the Plaint.",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      563.57,
+      526.48,
+      590.29
+    ],
+    "text": "Thus, it must be stressed at this commencing point itself that the 1st Defendant in her answer",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      596.88,
+      345.44,
+      610.21
+    ],
+    "text": "has not prayed for anything against the 2nd Defendant.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      636.72,
+      526.54,
+      650.05
+    ],
+    "text": "The 2nd Defendant has not filed an answer. This is understandable because neither the Plaintiff",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      656.64,
+      433.46,
+      669.97
+    ],
+    "text": "nor the 1st Defendant has prayed for anything against the 2nd Defendant.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      696.48,
+      526.47,
+      709.81
+    ],
+    "text": "Thereafter the 1st Defendant has filed the Petition and affidavit dated 16-12-2015 in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      716.4,
+      327.46,
+      729.73
+    ],
+    "text": "District Court praying inter alia for following reliefs:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 6 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      65.76,
+      526.46,
+      79.14
+    ],
+    "text": "(i) An enjoining order to prevent the Plaintiff and the 2nd Defendant from selling",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.0,
+      85.68,
+      382.55,
+      99.01
+    ],
+    "text": "or disposing or alienating the relevant property,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      105.6,
+      403.99,
+      118.98
+    ],
+    "text": "(ii) An order issuing the notice of interim injunction; and",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      125.52,
+      526.48,
+      138.9
+    ],
+    "text": "(iii) An interim injunction to prevent the Plaintiff and the 2nd Defendant from selling",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.0,
+      145.44,
+      445.47,
+      158.77
+    ],
+    "text": "or disposing or alienating the property relevant to this action.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      185.28,
+      526.49,
+      198.61
+    ],
+    "text": "The learned District Judge having considered the material in the said Petition and affidavit",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      205.2,
+      526.44,
+      218.53
+    ],
+    "text": "dated 16-12-2015, by his order dated 23-12-2015, had decided to refuse to issue both the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      225.12,
+      329.88,
+      238.45
+    ],
+    "text": "enjoining order and the notice of interim injunction.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      264.96,
+      526.46,
+      278.29
+    ],
+    "text": "Being aggrieved by the said order dated 23-12-2015 pronounced by the learned District Judge",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      284.88,
+      526.44,
+      298.21
+    ],
+    "text": "of Kandy, the 1st Defendant has filed a Leave to Appeal application in the Provincial High Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      304.8,
+      526.46,
+      318.13
+    ],
+    "text": "of Civil Appeals holden in Kandy. The Provincial High Court having granted Leave to Appeal,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      324.72,
+      526.46,
+      338.05
+    ],
+    "text": "had thereafter concluded the argument thereof which led to the pronouncement of its",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      344.64,
+      215.33,
+      357.97
+    ],
+    "text": "judgment dated 17-01-2018.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      384.24,
+      526.45,
+      397.57
+    ],
+    "text": "By the judgement dated 17-01-2018, the Provincial High Court has set aside the order dated",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      404.16,
+      526.44,
+      417.49
+    ],
+    "text": "23-12-2015 pronounced by the learned District Judge of Kandy refusing to grant the enjoining",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      424.08,
+      526.45,
+      437.41
+    ],
+    "text": "order and the notice of interim injunction. The Provincial High Court had directed the learned",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      444.0,
+      526.47,
+      457.73
+    ],
+    "text": "District Judge to issue an interim injunction as prayed for, under paragraph () of the prayers",
+    "fonts": [
+      "IskoolaPota",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      464.4,
+      464.87,
+      477.82
+    ],
+    "text": "of the petition dated 16-12-2015 filed in the District Court by the 1st Defendant.",
+    "fonts": [
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      503.28,
+      526.44,
+      516.61
+    ],
+    "text": "It is against that order that the 2nd Defendant has filed the Leave to Appeal application relevant",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      523.2,
+      526.58,
+      536.53
+    ],
+    "text": "to the instant appeal in this Court. This Court having heard the submissions of the learned",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      543.12,
+      526.46,
+      556.45
+    ],
+    "text": "Counsel for the relevant parties, had granted Leave to Appeal by its order dated 23-05-2019",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      563.04,
+      239.66,
+      576.37
+    ],
+    "text": "on the following questions of law:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      602.88,
+      526.51,
+      616.26
+    ],
+    "text": "1) Did their Lordships of the High Court of Civil Appeals err in directing the learned",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.0,
+      622.8,
+      526.47,
+      636.13
+    ],
+    "text": "Trial Judge to issue an Interim Injunction ex facie in the absence of a prima facie",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.0,
+      642.72,
+      284.55,
+      656.05
+    ],
+    "text": "case against the 2nd Defendant?",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      662.64,
+      526.48,
+      676.02
+    ],
+    "text": "2) Have their Lordships of the High Court of Civil Appeals erred in setting aside the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.0,
+      682.56,
+      526.55,
+      695.89
+    ],
+    "text": "Order of the learned Trial Judge dated 23.12.2015 marked X7 with the Petition in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.0,
+      702.48,
+      526.29,
+      715.81
+    ],
+    "text": "the absence of any evidence to prove a grave and irremediable injustice which",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.0,
+      722.4,
+      526.52,
+      735.73
+    ],
+    "text": "may be caused to the 1st Defendant in the event the purported application for the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.0,
+      742.32,
+      272.97,
+      755.65
+    ],
+    "text": "Interim Injunction is refused?",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 7 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.0,
+      65.76,
+      526.36,
+      79.14
+    ],
+    "text": "3) Have their Lordships of the High Court of Civil Appeal erred in law in failing to take",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.0,
+      85.68,
+      526.42,
+      99.01
+    ],
+    "text": "into consideration the principles governing the grant of interim relief, in delivering",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.0,
+      105.84,
+      274.14,
+      119.17
+    ],
+    "text": "the said impugned judgment?",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      135.36,
+      526.46,
+      148.69
+    ],
+    "text": "Before I proceed to consider the above questions of law, it would be pertinent at this stage,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      155.28,
+      526.45,
+      168.61
+    ],
+    "text": "to set out briefly, the facts of the case at hand. The original owner of the relevant property at",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      175.2,
+      526.46,
+      188.53
+    ],
+    "text": "the time of transactions pertaining to this case, was the 1st Defendant. The 1st Defendant by",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      195.12,
+      526.44,
+      208.45
+    ],
+    "text": "Deed of Transfer No. 12, attested on 14-10-2011 by D.S. Perera Notary Public, had transferred",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      215.04,
+      526.41,
+      228.37
+    ],
+    "text": "its title to the Plaintiff. The Plaintiff on the same date, had mortgaged the said property to the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      234.96,
+      526.47,
+      248.29
+    ],
+    "text": "2nd Defendant Bank by Mortgage Bond No. 1482 attested on 14-10-2011 by C.P. Rajaratne",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      254.88,
+      526.45,
+      268.21
+    ],
+    "text": "Notary Public. According to the said Mortgage Bond, the Plaintiff had tendered the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      274.8,
+      526.46,
+      288.13
+    ],
+    "text": "property as security to obtain a loan amounting to a sum of Rs. 7,500,000/= from the 2nd",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      294.72,
+      526.52,
+      308.05
+    ],
+    "text": "Defendant Bank. It is the case for the Plaintiff that the Plaintiff after purchasing the property",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      314.64,
+      526.52,
+      327.97
+    ],
+    "text": "from the 1st Defendant had permitted the 1st Defendant to remain in occupation of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      334.56,
+      526.46,
+      347.89
+    ],
+    "text": "property as the 1st Defendant was planning to leave the country shortly after selling her",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      354.48,
+      526.45,
+      367.81
+    ],
+    "text": "property to the Plaintiff. According to the Plaintiff, the present dispute had arisen when the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      374.4,
+      526.45,
+      387.73
+    ],
+    "text": "1st Defendant had thereafter refused to hand over the possession of the property to the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      394.32,
+      526.45,
+      407.65
+    ],
+    "text": "Plaintiff. This had led the Plaintiff filing the instant action to recover the vacant possession of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      414.24,
+      252.68,
+      427.57
+    ],
+    "text": "the property from the 1st Defendant.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      454.08,
+      526.62,
+      467.41
+    ],
+    "text": "Having narrated the facts of the case let me now introduce briefly, the law that must be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      474.0,
+      526.46,
+      487.33
+    ],
+    "text": "applied to answer the above questions of law which revolve around the question whether the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      493.92,
+      526.58,
+      507.25
+    ],
+    "text": "Provincial High Court had failed to consider the principles governing the grant of interim",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      513.84,
+      526.45,
+      527.17
+    ],
+    "text": "injunctions. Interim injunction is an equitable remedy and is not available as of a right. Such",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      533.76,
+      526.52,
+      547.09
+    ],
+    "text": "injunctions will be granted at the discretion of the Court. The effect and the purpose of such",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      553.68,
+      526.57,
+      567.01
+    ],
+    "text": "injunction is to preserve the status quo of the subject matter of the action until the final",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      573.6,
+      526.47,
+      586.93
+    ],
+    "text": "judgment is delivered. The Civil Procedure Code has dedicated its Chapter XLVIII for the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      593.52,
+      313.68,
+      606.85
+    ],
+    "text": "procedure relating to applications for injunctions.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      633.36,
+      526.46,
+      646.69
+    ],
+    "text": "Section 662 is followed by few other sections in that Chapter of the Civil Procedure Code and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      653.28,
+      526.35,
+      666.61
+    ],
+    "text": "they form the procedure to be followed when an application for an injunction (for any of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      673.2,
+      526.46,
+      686.53
+    ],
+    "text": "purposes mentioned in section 54 of the Judicature Act), is made. As has been clearly stated",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      693.12,
+      526.45,
+      706.45
+    ],
+    "text": "in section 662, the purposes for which such injunction may be obtained are set out in section",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      713.04,
+      526.42,
+      726.37
+    ],
+    "text": "54 of the Judicature Act. The corollary of the above, is that a Court can only grant such an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 8 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      65.76,
+      526.56,
+      79.09
+    ],
+    "text": "injunction for the purposes set out in section 54 of the Judicature Act. This means that it is",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      85.68,
+      431.44,
+      99.01
+    ],
+    "text": "this section which vests Courts with jurisdiction to grant such injunctions.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      105.6,
+      526.57,
+      118.93
+    ],
+    "text": "In the case of Alubhay Vs Mohideen,1 a case relating to an issuance of an interim injunction,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      125.52,
+      526.44,
+      138.85
+    ],
+    "text": "De Sampayo J stated that it was section 87 of the Courts Ordinance No. 1 of 1889 which",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      145.44,
+      526.52,
+      158.77
+    ],
+    "text": "creates the jurisdiction of the Court to grant injunctions, and one must look to the Civil",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      165.36,
+      526.43,
+      178.69
+    ],
+    "text": "Procedure Code for the relevant procedure. Looking back at the recent legal history of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      185.28,
+      526.54,
+      198.61
+    ],
+    "text": "country, one could observe that the Courts Ordinance No. 1 of 1889 was replaced by the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      205.2,
+      526.51,
+      218.53
+    ],
+    "text": "Administration of Justice Law No. 44 of 1973,2 and the latter was in turn replaced by the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      225.12,
+      526.47,
+      238.45
+    ],
+    "text": "Judicature Act No. 2 of 1978. This is why in Felix Dias Bandaranayake Vs. State Film",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      245.04,
+      526.58,
+      258.37
+    ],
+    "text": "Corporation and another,3 Justice Soza stated that generally speaking section 54 of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      264.96,
+      526.61,
+      278.29
+    ],
+    "text": "Judicature Act No. 2 of 1978 is the jurisdictional section while sections 662, 664 and 666 of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      284.88,
+      526.29,
+      298.21
+    ],
+    "text": "the Civil Procedure Code set out the procedure for granting of injunctions. This concept has",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      304.8,
+      526.49,
+      318.13
+    ],
+    "text": "been long followed by our Courts. Thus, section 54 of the Judicature Act states the substantive",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      324.72,
+      322.91,
+      338.05
+    ],
+    "text": "law relating to injunctions in the following manner:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      364.56,
+      130.08,
+      377.89
+    ],
+    "text": "Section 54:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.22,
+      384.24,
+      530.17,
+      397.62
+    ],
+    "text": "(1) Where in any action instituted in a High Court, District Court or a Small Claims Court,",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      107.22,
+      404.16,
+      167.2,
+      417.49
+    ],
+    "text": "it appears-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      424.08,
+      530.11,
+      437.41
+    ],
+    "text": "(a) from the plaint that the plaintiff demands and is entitled to a judgment",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      444.0,
+      530.33,
+      457.33
+    ],
+    "text": "against the defendant, restraining the commission or continuance of an act or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      463.92,
+      530.21,
+      477.25
+    ],
+    "text": "nuisance, the commission or continuance of which would produce injury to the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      483.84,
+      200.18,
+      497.17
+    ],
+    "text": "plaintiff; or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      503.76,
+      530.17,
+      517.09
+    ],
+    "text": "(b) that the defendant during the pendency of the action is doing or committing",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      523.68,
+      530.31,
+      537.01
+    ],
+    "text": "or procuring or suffering to be done or committed, or threatens or is about to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      543.6,
+      530.1,
+      556.93
+    ],
+    "text": "do or procure or suffer to be done or committed, an act or nuisance in violation",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      563.52,
+      530.31,
+      576.85
+    ],
+    "text": "of the plaintiffs rights in respect of the subject matter of the action and tending",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      583.44,
+      330.78,
+      596.77
+    ],
+    "text": "to render the judgment ineffectual, or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      603.36,
+      530.09,
+      616.69
+    ],
+    "text": "(c) that the defendant during the pendency of the action threatens or is about",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      623.28,
+      530.08,
+      636.61
+    ],
+    "text": "to remove or dispose of his property with intent to defraud the plaintiff, the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      643.2,
+      530.19,
+      656.53
+    ],
+    "text": "Court may, on its appearing by the affidavit of the plaintiff or any other person",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      663.12,
+      530.15,
+      676.45
+    ],
+    "text": "that sufficient grounds exist therefor, grant an injunction restraining any such",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.72,
+      683.04,
+      221.78,
+      696.37
+    ],
+    "text": "defendant from",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      705.22,
+      370.37,
+      756.17
+    ],
+    "text": "1 18 NLR 486. 2 Jurisdiction to grant interim injunctions was in section 42 therein. 3 1981 (2) Sri L. R. 287 at page 292.",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 9 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138.72,
+      65.76,
+      410.03,
+      79.09
+    ],
+    "text": "(i) committing or continuing any such act or nuisance;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138.72,
+      85.68,
+      385.07,
+      99.01
+    ],
+    "text": "(ii) doing or committing any such act or nuisance",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      138.72,
+      105.6,
+      359.66,
+      118.93
+    ],
+    "text": "(iii) removing or disposing of such property.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89.22,
+      125.52,
+      530.22,
+      138.9
+    ],
+    "text": "(2) For the purposes of this section, any defendant who shall have by his answer set up",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      145.44,
+      530.32,
+      158.77
+    ],
+    "text": "any claim in reconvention and shall thereupon demand an affirmative judgment",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      165.36,
+      530.36,
+      178.69
+    ],
+    "text": "against the plaintiff shall be deemed a plaintiff, and shall have the same right to an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      185.28,
+      530.38,
+      198.61
+    ],
+    "text": "injunction as he would have in an action brought by him against the plaintiff for the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      205.2,
+      530.3,
+      218.53
+    ],
+    "text": "cause of action stated in the claim in reconvention, and the plaintiff shall be deemed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      225.12,
+      382.89,
+      238.45
+    ],
+    "text": "the defendant and the claim in reconvention the plaint.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      89.22,
+      245.04,
+      530.23,
+      258.42
+    ],
+    "text": "(3) Such injunctions may be granted at any time after the commencement of the action",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      264.96,
+      530.42,
+      278.29
+    ],
+    "text": "and before final judgment after notice to the defendant, where the object of granting",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      284.88,
+      530.43,
+      298.21
+    ],
+    "text": "an injunction will be defeated by delay, the court may enjoin the defendant until the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      304.8,
+      530.4,
+      318.13
+    ],
+    "text": "hearing and decision of the application for an injunction but for periods not exceeding",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.22,
+      324.72,
+      231.94,
+      338.05
+    ],
+    "text": "fourteen days at a time.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      352.56,
+      526.45,
+      365.89
+    ],
+    "text": "Since it is section 54 of the Judicature Act which grants jurisdiction to court to issue injunctions",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      372.48,
+      526.46,
+      385.81
+    ],
+    "text": "any party gets its entitlement to agitate for such injunction only to the extent to which section",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      392.4,
+      526.45,
+      405.73
+    ],
+    "text": "54 of the Judicature Act has permitted. This is because the Court has to derive its jurisdiction",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      412.32,
+      526.46,
+      425.65
+    ],
+    "text": "from that section before it could consider granting the requested injunction. On the face of it",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      432.24,
+      526.42,
+      445.57
+    ],
+    "text": "section 54 has primarily conferred jurisdiction on court to issue such injunction against the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      452.16,
+      526.53,
+      465.49
+    ],
+    "text": "Defendant named in the plaint on the application of the Plaintiff. This can be clearly seen from",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      472.08,
+      526.64,
+      485.41
+    ],
+    "text": "Section 54(1) as what has been mentioned throughout that section, is only about issuance of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      492.0,
+      526.4,
+      505.33
+    ],
+    "text": "an injunction against a defendant. However, in terms of section 54(2) of the Judicature Act,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      511.92,
+      526.53,
+      525.25
+    ],
+    "text": "any Defendant falling under the categories set out in section 54(2) would also get the same",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      531.84,
+      526.46,
+      545.17
+    ],
+    "text": "entitlement if he had set up a claim in reconvention against the plaintiff praying for an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      551.76,
+      526.47,
+      565.09
+    ],
+    "text": "affirmative judgment against the Plaintiff. For further clarity requirement which must be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      571.68,
+      526.28,
+      585.01
+    ],
+    "text": "fulfilled by a defendant to get the same entitlement to agitate for such injunction in terms of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      591.6,
+      345.46,
+      604.93
+    ],
+    "text": "section 54(2) can be identified in the following manner:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      82.57,
+      631.44,
+      526.45,
+      644.82
+    ],
+    "text": "I. the defendant concerned shall have by his answer set up any claim in reconvention",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.0,
+      651.36,
+      233.2,
+      664.69
+    ],
+    "text": "against the plaintiff, and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.46,
+      671.28,
+      526.47,
+      684.66
+    ],
+    "text": "II. such defendant shall thereupon have demanded an affirmative judgment against the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.0,
+      691.2,
+      151.1,
+      704.53
+    ],
+    "text": "plaintiff",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      719.04,
+      526.48,
+      732.37
+    ],
+    "text": "For the purposes of that section, it is then only that a defendant could be deemed to be a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      738.96,
+      526.35,
+      752.29
+    ],
+    "text": "plaintiff. It is only such party who can have the same right to an injunction as if he had brought",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 10 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      65.76,
+      526.53,
+      79.09
+    ],
+    "text": "an action against the plaintiff for the cause of action stated in the claim in reconvention. It is",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      85.68,
+      526.58,
+      99.01
+    ],
+    "text": "only in such a situation that the plaintiff can be deemed to be the defendant as far as the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      105.6,
+      526.43,
+      118.93
+    ],
+    "text": "claim in reconvention is concerned. It is then only that such defendant can file petition and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      125.52,
+      525.9,
+      138.85
+    ],
+    "text": "affidavit in terms of section 662 of the Civil Procedure Code to pray for an interim injunction.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      145.44,
+      526.39,
+      158.77
+    ],
+    "text": "Further, such defendant must also bear in mind that such interim injunction can be asked for,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      165.36,
+      433.81,
+      178.69
+    ],
+    "text": "only in relation to the cause of action stated in the claim in reconvention.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      10.559999465942383,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      205.2,
+      526.45,
+      218.53
+    ],
+    "text": "Thus, section 54(2) has permitted only a defendant falling under the above category to apply",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      225.12,
+      526.48,
+      238.45
+    ],
+    "text": "for an injunction. In other words, the section has set out the above two pre-requisites which",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      245.04,
+      525.84,
+      258.37
+    ],
+    "text": "such defendant must fulfill before such defendant could request Court to issue an injunction.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      284.88,
+      526.5,
+      298.21
+    ],
+    "text": "Another important feature which can be seen from the above two requirements found in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      304.8,
+      526.57,
+      318.13
+    ],
+    "text": "section 54(2) of the Judicature Act is that the entitlement of the defendant is to pray for an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      324.72,
+      526.55,
+      338.05
+    ],
+    "text": "injunction only against the plaintiff of the case. This is because of the wordings in section",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      344.64,
+      526.6,
+      357.97
+    ],
+    "text": "54(2) of the Judicature Act which has specifically stated set up any claim in reconvention",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      364.56,
+      526.64,
+      377.89
+    ],
+    "text": "against the plaintiff and demanded an affirmative judgment against the plaintiff. In the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      384.24,
+      526.46,
+      397.57
+    ],
+    "text": "instant case it is the 1st Defendant who had obtained an interim injunction against the 2nd",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      404.16,
+      526.49,
+      417.49
+    ],
+    "text": "Defendant of the case and not against the Plaintiff of the case. This is not permitted by section",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      424.08,
+      201.57,
+      437.41
+    ],
+    "text": "54 of the Judicature Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      463.92,
+      526.51,
+      477.25
+    ],
+    "text": "The above section shows that a court may grant an injunction for one or more of the purposes",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      483.84,
+      526.43,
+      497.17
+    ],
+    "text": "set out in section 54 (1) under three limbs namely (a), (b) and (c). While the aforesaid three",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      503.76,
+      526.33,
+      517.09
+    ],
+    "text": "limbs [(a), (b) and (c)] set out the purposes for which injunctions may be granted, limbs (i),",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      523.68,
+      526.42,
+      537.01
+    ],
+    "text": "(ii) and (iii) appearing at the end of section 54 (1), set out what a Court can restrain by",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      543.6,
+      526.47,
+      556.93
+    ],
+    "text": "issuance of an injunction. It is not accidentally that the same wordings found in the aforesaid",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      563.52,
+      526.53,
+      576.85
+    ],
+    "text": "three limbs [(a), (b), (c)] have been incorporated in verbatim, in limbs (i), (ii) and (iii)",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      583.44,
+      526.46,
+      596.77
+    ],
+    "text": "appearing at the end of that section. This is why Justice Soza in Felix Dias Bandaranayake",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      603.36,
+      526.47,
+      616.69
+    ],
+    "text": "case,4 has stated that the person requesting the Court to issue an injunction must have a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      623.28,
+      526.49,
+      636.61
+    ],
+    "text": "clear legal right which is being infringed or about to be infringed. This is reflected in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      643.2,
+      307.76,
+      656.53
+    ],
+    "text": "following passage quoted from that judgment.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.22,
+      663.12,
+      530.27,
+      676.45
+    ],
+    "text": "It is necessary first of all to have a clear picture of the legal principles that are",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.22,
+      683.04,
+      530.19,
+      696.37
+    ],
+    "text": "applicable to the question before us. The jurisdictional provisions have already been",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.22,
+      702.96,
+      530.22,
+      716.29
+    ],
+    "text": "noted. This is an action instituted in the District Court and the application for an interim",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      729.46,
+      218.71,
+      756.17
+    ],
+    "text": "4 Supra at page 301.",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 11 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      65.76,
+      530.21,
+      79.09
+    ],
+    "text": "injunction was made at the time the plaint was filed. So section 54(1) (a) and (i) of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      85.68,
+      530.14,
+      99.01
+    ],
+    "text": "the Judicature Act No. 2 of 1978 and sections 662 and 664 of the Civil Procedure Code",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      105.6,
+      530.21,
+      118.93
+    ],
+    "text": "apply. If it appears from the plaint that the plaintiff demands and is entitled to a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      125.52,
+      530.25,
+      138.85
+    ],
+    "text": "judgment against the defendants, restraining the commission of an act or nuisance,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      145.44,
+      530.32,
+      158.77
+    ],
+    "text": "which would produce injury to him the Court may, on its appearing by the affidavit of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      165.36,
+      530.07,
+      178.69
+    ],
+    "text": "the plaintiff or any other person (and that would include the defendants as I have",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      185.28,
+      530.29,
+      198.61
+    ],
+    "text": "already pointed out) that sufficient grounds exist therefor, grant an interim injunction",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      205.2,
+      530.0,
+      218.53
+    ],
+    "text": "restraining the defendants from committing any such act or nuisance. The plaintiff",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      225.12,
+      530.03,
+      238.45
+    ],
+    "text": "must therefore have a clear legal right which is being infringed or about to",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.22,
+      245.04,
+      206.0,
+      258.37
+    ],
+    "text": "be infringed.5",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      284.88,
+      526.5,
+      298.21
+    ],
+    "text": "I have already held above that it is not open for the 1st Defendant to obtain an injunction",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      304.8,
+      526.46,
+      318.13
+    ],
+    "text": "against the 2nd Defendant of the case. Although this is sufficient to dispose this matter I would",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      324.72,
+      455.04,
+      338.05
+    ],
+    "text": "proceed to consider another important aspect which can be seen in this case.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      364.56,
+      526.51,
+      377.89
+    ],
+    "text": "As has been mentioned above, the 1stDefendant in his answer has not set up any claim in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      384.24,
+      526.43,
+      397.57
+    ],
+    "text": "reconvention against the 2nd Defendant. The 1st Defendant has also not prayed for any",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      404.16,
+      526.46,
+      417.49
+    ],
+    "text": "affirmative judgment against the 2nd Defendant. Thus, according to section 54(2) the 1st",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      424.08,
+      526.46,
+      437.41
+    ],
+    "text": "Defendant is not qualified to ask for an injunction against the 2nd Defendant. Thus, the 1st",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      444.0,
+      526.48,
+      457.33
+    ],
+    "text": "Defendant cannot be deemed to be a Plaintiff in terms of section 54(2) of the Judicature Act",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      463.92,
+      529.89,
+      477.25
+    ],
+    "text": "because the 1st Defendant had not set up any claim in reconvention against the 2nd Defendant.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      483.84,
+      526.48,
+      497.17
+    ],
+    "text": "The Provincial High Court has fallen into error as it had totally missed this point. Although the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      503.76,
+      526.46,
+      517.09
+    ],
+    "text": "Provincial High Court has held that the 1st Defendant has established a prima facie case, I fail",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      523.68,
+      526.49,
+      537.01
+    ],
+    "text": "to understand how it could be so when the 1st Defendant had not even claimed anything",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      543.6,
+      526.53,
+      556.93
+    ],
+    "text": "against the 2nd Defendant. I must add a caution that the position may be different in partition",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      563.52,
+      526.47,
+      576.85
+    ],
+    "text": "cases for the reason that every statement of claim in a partition case is generally considered",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      583.44,
+      526.45,
+      596.77
+    ],
+    "text": "as a plaint and every party in a partition case is generally considered as a plaintiff. The record",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      603.36,
+      526.45,
+      616.69
+    ],
+    "text": "shows that the District Judge by his Order dated 23-12-2015 had refused to issue the enjoining",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      623.28,
+      526.52,
+      636.61
+    ],
+    "text": "order prayed for and also refused to issue notice of injunction. This means that no inquiry to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      643.2,
+      526.45,
+      656.53
+    ],
+    "text": "decide whether the interim injunction prayed for should be granted or not, had ever been",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      663.12,
+      526.46,
+      676.45
+    ],
+    "text": "conducted in the District Court. The Civil Appeals High Court has lost sight of this fact when",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      683.04,
+      526.45,
+      696.37
+    ],
+    "text": "they had directed the District Judge to issue an interim injunction. To the contrary, the prayer",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      702.96,
+      320.57,
+      716.69
+    ],
+    "text": "() of the Petition dated 16-12-2015 is as follows:",
+    "fonts": [
+      "IskoolaPota",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.0,
+      729.46,
+      218.71,
+      756.17
+    ],
+    "text": "5 Emphasis is mine.",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 12 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.0,
+      85.68,
+      525.76,
+      98.21
+    ],
+    "text": ") $% -. 01 4 567 9 %= ? @ C",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.0,
+      104.4,
+      525.78,
+      116.93
+    ],
+    "text": "6 @ G @IJ /5 O /5 P0 IQ /5 6",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.0,
+      123.12,
+      525.78,
+      135.65
+    ],
+    "text": "RS. @ G ?IQ 02 @??-?1 4 X",
+    "fonts": [
+      "IskoolaPota"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.0,
+      140.64,
+      269.4,
+      154.37
+    ],
+    "text": "Z[C Z\\? ?",
+    "fonts": [
+      "IskoolaPota",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      180.48,
+      526.48,
+      194.21
+    ],
+    "text": "Therefore, it is clear the prayer () of the Petition dated 16-12-2015 is not a prayer for interim",
+    "fonts": [
+      "IskoolaPota",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      200.88,
+      526.46,
+      214.21
+    ],
+    "text": "injunction although the Civil Appeals High Court by its judgment has directed the District Judge",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      220.8,
+      310.16,
+      234.13
+    ],
+    "text": "to issue an interim injunction as per that prayer.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      240.72,
+      526.57,
+      254.05
+    ],
+    "text": "The procedure one has to follow with regard to obtaining/granting an interim injunction is set",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      260.64,
+      526.48,
+      273.97
+    ],
+    "text": "out in Chapter XLVIII of the Civil Procedure Code. This position was accepted by Soza, J in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      280.56,
+      526.45,
+      293.89
+    ],
+    "text": "Felix Dias Bandaranaike vs. State Film Corporation and another6. According to section 664 of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      300.48,
+      526.41,
+      313.81
+    ],
+    "text": "the Civil Procedure Code, it is mandatory for the court to issue notice of injunction before it",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      320.4,
+      526.46,
+      333.73
+    ],
+    "text": "decides to grant an injunction. This is unambiguous in the wordings used in section 664 which",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      340.32,
+      137.87,
+      353.65
+    ],
+    "text": "is as follows:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      379.92,
+      136.09,
+      393.25
+    ],
+    "text": "Section 664:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      107.22,
+      419.76,
+      530.33,
+      433.14
+    ],
+    "text": "(1) The court shall before granting an injunction cause the petition of application for",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      439.68,
+      530.13,
+      453.01
+    ],
+    "text": "the same together with the accompanying affidavit to be served on the opposite",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      459.6,
+      164.95,
+      472.93
+    ],
+    "text": "party.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      107.22,
+      479.52,
+      530.22,
+      492.9
+    ],
+    "text": "(2) Where it appears to court that the object of granting an injunction would be",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      499.44,
+      530.18,
+      512.77
+    ],
+    "text": "defeated by delay, it may until the hearing and decision of the application for an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      519.36,
+      530.31,
+      532.69
+    ],
+    "text": "injunction, enjoin the defendant for a period not exceeding fourteen days in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      539.28,
+      530.33,
+      552.61
+    ],
+    "text": "first Instance, and the court may for good and sufficient reasons, which shall be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      559.2,
+      530.19,
+      572.53
+    ],
+    "text": "recorded, extend for periods not exceeding fourteen days at the time, the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      579.12,
+      530.32,
+      592.45
+    ],
+    "text": "operation of such order. An enjoining order made under these provisions, shall",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      599.04,
+      530.24,
+      612.37
+    ],
+    "text": "lapse upon the hearing and decision of the application for the grant of an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      618.96,
+      187.36,
+      632.29
+    ],
+    "text": "injunction.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      107.22,
+      638.88,
+      530.18,
+      652.26
+    ],
+    "text": "(3) The court may, of its own motion, or on an application made by any party suspend",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      658.8,
+      530.21,
+      672.13
+    ],
+    "text": "the operation of an enjoining order issued under subsection (2), if it is satisfied",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      678.72,
+      530.17,
+      692.05
+    ],
+    "text": "that such order was obtained by suppression, or misrepresentation, of any material",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.22,
+      698.64,
+      159.48,
+      711.97
+    ],
+    "text": "facts.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      729.22,
+      218.71,
+      756.07
+    ],
+    "text": "6 supra",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      35.28,
+      526.16,
+      62.27
+    ],
+    "text": "[SC Appeal 89/2019] - Page 13 of 13",
+    "fonts": [
+      "Calibri",
+      "Tahoma"
+    ],
+    "sizes": [
+      10.079999923706055,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      85.68,
+      526.47,
+      99.01
+    ],
+    "text": "Thus, it is clear that the High Court had directed the District judge to grant the interim",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      105.6,
+      526.5,
+      118.93
+    ],
+    "text": "injunction prayed for by the 1st Defendant even in the absence of not only an inquiry in that",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      125.52,
+      418.58,
+      138.85
+    ],
+    "text": "regard but also an order issuing notice of injunction in the first place.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      165.36,
+      526.47,
+      178.69
+    ],
+    "text": "As has been shown above, there is no legal basis for the Provincial High Court to have directed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      185.28,
+      526.47,
+      198.61
+    ],
+    "text": "the learned District Judge to issue an interim injunction as prayed for by the 1st Defendant in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      205.2,
+      526.46,
+      218.93
+    ],
+    "text": "terms of paragraph () or to issue an enjoining order or the notice of interim injunction as",
+    "fonts": [
+      "IskoolaPota",
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      225.36,
+      526.46,
+      239.09
+    ],
+    "text": "prayed for by the 1st Defendant in terms of paragraph () of the prayers of the Petition dated",
+    "fonts": [
+      "IskoolaPota",
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      245.76,
+      388.58,
+      259.09
+    ],
+    "text": "16-12-2015 filed in the District Court against the 2nd Defendant.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      285.6,
+      526.49,
+      298.93
+    ],
+    "text": "For the foregoing reasons, I answer the questions of law in respect of which this Court has",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      305.52,
+      523.01,
+      318.85
+    ],
+    "text": "granted Leave to Appeal in the affirmative. I proceed to set aside the judgment dated 17-01-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      325.44,
+      526.45,
+      338.77
+    ],
+    "text": "2018 pronounced by the Provincial High Court. I restore the order dated 23-12-2015 of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      345.36,
+      526.49,
+      358.69
+    ],
+    "text": "learned District Judge of Kandy. The Petition dated 16-12-2015 praying for the enjoining order",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      365.28,
+      523.01,
+      378.61
+    ],
+    "text": "and interim injunction must stand dismissed. The 1st Defendant-Petitioner-Appellant-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      385.2,
+      526.46,
+      398.53
+    ],
+    "text": "Respondent must pay to the 2nd Defendant-Respondent-Respondent-Appellant a cost of Rs.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      405.12,
+      130.35,
+      418.45
+    ],
+    "text": "100,000/=.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      324.0,
+      458.16,
+      506.15,
+      471.49
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      498.0,
+      213.8,
+      511.33
+    ],
+    "text": "E. A. G. R. Amarasekara J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      517.92,
+      113.72,
+      531.25
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      324.0,
+      557.76,
+      506.15,
+      571.09
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      597.6,
+      216.76,
+      610.93
+    ],
+    "text": "Shiran Gooneratne J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      617.52,
+      113.72,
+      630.85
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      657.36,
+      510.12,
+      683.89
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  }
+]
