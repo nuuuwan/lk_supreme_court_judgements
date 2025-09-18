@@ -1,11 +1,11 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_10:48:58-green)
-![DatasetSize](https://img.shields.io/badge/dataset_size-0.3_GB-yellow)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_11:22:04-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-0.4_GB-yellow)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements)
 
-📜 [**1,373** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.3 GB**), from **2016-07-22** to **2025-09-17**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+📜 [**1,505** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.4 GB**), from **2016-07-22** to **2025-09-17**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
 📑 In JSON, PDF, TXT and 🤗 Hugging Face Formats
 
@@ -17,7 +17,7 @@
 
 ...
 
-*📒 PDFs have been downloaded for **381** (**28%**) documents*
+*📒 PDFs have been downloaded for **382** (**25%**) documents*
 
 🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
 
