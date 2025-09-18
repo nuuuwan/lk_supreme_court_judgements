@@ -32,17 +32,16 @@ class JudgementDocWebMixin:
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
-            "href"
-        )
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
         assert url_pdf.endswith(".pdf"), url_pdf
 
         return cls(
             num=num,
             date_str=date_str,
             description="",
-            url_pdf=url_pdf,
             url_metadata=cls.BASE_URL,
+            lang="en",
+            url_pdf=url_pdf,
             parties=td_text_list[2],
             judgement_by=td_text_list[3],
         )
