@@ -32,14 +32,18 @@ class AbstractDocPipelineCleanupMixin:
 
     @classmethod
     def cleanup_all_by_file_path(cls):
+        if os.path.exists("data"):
+            shutil.rmtree("data")
+            log.warning("🧹 Deleted data/ directory")
+
         for json_path in cls.get_all_json_paths():
             cls.add_lang(json_path)
             cls.cleanup_incorrect_doc_dir(json_path)
 
     @classmethod
     def correct_pdf_path(cls, doc):
-        expected_pdf_path = os.path.join(doc.dir_doc_extended, "doc.pdf")
-        legacy_pdf_path = os.path.join(doc.dir_doc_extended, "en.pdf")
+        expected_pdf_path = os.path.join(doc.dir_doc, "doc.pdf")
+        legacy_pdf_path = os.path.join(doc.dir_doc, "en.pdf")
 
         if os.path.exists(legacy_pdf_path):
             if os.path.exists(expected_pdf_path):

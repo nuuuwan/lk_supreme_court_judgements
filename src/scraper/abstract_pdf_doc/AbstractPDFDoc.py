@@ -17,7 +17,7 @@ class AbstractPDFDoc(AbstractDoc, ABC):
 
     @cached_property
     def pdf_path(self) -> str:
-        return os.path.join(self.dir_doc_extended, "doc.pdf")
+        return os.path.join(self.dir_doc, "doc.pdf")
 
     @property
     def has_pdf(self) -> bool:
@@ -25,7 +25,7 @@ class AbstractPDFDoc(AbstractDoc, ABC):
 
     @cached_property
     def blocks_path(self) -> str:
-        return os.path.join(self.dir_doc_extended, "blocks.json")
+        return os.path.join(self.dir_doc, "blocks.json")
 
     def extract_blocks(self):
         assert os.path.exists(self.pdf_path)
@@ -42,7 +42,7 @@ class AbstractPDFDoc(AbstractDoc, ABC):
         assert os.path.exists(self.blocks_path)
         return JSONFile(self.blocks_path).read()
 
-    def scrape_extended_data_for_doc_text_part(self):
+    def scrape_extended_data_for_doc(self):
         if not self.has_pdf:
             WWW(self.url_pdf).download_binary(self.pdf_path)
         if not os.path.exists(self.blocks_path) or not os.path.getsize(
