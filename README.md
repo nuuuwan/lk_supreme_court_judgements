@@ -1,14 +1,14 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_21:23:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_21:51:26-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements)
 
-📜 [**1,526** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**901.0 MB**), from **2016-07-22** to **2025-09-18**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+- [**1,526** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**902.5 MB**), from **2016-07-22** to **2025-09-18**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
-💾 In **JSON**, **PDF** (62%), **TXT** (62%) and **🤗 Hugging Face** (62%)
+- In **JSON**, **PDF** (62%), **TXT** (62%) & **🤗 Hugging Face** (62%)
 
-🗣️ In **English**
+- In **English**
 
 ## 📝 Example Metadata
 
@@ -35,8 +35,8 @@
 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace)
 
-- 📄 [nuuuwan/lk-supreme-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-docs)
-- 📦 [nuuuwan/lk-supreme-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-chunks)
+- [nuuuwan/lk-supreme-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-docs)
+- [nuuuwan/lk-supreme-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-supreme-court-judgements-chunks)
 
 ## 🆕 20 Latest documents
 
@@ -62,6 +62,8 @@
 - 2025-09-08 | `SC/APPEAL/115/2013` | Hon. Justice Janak De Silva - 1B,16A. Edirisingha Mudiyanse... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-08-SC-APPEAL-115-2013)
 
 ---
+
+### [More Datasets about 🇱🇰 #SriLanka](https://github.com/nuuuwan/lk_datasets)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
