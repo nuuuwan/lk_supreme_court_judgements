@@ -35,15 +35,24 @@ class JudgementDocWebMixin:
         url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
         assert url_pdf.endswith(".pdf"), url_pdf
 
+        # judgement_by, parties, description
+        judgement_by = td_text_list[3]
+        parties = td_text_list[2]
+        max_parties_len = 32
+        parties_short = parties
+        if len(parties) > max_parties_len:
+            parties_short = parties[: max_parties_len - 3] + "..."
+        description = f"{judgement_by} - {parties_short}"
+
         return cls(
             num=num,
             date_str=date_str,
-            description="",
+            description=description,
             url_metadata=cls.BASE_URL,
             lang="en",
             url_pdf=url_pdf,
-            parties=td_text_list[2],
-            judgement_by=td_text_list[3],
+            parties=parties,
+            judgement_by=judgement_by,
         )
 
     @classmethod
