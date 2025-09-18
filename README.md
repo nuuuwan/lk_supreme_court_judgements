@@ -1,11 +1,11 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_11:22:04-green)
-![DatasetSize](https://img.shields.io/badge/dataset_size-0.4_GB-yellow)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_11:51:20-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-0.5_GB-yellow)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements)
 
-📜 [**1,505** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.4 GB**), from **2016-07-22** to **2025-09-17**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+📜 [**1,517** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**0.5 GB**), from **2016-07-22** to **2025-09-18**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
 📑 In JSON, PDF, TXT and 🤗 Hugging Face Formats
 
@@ -17,7 +17,7 @@
 
 ...
 
-*📒 PDFs have been downloaded for **382** (**25%**) documents*
+*📒 PDFs have been downloaded for **612** (**40%**) documents*
 
 🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
 
@@ -26,15 +26,15 @@
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-09-17-SC-FR-77-2018",
-    "num": "SC/FR/77/2018",
-    "date_str": "2025-09-17",
-    "description": "Hon. K. Priyantha Fernando J - 1. Atham Lebbe Mohamed Nawas ...",
+    "doc_id": "2025-09-18-SC-APPEAL-48-2022",
+    "num": "SC/APPEAL/48/2022",
+    "date_str": "2025-09-18",
+    "description": "Hon. K. Kumudini Wickremasinghe J - 1. Thenudaya Nithil Demash Ko...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_77_2018.pdf",
-    "parties": "1. Atham Lebbe Mohamed Nawas No. 30, Methaippalli road, Kattankudy 2 Petitioner V. 1. Pujitha Jayasundara Inspector General of Police Police Head Quarters Colombo-01 1A. C.D. Wickramaratne Inspector General of Police Police Head Quarters Colombo-01 2. P.P. Kasthooriarachchi Office-in-Charge 3. Mr. Muwsseer PC 5867 Police Constable 4. Mr. Muhajith PC 5868 Police Constable The 2nd to the 4th Respondents above named all of Police Station of Kathankudy Hisbulla Street Ward No 19 Manchanthuduwai 5. Hon. Attorney General Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. K. Priyantha Fernando J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_48_2022.pdf",
+    "parties": "1. Thenudaya Nithil Demash Kodithuwakku 2. Ranjan Pushpakumara Kodithuwakku Both of 4/1A 3/1 Wekunagoda Road, Galle. PETITIONERS- APPELLANTS Vs- 1. Mr. Sampath Weeragoda, former Principal Richmond College & Chairman of the Interview Board- Presently at the Ministry of Education 3rd Floor, Isurupaya, Battaramulla. 2. Lanka Senanayake, Secretary, of the Interview Board, Richmond College, Galle. 3. Prasadi Anupama Kulathunga 4. Samith Gallage, Attorney-at-Law 5. Dunstan Lokumalage 3rd to the 5th Respondents are Members of the Interview Board, Richmond College, Galle. 6. Mr. Thilak Wathuthuhewa, Principal, Richmond College, Galle. 6A. Mr. W.P.N.D. Weerasinghe Principal, Richmond College, Galle. ADDED 6B. Mr. P. Saman Pushpakumara, Principal, Richmond College, Galle. 7. Mr. Francis Wellage, Principal Rahula College, Matara, Chairman of the Appeal & Objection Investigation Board 8. Priyal De Silva, Deputy Principal & Secretary, Appeal & Objection Investigation Board 9. D.N. Ruwanpathirana, 10. Nilantha Halpandiya, Attorney-at-Law, 11. Ravi Kalansooriya. 9th to 11th Respondents are members of the Appeal & Objection Investigation Board, Richmond College, Galle. 12. Professor Kapila C.K. Perera, Secretary, Ministry of Education 3rd Floor, Isurupaya, Battaramulla. 13. Mr. Kithsiri Liyanagamage, Director National Schools, Ministry of Education 3rd Floor, Isurupaya, Battaramulla. RESPONDENTS-RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
 }
 ```
 
@@ -51,6 +51,7 @@
 
 ## 🆕 20 Latest documents
 
+- 2025-09-18 | `SC/APPEAL/48/2022` | Hon. K. Kumudini Wickremasinghe J - 1. Thenudaya Nithil Demash Ko... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-APPEAL-48-2022)
 - 2025-09-17 | `SC/FR/77/2018` | Hon. K. Priyantha Fernando J - 1. Atham Lebbe Mohamed Nawas ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-17-SC-FR-77-2018)
 - 2025-09-16 | `SC/FR/3/2009` | Hon. Janak De Silva J - 1. Sumith Aluthkorala. 42/C, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-16-SC-FR-3-2009)
 - 2025-09-12 | `SC/APPEAL/59/2024` | Hon. Achala Wengappuli J - China Great Wall Hospital Pri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-12-SC-APPEAL-59-2024)
@@ -70,7 +71,6 @@
 - 2025-09-04 | `SC/APPEAL/98/2014` | Hon. Janak De Silva J - 1. Jayasuriya Arachchige Leel... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-98-2014)
 - 2025-09-04 | `SC/APPEAL/85/2023` | Hon. M. Sampath K. B. Wijeratne J - Mallawa Waduge Jayaratne No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-85-2023)
 - 2025-09-04 | `SC/APPEAL/67/2025` | Hon. Sobhitha Rajakaruna J - Lillie Rupasinghe No. 25, Hil... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-67-2025)
-- 2025-09-04 | `SC/APPEAL/54/2022` | Hon. M. Sampath K. B. Wijeratne J - Ignatius Brito Kaithan Pulle ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-APPEAL-54-2022)
 
 ---
 
