@@ -1,0 +1,3960 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      122.64,
+      82.25,
+      494.15,
+      102.28
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRACTIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.04,
+      106.85,
+      446.74,
+      126.88
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.2,
+      164.94,
+      503.76,
+      182.06
+    ],
+    "text": "1. Jayawardene Liyanage Gunadasa,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      186.94,
+      352.32,
+      202.66
+    ],
+    "text": "No. 449,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      208.06,
+      418.56,
+      223.78
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      228.3,
+      377.04,
+      245.42
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      250.3,
+      344.4,
+      266.02
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      291.66,
+      363.6,
+      308.78
+    ],
+    "text": "SC APPEAL NO: SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      312.78,
+      347.76,
+      329.9
+    ],
+    "text": "SC SPL LA NO: SC/SPL/LA/39/2016",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      334.02,
+      293.04,
+      351.14
+    ],
+    "text": "CA CASE NO: CA/494/99(F)",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      355.14,
+      296.16,
+      372.26
+    ],
+    "text": "DC COLOMBO NO: 16657/L",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      377.14,
+      317.52,
+      392.86
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.2,
+      409.38,
+      450.72,
+      426.5
+    ],
+    "text": "1. Narangodage Amarapala,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      430.5,
+      352.56,
+      447.62
+    ],
+    "text": "No. 449,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      451.62,
+      418.8,
+      468.74
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      473.62,
+      372.96,
+      489.34
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      494.74,
+      363.6,
+      510.46
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      536.98,
+      396.0,
+      552.7
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.2,
+      578.34,
+      503.76,
+      595.46
+    ],
+    "text": "1. Jayawardene Liyanage Gunadasa,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      599.46,
+      361.68,
+      616.58
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      621.46,
+      352.32,
+      637.18
+    ],
+    "text": "No. 449,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      642.7,
+      418.56,
+      658.42
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      663.82,
+      376.8,
+      679.54
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      684.94,
+      405.12,
+      700.66
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      35.38,
+      313.56,
+      65.14
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      378.6,
+      34.4,
+      496.39,
+      47.45
+    ],
+    "text": "SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      71.38,
+      484.56,
+      87.1
+    ],
+    "text": "1A. Gamekankanamge Gunawathie,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.2,
+      92.5,
+      366.84,
+      108.22
+    ],
+    "text": "No. 01/11,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      113.62,
+      427.68,
+      129.34
+    ],
+    "text": "Samaranayake Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      134.74,
+      371.52,
+      150.46
+    ],
+    "text": "Kolonnawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.76,
+      155.86,
+      489.84,
+      171.58
+    ],
+    "text": "1B. Jayawardeneliyanage Prasanna,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.2,
+      176.98,
+      365.64,
+      192.7
+    ],
+    "text": "No. 01/11,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.2,
+      198.1,
+      422.52,
+      213.82
+    ],
+    "text": "Samaranayake Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.2,
+      219.34,
+      370.2,
+      235.06
+    ],
+    "text": "Kolonnawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.2,
+      240.46,
+      490.56,
+      256.18
+    ],
+    "text": "1C. Jayawardeneliyanage Lasantha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      261.58,
+      365.52,
+      277.3
+    ],
+    "text": "No. 01/11,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      282.7,
+      422.4,
+      298.42
+    ],
+    "text": "Samaranayake Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      303.82,
+      370.08,
+      319.54
+    ],
+    "text": "Kolonnawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.2,
+      324.94,
+      476.52,
+      340.66
+    ],
+    "text": "1D. Jayawardeneliyanage Achini",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      346.06,
+      365.52,
+      361.78
+    ],
+    "text": "No. 01/11,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      367.18,
+      422.4,
+      382.9
+    ],
+    "text": "Samaranayake Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      388.3,
+      370.08,
+      404.02
+    ],
+    "text": "Kolonnawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      409.42,
+      486.48,
+      425.14
+    ],
+    "text": "Substituted Plaintiff- Appellants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      451.66,
+      319.92,
+      467.38
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.2,
+      483.9,
+      457.8,
+      501.02
+    ],
+    "text": "1. Narangodage Amarapala,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.76,
+      505.02,
+      361.08,
+      522.14
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.2,
+      527.14,
+      351.72,
+      542.86
+    ],
+    "text": "No. 449,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.2,
+      548.26,
+      429.48,
+      563.98
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.2,
+      569.38,
+      372.36,
+      585.1
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.2,
+      590.5,
+      437.16,
+      606.22
+    ],
+    "text": "Defendant-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.64,
+      611.62,
+      477.96,
+      627.34
+    ],
+    "text": "1A. Indra Josephine Jayasinghe,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.2,
+      632.74,
+      375.12,
+      648.46
+    ],
+    "text": "No. 449/1A,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.2,
+      653.86,
+      476.16,
+      669.58
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.2,
+      674.98,
+      372.96,
+      690.7
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      35.38,
+      313.56,
+      65.14
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      378.6,
+      34.4,
+      496.39,
+      47.45
+    ],
+    "text": "SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.64,
+      71.38,
+      465.36,
+      87.1
+    ],
+    "text": "1B. Narangodage Ishan Dilantha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      92.5,
+      370.92,
+      108.22
+    ],
+    "text": "No. 449/1A,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      113.62,
+      471.96,
+      129.34
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      134.74,
+      368.76,
+      150.46
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.2,
+      155.86,
+      487.92,
+      171.58
+    ],
+    "text": "1C. Narangodage Hasini Chathurani,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      176.98,
+      371.64,
+      192.7
+    ],
+    "text": "No. 449/1A,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      198.1,
+      472.68,
+      213.82
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      219.34,
+      369.48,
+      235.06
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      240.46,
+      445.32,
+      256.18
+    ],
+    "text": "Substituted Defendant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      261.58,
+      375.0,
+      277.3
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.76,
+      303.82,
+      427.2,
+      319.54
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      324.94,
+      464.52,
+      340.66
+    ],
+    "text": "1A. Indra Josephine Jayasinghe,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      346.06,
+      371.64,
+      361.78
+    ],
+    "text": "No. 449/1A,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      367.18,
+      472.68,
+      382.9
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      388.3,
+      369.48,
+      404.02
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      409.42,
+      467.88,
+      425.14
+    ],
+    "text": "1B. Narangodage Ishan Dilantha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      430.54,
+      370.92,
+      446.26
+    ],
+    "text": "No. 449/1A,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      451.66,
+      471.96,
+      467.38
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      472.78,
+      368.76,
+      488.5
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      493.9,
+      490.44,
+      509.62
+    ],
+    "text": "1C. Narangodage Hasini Chathurani,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      515.14,
+      371.64,
+      530.86
+    ],
+    "text": "No. 449/1A,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      536.26,
+      472.68,
+      551.98
+    ],
+    "text": "Elvitigala Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      557.38,
+      369.48,
+      573.1
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      578.5,
+      433.8,
+      594.22
+    ],
+    "text": "Substituted Defendant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      599.62,
+      447.48,
+      615.34
+    ],
+    "text": "Respondent- Petitioners",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.2,
+      641.86,
+      315.24,
+      657.58
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.2,
+      662.98,
+      484.44,
+      678.7
+    ],
+    "text": "1A. Gamekankanamge Gunawathie,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      268.2,
+      684.1,
+      363.0,
+      699.82
+    ],
+    "text": "No. 01/11,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      268.2,
+      705.22,
+      496.2,
+      720.94
+    ],
+    "text": "Samaranayake Road, Kolonnawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      35.38,
+      313.56,
+      65.14
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      378.6,
+      34.4,
+      496.39,
+      47.45
+    ],
+    "text": "SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.2,
+      92.5,
+      489.0,
+      108.22
+    ],
+    "text": "1B. Jayawardeneliyanage Prasanna,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268.2,
+      113.62,
+      487.8,
+      129.34
+    ],
+    "text": "No. 01/11, Samaranayake Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268.2,
+      134.74,
+      367.56,
+      150.46
+    ],
+    "text": "Kolonnawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.64,
+      155.86,
+      487.32,
+      171.58
+    ],
+    "text": "1C. Jayawardeneliyanage Lasantha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263.76,
+      176.98,
+      487.2,
+      192.7
+    ],
+    "text": "No. 01/11, Samaranayake Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263.76,
+      198.1,
+      366.96,
+      213.82
+    ],
+    "text": "Kolonnawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.2,
+      219.34,
+      471.48,
+      235.06
+    ],
+    "text": "1D. Jayawardeneliyanage Achini",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268.2,
+      240.46,
+      487.8,
+      256.18
+    ],
+    "text": "No. 01/11, Samaranayake Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268.2,
+      261.58,
+      367.56,
+      277.3
+    ],
+    "text": "Kolonnawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268.2,
+      282.7,
+      478.68,
+      298.42
+    ],
+    "text": "Substituted Plaintiff- Appellant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.76,
+      303.82,
+      385.56,
+      319.54
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      346.06,
+      332.4,
+      361.78
+    ],
+    "text": "Before: P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      367.18,
+      357.84,
+      382.9
+    ],
+    "text": "Yasantha Kodagoda, P.C., J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      388.3,
+      370.08,
+      404.02
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      415.42,
+      430.32,
+      431.14
+    ],
+    "text": "Counsel: Dr. Jayatissa de Costa, P.C., with D.D.P.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187.2,
+      436.54,
+      443.28,
+      452.26
+    ],
+    "text": "Dasanayake for the Substituted Defendant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187.2,
+      457.66,
+      328.8,
+      473.38
+    ],
+    "text": "Respondent-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      478.78,
+      483.6,
+      494.5
+    ],
+    "text": "Asthika Devendra with Nihara Gooneratne for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187.2,
+      499.9,
+      426.24,
+      515.62
+    ],
+    "text": "Substituted 1A to 1D Plaintiff-Appellant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187.2,
+      521.14,
+      274.32,
+      536.86
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      542.26,
+      263.04,
+      557.98
+    ],
+    "text": "Written submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187.2,
+      563.38,
+      473.04,
+      579.1
+    ],
+    "text": "by 1A to 1D Plaintiff-Appellant-Respondents on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187.2,
+      584.5,
+      258.24,
+      600.22
+    ],
+    "text": "01.11.2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187.2,
+      605.62,
+      487.92,
+      621.34
+    ],
+    "text": "by 1A to 1C Defendant-Respondent-Petitioners on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      187.2,
+      626.74,
+      262.08,
+      642.46
+    ],
+    "text": "16.11.2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      653.86,
+      258.24,
+      669.58
+    ],
+    "text": "Argued on: 15.02.2022",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      680.98,
+      259.2,
+      696.7
+    ],
+    "text": "Decided on: 20.05.2022",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      35.38,
+      313.56,
+      65.14
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      378.6,
+      34.4,
+      496.39,
+      47.45
+    ],
+    "text": "SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      71.38,
+      301.92,
+      87.1
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      104.5,
+      500.64,
+      120.22
+    ],
+    "text": "The plaintiff filed this action in the District Court seeking",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      125.62,
+      500.64,
+      141.34
+    ],
+    "text": "ejectment of the defendant from the premises in suit and damages",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      146.74,
+      500.64,
+      162.46
+    ],
+    "text": "on the basis that the defendant is in unlawful possession of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      167.86,
+      500.64,
+      183.58
+    ],
+    "text": "premises, the leave and license given to him by the plaintiff having",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      188.98,
+      500.64,
+      204.7
+    ],
+    "text": "been terminated by P4 effective from 31.01.1994. The defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      210.1,
+      500.64,
+      225.82
+    ],
+    "text": "sought dismissal of the plaintiff\u2019s action on the basis that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      231.34,
+      500.64,
+      247.06
+    ],
+    "text": "plaintiff was the defendant\u2019s licensee whereas he (the defendant)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      252.46,
+      500.64,
+      268.18
+    ],
+    "text": "was the tenant of the owner of the premises, namely Thillairajah.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      273.58,
+      500.64,
+      289.3
+    ],
+    "text": "The fact that Thillairajah was the owner of the premises is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      294.7,
+      500.64,
+      310.42
+    ],
+    "text": "undisputed. After trial, the District Court held with the defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      315.82,
+      500.64,
+      331.54
+    ],
+    "text": "and dismissed the plaintiff\u2019s action. On appeal by the plaintiff, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      336.94,
+      500.64,
+      352.66
+    ],
+    "text": "Court of Appeal set aside the judgment of the District Court and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      358.06,
+      500.64,
+      373.78
+    ],
+    "text": "entered judgment for the plaintiff. Hence this appeal by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      379.18,
+      267.84,
+      394.9
+    ],
+    "text": "defendant to this Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      412.3,
+      500.64,
+      428.02
+    ],
+    "text": "This Court granted leave to appeal to the defendant on three",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      433.42,
+      406.8,
+      449.14
+    ],
+    "text": "questions of law, which are, verbatim, as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133.2,
+      465.96,
+      500.64,
+      482.34
+    ],
+    "text": "(a) Has the Court of Appeal erred in not considering that the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      487.66,
+      500.64,
+      503.38
+    ],
+    "text": "leave and license alleged to have been granted to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      508.78,
+      459.6,
+      524.5
+    ],
+    "text": "defendant by the plaintiff has not been established?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133.2,
+      529.32,
+      500.64,
+      545.7
+    ],
+    "text": "(b) Has the Court of Appeal erred in not considering the fact",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      551.14,
+      500.64,
+      566.86
+    ],
+    "text": "that the defendant had been possessing the property in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      572.26,
+      500.64,
+      587.98
+    ],
+    "text": "dispute long before November 1990, the month in which the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      593.38,
+      500.64,
+      609.1
+    ],
+    "text": "plaintiff alleged to have given leave and license to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      614.5,
+      500.64,
+      630.22
+    ],
+    "text": "defendant which fact clearly establishes that the defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      635.62,
+      500.64,
+      651.34
+    ],
+    "text": "had not entered into the premises on the leave and license",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      656.74,
+      243.84,
+      672.46
+    ],
+    "text": "of the plaintiff?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133.2,
+      677.28,
+      500.64,
+      693.66
+    ],
+    "text": "(c) Has the Court of Appeal erred in stressing that the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.2,
+      698.98,
+      500.64,
+      714.7
+    ],
+    "text": "defendant has failed to prove tenancy with V. Thillairajah",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      35.38,
+      313.56,
+      65.14
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      378.6,
+      34.4,
+      496.39,
+      47.45
+    ],
+    "text": "SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      71.38,
+      500.64,
+      87.1
+    ],
+    "text": "despite the fact that the fundamental issue of the case was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      92.5,
+      500.64,
+      108.22
+    ],
+    "text": "whether the defendant came to the premises on the leave",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      113.62,
+      317.76,
+      129.34
+    ],
+    "text": "and license of the plaintiff?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      146.74,
+      500.64,
+      162.46
+    ],
+    "text": "The first and second questions relate to the burden of proof and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      167.86,
+      293.04,
+      183.58
+    ],
+    "text": "the third to the onus of proof.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      200.98,
+      500.64,
+      216.7
+    ],
+    "text": "Although the defendant\u2019s case, as crystallised in the issues raised",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      222.1,
+      500.64,
+      237.82
+    ],
+    "text": "before the District Court, was that he was the tenant of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      243.34,
+      500.64,
+      259.06
+    ],
+    "text": "Thillairajah, he admitted in evidence that he did not have any",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      264.46,
+      500.64,
+      280.18
+    ],
+    "text": "receipts issued by Thillairajah acknowledging payment of rent. He",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      285.58,
+      500.64,
+      301.3
+    ],
+    "text": "also admitted that there was not a single correspondence between",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      306.7,
+      500.64,
+      322.42
+    ],
+    "text": "him and Thillairajah. Conversely, the plaintiff marked several",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      327.82,
+      500.64,
+      343.54
+    ],
+    "text": "letters exchanged between him and Thillairajah manifesting the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      348.94,
+      500.64,
+      364.66
+    ],
+    "text": "relationship between them as landlord and tenant. In one of those",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      369.73,
+      500.64,
+      385.78
+    ],
+    "text": "letters, namely P16 dated 20.07.1985, Thillairajah inter alia says",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      390.85,
+      500.4,
+      406.9
+    ],
+    "text": "\u201cI am the owner of the shop and that you are my tenant ever since",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      411.97,
+      500.4,
+      427.94
+    ],
+    "text": "you got into occupation and you have been paying me the rent so",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      433.09,
+      259.44,
+      449.14
+    ],
+    "text": "long for several years.\u201d",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      466.66,
+      500.64,
+      482.38
+    ],
+    "text": "Moreover, as evidenced by P1 dated 16.11.1992, the defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      487.78,
+      500.64,
+      503.5
+    ],
+    "text": "deposited rent in respect of the premises for November 1992 in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      508.9,
+      500.64,
+      524.62
+    ],
+    "text": "the Colombo Municipal Council in the name of the plaintiff stating",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      530.02,
+      500.64,
+      545.74
+    ],
+    "text": "that the plaintiff was his landlord. The Colombo Municipal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      551.14,
+      500.64,
+      566.86
+    ],
+    "text": "Council transmitted the rent by way of a Money Order to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      572.26,
+      500.64,
+      587.98
+    ],
+    "text": "plaintiff in terms of section 21 of the Rent Act. Immediately",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      593.38,
+      500.64,
+      609.1
+    ],
+    "text": "thereafter, the plaintiff by P2 informed the Colombo Municipal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      614.5,
+      500.64,
+      630.22
+    ],
+    "text": "Council that he is not prepared to accept the rent for the reasons",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      635.62,
+      208.32,
+      651.34
+    ],
+    "text": "stated therein.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      668.74,
+      500.64,
+      684.46
+    ],
+    "text": "It is significant to note that none of those documents tendered in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.2,
+      689.86,
+      500.64,
+      705.58
+    ],
+    "text": "evidence was marked \u201csubject to proof\u201d. Further, the plaintiff was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      35.38,
+      313.56,
+      65.14
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      378.6,
+      34.4,
+      496.39,
+      47.45
+    ],
+    "text": "SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      71.38,
+      500.64,
+      87.1
+    ],
+    "text": "never cross-examined on P1. The defendant\u2019s vague and belated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      92.5,
+      500.64,
+      108.22
+    ],
+    "text": "attempt to disown P1 in his evidence shall be rejected as an",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      113.62,
+      500.64,
+      129.34
+    ],
+    "text": "afterthought. The contention of the defendant that P1 was not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      134.74,
+      500.64,
+      150.46
+    ],
+    "text": "proved is unsustainable. A party cannot make a complaint to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      155.86,
+      500.64,
+      171.58
+    ],
+    "text": "Trial Court or the Appellate Court that a document has not been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      176.98,
+      500.64,
+      192.7
+    ],
+    "text": "proved when he remained silent at the time of the document being",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      198.1,
+      493.44,
+      213.82
+    ],
+    "text": "marked in evidence: section 154(3) of the Civil Procedure Code.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      231.34,
+      500.64,
+      247.06
+    ],
+    "text": "There is no necessity to refer to all the documents marked by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      252.46,
+      500.64,
+      268.18
+    ],
+    "text": "plaintiff in evidence. P16 and P1 respectively are in my view more",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      273.58,
+      500.64,
+      289.3
+    ],
+    "text": "than sufficient to prove that the plaintiff, not the defendant, is the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      294.7,
+      500.64,
+      310.42
+    ],
+    "text": "tenant of Thillairajah and the defendant is in occupation of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      315.82,
+      286.08,
+      331.54
+    ],
+    "text": "premises under the plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      348.94,
+      500.64,
+      364.66
+    ],
+    "text": "One of the main issues raised by the defendant in the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      370.06,
+      500.64,
+      385.78
+    ],
+    "text": "Court was that when Thillairajah was admittedly the owner of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      391.18,
+      500.64,
+      406.9
+    ],
+    "text": "premises, the plaintiff could not have given leave and license to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      412.3,
+      500.64,
+      428.02
+    ],
+    "text": "the defendant to occupy the premises. Although this issue had",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      433.42,
+      500.64,
+      449.14
+    ],
+    "text": "been answered in favour of the defendant by the District Court,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      454.54,
+      500.64,
+      470.26
+    ],
+    "text": "the Court of Appeal rightly reversed that finding. The plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      475.66,
+      500.64,
+      491.38
+    ],
+    "text": "need not be the owner of the premises to give leave and license to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      496.78,
+      500.64,
+      512.5
+    ],
+    "text": "the defendant to occupy the premises. A licensee can become a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      517.9,
+      500.64,
+      533.62
+    ],
+    "text": "licensor if he permits a third party to occupy the premises. Once",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      539.14,
+      500.64,
+      554.86
+    ],
+    "text": "the license of the latter is later terminated, he must vacate the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      560.26,
+      500.64,
+      575.98
+    ],
+    "text": "premises. He is estopped from challenging or questioning the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      581.38,
+      500.64,
+      597.1
+    ],
+    "text": "authority of the licensor to grant him leave and license: section",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      602.17,
+      500.4,
+      618.22
+    ],
+    "text": "116 of the Evidence Ordinance. (Mary Beatrice v. Seneviratne",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      623.29,
+      500.4,
+      639.26
+    ],
+    "text": "[1997] 1 Sri LR 197, Wimala Perera v. Kalyani Sriyalatha [2011] 1",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      644.41,
+      500.4,
+      660.38
+    ],
+    "text": "Sri LR 182, Ahamed Saheed v. Abdul Hameed,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      665.53,
+      401.28,
+      681.58
+    ],
+    "text": "SC/APPEAL/4/2013, SC Minutes of 23.05.2018)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      35.38,
+      313.56,
+      65.14
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      378.6,
+      34.4,
+      496.39,
+      47.45
+    ],
+    "text": "SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      71.38,
+      500.64,
+      87.1
+    ],
+    "text": "By the third question of law, the defendant argues that the Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      92.5,
+      500.64,
+      108.22
+    ],
+    "text": "of Appeal misapplied the onus of proof, in that the Court was more",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      113.62,
+      500.64,
+      129.34
+    ],
+    "text": "concerned about the defendant\u2019s claim that he was the tenant of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      134.74,
+      500.64,
+      150.46
+    ],
+    "text": "Thillairajah when the real issue to be decided was whether the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      155.86,
+      500.64,
+      171.58
+    ],
+    "text": "defendant was the licensee of the plaintiff. I am afraid I cannot",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      176.98,
+      500.64,
+      192.7
+    ],
+    "text": "agree with this line of argument. The Court of Appeal addressed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      198.1,
+      500.64,
+      213.82
+    ],
+    "text": "its mind to the real issue, i.e. whether the defendant was the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      219.34,
+      500.64,
+      235.06
+    ],
+    "text": "licensee of the plaintiff. In resolving that issue, the Court of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      240.46,
+      500.64,
+      256.18
+    ],
+    "text": "Appeal also rightly considered the matter put in issue by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      261.58,
+      500.64,
+      277.3
+    ],
+    "text": "defendant himself in the District Court, i.e. whether he (the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      282.7,
+      500.64,
+      298.42
+    ],
+    "text": "defendant) was the tenant of Thillairajah. This is not shifting the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      303.82,
+      321.36,
+      319.54
+    ],
+    "text": "burden of proof to the defendant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      336.94,
+      500.64,
+      352.66
+    ],
+    "text": "This is not a criminal case where the accused is entitled to remain",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      358.06,
+      500.64,
+      373.78
+    ],
+    "text": "silent allowing the prosecution to prove the case beyond",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      379.18,
+      500.64,
+      394.9
+    ],
+    "text": "reasonable doubt. This is a civil case where the plaintiff shall",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      400.3,
+      500.64,
+      416.02
+    ],
+    "text": "prove his case on a balance or preponderance of probabilities.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      421.42,
+      500.64,
+      437.14
+    ],
+    "text": "This means the plaintiff in a civil case should prove that his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      442.54,
+      500.64,
+      458.26
+    ],
+    "text": "version is more probable or more likely than that of the defendant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      463.66,
+      500.64,
+      479.38
+    ],
+    "text": "In a civil case as much as in a criminal case the defendant can",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      484.78,
+      500.64,
+      500.5
+    ],
+    "text": "remain silent, as the overall burden lies with the plaintiff. If he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      505.57,
+      500.64,
+      521.62
+    ],
+    "text": "remains silent, the Court can inter alia draw a presumption",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      527.14,
+      500.64,
+      542.86
+    ],
+    "text": "against him: illustration (f) of section 114 of the Evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      548.26,
+      500.64,
+      563.98
+    ],
+    "text": "Ordinance. If the defendant elects to give evidence and/or lead",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      569.38,
+      500.64,
+      585.1
+    ],
+    "text": "evidence on his behalf, the Court is entitled to consider such",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      590.5,
+      500.64,
+      606.22
+    ],
+    "text": "evidence to decide whether the plaintiff proved his case. If that is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      611.62,
+      500.64,
+      627.34
+    ],
+    "text": "not permissible, there is no purpose in allowing the defendant to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      632.74,
+      287.76,
+      648.46
+    ],
+    "text": "lead evidence in a civil case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      35.38,
+      313.56,
+      65.14
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      378.6,
+      34.4,
+      496.39,
+      47.45
+    ],
+    "text": "SC/APPEAL/159/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      71.38,
+      500.64,
+      87.1
+    ],
+    "text": "I answer all three questions of law in the negative and affirm the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      92.5,
+      500.64,
+      108.22
+    ],
+    "text": "judgment of the Court of Appeal. The appeal is dismissed with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      113.62,
+      152.88,
+      129.34
+    ],
+    "text": "costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      330.48,
+      167.86,
+      500.64,
+      183.58
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      210.1,
+      260.4,
+      225.82
+    ],
+    "text": "P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      231.34,
+      165.84,
+      247.06
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      330.48,
+      252.46,
+      500.64,
+      268.18
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      294.7,
+      285.84,
+      310.42
+    ],
+    "text": "Yasantha Kodagoda, P.C., J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      315.82,
+      162.0,
+      331.54
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      330.48,
+      336.94,
+      500.64,
+      352.66
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

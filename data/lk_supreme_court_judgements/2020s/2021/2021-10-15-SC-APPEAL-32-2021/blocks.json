@@ -1,0 +1,3157 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      71.99,
+      488.8,
+      88.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.83,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      167.04,
+      474.34,
+      181.04
+    ],
+    "text": "B.K. Winson De Paul Rodrigo,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      188.16,
+      449.38,
+      202.16
+    ],
+    "text": "No. 73, Thimbirigasyaya,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      209.28,
+      404.47,
+      223.28
+    ],
+    "text": "Hendala, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      230.52,
+      344.47,
+      244.52
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      284.79,
+      355.75,
+      298.77
+    ],
+    "text": "SC APPEAL NO: SC/APPEAL/32/2021",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      305.91,
+      340.87,
+      319.89
+    ],
+    "text": "SC LA NO: SC/HCCA/LA/509/2016",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      327.03,
+      433.54,
+      341.01
+    ],
+    "text": "HCCA GAMPAHA NO: WP/HCCA/GPH/03/2009 (F)",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      348.15,
+      284.93,
+      362.13
+    ],
+    "text": "DC NEGOMBO NO: 5527/L",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      402.41,
+      317.59,
+      416.41
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.25,
+      444.65,
+      414.79,
+      458.65
+    ],
+    "text": "1. K.D.H Ferdinandez,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.25,
+      465.77,
+      408.55,
+      479.77
+    ],
+    "text": "2. Annette Fernando,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      486.89,
+      344.35,
+      500.89
+    ],
+    "text": "Both of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      508.01,
+      354.67,
+      522.01
+    ],
+    "text": "No. 3/12,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      529.25,
+      405.55,
+      543.25
+    ],
+    "text": "Weliamuna Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      550.37,
+      403.39,
+      564.37
+    ],
+    "text": "Hendala, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      571.52,
+      366.07,
+      585.52
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      613.76,
+      392.23,
+      627.76
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.25,
+      656.0,
+      414.79,
+      670.0
+    ],
+    "text": "1. K.D.H Ferdinandez,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.25,
+      677.12,
+      408.55,
+      691.12
+    ],
+    "text": "2. Annette Fernando,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      698.23,
+      344.35,
+      712.24
+    ],
+    "text": "Both of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      35.98,
+      321.31,
+      64.02
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      367.63,
+      36.46,
+      501.58,
+      50.46
+    ],
+    "text": "SC/APPEAL/32/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      72.0,
+      354.67,
+      86.0
+    ],
+    "text": "No. 3/12,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      93.12,
+      405.55,
+      107.12
+    ],
+    "text": "Weliamuna Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      114.24,
+      354.43,
+      128.24
+    ],
+    "text": "Hendala,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.17,
+      135.36,
+      346.99,
+      149.36
+    ],
+    "text": "Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      156.48,
+      426.79,
+      170.48
+    ],
+    "text": "Defendant-Appellants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      198.72,
+      317.59,
+      212.72
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      241.11,
+      474.34,
+      255.11
+    ],
+    "text": "B.K. Winson De Paul Rodrigo,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      262.23,
+      344.95,
+      276.23
+    ],
+    "text": "No. 73,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      283.35,
+      403.51,
+      297.35
+    ],
+    "text": "Thimbirigasyaya,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      304.47,
+      404.47,
+      318.47
+    ],
+    "text": "Hendala, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      325.59,
+      418.63,
+      339.59
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      367.83,
+      426.07,
+      381.83
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      410.09,
+      474.29,
+      424.09
+    ],
+    "text": "B.K. Winson De Paul Rodrigo,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      431.21,
+      361.51,
+      445.21
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      452.33,
+      344.95,
+      466.33
+    ],
+    "text": "No. 73,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      473.45,
+      403.51,
+      487.45
+    ],
+    "text": "Thimbirigasyaya,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      494.57,
+      404.47,
+      508.57
+    ],
+    "text": "Hendala, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      515.81,
+      479.38,
+      529.81
+    ],
+    "text": "Plaintiff-Respondent-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      558.05,
+      394.15,
+      572.05
+    ],
+    "text": "Bridget Rodrigo,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      579.2,
+      344.95,
+      593.2
+    ],
+    "text": "No. 73,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      600.32,
+      403.51,
+      614.32
+    ],
+    "text": "Thimbirigasyaya,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      621.44,
+      404.47,
+      635.44
+    ],
+    "text": "Hendala, Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      642.56,
+      492.34,
+      656.56
+    ],
+    "text": "Substituted Plaintiff-Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      663.68,
+      355.03,
+      677.68
+    ],
+    "text": "Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      705.91,
+      317.59,
+      719.92
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      35.98,
+      321.31,
+      64.02
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      367.63,
+      36.46,
+      501.58,
+      50.46
+    ],
+    "text": "SC/APPEAL/32/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      271.25,
+      93.12,
+      481.06,
+      107.12
+    ],
+    "text": "1. K.D.H Ferdinandez, (Deceased)",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      271.25,
+      114.24,
+      457.78,
+      128.24
+    ],
+    "text": "1A. Ernard Treshiya Fernando,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      271.25,
+      135.36,
+      408.55,
+      149.36
+    ],
+    "text": "2. Annette Fernando,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.17,
+      156.48,
+      331.63,
+      170.48
+    ],
+    "text": "All of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.17,
+      177.6,
+      354.67,
+      191.6
+    ],
+    "text": "No. 3/12,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.17,
+      198.72,
+      405.55,
+      212.72
+    ],
+    "text": "Weliamuna Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.17,
+      219.96,
+      354.43,
+      233.96
+    ],
+    "text": "Hendala,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.17,
+      241.11,
+      343.15,
+      255.11
+    ],
+    "text": "Wattala",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.25,
+      262.23,
+      421.51,
+      276.23
+    ],
+    "text": "Defendant-Appellant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.25,
+      283.35,
+      374.71,
+      297.35
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      346.71,
+      332.47,
+      360.71
+    ],
+    "text": "Before: P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      367.83,
+      322.87,
+      381.83
+    ],
+    "text": "Achala Wengappuli, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      388.95,
+      370.15,
+      402.95
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      422.09,
+      498.77,
+      436.09
+    ],
+    "text": "Counsel: Nadvi Bahaudeen with Jayantha Bandaranayake for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      443.21,
+      470.5,
+      457.21
+    ],
+    "text": "the Substituted Plaintiff-Respondent-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      470.33,
+      462.58,
+      484.33
+    ],
+    "text": "Niranjan De Silva for the Defendant-Appellant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      491.45,
+      270.53,
+      505.45
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      524.57,
+      256.97,
+      538.57
+    ],
+    "text": "Argued on : 07.07.2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      557.81,
+      244.13,
+      571.81
+    ],
+    "text": "Written submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      584.96,
+      484.42,
+      598.96
+    ],
+    "text": "by the Substituted Plaintiff-Respondent-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      606.08,
+      280.61,
+      620.08
+    ],
+    "text": "on 27.07.2021.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      633.2,
+      451.78,
+      647.2
+    ],
+    "text": "by the Defendant-Appellant-Respondents on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.25,
+      654.32,
+      262.13,
+      668.32
+    ],
+    "text": "30.07.2021.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      681.43,
+      258.29,
+      695.44
+    ],
+    "text": "Decided on: 15.10.2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      35.98,
+      321.31,
+      64.02
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      367.63,
+      36.46,
+      501.58,
+      50.46
+    ],
+    "text": "SC/APPEAL/32/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      72.0,
+      298.13,
+      86.0
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      105.12,
+      500.7,
+      119.12
+    ],
+    "text": "The plaintiff filed this action against the two defendants seeking",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      126.24,
+      500.48,
+      140.24
+    ],
+    "text": "a declaration that he is the owner of the land described in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      147.36,
+      500.55,
+      161.36
+    ],
+    "text": "2nd schedule to the plaint, ejectment of the defendants from a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      168.48,
+      500.69,
+      182.48
+    ],
+    "text": "portion of this land as described in the 3rd schedule to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      189.6,
+      250.13,
+      203.6
+    ],
+    "text": "plaint, and damages.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      222.72,
+      500.69,
+      236.72
+    ],
+    "text": "The defendants filed the answer seeking dismissal of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      243.99,
+      500.67,
+      257.99
+    ],
+    "text": "plaintiff\u2019s action and a declaration that they are the owners of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      265.11,
+      500.7,
+      279.11
+    ],
+    "text": "the land described in the 2nd schedule to the answer. They also",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      286.23,
+      500.73,
+      300.23
+    ],
+    "text": "sought a declaration that they are entitled to the use of a road",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      307.35,
+      500.73,
+      321.35
+    ],
+    "text": "about 10 feet wide on the land described in the 1st schedule to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      328.47,
+      504.53,
+      342.47
+    ],
+    "text": "the plaint by way of prescription as well as by way of necessity.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      349.59,
+      500.69,
+      363.59
+    ],
+    "text": "In furtherance of the claim to the said right of way, they moved",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      370.71,
+      500.74,
+      384.71
+    ],
+    "text": "in the prayer to the answer that a commission be issued to a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      391.83,
+      351.43,
+      405.83
+    ],
+    "text": "surveyor to depict the said right of way.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      424.97,
+      500.74,
+      438.97
+    ],
+    "text": "Let me pause for a while to emphasise that by the said reliefs,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      446.09,
+      500.74,
+      460.09
+    ],
+    "text": "the defendants make no claim to the land described in the 1st",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      467.21,
+      435.46,
+      481.21
+    ],
+    "text": "schedule to the plaint except for a right of way over it.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      500.33,
+      500.74,
+      514.33
+    ],
+    "text": "Both parties took out commissions to explain to the court their",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      521.45,
+      500.74,
+      535.45
+    ],
+    "text": "respective claims. The plaintiff\u2019s commission plan was marked",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      542.57,
+      500.59,
+      556.57
+    ],
+    "text": "P1 by the plaintiff but the defendants\u2019 commission plan found in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      563.84,
+      506.5,
+      577.84
+    ],
+    "text": "the case record was not produced in evidence by the defendants.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      596.96,
+      500.74,
+      610.96
+    ],
+    "text": "By the illustration (f) to section 114 of the Evidence Ordinance,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      618.08,
+      500.55,
+      632.08
+    ],
+    "text": "the court can presume that the defendants did not produce their",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      639.2,
+      500.74,
+      653.2
+    ],
+    "text": "own commission plan as evidence because had it been produced",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      660.32,
+      371.11,
+      674.32
+    ],
+    "text": "it would have been unfavourable to them.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      35.98,
+      321.31,
+      64.02
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      367.63,
+      36.46,
+      501.58,
+      50.46
+    ],
+    "text": "SC/APPEAL/32/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      72.0,
+      500.49,
+      86.06
+    ],
+    "text": "The defendants by deed V4 claim title to a land described as \u201cthe",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      93.12,
+      500.73,
+      107.18
+    ],
+    "text": "half of one forth portion of Godakadurugahawatte\u201d and",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      114.24,
+      500.74,
+      128.3
+    ],
+    "text": "\u201ccontaining in extent twenty perches more or less.\u201d But there was",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      135.48,
+      500.73,
+      149.48
+    ],
+    "text": "no survey plan at the time of purchasing this land or at any time",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      156.6,
+      405.19,
+      170.6
+    ],
+    "text": "thereafter in order to properly identify the land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      189.72,
+      500.67,
+      203.72
+    ],
+    "text": "However, the 1st defendant admits in his evidence (at page 170",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      210.84,
+      500.74,
+      224.84
+    ],
+    "text": "of the brief) that he saw the surveyor Hopman\u2019s plan marked P4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      231.96,
+      500.74,
+      245.96
+    ],
+    "text": "at the time of purchasing the land by deed V4. In Hopman\u2019s",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      253.11,
+      500.5,
+      267.11
+    ],
+    "text": "plan, the land claimed by the plaintiff is clearly depicted and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      274.23,
+      500.67,
+      288.23
+    ],
+    "text": "there is no roadway shown on the plan (save the public road on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      295.35,
+      500.67,
+      309.35
+    ],
+    "text": "the eastern boundary). This means at the time the defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      316.47,
+      500.73,
+      330.47
+    ],
+    "text": "purchased the land they claim, they had knowledge of the land",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      337.59,
+      500.61,
+      351.59
+    ],
+    "text": "claimed by the plaintiff and the fact that there was no right of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      358.71,
+      500.72,
+      372.71
+    ],
+    "text": "way which could be used by them through the land of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      379.83,
+      175.94,
+      393.83
+    ],
+    "text": "plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      412.97,
+      500.73,
+      426.97
+    ],
+    "text": "The 1st defendant admits in his evidence that the plaintiff gave",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      434.09,
+      500.72,
+      448.09
+    ],
+    "text": "Hopman\u2019s plan to the court commissioner, Croos Dabrera, at the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      455.33,
+      500.66,
+      469.33
+    ],
+    "text": "survey. The Croos Dabrera\u2019s commission plan marked P1 shows",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      476.45,
+      500.74,
+      490.45
+    ],
+    "text": "the right of way claimed by the defendants as lot 2. However",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      497.57,
+      500.67,
+      511.57
+    ],
+    "text": "Croos Dabrera states in his evidence that this was shown on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      518.69,
+      500.7,
+      532.69
+    ],
+    "text": "plan as lot 2 not because there was a road on the ground but for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      539.81,
+      409.99,
+      553.81
+    ],
+    "text": "the purpose of identifying the defendants\u2019 claim.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      572.96,
+      500.74,
+      586.96
+    ],
+    "text": "According to plan P1, there is a footpath along the western",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      594.08,
+      500.74,
+      608.08
+    ],
+    "text": "boundary of the land. The defendants admit that they obtained",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      615.2,
+      504.58,
+      629.2
+    ],
+    "text": "electricity and water supply to their land through this footpath.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      636.32,
+      474.34,
+      650.32
+    ],
+    "text": "This goes to prove there was no road on the plaintiff\u2019s land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      669.44,
+      500.74,
+      683.44
+    ],
+    "text": "The defendants\u2019 claim to a right of way over the land described",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      690.55,
+      361.03,
+      704.56
+    ],
+    "text": "in the 1st schedule to the plaint shall fail.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      35.98,
+      321.31,
+      64.02
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      367.63,
+      36.46,
+      501.58,
+      50.46
+    ],
+    "text": "SC/APPEAL/32/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      72.0,
+      500.66,
+      86.0
+    ],
+    "text": "After trial, the learned District Judge entered judgment for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      93.12,
+      411.43,
+      107.12
+    ],
+    "text": "plaintiff as prayed for in the prayer to the plaint.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      126.24,
+      500.64,
+      140.24
+    ],
+    "text": "The reliefs sought by the defendants were refused on the basis",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      147.36,
+      500.74,
+      161.36
+    ],
+    "text": "that the deeds V2-V4 relied upon by the defendants are not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      168.48,
+      279.17,
+      182.48
+    ],
+    "text": "relevant to the land in suit.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      201.6,
+      500.67,
+      215.6
+    ],
+    "text": "On appeal, the High Court of Civil Appeal set aside the judgment",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      222.72,
+      500.73,
+      236.72
+    ],
+    "text": "of the District Court and allowed the appeal granting the reliefs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      243.99,
+      500.74,
+      257.99
+    ],
+    "text": "prayed for by the defendants in the prayer to the answer. Hence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      265.11,
+      349.75,
+      279.11
+    ],
+    "text": "the appeal to this court by the plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      298.23,
+      500.74,
+      312.23
+    ],
+    "text": "This court granted leave to appeal against the judgment of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      319.35,
+      464.98,
+      333.35
+    ],
+    "text": "High Court of Civil Appeal on the following question of law:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      352.47,
+      500.39,
+      366.53
+    ],
+    "text": "Have their Lordships of the High Court of Civil Appeal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      373.59,
+      500.39,
+      387.65
+    ],
+    "text": "misdirected themselves in considering a corpus not put in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      394.71,
+      417.19,
+      408.77
+    ],
+    "text": "issue in the plaint in delivering the judgment?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      427.85,
+      454.18,
+      441.85
+    ],
+    "text": "The defendants raised the following two questions of law:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      460.97,
+      500.33,
+      475.03
+    ],
+    "text": "Have their Lordships of the High Court of Civil Appeal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      482.09,
+      500.46,
+      496.15
+    ],
+    "text": "correctly considered the corpus in relation to the dispute as",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      503.21,
+      358.63,
+      517.27
+    ],
+    "text": "presented before the District Court?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      536.33,
+      500.36,
+      550.39
+    ],
+    "text": "Are the defendants entitled to the reliefs as prayed for in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      557.45,
+      226.13,
+      571.51
+    ],
+    "text": "the answer?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      590.6,
+      500.67,
+      604.6
+    ],
+    "text": "On what basis did the High Court of Civil Appeal set aside the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      611.84,
+      500.67,
+      625.84
+    ],
+    "text": "judgment of the District Court? The High Court of Civil Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      632.96,
+      500.69,
+      646.96
+    ],
+    "text": "compared the land claimed by the defendants on their title deed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      654.08,
+      500.74,
+      668.08
+    ],
+    "text": "V4 with the second land described in the plaintiff\u2019s title deed P3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      675.2,
+      500.7,
+      689.2
+    ],
+    "text": "to conclude that the land in suit is an undivided land of which a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      696.31,
+      500.74,
+      710.32
+    ],
+    "text": "\u00bd share is claimed by the plaintiff and a \u00bd share is claimed by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      35.98,
+      321.31,
+      64.02
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      367.63,
+      36.46,
+      501.58,
+      50.46
+    ],
+    "text": "SC/APPEAL/32/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      72.0,
+      500.74,
+      86.0
+    ],
+    "text": "the defendants, and therefore the plaintiff should have filed a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      93.12,
+      436.42,
+      107.12
+    ],
+    "text": "partition action, not an action for declaration of title.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      126.24,
+      500.74,
+      140.24
+    ],
+    "text": "This is a misdirection of primary facts on the part of the High",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      147.36,
+      411.19,
+      161.36
+    ],
+    "text": "Court of Civil Appeal which vitiates the judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      180.48,
+      500.7,
+      194.48
+    ],
+    "text": "The second land described in the schedule to deed P3 was never",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      201.6,
+      500.73,
+      215.6
+    ],
+    "text": "put in issue in this case. That land is not the subject matter of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      222.72,
+      500.73,
+      236.72
+    ],
+    "text": "this action. This is made clear by the averments in the plaint",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      243.99,
+      275.33,
+      257.99
+    ],
+    "text": "and the schedules thereto.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      277.11,
+      500.74,
+      291.11
+    ],
+    "text": "The defendants never took up the position in the District Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      298.23,
+      500.74,
+      312.23
+    ],
+    "text": "that the defendants and the plaintiff are entitled to equal shares",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      319.35,
+      500.67,
+      333.35
+    ],
+    "text": "of the land in suit and therefore the plaintiff\u2019s action as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      340.47,
+      381.67,
+      354.47
+    ],
+    "text": "presently constituted is misconceived in law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      373.59,
+      500.67,
+      387.59
+    ],
+    "text": "Nor did the defendants take up the position before the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      394.71,
+      500.69,
+      408.71
+    ],
+    "text": "Court that the two lands described in the 1st schedule to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      415.85,
+      500.72,
+      429.85
+    ],
+    "text": "plaint are situated in two different places. As I said before, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      436.97,
+      500.73,
+      450.97
+    ],
+    "text": "defendants\u2019 only claim to the lands described in the 1st schedule",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      458.09,
+      500.69,
+      472.09
+    ],
+    "text": "to the plaint is a right of way over the two lands. The defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      479.21,
+      500.74,
+      493.21
+    ],
+    "text": "cannot take up new positions which are questions of fact for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      500.33,
+      236.93,
+      514.33
+    ],
+    "text": "first time on appeal.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      533.45,
+      500.65,
+      547.45
+    ],
+    "text": "I answer the questions of law raised by the plaintiff in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      554.57,
+      485.62,
+      568.57
+    ],
+    "text": "affirmative and those raised by the defendants in the negative.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      587.84,
+      500.74,
+      601.84
+    ],
+    "text": "I set aside the judgment of the High Court of Civil Appeal and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      608.96,
+      500.67,
+      622.96
+    ],
+    "text": "restore the judgment of the District Court and allow the appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      630.08,
+      186.05,
+      644.08
+    ],
+    "text": "with costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      330.55,
+      696.31,
+      500.74,
+      710.32
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      35.98,
+      321.31,
+      64.02
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      367.63,
+      36.46,
+      501.58,
+      50.46
+    ],
+    "text": "SC/APPEAL/32/2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      72.0,
+      260.45,
+      86.0
+    ],
+    "text": "P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      93.12,
+      162.02,
+      107.12
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      330.55,
+      135.36,
+      500.74,
+      149.36
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      177.6,
+      250.85,
+      191.6
+    ],
+    "text": "Achala Wengappuli, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      198.72,
+      162.02,
+      212.72
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      330.55,
+      241.11,
+      500.74,
+      255.11
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

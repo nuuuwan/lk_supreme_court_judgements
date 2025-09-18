@@ -1,0 +1,3910 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 1 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.57,
+      72.02,
+      416.98,
+      88.97
+    ],
+    "text": "IN THE SUPREME COURT OF THE",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      118.22,
+      105.5,
+      481.78,
+      124.76
+    ],
+    "text": "DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      142.7,
+      225.09,
+      157.18
+    ],
+    "text": "SC CHC Appeal No. 14/2014",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      174.5,
+      196.53,
+      188.98
+    ],
+    "text": "High Court of Colombo",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      206.16,
+      223.89,
+      220.67
+    ],
+    "text": "Case No: HC/ARB/409/2011",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      237.89,
+      414.83,
+      252.37
+    ],
+    "text": "People\u2019s Merchant PLC,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      262.37,
+      501.86,
+      276.85
+    ],
+    "text": "(formerly People\u2019s Merchant Bank PLC),",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      286.85,
+      334.19,
+      301.33
+    ],
+    "text": "No. 21,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      311.33,
+      383.63,
+      325.81
+    ],
+    "text": "Navam Mawatha,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      335.81,
+      362.27,
+      350.29
+    ],
+    "text": "Colombo 03.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      360.29,
+      511.82,
+      374.77
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      384.91,
+      313.07,
+      399.39
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      433.87,
+      439.58,
+      448.35
+    ],
+    "text": "Udaya Saman Subhasinghe,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      458.35,
+      359.27,
+      472.83
+    ],
+    "text": "No. 125/5/1,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      482.83,
+      406.79,
+      497.31
+    ],
+    "text": "Monarathenna Watta,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      507.31,
+      359.51,
+      521.79
+    ],
+    "text": "Palliya Road,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      531.82,
+      357.71,
+      546.3
+    ],
+    "text": "Bogamuwa,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      556.3,
+      335.99,
+      570.78
+    ],
+    "text": "Yakkala.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      580.78,
+      518.78,
+      595.26
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      629.74,
+      403.07,
+      644.22
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      678.7,
+      439.58,
+      693.18
+    ],
+    "text": "Udaya Saman Subhasinghe,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      703.2,
+      359.27,
+      717.68
+    ],
+    "text": "No. 125/5/1,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      727.68,
+      406.79,
+      742.16
+    ],
+    "text": "Monarathenna Watta,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      752.16,
+      359.51,
+      766.64
+    ],
+    "text": "Palliya Road,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 2 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      72.02,
+      357.71,
+      86.5
+    ],
+    "text": "Bogamuwa,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      96.5,
+      335.99,
+      110.98
+    ],
+    "text": "Yakkala.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      120.98,
+      481.34,
+      135.46
+    ],
+    "text": "RESPONDENT-APPELLANT",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      169.94,
+      313.07,
+      184.42
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      218.9,
+      414.83,
+      233.38
+    ],
+    "text": "People\u2019s Merchant PLC,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      243.41,
+      501.86,
+      257.89
+    ],
+    "text": "(formerly People\u2019s Merchant Bank PLC),",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      267.89,
+      426.11,
+      282.37
+    ],
+    "text": "No. 21, Navam Mawatha,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      292.37,
+      362.27,
+      306.85
+    ],
+    "text": "Colombo 03.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      316.85,
+      492.14,
+      331.33
+    ],
+    "text": "PETITIONER-RESPONDENT",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      341.33,
+      362.39,
+      370.33
+    ],
+    "text": "Before: MURDU N. B. FERNANDO PC J",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      387.55,
+      330.95,
+      402.03
+    ],
+    "text": "P. PADMAN SURASENA J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.02,
+      419.35,
+      307.43,
+      433.87
+    ],
+    "text": "A. H. M. D. NAWAZ J",
+    "fonts": [
+      "Arial-BoldMT",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      451.03,
+      384.71,
+      465.51
+    ],
+    "text": "Counsel: S. N. Vijithsing for the Respondent-Appellant",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      482.83,
+      410.39,
+      497.31
+    ],
+    "text": "Lasantha Mudalige for the Petitioner-Respondent.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      514.51,
+      208.89,
+      528.99
+    ],
+    "text": "Argued on: 18-02-2021",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      546.22,
+      208.89,
+      560.7
+    ],
+    "text": "Decided on: 23-06-2021",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      578.02,
+      527.18,
+      621.42
+    ],
+    "text": "P. Padman Surasena J The Petitioner - Respondent filed the Petition dated 13-12-2011 and an Affidavit in the",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      628.66,
+      523.46,
+      643.14
+    ],
+    "text": "High Court of Colombo praying for a decree, in accordance with the award dated 22-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      650.38,
+      527.18,
+      664.86
+    ],
+    "text": "02-2011, made in the arbitration, held in accordance with the agreement between the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      672.1,
+      527.18,
+      686.58
+    ],
+    "text": "Petitioner - Respondent and the Respondent Appellant. The purpose of the decree so",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      693.84,
+      527.18,
+      708.32
+    ],
+    "text": "prayed by the Petitioner \u2013 Respondent, was to enforce the said arbitral award in terms",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      715.68,
+      527.18,
+      730.16
+    ],
+    "text": "of Section 31 of the Arbitration Act No. 11 of 1995 (hereinafter sometimes referred to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      737.4,
+      262.17,
+      751.88
+    ],
+    "text": "as \u2018the Arbitration Act\u2019 or \u2018the Act\u2019).",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 3 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      93.74,
+      527.18,
+      108.22
+    ],
+    "text": "Opposing the above claim, the Respondent - Appellant filed his Statement of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      115.46,
+      527.18,
+      129.94
+    ],
+    "text": "Objections dated 07-08-2012 praying inter alia for an order to set aside the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      137.18,
+      500.9,
+      151.66
+    ],
+    "text": "arbitral award and for the dismissal of the Petition of the Petitioner-Respondent.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      180.62,
+      527.18,
+      195.1
+    ],
+    "text": "After the inquiry, the learned Judge of the High Court by his order dated 10-12-2012,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      202.34,
+      527.18,
+      216.82
+    ],
+    "text": "directed to enforce the said arbitral award and enter a decree as per the said arbitral",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      224.09,
+      111.9,
+      238.57
+    ],
+    "text": "award.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      267.53,
+      527.18,
+      282.01
+    ],
+    "text": "The Respondent - Appellant thereafter filed the Notice of Appeal dated 24-12-2012,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      289.37,
+      523.46,
+      303.85
+    ],
+    "text": "and subsequently also filed a Petition of Appeal addressed to this Court dated 31-01-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      311.09,
+      499.1,
+      325.57
+    ],
+    "text": "2013 which includes a prayer to set aside the aforesaid order of the High Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      332.81,
+      527.18,
+      347.29
+    ],
+    "text": "It is noteworthy that the said Petition of Appeal does not disclose any legal provision",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      354.53,
+      527.18,
+      369.01
+    ],
+    "text": "by virtue of which the Respondent - Appellant could have become entitled to file such",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      376.27,
+      204.21,
+      390.75
+    ],
+    "text": "an appeal to this Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      419.71,
+      527.18,
+      434.19
+    ],
+    "text": "When the said appeal was taken up before this Court for argument, the learned",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      441.43,
+      527.18,
+      455.91
+    ],
+    "text": "Counsel who appeared for the Petitioner - Respondent raised a preliminary objection",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      463.15,
+      527.18,
+      477.63
+    ],
+    "text": "to the maintainability of this appeal stating that there is no legal provision which",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      484.87,
+      527.18,
+      499.35
+    ],
+    "text": "enables the Respondent-Appellant to file such an appeal to this Court against the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      506.59,
+      527.18,
+      521.07
+    ],
+    "text": "impugned order of the High Court. In other words, it was the submission of the learned",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      528.34,
+      527.18,
+      542.82
+    ],
+    "text": "Counsel for the Petitioner - Respondent that the law has not provided a right of appeal",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      550.06,
+      343.19,
+      564.54
+    ],
+    "text": "for the Respondent - Appellant in the instant case.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      571.78,
+      527.18,
+      586.26
+    ],
+    "text": "The Respondent - Appellant has lodged the instant appeal against an order made by",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      593.5,
+      508.46,
+      607.98
+    ],
+    "text": "the High Court under section 31 (1) of the Arbitration Act which states as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.2,
+      615.22,
+      510.9,
+      629.7
+    ],
+    "text": "\u201cA party to an arbitration agreement pursuant to which an arbitral award is made",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.2,
+      636.94,
+      531.18,
+      651.42
+    ],
+    "text": "may, within one year after the expiry of fourteen days of the making of the award,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.2,
+      658.66,
+      392.67,
+      673.14
+    ],
+    "text": "apply to the High Court for the enforcement of the award.\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      702.24,
+      527.18,
+      716.72
+    ],
+    "text": "Section 31 (6) of the said Act has set out, as to what the High Court must do when",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      723.96,
+      226.05,
+      738.44
+    ],
+    "text": "such an application is made.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      745.68,
+      176.34,
+      760.16
+    ],
+    "text": "It reads as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 4 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      72.02,
+      499.26,
+      86.5
+    ],
+    "text": "\u201cWhere an application is made under subsection (1) of this section and there is",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      93.74,
+      531.18,
+      108.22
+    ],
+    "text": "no application for the setting aside of such award under section 32 or the court sees",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      115.46,
+      531.18,
+      129.94
+    ],
+    "text": "no cause to refuse the recognition and enforcement of such award under the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      137.18,
+      531.18,
+      151.66
+    ],
+    "text": "provisions contained in sections 33 and 34 of this Act, it shall on a day of which notice",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      158.9,
+      531.18,
+      173.38
+    ],
+    "text": "shall be given to the parties, proceed to file the award and give judgment according",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      180.62,
+      451.62,
+      195.1
+    ],
+    "text": "to the award. Upon the judgment so given a decree shall be entered\u201d.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      202.34,
+      527.18,
+      216.82
+    ],
+    "text": "To ascertain whether any appeal lies against an order made by the High Court under",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      224.09,
+      527.18,
+      238.57
+    ],
+    "text": "section 31 of the Act, one has to consider the provisions in section 37 of the Arbitration",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      245.81,
+      99.9,
+      260.29
+    ],
+    "text": "Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      267.53,
+      154.26,
+      282.01
+    ],
+    "text": "Section 37(1).",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      289.37,
+      531.18,
+      303.85
+    ],
+    "text": "\u201cSubject to subsection (2) of this section no appeal or revision shall lie in respect of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      311.09,
+      531.18,
+      325.57
+    ],
+    "text": "any order, judgment or decree of the High Court in the exercise of its Jurisdiction",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      332.81,
+      531.18,
+      347.29
+    ],
+    "text": "under this Act except from an order, judgment or decree of the High Court under this",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      354.53,
+      166.66,
+      369.01
+    ],
+    "text": "Part of this Act\u201d.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      397.99,
+      527.18,
+      412.47
+    ],
+    "text": "The High Court has pronounced the judgment impugned in the instant appeal under",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      419.71,
+      527.18,
+      434.19
+    ],
+    "text": "section 31 of the Arbitration Act No. 11 of 1995. The said section (s. 31) is in Part VII",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      441.43,
+      527.18,
+      455.91
+    ],
+    "text": "of the said Act which according to its heading, deals with the applications to courts",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      463.15,
+      527.18,
+      477.63
+    ],
+    "text": "relating to awards (including recognition and enforcement of foreign awards). As",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      484.87,
+      527.18,
+      499.35
+    ],
+    "text": "section 37 is also in part VII of the Act, the phrase\u201dthis Part of this Act\u201d in section",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      506.59,
+      527.18,
+      521.07
+    ],
+    "text": "37(1) is a reference to part VII of the Arbitration Act. Therefore, it is only under section",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      528.31,
+      512.42,
+      542.79
+    ],
+    "text": "37 (2) of the Act that an appeal could, if at all, lie to this Court in the instant case.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      571.78,
+      527.18,
+      586.37
+    ],
+    "text": "However, an appeal would be possible under section 37(2) only if the Supreme Court",
+    "fonts": [
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      593.5,
+      312.35,
+      607.98
+    ],
+    "text": "grants leave to appeal on a question of law.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      615.22,
+      243.09,
+      629.7
+    ],
+    "text": "The said provision is as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      636.94,
+      150.54,
+      651.42
+    ],
+    "text": "Section 37(2).",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      658.66,
+      531.18,
+      673.14
+    ],
+    "text": "\u201cAn appeal shall lie from an order, judgment or decree of the High Court referred to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      680.5,
+      531.18,
+      694.98
+    ],
+    "text": "in subsection (1) to the Supreme Court only on a question of law and with the leave",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.2,
+      702.24,
+      276.37,
+      716.72
+    ],
+    "text": "of the Supreme Court first obtained\u201d.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      723.96,
+      527.18,
+      738.44
+    ],
+    "text": "This means that the Respondent - Appellant in the instant case should necessarily",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      745.68,
+      527.18,
+      760.16
+    ],
+    "text": "have first obtained the leave of the Supreme Court in respect of the instant appeal.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 5 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      72.02,
+      527.18,
+      86.5
+    ],
+    "text": "Moreover, the Respondent - Appellant should also have submitted a question of law",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      93.74,
+      527.18,
+      108.22
+    ],
+    "text": "for the consideration of the Supreme Court for granting of leave. Admittedly, the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      115.46,
+      527.18,
+      129.94
+    ],
+    "text": "Respondent - Appellant has not done any of the above. In the above circumstances",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      137.18,
+      527.18,
+      151.66
+    ],
+    "text": "this Court is unable to consider the instant appeal as an appeal filed under section 37",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      158.9,
+      273.09,
+      173.38
+    ],
+    "text": "of the Arbitration Act No. 11 of 1995.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      202.34,
+      527.18,
+      216.82
+    ],
+    "text": "It would be appropriate to refer to the case of Board of Investment of Sri Lanka Vs.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      224.09,
+      527.18,
+      238.57
+    ],
+    "text": "Million Garment (Pvt) Ltd,1 at this stage. In the said case, the Supreme Court was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      245.81,
+      527.18,
+      260.29
+    ],
+    "text": "called upon to decide on the time limit for filing applications for leave to appeal under",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      267.53,
+      527.18,
+      282.01
+    ],
+    "text": "Section 37(2) of the Arbitration Act. The learned counsel who appeared for the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      289.37,
+      527.18,
+      303.85
+    ],
+    "text": "respondent in that case, raised a preliminary objection stating that the application for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      311.09,
+      527.18,
+      325.57
+    ],
+    "text": "leave to appeal was time-barred as the judgment of the High Court was pronounced",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      332.81,
+      527.18,
+      347.29
+    ],
+    "text": "on 14th May 2012, and the application for leave to appeal was lodged in the registry",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      354.53,
+      527.18,
+      369.01
+    ],
+    "text": "of this Court on 26th June 2012 (on the forty-third day after the pronouncement of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      376.27,
+      527.18,
+      390.75
+    ],
+    "text": "impugned judgment). He therefore argued that the petitioner in that case had filed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      397.99,
+      527.18,
+      412.47
+    ],
+    "text": "the said application for leave to appeal outside the time limit prescribed by law, for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      419.71,
+      527.18,
+      434.19
+    ],
+    "text": "filing of such applications. His Lordship Saleem Marsoof PC J having considered the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      441.43,
+      383.87,
+      455.91
+    ],
+    "text": "provisions relevant to the issue at hand, stated as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      484.87,
+      531.18,
+      499.35
+    ],
+    "text": "\u201c\u2026. I am fortified in my decision that an application for leave to appeal challenging a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.2,
+      506.59,
+      531.18,
+      521.07
+    ],
+    "text": "decision of the High Court to file of record an arbitral award and pronounce judgement",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.2,
+      528.34,
+      531.18,
+      542.82
+    ],
+    "text": "and enter decree accordingly has to be lodged within six weeks of the said judgment",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.2,
+      550.06,
+      531.18,
+      564.54
+    ],
+    "text": "and decree, since the language of Section 37 (1) of the Arbitration Act manifests a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.2,
+      571.78,
+      531.18,
+      586.26
+    ],
+    "text": "clear legislative intent to curtail appeals from orders and awards of arbitral tribunals",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.2,
+      593.5,
+      531.18,
+      607.98
+    ],
+    "text": "with a view to giving full effect to the concept of party autonomy and maintaining the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.2,
+      615.22,
+      531.18,
+      629.7
+    ],
+    "text": "efficacy of the arbitral process. More so, because Section 37 (2) of the said Act seeks",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.2,
+      636.94,
+      531.18,
+      651.42
+    ],
+    "text": "to confine appeals to any order, judgement or decree of the High Court made under",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.2,
+      658.66,
+      531.18,
+      673.14
+    ],
+    "text": "Part VII of the Act relating to the enforcement and setting aside of arbitral awards by",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.19,
+      680.48,
+      531.19,
+      694.99
+    ],
+    "text": "limiting them to those involving a question of law and imposing the further",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      744.59,
+      282.65,
+      770.06
+    ],
+    "text": "1 SC (HC) LA 58/2012; Decided on 24.10.2014.",
+    "fonts": [
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 6 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      72.02,
+      531.18,
+      86.5
+    ],
+    "text": "requirement of obtaining the leave of the Supreme Court for proceeding with the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      93.74,
+      315.24,
+      108.22
+    ],
+    "text": "same, with the same objectives in mind. \u2026..\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      115.46,
+      527.18,
+      129.94
+    ],
+    "text": "The learned counsel for the Respondent - Appellant, Mr. Vijith Sing conceded that the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      137.18,
+      527.18,
+      151.66
+    ],
+    "text": "Respondent - Appellant has not first obtained the leave of the Supreme Court on a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      158.9,
+      527.18,
+      173.38
+    ],
+    "text": "question of law in the instant appeal. However, he thereafter submitted that this Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      180.62,
+      527.18,
+      195.1
+    ],
+    "text": "nevertheless has jurisdiction to entertain this appeal both under Article 127 of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      202.34,
+      527.18,
+      216.82
+    ],
+    "text": "Constitution and in the exercise of revisionary powers of this Court. It is to the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      224.09,
+      230.73,
+      238.57
+    ],
+    "text": "arguments I would now turn.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      267.53,
+      527.18,
+      282.01
+    ],
+    "text": "Article 127 of the Constitution of the Democratic Socialist Republic of Sri Lanka is as",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      289.37,
+      115.98,
+      303.85
+    ],
+    "text": "follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      332.81,
+      531.18,
+      347.29
+    ],
+    "text": "\u201c127. (1) The Supreme Court shall, subject to the Constitution, be the final Court of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      354.53,
+      531.18,
+      369.01
+    ],
+    "text": "civil and criminal appellate jurisdiction for and within the Republic of Sri Lanka for the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      376.27,
+      531.18,
+      390.75
+    ],
+    "text": "correction of all errors in fact or in law which shall be committed by the Court of Appeal",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      397.99,
+      531.18,
+      412.47
+    ],
+    "text": "or any Court of First Instance, tribunal or other institution and the judgements and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      419.71,
+      531.18,
+      434.19
+    ],
+    "text": "orders of the Supreme Court shall in all cases be final and conclusive in all such",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      441.43,
+      123.82,
+      455.91
+    ],
+    "text": "matters.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      484.87,
+      531.18,
+      499.35
+    ],
+    "text": "(2) The Supreme Court shall, in the exercise of its jurisdiction, have sole and exclusive",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      506.59,
+      531.18,
+      521.07
+    ],
+    "text": "cognizance by way of appeal from any order, judgement, decree, or sentence made",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      528.34,
+      531.18,
+      542.82
+    ],
+    "text": "by the Court of Appeal, where any appeal lies in law to the Supreme Court and it may",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      550.06,
+      531.18,
+      564.54
+    ],
+    "text": "affirm, reverse or vary any such order, judgement, decree or sentence of the Court of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      571.78,
+      531.18,
+      586.26
+    ],
+    "text": "Appeal and may issue such directions to any Court of First Instance or order a new",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      593.5,
+      531.18,
+      607.98
+    ],
+    "text": "trial or further hearing in any proceedings as the justice of the case may require, and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      615.22,
+      531.18,
+      629.7
+    ],
+    "text": "may also call for and admit fresh or additional evidence if the interests of justice so",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      636.94,
+      531.18,
+      651.42
+    ],
+    "text": "demands and may in such event, direct that such evidence be recorded by the Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.2,
+      658.66,
+      297.73,
+      673.14
+    ],
+    "text": "of Appeal or any Court of First Instance.\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      680.48,
+      527.18,
+      694.99
+    ],
+    "text": "Article 127 (2) sets out what this Court can do in the exercise of its appellate",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      702.24,
+      527.18,
+      716.72
+    ],
+    "text": "jurisdiction and therefore the said Article comes into operation only when it considers",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      723.96,
+      248.97,
+      738.44
+    ],
+    "text": "an appeal lawfully filed before it.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 7 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      72.02,
+      527.18,
+      86.5
+    ],
+    "text": "Article 127 (1) has specifically subjected itself to the other provisions of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      93.74,
+      531.18,
+      108.22
+    ],
+    "text": "Constitution. This is clear from the wording \u201cThe Supreme Court shall, subject to the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      115.46,
+      274.41,
+      129.94
+    ],
+    "text": "Constitution,..\u201d , found in that Article.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      137.18,
+      527.18,
+      151.66
+    ],
+    "text": "Thus, Article 127 (1) must be read with Article 128 of the Constitution. This is because",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      158.9,
+      527.18,
+      173.38
+    ],
+    "text": "Article 128 is another provision in the Constitution which has specified several channels",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      180.62,
+      326.99,
+      195.1
+    ],
+    "text": "through which any appeal can reach this Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      202.34,
+      155.46,
+      216.82
+    ],
+    "text": "It is as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      224.09,
+      132.06,
+      238.57
+    ],
+    "text": "Article 128",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      245.81,
+      531.18,
+      260.29
+    ],
+    "text": "\u201c(1) An appeal shall lie to the Supreme Court from any final order, judgement, decree",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      267.53,
+      531.18,
+      282.01
+    ],
+    "text": "or sentence of the Court of Appeal in any matter or proceedings, whether civil or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      289.37,
+      531.18,
+      303.85
+    ],
+    "text": "criminal, which involves a substantial question of law, if the Court of Appeal grants",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      311.09,
+      531.18,
+      325.57
+    ],
+    "text": "leave to appeal to the Supreme Court ex mero motu or at the instance of any aggrieved",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      332.81,
+      274.45,
+      347.29
+    ],
+    "text": "party to such matter or proceedings;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      376.27,
+      531.18,
+      390.75
+    ],
+    "text": "(2) The Supreme Court may, in its discretion, grant special leave to appeal to the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      397.99,
+      531.18,
+      412.47
+    ],
+    "text": "Supreme Court from any final or interlocutory order, judgement, decree, or sentence",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      419.71,
+      531.18,
+      434.19
+    ],
+    "text": "made by the Court of Appeal in any matter or proceedings, whether civil or criminal,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      441.43,
+      531.18,
+      455.91
+    ],
+    "text": "where the Court of Appeal has refused to grant leave to appeal to the Supreme Court,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      463.15,
+      531.18,
+      477.63
+    ],
+    "text": "or where in the opinion of the Supreme Court, the case or matter is fit for review by",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      484.87,
+      188.14,
+      499.35
+    ],
+    "text": "the Supreme Court:",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      506.59,
+      531.18,
+      521.07
+    ],
+    "text": "Provided that the Supreme Court shall grant leave to appeal in every matter or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      528.34,
+      531.18,
+      542.82
+    ],
+    "text": "proceedings in which it is satisfied that the question to be decided is of public or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      550.06,
+      189.37,
+      564.54
+    ],
+    "text": "general importance.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      593.5,
+      531.18,
+      607.98
+    ],
+    "text": "(3) Any appeal from an order or judgement of the Court of Appeal, made or given in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      615.22,
+      531.18,
+      629.7
+    ],
+    "text": "the exercise of its jurisdiction under Article 139, 140, 141, 142 or 143 to which the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      636.94,
+      531.18,
+      651.42
+    ],
+    "text": "President, a Minister, a Deputy Minister or a public officer in his official capacity is a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      658.66,
+      532.38,
+      673.14
+    ],
+    "text": "party, shall be heard and determined within two months of the date of filing thereof.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      702.24,
+      531.18,
+      716.72
+    ],
+    "text": "(4) An appeal shall lie directly to the Supreme Court on any matter and in the manner",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      723.96,
+      421.71,
+      738.44
+    ],
+    "text": "specifically provided for by any other law passed by Parliament.\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 8 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      72.02,
+      527.18,
+      86.61
+    ],
+    "text": "As Article 128 (1), (2), (3) refers only to orders or judgements of the Court of Appeal",
+    "fonts": [
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      93.74,
+      527.18,
+      108.22
+    ],
+    "text": "they have no relevance to the instant case as it is an appeal against an order made",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      115.46,
+      527.18,
+      129.94
+    ],
+    "text": "by the High Court. Thus, the provision applicable to the instant case is clearly Article",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      137.18,
+      527.18,
+      151.66
+    ],
+    "text": "128 (4) of the Constitution and the \u2018law passed by parliament\u2019 relevant to the instant",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      158.9,
+      345.35,
+      173.38
+    ],
+    "text": "case is section 37 in part VII of the Arbitration Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      202.34,
+      527.18,
+      216.82
+    ],
+    "text": "I have already dealt with that section and held that the Respondent - Appellant in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      224.09,
+      527.18,
+      238.57
+    ],
+    "text": "instant case, has not first obtained, the leave of the Supreme Court on a question of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      245.81,
+      527.18,
+      260.29
+    ],
+    "text": "law, as required by that section and therefore the instant appeal is not an appeal filed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      267.53,
+      282.45,
+      282.01
+    ],
+    "text": "under section 37 of the Arbitration Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      311.09,
+      527.18,
+      325.57
+    ],
+    "text": "For the above reasons, I have no hesitation to reject the above argument that this",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      332.81,
+      527.18,
+      347.29
+    ],
+    "text": "Court nevertheless has jurisdiction to entertain this appeal under Article 127 of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      354.53,
+      142.62,
+      369.01
+    ],
+    "text": "Constitution.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      397.99,
+      527.18,
+      412.47
+    ],
+    "text": "Although the learned counsel for the Respondent - Appellant, Mr. Vijitha Sing,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      419.71,
+      527.18,
+      434.19
+    ],
+    "text": "submitted that this Court has jurisdiction to consider this appeal in the exercise of its",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      441.43,
+      527.18,
+      455.91
+    ],
+    "text": "revisionary powers, this Court has not been vested with such power by any law. Mr.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      463.15,
+      527.18,
+      477.63
+    ],
+    "text": "Vijith Sing, also did not refer to any provision of law under which this Court could have",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      484.87,
+      527.18,
+      499.35
+    ],
+    "text": "exercised such revisionary power. In my view there is no merit in this argument and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      506.59,
+      527.18,
+      521.07
+    ],
+    "text": "it should suffice to say that \u2018the Supreme Court is a creature of statute and its powers",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      528.31,
+      527.18,
+      542.79
+    ],
+    "text": "are statutory\u2019 as stated by His Lordship Amerasinghe J in the case of Jeyaraj",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      550.06,
+      366.11,
+      564.54
+    ],
+    "text": "Fernandopulle vs. Premachandra De Silva and Others.2",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      593.5,
+      527.18,
+      607.98
+    ],
+    "text": "In the case of Mahesh Agri Exim (Pvt) Ltd Vs. Gaurav Imports (Pvt) Ltd and Others,3",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      615.22,
+      527.18,
+      629.7
+    ],
+    "text": "this Court had to consider the question whether this Court has revisionary jurisdiction",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      636.94,
+      527.18,
+      651.42
+    ],
+    "text": "against orders made by the Commercial High Court. I had the privilege of agreeing",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      658.66,
+      527.18,
+      673.14
+    ],
+    "text": "with His Lordship Justice Priyantha Jayawardena who stated in that case, the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      680.48,
+      126.78,
+      694.99
+    ],
+    "text": "following.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      732.59,
+      300.65,
+      770.06
+    ],
+    "text": "2 1996 (1) SLR 70. 3 SC Revision No. 02/2013 Decided on 30-07-2019.",
+    "fonts": [
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      35.52,
+      525.67,
+      61.27
+    ],
+    "text": "(SC CHC Appeal 14/2014) - Page 9 of 9",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      72.02,
+      531.18,
+      86.5
+    ],
+    "text": "\u201cThe Counsel for the Petitioner submitted that a grave prejudice has been caused to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      93.74,
+      531.18,
+      108.22
+    ],
+    "text": "his client and therefore, the Supreme Court should intervene in this matter. He further",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      115.46,
+      531.18,
+      129.94
+    ],
+    "text": "submitted that this is a fit and proper case to exercise revisionary jurisdiction and/or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      137.18,
+      238.21,
+      151.66
+    ],
+    "text": "inherent powers of this Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      158.9,
+      531.18,
+      173.38
+    ],
+    "text": "We are of the opinion that this Court has no jurisdiction to entertain Revision",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      180.62,
+      531.18,
+      195.1
+    ],
+    "text": "applications arising from the orders made by the Commercial High Court. Further, the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      202.34,
+      459.78,
+      216.82
+    ],
+    "text": "inherent powers of this Court cannot be entertained in this application.\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      245.81,
+      527.18,
+      260.29
+    ],
+    "text": "Thus, I am of the view that this Court does not have revisionary powers to intervene",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      267.53,
+      527.18,
+      282.01
+    ],
+    "text": "and consider the instant appeal. For the foregoing reasons, I uphold the Preliminary",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      289.37,
+      506.06,
+      303.85
+    ],
+    "text": "Objection raised by the Respondent - Appellant. I proceed to dismiss this Appeal.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      290.09,
+      386.23,
+      488.9,
+      400.71
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      449.71,
+      257.85,
+      464.19
+    ],
+    "text": "MURDU N. B. FERNANDO PC J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      481.39,
+      117.54,
+      495.87
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      290.09,
+      513.19,
+      488.9,
+      527.67
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      576.58,
+      196.29,
+      591.17
+    ],
+    "text": "A.H. M. D. NAWAZ J",
+    "fonts": [
+      "Tahoma-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      608.38,
+      117.54,
+      622.86
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      290.09,
+      640.06,
+      488.9,
+      654.54
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
