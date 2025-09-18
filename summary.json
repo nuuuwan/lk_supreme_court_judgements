@@ -1,12 +1,25 @@
 {
-  "time_updated": "2025-09-18 19:26:47",
+  "doc_class_label": "lk_supreme_court_judgements",
+  "time_updated": "2025-09-18 19:44:27",
   "n_docs": 1526,
   "n_docs_with_pdfs": 937,
-  "p_docs_with_pdfs": 0.6140235910878112,
+  "n_docs_with_text": 169,
   "date_str_min": "2016-07-22",
   "date_str_max": "2025-09-18",
-  "dataset_size": 860480382,
+  "dataset_size": 874389783,
   "url_source": "https://supremecourt.lk/judgements/",
   "url_data": "https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data",
-  "url_repo": "https://github.com/nuuuwan/lk_supreme_court_judgements"
+  "url_repo": "https://github.com/nuuuwan/lk_supreme_court_judgements",
+  "latest_doc_d": {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-09-18-SC-FR-524-2012",
+    "num": "SC/FR/524/2012",
+    "date_str": "2025-09-18",
+    "description": "Hon. M. Sampath K. B. Wijeratne J - H.D.S. Wimalarathna No. 209, ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_524_2012.pdf",
+    "parties": "H.D.S. Wimalarathna No. 209, Mahabopitiya, Alawwa. PETITIONER Vs. 1. D.M.S.K. Dassanayake, Inspector of Police, Police Station, Alawwa. 2. Senaratna, 52524, Police Constable, Police Station, Alawwa. 3. A.B. Mahinda Pushpakumara Inspector of Police, Officer-in-Charge, Police Station, Alawwa. 4. Lal Kumara 20167, Police Sergeant, Police Station, Alawwa. 5. Karunarathna,, 32182, Police Sergeant, Police Station, Alawwa. 6. Inspector General of Police, Police Head Quarters, Colombo 01. 7. Hon. Attorney-general, Attorney- General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+  }
 }
