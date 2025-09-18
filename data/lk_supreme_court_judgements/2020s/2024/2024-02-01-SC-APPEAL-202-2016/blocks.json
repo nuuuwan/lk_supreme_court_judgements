@@ -1,0 +1,2077 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      83.99,
+      488.83,
+      100.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      108.59,
+      446.83,
+      124.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      166.44,
+      449.38,
+      180.44
+    ],
+    "text": "Jalathge Rathnawathy",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      187.56,
+      469.54,
+      201.56
+    ],
+    "text": "of Alugolla, Hewadeewala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      208.68,
+      358.87,
+      222.68
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      250.92,
+      349.75,
+      264.9
+    ],
+    "text": "SC APPEAL NO: SC/APPEAL/202/2016",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      272.07,
+      385.51,
+      286.07
+    ],
+    "text": "SC LA NO: SC/HCCA/LA/345/15",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      293.19,
+      344.47,
+      307.17
+    ],
+    "text": "HCCA NO: SP/HCCA/KAG/976/2012(F)",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      314.31,
+      265.73,
+      328.29
+    ],
+    "text": "DC KEGALLE NO: 27164/P",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      335.55,
+      349.75,
+      349.55
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.65,
+      377.79,
+      439.54,
+      391.79
+    ],
+    "text": "1. Jayathge Leelawathy",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.65,
+      398.91,
+      442.18,
+      412.91
+    ],
+    "text": "2. Jayathge Somawathy",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.65,
+      420.03,
+      449.38,
+      434.03
+    ],
+    "text": "3. Jayathge Dharmasena",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      441.17,
+      488.74,
+      455.17
+    ],
+    "text": "All of Alugolla, Hewadeewala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      462.29,
+      380.47,
+      476.29
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      504.53,
+      340.15,
+      518.53
+    ],
+    "text": "AND",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      546.77,
+      449.38,
+      560.77
+    ],
+    "text": "Jalathge Rathnawathy",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      567.89,
+      469.54,
+      581.89
+    ],
+    "text": "of Alugolla, Hewadeewala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      589.01,
+      419.59,
+      603.01
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.65,
+      631.4,
+      331.99,
+      645.4
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.65,
+      673.64,
+      439.54,
+      687.64
+    ],
+    "text": "1. Jayathge Leelawathy",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.65,
+      694.75,
+      442.18,
+      708.76
+    ],
+    "text": "2. Jayathge Somawathy",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      36.04,
+      312.94,
+      62.94
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      390.07,
+      38.68,
+      519.75,
+      51.56
+    ],
+    "text": "SC/APPEAL/202/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.65,
+      71.98,
+      449.38,
+      85.98
+    ],
+    "text": "3. Jayathge Dharmasena",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      93.12,
+      488.74,
+      107.12
+    ],
+    "text": "All of Alugolla, Hewadeewala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      114.24,
+      454.66,
+      128.24
+    ],
+    "text": "Defendant-Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      156.48,
+      409.99,
+      170.48
+    ],
+    "text": "NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.65,
+      198.72,
+      442.18,
+      212.72
+    ],
+    "text": "2. Jayathge Somawathy",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.65,
+      219.96,
+      449.38,
+      233.96
+    ],
+    "text": "3. Jayathge Dharmasena",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      241.08,
+      493.78,
+      255.08
+    ],
+    "text": "Both of Alugolla, Hewadeewala",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      262.23,
+      516.82,
+      276.23
+    ],
+    "text": "2nd and 3rd Defendant-Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      283.35,
+      375.67,
+      297.35
+    ],
+    "text": "Appellants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      325.59,
+      331.99,
+      339.59
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.65,
+      367.83,
+      445.54,
+      381.83
+    ],
+    "text": "1. Jalathge Rathnawathy",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      388.95,
+      469.54,
+      402.95
+    ],
+    "text": "of Alugolla, Hewadeewala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      410.07,
+      493.78,
+      424.07
+    ],
+    "text": "Plaintiff-Appellant-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.65,
+      452.33,
+      439.54,
+      466.33
+    ],
+    "text": "2. Jayathge Leelawathy",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      473.45,
+      465.7,
+      487.45
+    ],
+    "text": "of Alugolla, Hewadeewala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      494.57,
+      466.54,
+      508.57
+    ],
+    "text": "1st Defendant-Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.65,
+      515.81,
+      382.87,
+      529.81
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      558.05,
+      394.63,
+      572.05
+    ],
+    "text": "Before: Hon. Justice Vijith K. Malalgoda, P.C.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      579.17,
+      407.83,
+      593.17
+    ],
+    "text": "Hon. Justice Mahinda Samayawardhena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      600.29,
+      365.11,
+      614.29
+    ],
+    "text": "Hon. Justice Arjuna Obeyesekere",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      642.56,
+      522.29,
+      656.56
+    ],
+    "text": "Counsel: 2nd and 3rd Defendant-Respondent-Appellants are absent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      663.68,
+      288.53,
+      677.68
+    ],
+    "text": "and unrepresented.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      684.79,
+      451.78,
+      698.8
+    ],
+    "text": "Sanjaya Kodituwakku for the Plaintiff-Appellant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      705.91,
+      242.69,
+      719.92
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      36.04,
+      312.94,
+      62.94
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      390.07,
+      38.68,
+      519.75,
+      51.56
+    ],
+    "text": "SC/APPEAL/202/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      71.98,
+      228.05,
+      85.98
+    ],
+    "text": "Written Submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.62,
+      99.12,
+      522.33,
+      113.12
+    ],
+    "text": "By the 2nd and 3rd Defendant-Respondent-Appellants on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.62,
+      120.24,
+      236.69,
+      134.24
+    ],
+    "text": "01.12.2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.62,
+      141.36,
+      455.59,
+      155.36
+    ],
+    "text": "By the 1st Defedant-Respondent-Respondents on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.62,
+      162.48,
+      236.69,
+      176.48
+    ],
+    "text": "06.09.2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.62,
+      183.6,
+      481.06,
+      197.6
+    ],
+    "text": "By the Plaintiff-Appellant-Respondent on 06.09.2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      216.72,
+      236.45,
+      230.72
+    ],
+    "text": "Argued on: 16.06.2023",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      243.96,
+      237.65,
+      257.96
+    ],
+    "text": "Decided on: 01.02.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      283.11,
+      225.65,
+      297.11
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      316.23,
+      522.27,
+      330.23
+    ],
+    "text": "The plaintiff filed this action in the District Court of Kegalle to partition",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      337.35,
+      522.26,
+      351.35
+    ],
+    "text": "the land now depicted in the preliminary plan among the plaintiff (7/10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      358.47,
+      522.22,
+      372.47
+    ],
+    "text": "share) and the 1st defendant (3/10 share). According to the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      379.59,
+      522.34,
+      393.59
+    ],
+    "text": "pedigree, the 2nd and 3rd defendants have no rights in the corpus. The 2nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      400.71,
+      522.34,
+      414.71
+    ],
+    "text": "defendant is a sister of the plaintiff and the 1st defendant. The 3rd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      421.83,
+      522.31,
+      435.83
+    ],
+    "text": "defendant is the husband of the 2nd defendant. The 2nd defendant claimed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      442.97,
+      522.26,
+      456.97
+    ],
+    "text": "1/3 share by inheritance, and the 3rd defendant claimed 2/15 share by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      464.09,
+      369.91,
+      478.09
+    ],
+    "text": "deed No. 5395 dated 31.10.1998 marked 2D3.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      497.21,
+      522.31,
+      511.21
+    ],
+    "text": "After trial, the District Court dismissed the plaintiffs action on the basis",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      518.33,
+      522.34,
+      532.33
+    ],
+    "text": "that the plaintiff has not unfolded a full pedigree. On appeal, the High",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      539.45,
+      522.34,
+      553.45
+    ],
+    "text": "Court of Civil Appeal of Kegalle set aside the judgment of the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      560.57,
+      522.34,
+      574.57
+    ],
+    "text": "Court and directed the District Judge to enter the Interlocutory Decree",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      581.81,
+      330.07,
+      595.81
+    ],
+    "text": "in terms of the pedigree of the plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      614.96,
+      522.34,
+      628.96
+    ],
+    "text": "The parties are governed by the Kandyan law. The High Court concluded",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      636.08,
+      522.26,
+      650.08
+    ],
+    "text": "that the 2nd defendant does not get rights from her father since she",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      657.2,
+      522.27,
+      671.26
+    ],
+    "text": "contracted a diga marriage. The High Court further concluded that the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      678.32,
+      522.14,
+      692.32
+    ],
+    "text": "3rd defendant does not get rights from deed No. 5395 because the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      36.04,
+      312.94,
+      62.94
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      390.07,
+      38.68,
+      519.75,
+      51.56
+    ],
+    "text": "SC/APPEAL/202/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      71.98,
+      522.34,
+      85.98
+    ],
+    "text": "transferor of that deed, namely Premaratne, did not have remaining",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      93.12,
+      277.01,
+      107.12
+    ],
+    "text": "rights to alienate at that time.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      126.24,
+      522.34,
+      140.24
+    ],
+    "text": "Being dissatisfied with that judgment, the 2nd and 3rd defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      147.36,
+      522.31,
+      161.36
+    ],
+    "text": "preferred this appeal with leave obtained from this Court on the following",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      168.48,
+      230.21,
+      182.48
+    ],
+    "text": "three questions of law:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.62,
+      201.6,
+      522.22,
+      215.6
+    ],
+    "text": "(a) Did Premaratne not transfer 1/5 share inherited from his father",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      222.72,
+      522.22,
+      236.72
+    ],
+    "text": "Jamis to the 1st defendant by deed No. 3167 dated 13.06.1997",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      243.96,
+      171.62,
+      257.96
+    ],
+    "text": "(1D1)?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.62,
+      265.11,
+      522.26,
+      279.11
+    ],
+    "text": "(b) Did Premaratne transfer 1/5 share inherited from his father Jamis",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      286.23,
+      504.94,
+      300.23
+    ],
+    "text": "to the 3rd defendant by deed No. 5395 dated 31.10.1998 (2D3)?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.62,
+      307.35,
+      522.12,
+      321.35
+    ],
+    "text": "(c) Is the 3rd defendant entitled to 1/5 of the corpus by deed marked",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      328.47,
+      164.42,
+      342.47
+    ],
+    "text": "2D3?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      361.59,
+      522.27,
+      375.59
+    ],
+    "text": "The original owner of the land was Jamis. According to the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      382.71,
+      522.34,
+      396.71
+    ],
+    "text": "pedigree, upon the death of Jamis on 05.11.1970, his rights devolved 1/2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      403.83,
+      522.24,
+      417.83
+    ],
+    "text": "on the plaintiff and 1/2 on Premaratne. There is currently no dispute",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      424.95,
+      522.34,
+      438.95
+    ],
+    "text": "over this, and the 2nd defendant does not assert 1/3 share by inheritance.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      458.09,
+      522.21,
+      472.09
+    ],
+    "text": "Premaratne executed the following deeds after the death of his father,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      479.21,
+      522.33,
+      493.21
+    ],
+    "text": "Jamis. Consequently, whatever he transferred has to be from his share",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      500.33,
+      522.12,
+      514.33
+    ],
+    "text": "of the corpus, not from the entire corpus. He cannot transfer what he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      521.45,
+      186.02,
+      535.45
+    ],
+    "text": "does not have.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      554.57,
+      522.16,
+      568.57
+    ],
+    "text": "By deed No. 5928 dated 16.06.1994 marked P5, Premaratne transferred",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      575.81,
+      522.29,
+      589.81
+    ],
+    "text": "1/5 of his 1/2 share to the plaintiff. Accordingly, the plaintiff became",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      596.93,
+      392.71,
+      610.93
+    ],
+    "text": "entitled to 1/2 + 1/10 = 6/10 share of the corpus.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      630.08,
+      522.26,
+      644.08
+    ],
+    "text": "By deed No. 3167 dated 13.06.1997 marked 1D1, Premaratne transferred",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      651.2,
+      522.26,
+      665.2
+    ],
+    "text": "1/5 of his 1/2 share to the 1st defendant. Thereafter, by deed No. 3869",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      672.32,
+      522.17,
+      686.32
+    ],
+    "text": "dated 06.06.1998 marked 1D2, Premaratne transferred another 1/5 of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      36.04,
+      312.94,
+      62.94
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      390.07,
+      38.68,
+      519.75,
+      51.56
+    ],
+    "text": "SC/APPEAL/202/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      71.98,
+      522.31,
+      85.98
+    ],
+    "text": "his 1/2 share to the 1st defendant. Accordingly, the 1st defendant became",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      93.12,
+      238.13,
+      107.12
+    ],
+    "text": "entitled to 2/10 share.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      126.24,
+      522.26,
+      140.24
+    ],
+    "text": "By deed No. 5395 dated 31.10.1998 marked 2D3, Premaratne transferred",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      147.36,
+      522.34,
+      161.36
+    ],
+    "text": "all his remaining shares to the 3rd defendant. Accordingly, the 3rd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      168.48,
+      421.99,
+      182.48
+    ],
+    "text": "defendant became entitled to 2/10 share of the corpus.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      201.6,
+      522.12,
+      215.6
+    ],
+    "text": "The share allocation calculated by the High Court is not correct. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      222.72,
+      522.13,
+      236.72
+    ],
+    "text": "mistake made by the learned High Court Judge was that, although he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      243.96,
+      522.34,
+      257.96
+    ],
+    "text": "first stated that Premaratne had to transfer rights from his 1/2 share, he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      265.11,
+      522.34,
+      279.11
+    ],
+    "text": "later calculated shares on the basis that Premaratne transferred those",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      286.23,
+      270.53,
+      300.23
+    ],
+    "text": "rights from the entire corpus.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      319.35,
+      522.29,
+      333.35
+    ],
+    "text": "The judgments of the District Court and the High Court are set aside and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      340.47,
+      346.99,
+      354.47
+    ],
+    "text": "the appeal of the 3rd defendant is allowed.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      373.59,
+      522.27,
+      387.59
+    ],
+    "text": "The District Judge will amend the Interlocutory Decree accordingly and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      394.71,
+      433.75,
+      408.71
+    ],
+    "text": "take follow up steps in accordance with the partition law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      352.15,
+      460.97,
+      522.34,
+      474.97
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      503.21,
+      263.33,
+      517.21
+    ],
+    "text": "Vijith K. Malalgoda, P.C., J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      524.33,
+      140.42,
+      538.33
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      352.15,
+      557.45,
+      522.34,
+      571.45
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      599.81,
+      233.81,
+      613.81
+    ],
+    "text": "Arjuna Obeyesekere, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      620.96,
+      140.42,
+      634.96
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      352.15,
+      654.08,
+      522.34,
+      668.08
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

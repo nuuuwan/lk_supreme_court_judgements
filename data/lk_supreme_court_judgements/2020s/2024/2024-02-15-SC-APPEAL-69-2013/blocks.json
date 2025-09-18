@@ -1,0 +1,11185 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 1 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.54,
+      85.59,
+      514.78,
+      101.06
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      277.49,
+      109.47,
+      321.14,
+      124.94
+    ],
+    "text": "LANKA",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.07,
+      141.39,
+      526.72,
+      156.86
+    ],
+    "text": "In the matter of an application for",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.07,
+      165.39,
+      526.45,
+      180.86
+    ],
+    "text": "Leave to Appeal under Section 5C of",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.07,
+      189.27,
+      526.52,
+      204.74
+    ],
+    "text": "the High Court of the Provinces",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.07,
+      213.27,
+      526.56,
+      228.74
+    ],
+    "text": "(Special Provision) (Amendment) Act",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.07,
+      237.15,
+      407.41,
+      252.62
+    ],
+    "text": "No. 54 of 2006.",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      269.1,
+      508.11,
+      284.57
+    ],
+    "text": "Aluth Muhandiramge Somawathie",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      293.1,
+      385.68,
+      308.57
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      464.86,
+      325.02,
+      529.97,
+      340.49
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      340.98,
+      526.73,
+      372.41
+    ],
+    "text": "1. (A) Sumanasiri Harischandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      380.94,
+      462.75,
+      396.41
+    ],
+    "text": "2. (B) Susila Mukthalatha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      404.82,
+      472.83,
+      420.29
+    ],
+    "text": "3. (C) Chithra Dharmalatha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      428.84,
+      471.39,
+      444.31
+    ],
+    "text": "4. (D) Liliat Chandrawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      452.72,
+      480.27,
+      468.19
+    ],
+    "text": "5. (E) Piyaseli Sarathchandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      476.72,
+      476.31,
+      492.19
+    ],
+    "text": "6. (F) Jayasiri Nimalchandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      500.6,
+      493.95,
+      516.07
+    ],
+    "text": "7. (G) M. Aratchilage Ariyaseeli",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      524.6,
+      446.79,
+      540.07
+    ],
+    "text": "8. (H) Gayani Fonseka",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      548.48,
+      482.31,
+      563.95
+    ],
+    "text": "9. (I) Pradeep Premachandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      572.48,
+      443.43,
+      587.95
+    ],
+    "text": "10. (J) Dilhani Fonseka",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      620.39,
+      484.23,
+      635.86
+    ],
+    "text": "All of Keppetiwalana, Alawwa.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      376.15,
+      668.27,
+      529.95,
+      683.74
+    ],
+    "text": "SUBSTITUTED PLAINTIFFS",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      692.15,
+      348.61,
+      707.62
+    ],
+    "text": "Vs",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      716.15,
+      483.87,
+      731.62
+    ],
+    "text": "Amarapathy Mudiyanselage",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      740.03,
+      457.35,
+      755.5
+    ],
+    "text": "Podishingo (Deceased)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.78,
+      284.46,
+      206.28,
+      299.93
+    ],
+    "text": "S.C. Appeal No. 69/2013",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.78,
+      308.34,
+      203.76,
+      323.81
+    ],
+    "text": "SC(SPL) LA No. 07/2012",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.78,
+      332.34,
+      143.25,
+      347.81
+    ],
+    "text": "CA 257/97(F)",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.78,
+      356.22,
+      201.37,
+      371.69
+    ],
+    "text": "D.C. Kurunegala 4009/L",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      9.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 2 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      452.26,
+      109.47,
+      529.97,
+      124.94
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      125.43,
+      526.73,
+      156.86
+    ],
+    "text": "1. (A) Lucy Nona",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      165.39,
+      510.03,
+      180.86
+    ],
+    "text": "2. (B) Amarapathy M. Senarathne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      189.27,
+      488.55,
+      204.74
+    ],
+    "text": "3. (C) A. M. Indra Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      213.27,
+      475.95,
+      228.74
+    ],
+    "text": "4. (D) A.M.M.J. Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      237.15,
+      512.19,
+      252.62
+    ],
+    "text": "5. (E) A.M. Jane Nona Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      261.18,
+      513.39,
+      276.65
+    ],
+    "text": "6. (F) A. M. Ashoka Chandrawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      285.06,
+      441.87,
+      300.53
+    ],
+    "text": "7. (G) A.M. Wijeratne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      309.06,
+      456.63,
+      324.53
+    ],
+    "text": "8. (H) A.M.Premawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      332.94,
+      446.19,
+      348.41
+    ],
+    "text": "9. (I) J.T. Somawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      356.94,
+      504.75,
+      372.41
+    ],
+    "text": "10. (J) A.M.Ramulatha Sriyakantha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      380.82,
+      479.67,
+      396.29
+    ],
+    "text": "11. (K) A.M.Ranjith Senaratne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      404.82,
+      497.19,
+      420.29
+    ],
+    "text": "12. (L) A.M. Pushparaj Chaminda",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      428.72,
+      509.91,
+      444.19
+    ],
+    "text": "13. (M) A.M. Priyantha Damayanthi",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      452.72,
+      512.19,
+      468.19
+    ],
+    "text": "14. (N) A.M. Samantha Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      476.6,
+      516.51,
+      492.07
+    ],
+    "text": "15. (O) A.M. Dhammika Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      500.6,
+      495.63,
+      516.07
+    ],
+    "text": "16. (P) A.M. Wijesiri Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      548.48,
+      484.23,
+      563.95
+    ],
+    "text": "All of Keppetiwalana, Alawwa.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      363.55,
+      596.36,
+      526.71,
+      611.83
+    ],
+    "text": "SUBSTITUTED DEFENDANTS",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      320.23,
+      644.27,
+      403.56,
+      659.74
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      692.15,
+      516.38,
+      707.62
+    ],
+    "text": "1. Amarapathy Mudiyanselage M.J.",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      716.15,
+      415.56,
+      731.62
+    ],
+    "text": "Amarapathy,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      740.03,
+      496.35,
+      755.5
+    ],
+    "text": "Ihala Keppitiwalana, Alawwa.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 3 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      416.71,
+      85.59,
+      526.63,
+      101.06
+    ],
+    "text": "1(D) SUBSTITUTED",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      380.59,
+      109.47,
+      526.71,
+      124.94
+    ],
+    "text": "DEFENDANT-APPELLANT",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.07,
+      141.39,
+      349.69,
+      156.86
+    ],
+    "text": "Vs",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      165.39,
+      493.95,
+      180.86
+    ],
+    "text": "1. (A) Sumanasiri Harischandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      189.27,
+      462.75,
+      204.74
+    ],
+    "text": "2. (B) Susila Mukthalatha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      213.27,
+      472.83,
+      228.74
+    ],
+    "text": "3. (C) Chithra Dharmalatha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      237.15,
+      471.39,
+      252.62
+    ],
+    "text": "4. (D) Liliat Chandrawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      261.18,
+      480.27,
+      276.65
+    ],
+    "text": "5. (E) Piyaseli Sarathchandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      285.06,
+      476.31,
+      300.53
+    ],
+    "text": "6. (F) Jayasiri Nimalchandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      309.06,
+      493.95,
+      324.53
+    ],
+    "text": "7. (G) M. Aratchilage Ariyaseeli",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      332.94,
+      446.79,
+      348.41
+    ],
+    "text": "8. (H) Gayani Fonseka",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      356.94,
+      482.31,
+      372.41
+    ],
+    "text": "9. (I) Pradeep Premachandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      380.82,
+      443.43,
+      396.29
+    ],
+    "text": "10. (J) Dilhani Fonseka",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      404.82,
+      484.23,
+      420.29
+    ],
+    "text": "All of Keppetiwalana, Alawwa.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      378.07,
+      452.72,
+      523.47,
+      468.19
+    ],
+    "text": "SUBSTITUTED PLAINTIFF-",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      438.1,
+      468.68,
+      526.71,
+      484.15
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      516.56,
+      422.88,
+      532.03
+    ],
+    "text": "1. (A) Lucy Nona",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      540.56,
+      510.03,
+      556.03
+    ],
+    "text": "2. (B) Amarapathy M. Senarathne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      564.44,
+      488.55,
+      579.91
+    ],
+    "text": "3. (C) A. M. Indra Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      588.44,
+      475.95,
+      603.91
+    ],
+    "text": "4. (D) A.M.M.J. Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      612.35,
+      512.19,
+      627.82
+    ],
+    "text": "5. (E) A.M. Jane Nona Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      636.35,
+      513.39,
+      651.82
+    ],
+    "text": "6. (F) A. M. Ashoka Chandrawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      660.23,
+      441.87,
+      675.7
+    ],
+    "text": "7. (G) A.M. Wijeratne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      684.23,
+      456.63,
+      699.7
+    ],
+    "text": "8. (H) A.M.Premawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      708.11,
+      446.19,
+      723.58
+    ],
+    "text": "9. (I) J.T. Somawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      732.11,
+      504.75,
+      747.58
+    ],
+    "text": "10. (J) A.M.Ramulatha Sriyakantha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 4 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      85.59,
+      479.67,
+      101.06
+    ],
+    "text": "11. (K) A.M.Ranjith Senaratne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      109.47,
+      497.19,
+      124.94
+    ],
+    "text": "12. (L) A.M. Pushparaj Chaminda",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      133.47,
+      509.91,
+      148.94
+    ],
+    "text": "13. (M) A.M. Priyantha Damayanthi",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      157.35,
+      512.19,
+      172.82
+    ],
+    "text": "14. (N) A.M. Samantha Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      181.35,
+      516.51,
+      196.82
+    ],
+    "text": "15. (O) A.M. Dhammika Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      205.23,
+      495.63,
+      220.7
+    ],
+    "text": "16. (P) A.M. Wijesiri Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      229.23,
+      484.23,
+      244.7
+    ],
+    "text": "All of Keppetiwalana, Alawwa.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      365.47,
+      277.14,
+      523.47,
+      292.61
+    ],
+    "text": "SUBSTITUTED DEFENDANT-",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      438.1,
+      293.1,
+      526.73,
+      308.57
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      320.23,
+      348.9,
+      436.08,
+      364.37
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      396.78,
+      493.95,
+      412.25
+    ],
+    "text": "1. (A) Sumanasiri Harischandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      420.78,
+      462.75,
+      436.25
+    ],
+    "text": "2. (B) Susila Mukthalatha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      444.68,
+      472.83,
+      460.15
+    ],
+    "text": "3. (C) Chithra Dharmalatha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      468.68,
+      471.39,
+      484.15
+    ],
+    "text": "4. (D) Liliat Chandrawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      492.56,
+      480.27,
+      508.03
+    ],
+    "text": "5. (E) Piyaseli Sarathchandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      516.56,
+      476.31,
+      532.03
+    ],
+    "text": "6. (F) Jayasiri Nimalchandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      540.44,
+      493.95,
+      555.91
+    ],
+    "text": "7. (G) M. Aratchilage Ariyaseeli",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      564.44,
+      446.79,
+      579.91
+    ],
+    "text": "8. (H) Gayani Fonseka",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      588.32,
+      482.31,
+      603.79
+    ],
+    "text": "9. (I) Pradeep Premachandra",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      612.35,
+      443.43,
+      627.82
+    ],
+    "text": "10. (J) Dilhani Fonseka",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.07,
+      660.23,
+      484.23,
+      675.7
+    ],
+    "text": "All of Keppetiwalana, Alawwa.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      366.43,
+      708.11,
+      526.71,
+      739.54
+    ],
+    "text": "SUBSTITUTED PLAINTIFF-RESPONDENT-APPELLANTS",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      333.07,
+      747.95,
+      349.69,
+      763.42
+    ],
+    "text": "Vs",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 5 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      333.07,
+      85.59,
+      526.62,
+      101.06
+    ],
+    "text": "Amarapathy Mudiyanselage M.J.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      333.07,
+      109.47,
+      406.56,
+      124.94
+    ],
+    "text": "Amarapathy,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      333.07,
+      141.39,
+      487.35,
+      156.86
+    ],
+    "text": "Ihala Keppitiwalana, Alawwa.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      416.71,
+      173.31,
+      526.7,
+      188.78
+    ],
+    "text": "1(D) SUBSTITUTED",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      380.59,
+      197.31,
+      526.73,
+      212.78
+    ],
+    "text": "DEFENDANT-APPELLANT",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      229.23,
+      422.88,
+      244.7
+    ],
+    "text": "1. (A) Lucy Nona",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      253.26,
+      506.77,
+      268.73
+    ],
+    "text": "2. (B) Amarapathy M. Senarathne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      277.14,
+      403.68,
+      292.61
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      301.14,
+      516.68,
+      316.61
+    ],
+    "text": "3. 1(B) Amarapathy Mudiyanselage",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      325.02,
+      470.73,
+      340.49
+    ],
+    "text": "Priyantha Padmakumari",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      349.02,
+      405.12,
+      364.49
+    ],
+    "text": "Senarathne",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      372.9,
+      516.75,
+      388.37
+    ],
+    "text": "4. 2(B) Amarapathy Mudiyanselage",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      396.9,
+      490.35,
+      412.37
+    ],
+    "text": "Piyumi Pushpa Amarapathy",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      420.78,
+      488.55,
+      436.25
+    ],
+    "text": "5. (C) A. M. Indra Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      444.8,
+      403.68,
+      460.27
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      468.68,
+      517.23,
+      484.15
+    ],
+    "text": "6. 1(C) Amarapathy Mudiyanselage",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      492.68,
+      401.04,
+      508.15
+    ],
+    "text": "Jane Nona",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      516.56,
+      517.23,
+      532.03
+    ],
+    "text": "7. 2(C) Amarapathy Mudiyanselage",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      540.56,
+      413.76,
+      556.03
+    ],
+    "text": "Premawathie",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      564.44,
+      517.23,
+      579.91
+    ],
+    "text": "8. 3(C) Amarapathy Mudiyanselage",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      588.44,
+      410.52,
+      603.91
+    ],
+    "text": "Anulawathie",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      612.35,
+      517.23,
+      627.82
+    ],
+    "text": "9. 4(C) Amarapathy Mudiyanselage",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      636.35,
+      424.68,
+      651.82
+    ],
+    "text": "Chandrawathie",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      660.23,
+      517.23,
+      675.7
+    ],
+    "text": "10. 5(C) Amarapathy Mudiyanselage",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      342.07,
+      684.23,
+      396.12,
+      699.7
+    ],
+    "text": "Wijeratne",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      708.11,
+      475.95,
+      723.58
+    ],
+    "text": "11. (D) A.M.M.J. Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      324.07,
+      732.11,
+      512.19,
+      747.58
+    ],
+    "text": "12. (E) A.M. Jane Nona Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 6 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      85.59,
+      513.39,
+      101.06
+    ],
+    "text": "13. (F) A. M. Ashoka Chandrawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      109.47,
+      441.87,
+      124.94
+    ],
+    "text": "14. (G) A.M. Wijeratne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      133.47,
+      456.63,
+      148.94
+    ],
+    "text": "15. (H) A.M.Premawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      157.35,
+      446.19,
+      172.82
+    ],
+    "text": "16. (I) J.T. Somawathie",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      181.35,
+      504.75,
+      196.82
+    ],
+    "text": "17. (J) A.M.Ramulatha Sriyakantha",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      205.23,
+      479.67,
+      220.7
+    ],
+    "text": "18. (K) A.M.Ranjith Senaratne",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      229.23,
+      497.19,
+      244.7
+    ],
+    "text": "19. (L) A.M. Pushparaj Chaminda",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      253.14,
+      509.91,
+      268.61
+    ],
+    "text": "20. (M) A.M. Priyantha Damayanthi",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      277.14,
+      512.19,
+      292.61
+    ],
+    "text": "21. (N) A.M. Samantha Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      301.02,
+      516.51,
+      316.49
+    ],
+    "text": "22. (O) A.M. Dhammika Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      325.02,
+      495.63,
+      340.49
+    ],
+    "text": "23. (P) A.M. Wijesiri Amarapathy",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.07,
+      348.9,
+      484.23,
+      364.37
+    ],
+    "text": "All of Keppetiwalana, Alawwa.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      211.61,
+      396.78,
+      514.35,
+      444.19
+    ],
+    "text": "SUBSTITUTED DEFENDANT-RESPONDENT-RESPONDENTS",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      460.64,
+      305.04,
+      476.11
+    ],
+    "text": "BEFORE : S. THURAIRAJA, PC, J",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.02,
+      484.64,
+      325.34,
+      500.11
+    ],
+    "text": "A.H.M.D. NAWAZ, J AND",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.02,
+      508.52,
+      324.98,
+      523.99
+    ],
+    "text": "ACHALA WENGAPPULI, J",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      556.4,
+      526.38,
+      571.87
+    ],
+    "text": "COUNSEL: W. Dayaratne, PC with Ms. Ranjika Jayawardena for the",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.02,
+      580.4,
+      418.92,
+      595.87
+    ],
+    "text": "Substituted Plaintiff-Respondent-Appellants.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.02,
+      604.28,
+      526.59,
+      619.75
+    ],
+    "text": "Manohara De Silva, PC with Ms. P. Wickramaratne and Hirosha",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.02,
+      628.31,
+      523.54,
+      643.78
+    ],
+    "text": "Munasinghe for the 1(D) Substituted Defendant-Appellant-",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.02,
+      652.19,
+      249.58,
+      667.66
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      699.78,
+      507.41,
+      715.54
+    ],
+    "text": "WRITTEN Substituted Plaintiff-Respondent-Appellant on 19th July 2013",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      723.78,
+      281.62,
+      739.54
+    ],
+    "text": "SUBMISSIONS: and 04th July 2023.",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 7 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      85.3,
+      526.71,
+      101.06
+    ],
+    "text": "1D Substituted Defendant-Appellant-Respondent on 18th",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180.02,
+      109.47,
+      274.3,
+      124.94
+    ],
+    "text": "November 2013.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      133.18,
+      525.63,
+      148.94
+    ],
+    "text": "Substituted Defendant-Appellant-Respondent on 04th July 2023.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      181.06,
+      261.22,
+      196.82
+    ],
+    "text": "ARGUED ON: 16th May 2023.",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      212.98,
+      288.1,
+      228.74
+    ],
+    "text": "DECIDED ON: 15th February 2024.",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      261.18,
+      200.28,
+      276.65
+    ],
+    "text": "S. THURAIRAJA, PC, J.",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      293.1,
+      526.57,
+      308.57
+    ],
+    "text": "This case is one that has traversed the halls of these courts for several years. The action",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      316.98,
+      526.58,
+      332.45
+    ],
+    "text": "was first instituted in 1972 by the original Plaintiff (hereinafter referred to as the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      340.98,
+      526.55,
+      356.45
+    ],
+    "text": "Plaintiff) in the District Court of Kurunegala against the original Defendant",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      364.86,
+      526.47,
+      380.33
+    ],
+    "text": "(hereinafter referred to as the Defendant) for a declaration of title to the land called",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      388.86,
+      526.71,
+      404.33
+    ],
+    "text": "Damunugahamulawatta, ejectment of the original Defendant from the said land,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      412.74,
+      288.34,
+      428.21
+    ],
+    "text": "restoration of possession and damages.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      460.47,
+      526.5,
+      476.23
+    ],
+    "text": "The learned District Judge, by judgment dated 29th March 1976, held in favour of the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      484.64,
+      526.18,
+      500.11
+    ],
+    "text": "Plaintiff. The Defendant preferred an appeal to the Court of Appeal, following which,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      508.35,
+      526.35,
+      524.11
+    ],
+    "text": "by judgment dated 25th October 1984, the learned Court of Appeal Judges set aside",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      532.52,
+      526.61,
+      547.99
+    ],
+    "text": "the judgment of the District Court and sent the case back for a trial de-novo on the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      556.52,
+      526.21,
+      571.99
+    ],
+    "text": "basis that the learned District Court Judge had not taken into consideration the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      580.4,
+      315.48,
+      595.87
+    ],
+    "text": "documents marked D1 to D8 in evidence.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      628.02,
+      526.7,
+      643.78
+    ],
+    "text": "Following the second trial, the learned District Judge, by judgment dated 28th April",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      652.31,
+      523.54,
+      667.78
+    ],
+    "text": "1997, held in favour of the Plaintiff. The Substituted 1D Defendant-Appellant-",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      676.19,
+      526.64,
+      691.66
+    ],
+    "text": "Respondent preferred an appeal to the Court of Appeal. The learned Judge of the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      699.9,
+      526.44,
+      715.66
+    ],
+    "text": "Court of Appeal, by judgment dated 02nd December 2011, set aside the District Court",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      724.07,
+      526.39,
+      739.54
+    ],
+    "text": "judgment on the grounds that the Plaintiff had failed to properly discharge the burden",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      748.07,
+      526.63,
+      763.54
+    ],
+    "text": "of proof to establish title and identity of the land in dispute. Finally, being aggrieved",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 8 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      85.59,
+      526.71,
+      101.06
+    ],
+    "text": "by the Court of Appeal judgment, the Substituted Plaintiff-Respondent-Appellants",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      109.18,
+      526.7,
+      124.94
+    ],
+    "text": "appealed to the Supreme Court. Leave to appeal was granted by this Court on 6th May",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      133.47,
+      286.42,
+      148.94
+    ],
+    "text": "2013 on the following questions of law:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      157.35,
+      526.22,
+      172.82
+    ],
+    "text": "a) Did His Lordship of the Court of Appeal err in law when he held that as the",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      181.35,
+      526.32,
+      196.82
+    ],
+    "text": "Plaintiff failed to read her documents in evidence at the conclusion of her case",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      205.23,
+      526.16,
+      220.7
+    ],
+    "text": "she has failed to prove her title when there was no objection raised by the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      229.23,
+      517.59,
+      244.7
+    ],
+    "text": "Defendant for any of the documents of the Plaintiff marked in evidence? [sic]",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      253.14,
+      526.22,
+      268.61
+    ],
+    "text": "b) Did His Lordship of the Court of Appeal err in law when his Lordship held that",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      277.14,
+      360.6,
+      292.61
+    ],
+    "text": "the Petitioner had failed to identify the corpus?",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      301.02,
+      526.12,
+      316.49
+    ],
+    "text": "c) Did his Lordship of the Court of Appeal err in law when he held that the Lease",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      325.02,
+      373.8,
+      340.49
+    ],
+    "text": "Agreement marked V7 dated 26/02/1963 is valid?",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      348.9,
+      526.33,
+      364.37
+    ],
+    "text": "d) Did His Lordship of the Court of appeal seriously misdirect himself when he held",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      372.9,
+      526.23,
+      388.37
+    ],
+    "text": "that the deeds marked V2 and V3 are need not be proved under section 68 of",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      396.78,
+      526.27,
+      412.25
+    ],
+    "text": "the Evidence Ordinance as the Plaintiff did not object for those documents",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      420.78,
+      526.45,
+      436.25
+    ],
+    "text": "when the Defendants read those documents in evidence at the conclusion of",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      444.68,
+      167.23,
+      460.15
+    ],
+    "text": "their case?",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      468.68,
+      526.24,
+      484.15
+    ],
+    "text": "e) Did His Lordship of the Court of Appeal seriously misdirect himself when his",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      492.56,
+      526.42,
+      508.03
+    ],
+    "text": "Lordship held that the Plaintiff's action should be dismissed as there was a valid",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      516.56,
+      526.66,
+      532.03
+    ],
+    "text": "lease at the time of filing this action and held that 1(F) Substituted",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      540.44,
+      526.26,
+      555.91
+    ],
+    "text": "/Defendant/Respondent had title to the property which are two contradictory",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      564.44,
+      164.71,
+      579.91
+    ],
+    "text": "positions?",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      612.35,
+      156.31,
+      627.82
+    ],
+    "text": "Factual Matrix",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      636.23,
+      526.71,
+      651.7
+    ],
+    "text": "It is usually my practice to lay out the facts of the case inasmuch description as needed",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      660.23,
+      526.38,
+      675.7
+    ],
+    "text": "and available prior to the analysis from my perspective and the ultimate decision,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      684.11,
+      526.18,
+      699.58
+    ],
+    "text": "especially if the narration of events and facts of one party appear drastically different",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      708.11,
+      170.83,
+      723.58
+    ],
+    "text": "from the other(s).",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      788.53,
+      509.4,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 9 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      85.59,
+      526.71,
+      101.06
+    ],
+    "text": "However, to quote the Plaintiffs own written submission in the District Court, [t]he",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      109.47,
+      526.21,
+      124.94
+    ],
+    "text": "issue that this Court has to decide is a simple one, though an attempt is being made to",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      133.47,
+      526.56,
+      148.94
+    ],
+    "text": "complicate it. I believe both parties are culpable of this fallacy; the questions of law",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      157.35,
+      526.68,
+      172.82
+    ],
+    "text": "themselves, for instance, appear overly convoluted and ambiguous, despite the courts",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      181.35,
+      526.45,
+      196.82
+    ],
+    "text": "directive to the Counsel to refine and crystallise the questions of law afresh. While I do",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      205.23,
+      526.65,
+      220.7
+    ],
+    "text": "not wish to divulge into the perils of inadequate and imprecise legal drafting in this",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      229.23,
+      526.68,
+      244.7
+    ],
+    "text": "judgment, I believe there is much to be said about its correlation to delayed and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      253.14,
+      223.67,
+      268.61
+    ],
+    "text": "ineffective access to justice.",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      301.02,
+      526.41,
+      316.49
+    ],
+    "text": "To return to the instant case, I have attempted, to the best of my capabilities, to",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      325.02,
+      526.5,
+      340.49
+    ],
+    "text": "simplify the facts of the case as told by the parties in presenting them as a precursor",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      348.9,
+      526.41,
+      364.37
+    ],
+    "text": "to the analysis. The land in question, Damunugahamulawatta is described in",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      372.9,
+      526.57,
+      388.37
+    ],
+    "text": "Schedule A to the amended plaint in the extent of 2R.10P depicted as Lots 5D1 and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      396.78,
+      526.51,
+      412.25
+    ],
+    "text": "5E1, and the pedigree of the said land is as follows: one Abdul Jabbar became the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      420.78,
+      526.67,
+      436.25
+    ],
+    "text": "owner of the property described in Schedule B to the plaint in the extend of 4 Kurakkan",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      444.39,
+      526.67,
+      460.15
+    ],
+    "text": "Lahas (KL) by virtue of Deed No. 22528 dated 13th October 1919 and attested by S.P.S.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      468.68,
+      526.33,
+      484.15
+    ],
+    "text": "Jayawardena Notary Public. Following the passing of Jabbar in 1925, his estate was",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      492.56,
+      526.59,
+      508.03
+    ],
+    "text": "administered in the testamentary case bearing No. 3039/T, and the property devolved",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      516.56,
+      526.71,
+      532.03
+    ],
+    "text": "on his widow, Hajji Umma, and his son, Mohamadu Kalideen (alias Halideen).",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      540.44,
+      530.07,
+      555.91
+    ],
+    "text": "Following the passing of Hajji Umma, Halideen became the sole owner of the property.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      588.32,
+      526.42,
+      603.79
+    ],
+    "text": "According to the Petitioner, Halideen transferred the entirety of the property to the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      612.06,
+      526.73,
+      627.82
+    ],
+    "text": "original Plaintiff by virtue of Deed No. 462 dated 30th January 1969 and attested by",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      636.23,
+      526.67,
+      651.7
+    ],
+    "text": "P.S. Suriyarachchi Notary Public (marked P8). The Petitioner states that, on the same",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      660.23,
+      526.33,
+      675.7
+    ],
+    "text": "day, the original Defendant forcibly entered the land illegally and unlawfully, causing",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      684.11,
+      205.42,
+      699.58
+    ],
+    "text": "damage to the Plaintiff.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 10 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      85.59,
+      526.24,
+      101.06
+    ],
+    "text": "According to the Respondents, prior to the agreement between Halideen and the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      109.47,
+      526.39,
+      124.94
+    ],
+    "text": "Plaintiff, Halideen had executed four lease agreements for the land with one",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      133.47,
+      526.28,
+      148.94
+    ],
+    "text": "Ausadahamy, the original Defendants brother, and subsequently, with the original",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      157.35,
+      299.62,
+      172.82
+    ],
+    "text": "Defendant in the manner tabulated below.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.66,
+      205.42,
+      377.88,
+      221.18
+    ],
+    "text": "06th November 1959 Deed of Lease bearing No. 6305",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      229.71,
+      327.04,
+      245.18
+    ],
+    "text": "between Halideen and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      253.62,
+      276.22,
+      269.09
+    ],
+    "text": "Ausadahamy",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      387.19,
+      205.71,
+      502.59,
+      221.18
+    ],
+    "text": "1959 1962 (3 years)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.66,
+      277.81,
+      377.88,
+      293.57
+    ],
+    "text": "22nd March 1960 Deed of Lease bearing No. 6716",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      301.98,
+      327.04,
+      317.45
+    ],
+    "text": "between Halideen and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      325.98,
+      279.58,
+      341.45
+    ],
+    "text": "Ausadahamy",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      387.19,
+      278.1,
+      502.59,
+      293.57
+    ],
+    "text": "1962 1964 (2 years)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.66,
+      350.17,
+      377.88,
+      365.93
+    ],
+    "text": "29th November 1960 Deed of Lease bearing No. 7287",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      374.34,
+      327.04,
+      389.81
+    ],
+    "text": "between Halideen and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      398.34,
+      279.58,
+      413.81
+    ],
+    "text": "Ausadahamy",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      387.19,
+      350.46,
+      502.59,
+      365.93
+    ],
+    "text": "1964 1970 (6 years)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.66,
+      422.41,
+      377.88,
+      438.17
+    ],
+    "text": "26th February 1963 Deed of Lease bearing No. 9601",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      446.72,
+      327.04,
+      462.19
+    ],
+    "text": "between Halideen and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      470.6,
+      377.04,
+      486.07
+    ],
+    "text": "Podisingho (original Defendant)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      205.01,
+      494.6,
+      281.74,
+      510.07
+    ],
+    "text": "(marked V7)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      387.19,
+      422.7,
+      509.07,
+      438.17
+    ],
+    "text": "1970 1980 (10 years)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      542.96,
+      526.71,
+      558.43
+    ],
+    "text": "Following the passing of the original Defendant, one Ashoka Chandrawathie was",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      566.96,
+      523.42,
+      582.43
+    ],
+    "text": "substituted in his place as the 7E Substituted-Defendant (now 1(F) Substituted-",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      590.55,
+      526.5,
+      606.31
+    ],
+    "text": "Defendant-Respondent-Respondent) on 17th January 1986 in terms of Section 398(1)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      614.87,
+      526.44,
+      630.34
+    ],
+    "text": "of the Civil Procedure Code. When the retrial proceedings in the District Court",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      638.46,
+      526.61,
+      654.22
+    ],
+    "text": "commenced on 01st December 1992, the Substituted Defendants also moved to allow",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      662.75,
+      526.53,
+      678.22
+    ],
+    "text": "the 1(F) Substituted Defendant-Respondent-Respondent (hereinafter referred to as",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      686.63,
+      526.68,
+      702.1
+    ],
+    "text": "the 1(F) Substituted Defendant) to intervene and be made an independent party in",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      710.63,
+      526.71,
+      726.1
+    ],
+    "text": "terms of Section 18 of the Civil Procedure Code. It was the position of the Substituted",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      734.51,
+      526.34,
+      749.98
+    ],
+    "text": "Defendants that, in fact, Halideen had transferred the property described in Schedule",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 11 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      85.59,
+      526.58,
+      101.06
+    ],
+    "text": "A to Podisinghos daughter, the 1(F) Substituted-Defendant, prior to the deed",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      109.47,
+      347.88,
+      124.94
+    ],
+    "text": "executed with the Plaintiff in the following manner:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77.66,
+      157.54,
+      158.94,
+      173.3
+    ],
+    "text": "23rd December",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77.66,
+      181.83,
+      110.11,
+      197.3
+    ],
+    "text": "1964",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      194.45,
+      157.83,
+      387.12,
+      173.3
+    ],
+    "text": "Deed of Transfer bearing No. 10861",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      194.45,
+      181.83,
+      404.71,
+      197.3
+    ],
+    "text": "between Halideen and 1(F) Substituted-",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      194.45,
+      205.71,
+      330.0,
+      221.18
+    ],
+    "text": "Defendant (marked V2)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      428.95,
+      157.83,
+      510.51,
+      173.3
+    ],
+    "text": "2/3 of the land",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77.66,
+      229.9,
+      421.44,
+      245.66
+    ],
+    "text": "11th April 1967 Deed of Transfer bearing No. 12644",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      194.45,
+      254.1,
+      418.15,
+      269.57
+    ],
+    "text": "between Halideen and 1(F) Substituted-",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      194.45,
+      278.1,
+      330.0,
+      293.57
+    ],
+    "text": "Defendant (marked V3)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      428.95,
+      230.19,
+      510.51,
+      245.66
+    ],
+    "text": "1/6 of the land",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      326.17,
+      526.68,
+      341.93
+    ],
+    "text": "The learned District Judge disallowed the said application by order dated 04th April",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      350.46,
+      526.55,
+      365.93
+    ],
+    "text": "1993 on the basis that the 1(F) Substituted Defendants failure in entering this",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      374.34,
+      526.53,
+      389.81
+    ],
+    "text": "application at the time she was substituted in place of the original Defendant, and only",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      398.34,
+      526.28,
+      413.81
+    ],
+    "text": "making such request 6 years after this period, is a request made with the purpose of",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      422.22,
+      526.48,
+      437.69
+    ],
+    "text": "delaying the case, and is, therefore, contravention of Section 18 of the Civil Procedure",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      446.24,
+      105.67,
+      461.71
+    ],
+    "text": "Code.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      494.12,
+      526.18,
+      509.59
+    ],
+    "text": "In the Court of Appeal judgment, the learned Court of Appeal Judge held that the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      518.0,
+      526.41,
+      533.47
+    ],
+    "text": "Plaintiff had failed to discharge the burden of proving proper title and establishing",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      542.0,
+      526.44,
+      557.47
+    ],
+    "text": "identity, as well as that the Plaintiff had not proven title due to the Plaintiffs failure to",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      565.88,
+      522.03,
+      581.35
+    ],
+    "text": "read documents in evidence, including Deeds P1 to P8, at the closure of the case.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      613.79,
+      526.71,
+      629.26
+    ],
+    "text": "Simultaneously, the learned Court of Appeal Judge accepted Deeds V2 and V3",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      637.79,
+      526.41,
+      653.26
+    ],
+    "text": "produced by the 1(F) Substituted-Defendant on the basis that the Plaintiff did not",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      661.67,
+      440.19,
+      677.14
+    ],
+    "text": "object to these documents in evidence at the conclusion of the case.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 12 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      85.59,
+      330.38,
+      101.06
+    ],
+    "text": "Proof of Title",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      109.47,
+      526.65,
+      124.94
+    ],
+    "text": "This is evidently a rei vindicatio action, and it is settled law that in order to succeed in",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      133.47,
+      526.45,
+      148.94
+    ],
+    "text": "a rei vindication action, the Plaintiff must, firstly, prove ownership of the property and,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      157.35,
+      526.16,
+      172.82
+    ],
+    "text": "secondly, that the defendant is in possession of the property. The burden of proof is",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      181.35,
+      456.39,
+      196.82
+    ],
+    "text": "placed on the Plaintiff to prove ownership on a balance of probabilities.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      229.23,
+      526.64,
+      244.7
+    ],
+    "text": "In Luwis Singho and Others v. Ponnamperuma [1996] 2 S.L.R. 320 [page 324] it was",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      253.14,
+      239.02,
+      268.61
+    ],
+    "text": "stated by Wigneswaran J. that,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      277.14,
+      526.24,
+      292.61
+    ],
+    "text": "No doubt actions for declaration of title and ejectment (as is the present case)",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      301.02,
+      526.34,
+      316.49
+    ],
+    "text": "and vindicatory actions are brought for the same purpose of recovery of property.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      325.02,
+      526.23,
+      340.49
+    ],
+    "text": "But in a rei vindicatio action, the cause of action is based on the sole ground of",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      348.9,
+      526.4,
+      364.37
+    ],
+    "text": "violation of the right of ownership. In such an action proof is required that ; (i) the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      372.9,
+      526.45,
+      388.37
+    ],
+    "text": "Plaintiff is the owner of the land in question i.e. he has the dominium and, (ii) that",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      396.78,
+      352.69,
+      412.25
+    ],
+    "text": "the land is in the possession of the Defendant.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      444.68,
+      526.27,
+      460.15
+    ],
+    "text": "The standard of the burden proof placed on the Plaintiff has been extensively",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      468.68,
+      526.49,
+      484.15
+    ],
+    "text": "discussed, such as in Preethi Anura v. William Silva (SC Appeal No.",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      492.27,
+      526.67,
+      508.03
+    ],
+    "text": "SC/LA/116/2014, Minutes of the Supreme Court on 5th June 2017), where Dep. C.J.",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      516.56,
+      113.83,
+      532.03
+    ],
+    "text": "stated:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      540.44,
+      526.45,
+      555.91
+    ],
+    "text": "In a rei vindicatio action, the Plaintiff has to establish the title to the land. Plaintiff",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      564.44,
+      526.26,
+      579.91
+    ],
+    "text": "need not establish the title with mathematical precision nor to prove the case",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      588.32,
+      526.17,
+      603.79
+    ],
+    "text": "beyond reasonable doubt as in a criminal case. The Plaintiff's task is to establish",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      612.35,
+      526.39,
+      627.82
+    ],
+    "text": "the case on a balance of probability. In a partition case the situation is different",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      636.23,
+      526.53,
+      651.7
+    ],
+    "text": "as it is an action in rem and the trial judge is required to carefully examine the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      660.23,
+      526.29,
+      675.7
+    ],
+    "text": "title and the devolution of title. This case being a rei vindicatio action this court",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      684.11,
+      526.43,
+      699.58
+    ],
+    "text": "has to consider whether the Plaintiff discharged the burden on balance of",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      708.11,
+      174.08,
+      723.58
+    ],
+    "text": "probability.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 13 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      85.59,
+      526.49,
+      101.06
+    ],
+    "text": "Samayawardhena Js discussion in Premawathie v. Jayasena (SC Appeal No.",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      109.18,
+      526.64,
+      124.94
+    ],
+    "text": "176/2014, Minutes of the Supreme Court on 17th May 2021) is an important",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      133.47,
+      225.58,
+      148.94
+    ],
+    "text": "reference, wherein he states:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      157.35,
+      526.27,
+      172.82
+    ],
+    "text": "It is well settled law that in a rei vindicatio action the burden is on the Plaintiff",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      181.35,
+      526.32,
+      196.82
+    ],
+    "text": "to prove title to the land in suit irrespective of weaknesses in the Defendants",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      205.23,
+      526.33,
+      220.7
+    ],
+    "text": "case. H.N.G. Fernando J. (later C.J.) in Pathirana v. Jayasundara (1955) 58 NLR",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      229.23,
+      397.57,
+      244.7
+    ],
+    "text": "169 at 171 required strict proof of the Plaintiffs title.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      277.14,
+      526.29,
+      292.61
+    ],
+    "text": "But this shall not be understood that a Plaintiff in a rei vindicatio action shall",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      301.02,
+      526.23,
+      316.49
+    ],
+    "text": "prove his title beyond reasonable doubt such as in a criminal prosecution, or on",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      325.02,
+      526.5,
+      340.49
+    ],
+    "text": "a high degree of proof as in a partition action. The standard of proof of title is",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      348.9,
+      526.2,
+      364.37
+    ],
+    "text": "on a balance of probabilities as in any other civil suit. The stringent proof",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      372.9,
+      526.14,
+      388.37
+    ],
+    "text": "of chain of title, which is the norm in a partition action to prove the",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      396.78,
+      396.01,
+      412.25
+    ],
+    "text": "pedigree, is not required in a rei vindicatio action.",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      357.79,
+      420.78,
+      526.71,
+      436.25
+    ],
+    "text": "[Emphasis added.]",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      468.68,
+      526.4,
+      484.15
+    ],
+    "text": "Samayawardhena J further elaborated upon the circumstances in which the Court shall",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      492.56,
+      526.26,
+      508.03
+    ],
+    "text": "hold that the Plaintiff has discharged his burden, establishing that this determination",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      516.56,
+      450.27,
+      532.03
+    ],
+    "text": "is dependent upon the totality of the evidence presented in each case:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      540.44,
+      526.28,
+      555.91
+    ],
+    "text": "The Court shall not protect rank trespassers and promote unlawful occupation",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      564.44,
+      526.36,
+      579.91
+    ],
+    "text": "to the detriment of the legitimate rights of lawful landowners by setting an",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      588.32,
+      526.33,
+      603.79
+    ],
+    "text": "excessively higher standard of proof in a rei vindicatio action than what is",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      612.35,
+      284.15,
+      627.82
+    ],
+    "text": "expected in an ordinary civil suit.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      660.23,
+      526.32,
+      675.7
+    ],
+    "text": "Bearing in mind the burden of proof cast upon the Plaintiff in a rei vindicatio",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      684.11,
+      526.12,
+      699.58
+    ],
+    "text": "action, if the Plaintiff in such a case has sufficient title or superior title than",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      708.11,
+      526.65,
+      723.58
+    ],
+    "text": "that of the Defendant, the Plaintiff shall succeed. No rule of thumb can be laid",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      731.99,
+      526.32,
+      747.46
+    ],
+    "text": "down on what circumstances the Court shall hold that the Plaintiff has",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 14 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      85.59,
+      526.28,
+      101.06
+    ],
+    "text": "discharged his burden. Whether or not the Plaintiff proved his title shall",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      109.47,
+      526.24,
+      124.94
+    ],
+    "text": "be decided upon a consideration of the totality of the evidence led in the",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      133.47,
+      142.64,
+      148.94
+    ],
+    "text": "case.",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      429.79,
+      157.35,
+      526.72,
+      172.82
+    ],
+    "text": "[Emphasis added.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      205.23,
+      526.71,
+      220.7
+    ],
+    "text": "Counsel for the Plaintiff in this instant case, in reference to deeds V2 and V3,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      229.23,
+      526.39,
+      244.7
+    ],
+    "text": "submitted the argument that despite the failure of the adverse party to object when",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      253.14,
+      526.32,
+      268.61
+    ],
+    "text": "documents are read in evidence, it is mandatory that deeds marked subject to proof",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      277.14,
+      399.6,
+      292.61
+    ],
+    "text": "are proved in terms of Section 68 of the Evidence Ordinance.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      325.02,
+      307.66,
+      340.49
+    ],
+    "text": "Section 68 of the Evidence Ordinance reads:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      348.9,
+      526.16,
+      364.37
+    ],
+    "text": "If a document is required by law to be attested, it shall not be used in evidence",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      372.9,
+      526.17,
+      388.37
+    ],
+    "text": "until one attesting witness at least has been called for the purpose of proving its",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      396.78,
+      526.26,
+      412.25
+    ],
+    "text": "execution if there be an attesting witness alive and subject to the process of the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      420.78,
+      307.79,
+      436.25
+    ],
+    "text": "court and capable of giving evidence.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      468.68,
+      526.44,
+      484.15
+    ],
+    "text": "It is curious to note that, in fact, neither the Plaintiff nor the Defendant called for an",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      492.56,
+      530.07,
+      508.03
+    ],
+    "text": "attesting witness in order to prove the title deeds submitted by the respective parties.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      540.44,
+      526.24,
+      555.91
+    ],
+    "text": "However, it is also pertinent to consider that these deeds were executed more than",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      564.44,
+      526.28,
+      579.91
+    ],
+    "text": "fifty years ago, which therefore brings into operation another relevant provision from",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      588.32,
+      206.26,
+      603.79
+    ],
+    "text": "the Evidence Ordinance.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      636.23,
+      307.66,
+      651.7
+    ],
+    "text": "Section 90 of the Evidence Ordinance reads:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      660.23,
+      526.33,
+      675.7
+    ],
+    "text": "\"Where any document purporting or proved to be thirty years old is produced",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      684.11,
+      526.36,
+      699.58
+    ],
+    "text": "from any custody which the court in the particular case considers proper, the court",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      708.11,
+      526.28,
+      723.58
+    ],
+    "text": "may presume that the signature and every other part of such document which",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      731.99,
+      526.45,
+      747.46
+    ],
+    "text": "purports to be in the handwriting of any particular person is in that person's",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 15 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      85.59,
+      526.7,
+      101.06
+    ],
+    "text": "handwriting and in the case of a document executed or attested, that it was duly",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      109.47,
+      526.27,
+      124.94
+    ],
+    "text": "executed and attested by the persons by whom it purports to be executed and",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      133.47,
+      162.8,
+      148.94
+    ],
+    "text": "attested.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      181.35,
+      526.24,
+      196.82
+    ],
+    "text": "Further, while there have been seemingly conflicting views on the application of",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      205.23,
+      526.47,
+      220.7
+    ],
+    "text": "section 68 in the past, fortunately, the Civil Procedure Code (Amendment) Act, No. 17",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      229.23,
+      418.08,
+      244.7
+    ],
+    "text": "of 2022, has settled this matter; sections 2 and 3 read as follows:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      75.38,
+      253.14,
+      526.26,
+      269.21
+    ],
+    "text": "(2) (1) Notwithstanding the provisions of the Evidence Ordinance (Chapter 14), in any",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Quattrocento Sans,Italic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.38,
+      277.14,
+      526.5,
+      292.61
+    ],
+    "text": "proceedings under this Code, it shall not be necessary to adduce formal proof of",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.38,
+      301.02,
+      526.36,
+      316.49
+    ],
+    "text": "the execution or genuineness of any deed, or document which is required by",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.38,
+      325.02,
+      526.42,
+      340.49
+    ],
+    "text": "law to be attested, other than a will executed under the Wills Ordinance (Chapter",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.38,
+      348.9,
+      457.35,
+      364.37
+    ],
+    "text": "60), and on the face of it purports to have been duly executed, unless",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      126.02,
+      372.9,
+      526.33,
+      388.97
+    ],
+    "text": "(a) in the pleadings or further pleadings in an action filed under regular",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Quattrocento Sans,Italic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      144.5,
+      396.78,
+      526.58,
+      412.25
+    ],
+    "text": "procedure in terms of this Code, the execution or genuineness of such deed",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      144.5,
+      420.78,
+      417.73,
+      436.25
+    ],
+    "text": "or document is impeached and raised as an issue; or",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      126.02,
+      444.68,
+      298.3,
+      460.75
+    ],
+    "text": "(b) the court requires such proof:",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Quattrocento Sans,Italic",
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      126.02,
+      492.56,
+      526.44,
+      508.03
+    ],
+    "text": "Provided that, the provisions of this section shall not be applicable in an event,",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      126.02,
+      516.56,
+      526.58,
+      532.03
+    ],
+    "text": "a party to an action seeks to produce any deed or document not included in",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      126.02,
+      540.44,
+      454.71,
+      555.91
+    ],
+    "text": "the pleadings of that party at any proceedings under this Code.",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      126.02,
+      564.44,
+      144.43,
+      579.91
+    ],
+    "text": "[...]",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      588.32,
+      526.36,
+      603.79
+    ],
+    "text": "(3) Notwithstanding anything contained in section 2 of this Act, and the provisions of the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      612.35,
+      526.5,
+      627.82
+    ],
+    "text": "Evidence Ordinance, in any case or appeal pending on the date of coming into operation",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      636.23,
+      139.63,
+      651.7
+    ],
+    "text": "of this Act",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      124.94,
+      684.11,
+      526.17,
+      699.58
+    ],
+    "text": "(a) (i) if the opposing party does not object or has not objected to it being",
+    "fonts": [
+      "ArialMT",
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142.94,
+      708.11,
+      526.44,
+      723.58
+    ],
+    "text": "received as evidence on the deed or document being tendered in evidence;",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      142.94,
+      731.99,
+      156.91,
+      747.46
+    ],
+    "text": "or",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 16 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142.94,
+      109.47,
+      526.5,
+      124.94
+    ],
+    "text": "(ii) if the opposing party has objected to it being received as evidence",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142.94,
+      133.47,
+      526.52,
+      148.94
+    ],
+    "text": "on the deed or document being tendered in evidence but not objected",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142.94,
+      157.35,
+      526.7,
+      172.82
+    ],
+    "text": "at the close of a case when such document is read in evidence, the",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142.94,
+      181.35,
+      526.33,
+      196.82
+    ],
+    "text": "court shall admit such deed or document as evidence without requiring",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      142.94,
+      205.23,
+      214.55,
+      220.7
+    ],
+    "text": "further proof;",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      357.79,
+      229.23,
+      526.72,
+      244.7
+    ],
+    "text": "[Emphasis added.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      277.14,
+      526.44,
+      292.61
+    ],
+    "text": "Perusal of the evidence submitted in the instant case shows that the Plaintiff submitted",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      301.02,
+      526.34,
+      316.49
+    ],
+    "text": "the documents marked P1 to P8, which include, inter alia, Deed No. 22528 in",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      325.02,
+      526.25,
+      340.49
+    ],
+    "text": "evidence of Abdul Jabars ownership of the property, inventory of the administration",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      348.9,
+      526.42,
+      364.37
+    ],
+    "text": "and devolution of the estate to Halideen in the testamentary case bearing No. 3039/T,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      372.9,
+      526.36,
+      388.37
+    ],
+    "text": "and the Deed of Sale bearing No. 462 executed between Halideen and the Plaintiff for",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      396.78,
+      526.21,
+      412.25
+    ],
+    "text": "the transfer of the property. Furthermore, the title deeds were not marked subject to",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      420.78,
+      353.64,
+      436.25
+    ],
+    "text": "proof nor challenged by the Substituted Defendants.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      468.68,
+      514.11,
+      484.15
+    ],
+    "text": "In Cinemas Limited v. Sounderarajan [1998] 2 S. L. R. 16 Jayasuriya, J. held that;",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      492.56,
+      526.29,
+      508.03
+    ],
+    "text": "In a civil case when a document is tendered the opposing party should",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      516.56,
+      526.59,
+      532.03
+    ],
+    "text": "immediately object to the document. Where the opposing party fails to object, the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      540.44,
+      526.38,
+      555.91
+    ],
+    "text": "trial judge has to admit the document unless the document is forbidden by law to",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      564.44,
+      526.72,
+      579.91
+    ],
+    "text": "be received and no objection can be taken in appeal - S. 154 CPC (explanation).",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      612.35,
+      526.61,
+      627.82
+    ],
+    "text": "As such, in the application of section 2(1) and section 3 of the Civil Procedure Code",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      636.23,
+      526.4,
+      651.7
+    ],
+    "text": "(Amendment) Act together with section 90 of the Evidence Ordinance, and the totality",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      660.23,
+      526.25,
+      675.7
+    ],
+    "text": "of evidence produced by the Plaintiff, I am of the opinion that the Plaintiff has",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.02,
+      684.11,
+      516.63,
+      699.58
+    ],
+    "text": "sufficiently proved, on a balance of probabilities, ownership of title to the property.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 17 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      85.59,
+      526.22,
+      101.06
+    ],
+    "text": "I do not discern that the Plaintiffs failure to read documents in evidence at the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      109.47,
+      526.18,
+      124.94
+    ],
+    "text": "conclusion of the case in the District Court corresponds to the Plaintiffs failure to",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      133.47,
+      526.25,
+      148.94
+    ],
+    "text": "establish title by those documents in evidence. While in agreement with the learned",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      157.35,
+      526.16,
+      172.82
+    ],
+    "text": "Judge of the Court of Appeal that this is a serious lapse on the part of the trial court,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      181.35,
+      526.24,
+      196.82
+    ],
+    "text": "the practice of reading documents in evidence at the closing of a case has been",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      205.23,
+      526.67,
+      220.7
+    ],
+    "text": "discussed by Marsoof J in Jamaldeen Abdul Latheef v. Abdul Majeed",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      229.23,
+      392.88,
+      244.7
+    ],
+    "text": "Mohamed Mansoor 2010 2 SLR 333 [page 204] as follows:",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      253.14,
+      526.3,
+      268.61
+    ],
+    "text": "There remains, however, one more matter on which learned counsel for the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      277.14,
+      526.29,
+      292.61
+    ],
+    "text": "contending parties have made submissions, which was raised in the context that",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      301.02,
+      526.36,
+      316.49
+    ],
+    "text": "the usual practice of reading in evidence the documents that were marked and",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      325.02,
+      526.42,
+      340.49
+    ],
+    "text": "produced at the trial in the course of witness testimony was not followed when",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      348.9,
+      409.57,
+      364.37
+    ],
+    "text": "the case for the Respondents was closed on 27 April 1993.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      396.78,
+      526.2,
+      412.25
+    ],
+    "text": "This is substantive question 5, which specifically focuses on this issue, namely: is",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      420.78,
+      526.27,
+      436.25
+    ],
+    "text": "it mandatory to read the documents in evidence at the conclusion of the trial.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      444.68,
+      526.39,
+      460.15
+    ],
+    "text": "There is no provision in the Civil Procedure Code that mandates the reading",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      468.68,
+      526.24,
+      484.15
+    ],
+    "text": "in of the marked documents at the close of the case of a particular party.",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      492.56,
+      526.38,
+      508.03
+    ],
+    "text": "However, learned and experienced Counsel who have appeared in the",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      516.56,
+      526.57,
+      532.03
+    ],
+    "text": "original courts in civil cases from time immemorial developed such a",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      540.44,
+      441.04,
+      555.91
+    ],
+    "text": "practice, which has received the recognition of our Courts.",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      429.79,
+      564.44,
+      526.72,
+      579.91
+    ],
+    "text": "[Emphasis added.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      612.35,
+      526.26,
+      627.82
+    ],
+    "text": "In light of the aforementioned circumstances, facts, and evidence, I answer the first",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      636.23,
+      230.38,
+      651.7
+    ],
+    "text": "question of law affirmatively.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      684.11,
+      180.93,
+      699.58
+    ],
+    "text": "Identity of Corpus",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      708.11,
+      526.67,
+      723.58
+    ],
+    "text": "It is trite law that the identity of the property in a rei vindicatio action is as fundamental",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      731.99,
+      526.59,
+      747.46
+    ],
+    "text": "to the success of the action as the proof of the ownership (dominium) of the owner",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 18 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      85.59,
+      526.15,
+      101.06
+    ],
+    "text": "(dominus); the owner must prove on a balance of probabilities not only his or her",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      109.47,
+      520.47,
+      124.94
+    ],
+    "text": "ownership in the property but also that the property exists and is clearly identifiable.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      157.35,
+      526.71,
+      172.82
+    ],
+    "text": "I once again quote Marsoof J in the case of Jamaldeen Abdul Latheef v. Abdul",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      181.35,
+      507.75,
+      196.82
+    ],
+    "text": "Majeed Mohamed Mansoor 2010 2 SLR 333 on the importance of this principle:",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      205.23,
+      526.36,
+      220.7
+    ],
+    "text": "The identity of the subject matter is of paramount importance in a rei vindicatio",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      229.23,
+      526.24,
+      244.7
+    ],
+    "text": "action because the object of such an action is to determine ownership of the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      253.14,
+      526.3,
+      268.61
+    ],
+    "text": "property, which objective cannot be achieved without the property being clearly",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      277.14,
+      526.36,
+      292.61
+    ],
+    "text": "identified. Where the property sought to be vindicated consists of land, the land",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      301.02,
+      526.22,
+      316.49
+    ],
+    "text": "sought to be vindicated must be identified by reference to a survey plan or other",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      325.02,
+      526.3,
+      340.49
+    ],
+    "text": "equally expeditious method. It is obvious that ownership cannot be ascribed",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      348.9,
+      526.41,
+      364.37
+    ],
+    "text": "without clear identification of the property that is subjected to such ownership,",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      372.9,
+      526.33,
+      388.37
+    ],
+    "text": "and furthermore, the ultimate objective of a person seeking to vindicate",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      396.78,
+      526.22,
+      412.25
+    ],
+    "text": "immovable property by obtaining a writ of execution in terms of Section 323 of",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      420.78,
+      526.53,
+      436.25
+    ],
+    "text": "the Civil Procedure Code will be frustrated if the fiscal to whom the writ is",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      444.68,
+      526.26,
+      460.15
+    ],
+    "text": "addressed, cannot clearly identify the property by reference to the decree for the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      468.68,
+      526.28,
+      484.15
+    ],
+    "text": "purpose of giving effect to it. It is therefore essential in a vindicatory action, as",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      492.56,
+      506.92,
+      508.03
+    ],
+    "text": "much as in a partition action, for the corpus to be identified with precision.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      540.44,
+      526.36,
+      555.91
+    ],
+    "text": "In the instant case, it is clear that the Plaintiff has successfully identified the corpus; the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      564.44,
+      429.96,
+      579.91
+    ],
+    "text": "land described in the schedule to the amended plaint is as follows:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      107.04,
+      632.75,
+      526.72,
+      648.63
+    ],
+    "text": "- , - ,",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      107.04,
+      656.75,
+      526.68,
+      672.63
+    ],
+    "text": "- , - 143/2",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      107.04,
+      680.63,
+      529.97,
+      696.51
+    ],
+    "text": ". 1919 27",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      107.04,
+      704.61,
+      334.59,
+      718.23
+    ],
+    "text": "450 .",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 19 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      106.97,
+      86.27,
+      527.09,
+      100.98
+    ],
+    "text": "450",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      106.97,
+      108.95,
+      526.66,
+      123.66
+    ],
+    "text": "(.0 2 .10) 51 51 -",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      106.97,
+      131.75,
+      526.66,
+      146.46
+    ],
+    "text": "450 8 , -",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      106.97,
+      154.55,
+      526.66,
+      169.26
+    ],
+    "text": "( 18 ) -",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      106.97,
+      177.35,
+      526.66,
+      192.06
+    ],
+    "text": ", - 5 5 .",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      106.97,
+      198.75,
+      183.44,
+      214.86
+    ],
+    "text": "683/178.",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      246.15,
+      526.72,
+      261.62
+    ],
+    "text": "[ALL that land called Damunugahamulawatta situated in the village of",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      270.18,
+      526.62,
+      285.65
+    ],
+    "text": "Keppitiwalana, Dambadeni Udukaha Korale, Dambadeni Hatpattu, Kurunegala",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      294.06,
+      526.72,
+      309.53
+    ],
+    "text": "District in Wayamba Province and extended in the extent of 07 Kurakkan Lahas",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      318.06,
+      526.64,
+      333.53
+    ],
+    "text": "is bounded on the North- Meegahamulawatta, on the East-Ambagahamulawatta",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      341.94,
+      526.67,
+      357.41
+    ],
+    "text": "and Weheragawawatta, on the South- Delgahamulawatta, On the West- ditch of",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      365.94,
+      526.72,
+      381.41
+    ],
+    "text": "the state lands and registered as F 143/2. This land is bounded as per Plan No.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      389.82,
+      451.96,
+      405.29
+    ],
+    "text": "450 issued dated 27th June 1919 by the Surveyor General's Office.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      437.72,
+      526.53,
+      453.19
+    ],
+    "text": "All that Lots No. 5D1 and 5E1 of the aforesaid Damunugahamulawatta depicted",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      461.72,
+      526.44,
+      477.19
+    ],
+    "text": "in the aforesaid Plan No.450 extended in the extent of Two Roods and Ten Perches",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      485.6,
+      526.68,
+      501.07
+    ],
+    "text": "(A: 0 R: 2 P: 10 ) is bounded on the North- the land bearing Lot No. 8 of",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      509.6,
+      526.72,
+      525.07
+    ],
+    "text": "aforesaid Plan No.450 of Meegahamulawatta, on the East-",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      533.48,
+      526.34,
+      548.95
+    ],
+    "text": "Ambagahamulawatta alias Weheragawawatta (Lot No.18 of the aforesaid plan)",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      557.48,
+      526.56,
+      572.95
+    ],
+    "text": "on the South - Alawwa-Giriulla Bus Route on the West-5D and 5E of the said",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      581.36,
+      293.75,
+      596.83
+    ],
+    "text": "plan. Registered under F 683/178.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      629.27,
+      526.27,
+      644.74
+    ],
+    "text": "The title deed produced by the Plaintiff marked P8 describes the land in the same",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      653.27,
+      526.61,
+      668.74
+    ],
+    "text": "manner. Further, the land was surveyed by Court Commissioner A.M. Weber who",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      676.86,
+      526.57,
+      692.62
+    ],
+    "text": "prepared and produced Plan No. 1566 dated 29th October 1991 (marked X) and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      701.15,
+      526.31,
+      716.62
+    ],
+    "text": "subsequent report marked X1. The following extracts from the plan and report",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      725.03,
+      295.9,
+      740.5
+    ],
+    "text": "confirm the identity of the subject matter:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 20 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      85.59,
+      526.96,
+      101.47
+    ],
+    "text": ", ,",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      107.04,
+      129.87,
+      527.0,
+      145.75
+    ],
+    "text": "450 5D1 5E1",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      198.27,
+      526.54,
+      213.74
+    ],
+    "text": "[I have surveyed the land called Damunugahamulawatta situated in the village",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      222.15,
+      526.59,
+      237.62
+    ],
+    "text": "Keppitiwalana, Dambadeni Udukaha Korale-South, Dambadeni Hatpattu in",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      246.15,
+      526.36,
+      261.62
+    ],
+    "text": "Kurunegala District contained 2 lots superimposed and prepared by utilizing the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      270.06,
+      353.29,
+      285.53
+    ],
+    "text": "5D1 and 5E1 of the Final Village Plan no. 450.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      72.02,
+      317.94,
+      526.22,
+      333.41
+    ],
+    "text": "Hence, I find no reason to disagree with the conclusions of the learned District Court",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      72.02,
+      341.94,
+      486.99,
+      357.41
+    ],
+    "text": "Judge pertaining to the Plaintiffs identification of the corpus, as stated below:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      365.82,
+      526.72,
+      381.7
+    ],
+    "text": "450 51 51",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      107.04,
+      389.82,
+      526.94,
+      405.7
+    ],
+    "text": ",",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      413.7,
+      526.9,
+      429.58
+    ],
+    "text": "51 51 1979.01.30 462",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      107.04,
+      437.72,
+      526.9,
+      453.6
+    ],
+    "text": ", .",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      107.04,
+      461.6,
+      499.86,
+      477.48
+    ],
+    "text": ".\"",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      506.0,
+      526.39,
+      521.47
+    ],
+    "text": "[Beyond reasonable doubt, it has been proved that Lot No. 5D1 and 5E1 of Plan",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      530.0,
+      526.43,
+      545.47
+    ],
+    "text": "No. 450 belonged to Halideen and the Plaintiff's evidence strongly supports as",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      553.88,
+      526.27,
+      569.35
+    ],
+    "text": "per the said ownership, its boundaries, and the plan prepared i.e., by Deed No.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      577.88,
+      526.28,
+      593.35
+    ],
+    "text": "462 dated 30.01.1979 that the Lots 5D1 and 5E1 have been transferred to the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      601.76,
+      526.68,
+      617.23
+    ],
+    "text": "plaintiff and the defence has also accepted it. Accordingly, I decide that the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      108.02,
+      625.79,
+      511.6,
+      641.26
+    ],
+    "text": "Plaintiff has successfully proven its case based on the balance of probability.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      72.02,
+      673.67,
+      399.19,
+      689.55
+    ],
+    "text": "As such, I answer to the second question of law affirmatively.",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 21 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      85.59,
+      175.89,
+      101.06
+    ],
+    "text": "Lease Agreement",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      109.47,
+      526.36,
+      124.94
+    ],
+    "text": "The third question of law pertains to the validity of V7, the lease agreement bearing",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      133.18,
+      526.71,
+      148.94
+    ],
+    "text": "Deed No. 9601 between the original Defendant, Podisingho, and Halideen dated 26th",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      157.35,
+      526.68,
+      172.82
+    ],
+    "text": "February 1963 commencing from 1970 to 1980 for a period of 10 years, and specifically",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      181.35,
+      526.32,
+      196.82
+    ],
+    "text": "whether the two deeds must be proved in terms of Section 68 of the Evidence",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      205.23,
+      135.91,
+      220.7
+    ],
+    "text": "Ordinance.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      253.14,
+      526.41,
+      268.61
+    ],
+    "text": "It is, once again, settled law that when the paper title to the property is admitted or",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      277.14,
+      526.39,
+      292.61
+    ],
+    "text": "proved to be in the plaintiff, the burden shifts to the defendant to prove on what right",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      301.02,
+      262.78,
+      316.49
+    ],
+    "text": "he is in possession of the property.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      348.9,
+      474.51,
+      364.37
+    ],
+    "text": "In Siyaneris v. Udenis de Silva (1951) 52 NLR 289 the Privy Council held:",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      372.9,
+      526.28,
+      388.37
+    ],
+    "text": "In an action for declaration of title to property, where the legal title is in the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      396.78,
+      526.41,
+      412.25
+    ],
+    "text": "plaintiff but the property is in the possession of the defendant, the burden of proof",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      420.78,
+      221.15,
+      436.25
+    ],
+    "text": "is on the defendant.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      468.68,
+      526.66,
+      484.15
+    ],
+    "text": "In Theivandran v. Ramanathan Chettiar [1986] 2 Sri LR 219 at 222, Sharvananda",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      492.56,
+      134.11,
+      508.03
+    ],
+    "text": "C.J. stated:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      516.56,
+      526.53,
+      532.03
+    ],
+    "text": "In a vindicatory action the claimant need merely prove two facts; namely, that",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      540.44,
+      526.4,
+      555.91
+    ],
+    "text": "he is the owner of the thing and that the thing to which he is entitled to possession",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      564.44,
+      526.18,
+      579.91
+    ],
+    "text": "by virtue of his ownership is in the possession of the defendant. Basing his claim",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      588.32,
+      526.55,
+      603.79
+    ],
+    "text": "on his ownership, which entitles him to possession, he may sue for the ejectment",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      612.35,
+      526.16,
+      627.82
+    ],
+    "text": "of any person in possession of it without his consent. Hence when the legal title",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      636.23,
+      526.32,
+      651.7
+    ],
+    "text": "to the premises is admitted or proved to be in the plaintiff, the burden of proof is",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      108.02,
+      660.23,
+      406.69,
+      675.7
+    ],
+    "text": "on the defendant to show that he is in lawful possession.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      708.11,
+      526.71,
+      723.58
+    ],
+    "text": "Despite the fact that the lease agreement between Podisingho and Halideen was",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      72.02,
+      731.99,
+      526.26,
+      747.46
+    ],
+    "text": "signed in 1963, the deed would not come into operation until 1970, by which point",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 22 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      85.59,
+      526.27,
+      101.06
+    ],
+    "text": "Halideen no longer possessed title to the property. Further, it is an admitted fact that",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      109.47,
+      526.3,
+      124.94
+    ],
+    "text": "the prior three lease agreements from the period between 1959 and 1970 were",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      133.47,
+      526.31,
+      148.94
+    ],
+    "text": "executed between Halideen and the Defendants brother, Ausadahamy and not the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      157.35,
+      526.28,
+      172.82
+    ],
+    "text": "original Defendant himself. I fail to understand the Defendants claim for his rights as",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      181.35,
+      526.67,
+      196.82
+    ],
+    "text": "a lessee when, in fact, the Defendant was not a party to the lease agreements,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      205.23,
+      420.72,
+      220.7
+    ],
+    "text": "specifically Deed No. 7287 in operation from 1964 to 1970, at all.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      253.14,
+      526.38,
+      268.61
+    ],
+    "text": "In these above-mentioned circumstances, I answer the third question of law",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      277.14,
+      145.99,
+      292.61
+    ],
+    "text": "affirmatively.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      325.02,
+      364.46,
+      340.49
+    ],
+    "text": "Deeds belonging to the 1(F) Substituted Defendant",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      348.9,
+      526.16,
+      364.37
+    ],
+    "text": "The fourth question of law draws attention to the two deeds marked V2 and V3",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      372.9,
+      526.67,
+      388.37
+    ],
+    "text": "which, according to the Substituted-Defendants, made the 1(F) Substituted Defendant",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      396.78,
+      460.71,
+      412.25
+    ],
+    "text": "owner to the property denoted as the subject matter in this instant case.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      444.68,
+      526.19,
+      460.15
+    ],
+    "text": "From my point of view, this creates several gaps in the narrative. It is indeed curious",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      468.68,
+      526.3,
+      484.15
+    ],
+    "text": "that the original Defendant, in the action instituted against him in 1972, would plead",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      492.56,
+      526.68,
+      508.03
+    ],
+    "text": "for his rights as a lessee under the lease agreement between himself and Halideen and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      516.56,
+      526.47,
+      532.03
+    ],
+    "text": "not for declaration of title and/or ownership, when by that time, the property had",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      540.44,
+      526.31,
+      555.91
+    ],
+    "text": "allegedly been transferred to his daughter several years ago; even more fascinating is",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      564.44,
+      526.71,
+      579.91
+    ],
+    "text": "the fact that Ausadahamy should continue to occupy property as a lessee alongside",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      588.32,
+      526.38,
+      603.79
+    ],
+    "text": "his brother, the Defendant, up until 1970 under the lease agreement wherein Halideen",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      612.35,
+      386.64,
+      627.82
+    ],
+    "text": "retains ownership and not the 1(F) Substituted-Defendant.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      660.23,
+      526.67,
+      675.7
+    ],
+    "text": "Nevertheless, in this instant case, there are no grounds upon which the 1(F) Defendant",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      684.11,
+      526.5,
+      699.58
+    ],
+    "text": "can claim ownership of the land. It is settled law that a defendant who enters into a",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      72.02,
+      708.11,
+      526.12,
+      723.58
+    ],
+    "text": "land in a subordinate character such as a tenant, lessee or licensee of the plaintiff is",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 23 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      72.02,
+      85.59,
+      526.58,
+      101.06
+    ],
+    "text": "estopped from disputing the title of the plaintiff to the land as per section 116 of the",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      72.02,
+      109.47,
+      259.66,
+      124.94
+    ],
+    "text": "Evidence Ordinance, which enacts:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      133.47,
+      526.4,
+      148.94
+    ],
+    "text": "No tenant of immovable property, or person claiming through such tenant, shall",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      157.35,
+      526.65,
+      172.82
+    ],
+    "text": "during the continuance of the tenancy, be permitted to deny that the landlord of",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      181.35,
+      526.22,
+      196.82
+    ],
+    "text": "such tenant had, at the beginning of the tenancy, a title to such immovable",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      205.23,
+      526.22,
+      220.7
+    ],
+    "text": "property; and no person who came upon any immovable property by the licence",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      229.23,
+      526.24,
+      244.7
+    ],
+    "text": "of the person in possession thereof shall be permitted to deny that such person",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      253.14,
+      479.08,
+      268.61
+    ],
+    "text": "had a title to such possession at the time when such licence was given.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      72.02,
+      301.02,
+      470.79,
+      316.49
+    ],
+    "text": "In Ruberu v. Wijesooriya [1998] 1 Sri LR 58 at 60, Gunawardana J. held:",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      325.02,
+      526.3,
+      340.49
+    ],
+    "text": "Whether it is a licensee or a lessee, the question of title is foreign to a suit",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      348.9,
+      526.7,
+      364.37
+    ],
+    "text": "in ejectment against either. The licensee (the defendant-respondent)",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      372.9,
+      526.4,
+      388.37
+    ],
+    "text": "obtaining possession is deemed to obtain it upon the terms that he will not",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      396.78,
+      526.58,
+      412.25
+    ],
+    "text": "dispute the title of him, i.e. the plaintiff-appellant without whose",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      420.78,
+      526.72,
+      436.25
+    ],
+    "text": "permission, he (the defendant-respondent) would not have got it. The effect",
+    "fonts": [
+      "SegoeUI-BoldItalic",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      444.68,
+      526.23,
+      460.15
+    ],
+    "text": "of the operation of section 116 of the Evidence Ordinance is that if a licensee",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      468.68,
+      526.59,
+      484.15
+    ],
+    "text": "desires to challenge the title under which he is in occupation he must, first, quit",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      492.56,
+      526.24,
+      508.03
+    ],
+    "text": "the land. The fact that the licensee or the lessee obtained possession from the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      516.56,
+      526.44,
+      532.03
+    ],
+    "text": "plaintiff-appellant is perforce an admission of the fact that the title resides in the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      540.44,
+      526.64,
+      555.91
+    ],
+    "text": "plaintiff. No question of title can possibly arise on the pleadings in this case,",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      564.44,
+      526.51,
+      579.91
+    ],
+    "text": "because, as the defendant-respondent has stated in his answer that he is a lessee",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      588.32,
+      523.3,
+      603.79
+    ],
+    "text": "under the plaintiff-appellant, he is estopped from denying the title of the plaintiff-",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      612.35,
+      526.68,
+      627.82
+    ],
+    "text": "appellant. It is an inflexible rule of law that no lessee or licensee will ever be",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      636.23,
+      526.35,
+      651.7
+    ],
+    "text": "permitted either to question the title of the person who gave him the lease or the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      660.23,
+      526.11,
+      675.7
+    ],
+    "text": "licence or the permission to occupy or possess the land or to set up want of title",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      684.11,
+      526.66,
+      699.58
+    ],
+    "text": "in that person, i.e. of the person who gave the licence or the lease. That being so,",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      708.11,
+      523.3,
+      723.58
+    ],
+    "text": "it is superfluous, in this action, framed as it is on the basis that the defendant-",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      108.02,
+      731.99,
+      393.37,
+      747.46
+    ],
+    "text": "respondent is a licensee, to seek a declaration of title.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 24 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      429.79,
+      85.59,
+      526.72,
+      101.06
+    ],
+    "text": "[Emphasis added.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      72.02,
+      133.47,
+      526.71,
+      148.94
+    ],
+    "text": "Moreover, as discussed within the factual matrix, the application by the 1(F)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      72.02,
+      157.35,
+      526.71,
+      172.82
+    ],
+    "text": "Substituted Defendant (named 7E Defendant in the judgement by the District Court)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      72.02,
+      181.35,
+      526.32,
+      196.82
+    ],
+    "text": "to be added as an independent party was refused by the learned District Court Judge,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      72.02,
+      205.23,
+      457.71,
+      220.7
+    ],
+    "text": "whose inferences I find no discerning reason to disagree with, as stated:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      108.02,
+      229.23,
+      526.72,
+      245.11
+    ],
+    "text": "1985 . 1-17",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      253.14,
+      526.91,
+      269.02
+    ],
+    "text": ".",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      277.14,
+      526.9,
+      293.02
+    ],
+    "text": "398(1)",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      301.02,
+      527.08,
+      316.9
+    ],
+    "text": "17",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      325.02,
+      526.9,
+      340.9
+    ],
+    "text": ", . 86.1.17",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      348.9,
+      526.72,
+      364.78
+    ],
+    "text": ". 7 .",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      372.9,
+      526.72,
+      388.78
+    ],
+    "text": "1964 10861",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      396.78,
+      527.06,
+      412.66
+    ],
+    "text": "1967 12644 .",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      108.02,
+      420.78,
+      527.03,
+      436.66
+    ],
+    "text": "7 86.1.17",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      444.68,
+      526.82,
+      460.56
+    ],
+    "text": ". 86.1.17",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      108.02,
+      468.68,
+      526.9,
+      484.56
+    ],
+    "text": "7",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      492.56,
+      526.84,
+      508.44
+    ],
+    "text": ". 6",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      516.56,
+      526.8,
+      532.44
+    ],
+    "text": ".",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      540.44,
+      526.95,
+      556.32
+    ],
+    "text": "7",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      108.02,
+      584.84,
+      527.02,
+      600.72
+    ],
+    "text": "18",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      608.87,
+      526.94,
+      624.75
+    ],
+    "text": "7",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      107.04,
+      632.75,
+      239.75,
+      648.63
+    ],
+    "text": "......",
+    "fonts": [
+      "Iskoola Pota",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      108.02,
+      656.75,
+      526.72,
+      672.22
+    ],
+    "text": "[Podisingho, the first Defendant in this case, passed away in May 1985.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      108.02,
+      680.63,
+      526.41,
+      696.1
+    ],
+    "text": "Accordingly, his children 1-17 have been included as Defendants. This has been",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      108.02,
+      704.63,
+      526.53,
+      720.1
+    ],
+    "text": "done as per the provisions of Section 398(1) of the Civil Procedure Code.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      108.02,
+      728.51,
+      526.63,
+      743.98
+    ],
+    "text": "Chandrawathie, now been substituted as the 7E Defendant, and currently seeking",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 25 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      85.59,
+      526.61,
+      101.06
+    ],
+    "text": "to intervene in the case, appeared in the courts and did not object to the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      109.47,
+      526.55,
+      124.94
+    ],
+    "text": "substitution. Ashoka Chandrawathie appeared before the court as per the journal",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      133.47,
+      526.72,
+      148.94
+    ],
+    "text": "entry dated 17.01.86. She has been substituted as the 7E Defendant. Presently,",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      157.35,
+      526.48,
+      172.82
+    ],
+    "text": "she is seeking independent entry as a Defendant, claiming ownership of the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      181.35,
+      526.32,
+      196.82
+    ],
+    "text": "property based on Deeds No. 10861 of 1964 and No. 12644 of 1967. By the date",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      205.23,
+      526.23,
+      220.7
+    ],
+    "text": "of her appearance in court on 17.01.1986, she must have been aware of the fact",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      229.23,
+      526.73,
+      244.7
+    ],
+    "text": "that the relevant deeds were available to assert these claims. At that juncture, on",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      253.14,
+      526.24,
+      268.61
+    ],
+    "text": "17.01.1986, she had the opportunity to contest her substitution as the 7E",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      277.14,
+      526.68,
+      292.61
+    ],
+    "text": "Defendant and plead to be entered as a separate independent Defendant by",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      301.02,
+      526.36,
+      316.49
+    ],
+    "text": "presenting pertinent facts. Without doing so, the current application is being",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      325.02,
+      526.62,
+      340.49
+    ],
+    "text": "submitted after a lapse of six years and this can be construed as an application",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      348.9,
+      526.44,
+      364.37
+    ],
+    "text": "made to delay this case. Even though the facts presented in the written submission",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      372.9,
+      526.53,
+      388.37
+    ],
+    "text": "on behalf of the 7E Defendant are considered, it is evident that her application to",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      396.78,
+      526.34,
+      412.25
+    ],
+    "text": "be entered as a separate Defendant cannot be allowed based on the institution",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      420.78,
+      526.52,
+      436.25
+    ],
+    "text": "of the initial case when considering the procedure prescribed in law for the",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      444.68,
+      445.72,
+      460.15
+    ],
+    "text": "addition of parties under Section 18 of the Civil Procedure Code.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      90.02,
+      492.56,
+      526.71,
+      508.03
+    ],
+    "text": "Further, Id like to once again underscore the provisions of the Civil Procedure Code",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      90.02,
+      516.56,
+      526.51,
+      532.03
+    ],
+    "text": "(Amendment) Act, No. 17 of 2022, specifically the constraints upon the application",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      90.02,
+      540.44,
+      526.48,
+      555.91
+    ],
+    "text": "of section 2 that allows for parties to prove documents without formal proof, which",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      90.02,
+      564.44,
+      124.63,
+      579.91
+    ],
+    "text": "reads:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      588.32,
+      526.33,
+      603.79
+    ],
+    "text": "(2)(1) Notwithstanding the provisions of the Evidence Ordinance (Chapter 14), in",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      612.35,
+      526.41,
+      627.82
+    ],
+    "text": "any proceedings under this Code, it shall not be necessary to adduce formal proof",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      636.23,
+      526.27,
+      651.7
+    ],
+    "text": "of the execution or genuineness of any deed, or document which is required by",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      660.23,
+      526.51,
+      675.7
+    ],
+    "text": "law to be attested, other than a will executed under the Wills Ordinance (Chapter",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      108.02,
+      684.11,
+      472.0,
+      699.58
+    ],
+    "text": "60), and on the face of it purports to have been duly executed, unless",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 26 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      126.02,
+      85.59,
+      526.39,
+      101.06
+    ],
+    "text": "(a) in the pleadings or further pleadings in an action filed under regular",
+    "fonts": [
+      "Arial-ItalicMT",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.02,
+      109.47,
+      526.42,
+      124.94
+    ],
+    "text": "procedure in terms of this Code, the execution or genuineness of such deed",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      144.02,
+      133.47,
+      417.25,
+      148.94
+    ],
+    "text": "or document is impeached and raised as an issue; or",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      126.02,
+      157.35,
+      297.83,
+      172.82
+    ],
+    "text": "(b) the court requires such proof:",
+    "fonts": [
+      "Arial-ItalicMT",
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      108.02,
+      205.23,
+      526.18,
+      220.7
+    ],
+    "text": "Provided that, the provisions of this section shall not be applicable in an",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      108.02,
+      229.23,
+      526.32,
+      244.7
+    ],
+    "text": "event, a party to an action seeks to produce any deed or document not",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      108.02,
+      253.14,
+      526.72,
+      268.61
+    ],
+    "text": "included in the pleadings of that party at any proceedings under this Code.",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      429.79,
+      277.14,
+      526.72,
+      292.61
+    ],
+    "text": "[Emphasis added.]",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      325.02,
+      526.71,
+      340.49
+    ],
+    "text": "Upon the passing of the original Defendant, his daughter, the 1(F) Substituted",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      348.9,
+      526.71,
+      364.37
+    ],
+    "text": "Defendant, was substituted in the room, place and shoes of the original Defendant,",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      372.9,
+      140.59,
+      388.37
+    ],
+    "text": "Podisingho.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      420.78,
+      526.68,
+      436.25
+    ],
+    "text": "In Careem vs. Sivasubramaniam and Another (2003) 2 SLR 197 Udalagama J states",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      444.68,
+      98.95,
+      460.15
+    ],
+    "text": "that:",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      108.02,
+      468.68,
+      526.18,
+      484.15
+    ],
+    "text": "In the event of the death of a party substitution would be for the purpose of",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      108.02,
+      492.56,
+      526.33,
+      508.03
+    ],
+    "text": "representing the deceased solely for the purpose of prosecuting the action and",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      108.02,
+      516.56,
+      191.99,
+      532.03
+    ],
+    "text": "nothing more.",
+    "fonts": [
+      "SegoeUI-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      564.44,
+      526.68,
+      579.91
+    ],
+    "text": "As the original Defendant did not claim for a declaration of title to the corpus and",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      588.32,
+      526.29,
+      603.79
+    ],
+    "text": "instead claimed for his rights as a lessee under the agreement executed between",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      612.35,
+      526.45,
+      627.82
+    ],
+    "text": "himself and Halideen, the 1(F) Substituted Defendant cannot take up a position",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      636.23,
+      263.14,
+      651.7
+    ],
+    "text": "different to the original Defendant.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      684.11,
+      526.59,
+      699.58
+    ],
+    "text": "Further, in application of section 2 of the Civil Procedure Code (Amendment) Act, No.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      72.02,
+      708.11,
+      526.68,
+      723.58
+    ],
+    "text": "17 of 2022, the provisions of this section are not applicable to any deed and/or",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      788.53,
+      512.52,
+      819.96
+    ],
+    "text": "SC Appeal 69/2013 JUDGMENT Page 27 of 27",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      85.59,
+      526.71,
+      101.06
+    ],
+    "text": "document not included in the pleadings of that party, and therefore I find that the 1(F)",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      109.47,
+      328.44,
+      124.94
+    ],
+    "text": "Substituted Defendants deeds are not proved.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      157.35,
+      526.71,
+      172.82
+    ],
+    "text": "In light of these aforementioned facts, I answer the fourth question of law affirmatively.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      181.35,
+      526.24,
+      196.82
+    ],
+    "text": "As the third and fourth questions of law have been answered in the affirmative, it",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      205.23,
+      454.59,
+      220.7
+    ],
+    "text": "follows that the fifth question of law is also answered in the affirmative.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      253.14,
+      526.64,
+      268.61
+    ],
+    "text": "In consideration of the totality of the above facts and submissions, the appeal is",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      277.14,
+      178.03,
+      292.61
+    ],
+    "text": "allowed with costs.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      325.02,
+      167.6,
+      340.49
+    ],
+    "text": "Appeal Allowed.",
+    "fonts": [
+      "SegoeUI-BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      339.43,
+      388.86,
+      526.73,
+      404.33
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      420.78,
+      190.56,
+      436.25
+    ],
+    "text": "A.H.M.D. NAWAZ, J",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      444.8,
+      117.55,
+      460.27
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      339.43,
+      540.56,
+      526.73,
+      556.03
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      572.48,
+      220.18,
+      587.95
+    ],
+    "text": "ACHALA WENGAPPULI, J",
+    "fonts": [
+      "SegoeUI",
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      72.02,
+      596.36,
+      114.31,
+      611.83
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "SegoeUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      339.43,
+      692.15,
+      526.73,
+      707.62
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "SegoeUI-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

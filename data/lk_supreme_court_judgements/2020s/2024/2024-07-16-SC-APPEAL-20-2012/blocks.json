@@ -1,0 +1,5891 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 1 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.62,
+      99.11,
+      524.71,
+      114.65
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.85,
+      117.59,
+      406.66,
+      133.13
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      159.23,
+      423.43,
+      248.34
+    ],
+    "text": "M. Razeen Salih, No. 5, Palmyrah Avenue, Colombo 3 and 1107, Silam Road, Bangkok, Thailand.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      252.5,
+      527.96,
+      339.68
+    ],
+    "text": "Plaintiff SC Appeal No. 20/2012 SC/SPL/LA No. 57/2011 CA No. 1135/93(F) D.C. Colombo No. 84831/M",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      345.32,
+      328.66,
+      392.21
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.05,
+      400.16,
+      393.79,
+      414.69
+    ],
+    "text": "1. Chandana Ukwatta,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.05,
+      417.52,
+      503.06,
+      517.91
+    ],
+    "text": "No. 28, Ward Place, Colombo 07. (legal representative of the late Mr. U.K. Edmond) 2. McCallum Breweries (Ceylon) Limited,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      522.28,
+      406.87,
+      555.35
+    ],
+    "text": "No. 299, Union Place, Colombo 02.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      559.48,
+      525.61,
+      591.26
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      594.91,
+      343.42,
+      626.53
+    ],
+    "text": "AND",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      635.23,
+      423.43,
+      743.06
+    ],
+    "text": "M. Razeen Salih, No. 5, Palmyrah Avenue, Colombo 3 and 1107, Silam Road, Bangkok, Thailand.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      409.27,
+      747.21,
+      525.61,
+      762.75
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 2 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      72.59,
+      393.79,
+      122.7
+    ],
+    "text": "Vs. 1. Chandana Ukwatta,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      125.51,
+      503.06,
+      225.9
+    ],
+    "text": "No. 28, Ward Place, Colombo 07. (legal representative of the late Mr. U.K. Edmond) 2. McCallum Breweries (Ceylon) Limited,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      230.27,
+      406.87,
+      281.97
+    ],
+    "text": "No. 299, Union Place, Colombo 02.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      378.91,
+      286.22,
+      525.61,
+      301.76
+    ],
+    "text": "Defendant-Respondents",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      328.34,
+      414.22,
+      359.96
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      364.7,
+      504.12,
+      547.19
+    ],
+    "text": "M. Razeen Salih, No. 5, Palmyrah Avenue, Colombo 3 and 1107, Silam Road, Bangkok, Thailand. And presently of A1 Nadera Jewelry and Watches Company Limited, P.O. Box 295799, Riyadh. No. 11351, Saudi Arabia.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      404.59,
+      551.44,
+      522.22,
+      566.98
+    ],
+    "text": "Plaintiff-Appellant-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.07,
+      568.75,
+      525.61,
+      601.69
+    ],
+    "text": "Appellant Vs.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      626.29,
+      393.79,
+      640.82
+    ],
+    "text": "1. Chandana Ukwatta,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      643.63,
+      503.06,
+      726.74
+    ],
+    "text": "No. 28, Ward Place, Colombo 07. (legal representative of the late Mr. U.K. Edmond)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 3 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      270.05,
+      72.53,
+      500.02,
+      87.06
+    ],
+    "text": "2. McCallum Breweries (Ceylon) Limited,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      91.43,
+      406.87,
+      124.38
+    ],
+    "text": "No. 299, Union Place, Colombo 02.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      374.23,
+      128.63,
+      525.61,
+      160.25
+    ],
+    "text": "Defendant-Respondents-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      160.79,
+      525.61,
+      192.53
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      197.03,
+      414.22,
+      228.65
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      270.05,
+      233.21,
+      496.55,
+      247.74
+    ],
+    "text": "1. Yuparaet Salih also known as Yuparaet",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      252.14,
+      508.2,
+      322.53
+    ],
+    "text": "Ayesha Salih, of No, 23, Danville Dr., Toronto, Ontario M2P 1H7, Canada.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      270.05,
+      326.72,
+      471.94,
+      341.25
+    ],
+    "text": "2. Yuparat Jamaliya Salih of No. 52,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      345.5,
+      520.88,
+      416.01
+    ],
+    "text": "Longwood Dr., Toronto, Ontario M3B-1T8, Canada. (Legal Representatives of the late Mr. M. Razeen Salih)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      404.59,
+      420.16,
+      525.61,
+      451.78
+    ],
+    "text": "Plaintiff-Appellant-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      452.44,
+      525.61,
+      484.06
+    ],
+    "text": "Appellants",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.07,
+      488.56,
+      328.66,
+      504.1
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      270.05,
+      528.7,
+      393.79,
+      543.23
+    ],
+    "text": "1. Chandana Ukwatta,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      270.05,
+      546.04,
+      503.11,
+      646.46
+    ],
+    "text": "No. 28, Ward Place, Colombo 07. (legal representative of the late Mr. U.K. Edmond) 2. McCallum Breweries (Ceylon) Limited,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      650.83,
+      406.87,
+      683.9
+    ],
+    "text": "No. 299, Union Place, Colombo 02.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      374.23,
+      688.15,
+      525.61,
+      719.77
+    ],
+    "text": "Defendant-Respondents-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      720.31,
+      525.61,
+      751.95
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 4 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      72.59,
+      388.54,
+      88.61
+    ],
+    "text": "Before: Justice Murdu N.B. Fernando, PC",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.02,
+      96.71,
+      399.58,
+      112.25
+    ],
+    "text": "Justice A.L. Shiran Gooneratne",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      120.83,
+      367.9,
+      154.37
+    ],
+    "text": "Justice K. Priyantha Fernando",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      167.51,
+      525.23,
+      183.05
+    ],
+    "text": "Counsel: Dr. Romesh de Silva, PC with Sudath Caldera instructed by",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      12.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.02,
+      191.75,
+      525.34,
+      206.1
+    ],
+    "text": "Lucian Perera Associates for the Plaintiff-Appellant-Appellant.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.02,
+      226.19,
+      525.31,
+      240.54
+    ],
+    "text": "Dr. Kanag-Isvaran, PC with Dr. Harsha Cabral, PC with Revan",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.02,
+      248.66,
+      525.3,
+      263.01
+    ],
+    "text": "Weerasinghe instructed by V.W. Kularatne Associates for the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.02,
+      271.1,
+      384.43,
+      285.45
+    ],
+    "text": "Defendant-Respondent-Respondent.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      319.1,
+      246.6,
+      334.64
+    ],
+    "text": "Argued on: 20/03/2024",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      349.55,
+      246.89,
+      367.22
+    ],
+    "text": "Decided on: 16/07/2024",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      409.35,
+      263.84,
+      425.95
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      452.44,
+      525.25,
+      466.79
+    ],
+    "text": "By Plaint dated 03/03/1981, the Plaintiff-Appellant-Appellant (hereinafter",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      476.32,
+      525.27,
+      490.67
+    ],
+    "text": "sometimes referred to as the Plaintiff-Appellant) filed this Action No. D.C.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      499.6,
+      525.34,
+      514.55
+    ],
+    "text": "Colombo 84831/M against the 1st and 2nd Defendants-Respondents-Respondents",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      524.2,
+      525.23,
+      538.55
+    ],
+    "text": "(hereinafter sometimes referred to as the Defendants-Respondents) and sought to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      548.08,
+      522.1,
+      562.43
+    ],
+    "text": "recover a sum of Rs. 1,999,200/- together with interest against the Defendants-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      572.11,
+      166.22,
+      586.46
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      603.91,
+      525.09,
+      618.26
+    ],
+    "text": "In paragraphs 3 and 4 of the Plaint, the Plaintiff stated that he was the registered",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      627.91,
+      525.21,
+      642.26
+    ],
+    "text": "holder of 27,508 shares in Ceylon Hotels Limited (the said shares) a company duly",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      651.79,
+      525.01,
+      666.14
+    ],
+    "text": "incorporated and registered in Sri Lanka, and that the Plaintiff (as the Vendor) and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      675.07,
+      525.12,
+      690.02
+    ],
+    "text": "the 1st Defendant (as the Purchaser- which term also included his nominee or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      699.55,
+      525.04,
+      713.9
+    ],
+    "text": "nominees), made and entered into an Agreement in Bangkok Thailand, dated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      723.55,
+      525.09,
+      737.9
+    ],
+    "text": "05/03/1975, (hereinafter referred to as the said Agreement), a copy of which was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      747.57,
+      513.22,
+      761.92
+    ],
+    "text": "annexed to the said Plaint (marked A), whereby the said parties agreed inter alia,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 5 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.38,
+      72.19,
+      525.34,
+      95.82
+    ],
+    "text": "(a) for the Vendor to sell the said shares for a sum of Rupees 4,750,000/- of",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.039999961853027,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.74,
+      104.63,
+      525.26,
+      118.98
+    ],
+    "text": "lawful money of Sri Lanka and the Purchaser to purchase the said shares for",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.74,
+      127.79,
+      317.47,
+      142.14
+    ],
+    "text": "the said sum of Rupees 4,750,000/-;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.38,
+      150.78,
+      525.0,
+      177.9
+    ],
+    "text": "(b) that the purchase price shall be paid in the installments set out in the said",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.74,
+      186.71,
+      191.33,
+      201.06
+    ],
+    "text": "Agreement;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.38,
+      209.58,
+      522.1,
+      236.7
+    ],
+    "text": "(c) that the said payment shall be made in Ceylon Rupees to the credit of a Non-",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.74,
+      245.54,
+      525.16,
+      259.89
+    ],
+    "text": "Resident Blocked Account in the name of the Vendor in the Chartered Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.74,
+      268.7,
+      292.85,
+      283.05
+    ],
+    "text": "Limited, Colombo, Sri Lanka;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.38,
+      291.57,
+      466.54,
+      318.69
+    ],
+    "text": "(d) the said Agreement shall be governed by the laws of Sri Lanka.",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      321.86,
+      524.96,
+      354.33
+    ],
+    "text": "In paragraph 5 of the Plaint, the Plaintiff stated that, having made payment of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      363.26,
+      525.22,
+      378.21
+    ],
+    "text": "first installment of Rupees 1,000,000/- by the 1st Defendant in terms of the said",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      387.26,
+      525.34,
+      402.21
+    ],
+    "text": "Agreement, the Plaintiff executed a transfer of the said shares in favour of the 1st",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      411.28,
+      354.91,
+      426.23
+    ],
+    "text": "Defendant and/ or his nominee the 2nd Defendant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      443.08,
+      525.34,
+      458.03
+    ],
+    "text": "In paragraphs 6, 7 and 8 of the Plaint, the Plaintiff stated that the 1st and/ or 2nd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      467.56,
+      525.2,
+      481.91
+    ],
+    "text": "Defendants, in breach of the said Agreement, have failed and neglected to make",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      491.56,
+      525.31,
+      505.91
+    ],
+    "text": "payment in full to the Plaintiff of the said purchase price of Rupees 4,750,000/- and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      515.44,
+      525.03,
+      529.79
+    ],
+    "text": "a cause of action has accrued to the Plaintiff to sue the Defendants for the recovery",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      539.44,
+      316.51,
+      553.79
+    ],
+    "text": "of the balance sum of Rupees 1,999,200/-.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      570.64,
+      525.33,
+      585.62
+    ],
+    "text": "The 1st and 2nd Defendants filed their Answer dated 22/01/1982, and inter, alia, in",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      595.15,
+      525.26,
+      609.5
+    ],
+    "text": "paragraphs 3 and 4 of the said Answer the said Defendants, while denying the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      619.15,
+      525.32,
+      633.5
+    ],
+    "text": "averments in paragraphs 6, 7 and 8 of the Plaint, admitted paragraphs 2, 3, 4 and 5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      643.15,
+      163.34,
+      657.5
+    ],
+    "text": "of the Plaint.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      674.95,
+      525.15,
+      689.3
+    ],
+    "text": "In paragraphs 5 and 6 of the Answer, the Defendants stated that, since the Plaintiff",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      698.83,
+      525.16,
+      713.18
+    ],
+    "text": "was a non-resident for the purposes of the Exchange Control Act (as amended), the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      722.83,
+      525.16,
+      737.18
+    ],
+    "text": "said Agreement was subject to the approval of the Controller of Exchange and that,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      746.73,
+      525.21,
+      761.08
+    ],
+    "text": "after due inquiry, by letter dated 09/05/1975, the Controller of Exchange",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 6 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      72.59,
+      525.01,
+      86.94
+    ],
+    "text": "communicated to the Plaintiff and the Defendants approving the sale of the said",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      96.47,
+      525.1,
+      110.82
+    ],
+    "text": "shares in a sum of Rupees 2,750,800/- to the credit of a Blocked Account in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      120.59,
+      207.05,
+      134.94
+    ],
+    "text": "name of the Plaintiff.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      152.39,
+      525.04,
+      166.74
+    ],
+    "text": "In paragraphs 7 and 8 of the Answer, the Defendants stated that the said sum of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      176.27,
+      525.19,
+      190.62
+    ],
+    "text": "money has been duly paid; that the Plaintiff did not appeal against the said decision",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      200.15,
+      525.23,
+      214.5
+    ],
+    "text": "in terms of the said Exchange Control Act, and that therefore the parties are bound",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      224.15,
+      525.01,
+      238.5
+    ],
+    "text": "by that decision. The Defendants further claimed that, as the period set out in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      248.06,
+      525.03,
+      262.41
+    ],
+    "text": "statute for the making of an appeal had lapsed, the Defendants acted on the basis",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      271.94,
+      525.18,
+      286.29
+    ],
+    "text": "that the said decision is final, and, therefore, stated further that the Plaintiff is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      296.06,
+      395.83,
+      310.41
+    ],
+    "text": "estopped from making this claim against the Defendants.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      327.86,
+      373.51,
+      342.21
+    ],
+    "text": "The Defendants pleaded for a dismissal of the action.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      358.94,
+      525.31,
+      373.29
+    ],
+    "text": "The trial proceeded with the Defendants issues No. (2) to (6) and the only issue",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      382.1,
+      277.13,
+      396.45
+    ],
+    "text": "raised by the Plaintiff, issue No. 1;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103.58,
+      417.76,
+      525.31,
+      432.11
+    ],
+    "text": "Are the Defendants liable to pay the Plaintiff a sum of Rs. 1,999,200/- as the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103.58,
+      440.92,
+      347.71,
+      455.27
+    ],
+    "text": "balance sum in terms of the Agreement P1?.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      463.91,
+      441.7,
+      491.03
+    ],
+    "text": "The following oral and documentary evidence was led at the trial",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      499.55,
+      525.04,
+      526.67
+    ],
+    "text": "The Plaintiff-Appellant called two witnesses, Leopold Justus Perera, Director of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      536.2,
+      525.03,
+      550.55
+    ],
+    "text": "Customs, and Herath Mudiyanselage Gannilegedera Gunatillake, Acting Assistant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      560.08,
+      380.35,
+      574.43
+    ],
+    "text": "Secretary, Ministry of Finance, tendering in evidence",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.02,
+      583.82,
+      525.18,
+      611.3
+    ],
+    "text": "a) A certified copy of letter dated 22/12/1980 addressed by the Secretary,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.02,
+      620.83,
+      525.13,
+      635.18
+    ],
+    "text": "Ministry of Finance and Planning, to Mr. Razeen Sally, under the caption Sale",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.02,
+      644.83,
+      525.0,
+      659.18
+    ],
+    "text": "of Shares in Messrs Ceylon Hotels Ltd, stating, inter alia, that he is directed",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.02,
+      668.71,
+      525.26,
+      683.06
+    ],
+    "text": "by the Minister of Finance and Planning to inform that he has no objection to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.02,
+      692.59,
+      525.0,
+      706.94
+    ],
+    "text": "the payment of the notarially agreed price in the above transaction as long as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.02,
+      716.47,
+      391.51,
+      730.82
+    ],
+    "text": "no part of the price is remitted abroad; marked P1;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 7 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      72.41,
+      525.15,
+      86.94
+    ],
+    "text": "b) Certified photo copies of letters dated 22/01/1985 and 25/02/1986 addressed",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117.02,
+      96.47,
+      358.27,
+      110.82
+    ],
+    "text": "by Sri Lanka Customs, marked P2 and P3.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      132.47,
+      525.2,
+      146.82
+    ],
+    "text": "The Defendants called one witness Kandasamy Canagasabapathy, Retired Deputy",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      156.35,
+      525.33,
+      170.7
+    ],
+    "text": "Governor of the Central Bank, formerly Controller of Exchange, and tendered in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      180.23,
+      281.81,
+      194.58
+    ],
+    "text": "evidence the following documents",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.02,
+      203.94,
+      525.34,
+      231.42
+    ],
+    "text": "a) Exchange Control Form S(NS), Application to sell a security held by or on",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117.02,
+      240.98,
+      525.34,
+      255.33
+    ],
+    "text": "behalf of a person resident outside the Sterling Area (Scheduled Territories),",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117.02,
+      264.98,
+      291.05,
+      279.33
+    ],
+    "text": "dated 12/05/1975; marked V1.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      288.57,
+      525.34,
+      315.69
+    ],
+    "text": "According to witness, Kandasamy Canagasabapathy, V1 was an application",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      325.22,
+      525.12,
+      339.57
+    ],
+    "text": "submitted on behalf of the Plaintiff-Appellant regarding the sale of the said shares,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      349.1,
+      525.1,
+      363.45
+    ],
+    "text": "said to be detailed in an attached schedule, (which was not clear), in Ceylon Hotels",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      373.1,
+      525.07,
+      387.45
+    ],
+    "text": "Limited, held by Mohamed Razeen Sally, 1017, Silom Road, Bangkok 5,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      396.98,
+      525.28,
+      411.33
+    ],
+    "text": "Thailand; stated that Proceeds will be credited to a Non-Resident Blocked",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      420.88,
+      525.0,
+      435.23
+    ],
+    "text": "Account opened at The Chartered Bank, Colombo; is signed by Forbes & Walker",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      444.88,
+      299.09,
+      459.23
+    ],
+    "text": "Ltd (Brokers) and is dated 12/05/1975;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      468.47,
+      525.21,
+      495.95
+    ],
+    "text": "b) The reverse of this document states (in print) Permission granted for the sale",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      505.6,
+      525.01,
+      519.95
+    ],
+    "text": "of the securities detailed overleaf subject to the condition that the sale",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      529.48,
+      525.28,
+      543.83
+    ],
+    "text": "proceeds are credited to a non-resident blocked account in the name of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      553.36,
+      524.93,
+      567.71
+    ],
+    "text": "Mohamed Razeen Sally. Permission granted for transfer of 27,508 shares in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      577.39,
+      525.05,
+      591.74
+    ],
+    "text": "Ceylon Hotels Ltd by Mohamed Razeen Sally to McCallum Breweries",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      601.27,
+      476.62,
+      615.62
+    ],
+    "text": "Ceylon Ltd for Rs. 2,750,800/- Date 12-5-75 marked V1A (a)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      624.86,
+      525.11,
+      652.46
+    ],
+    "text": "c) Share Transfer dated 12/05/1975 by Mohamed Razeen Sally, in",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      661.99,
+      525.23,
+      676.34
+    ],
+    "text": "consideration of Rs. 2,750,800/-, to McCallum Breweries (Ceylon) Limited,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      685.87,
+      440.98,
+      700.22
+    ],
+    "text": "of 27,508 shares of Ceylon Hotels Limited, marked V2.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      709.58,
+      520.18,
+      736.7
+    ],
+    "text": "The Defendants Respondents closed their case leading in evidence V1 and V2.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 8 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      72.59,
+      525.27,
+      86.94
+    ],
+    "text": "Having considered the pleadings, the evidence led in Court and the written",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      96.47,
+      525.04,
+      110.82
+    ],
+    "text": "submissions tendered by the respective parties, the learned District Judge, by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      120.47,
+      525.19,
+      134.82
+    ],
+    "text": "Judgment dated 07/09/1993, inter alia, held that, in terms of Section 45 of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      144.35,
+      525.02,
+      158.7
+    ],
+    "text": "Exchange Control Act, on the application dated 12/05/1975 (marked V1), the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      168.23,
+      525.03,
+      182.58
+    ],
+    "text": "decision of the Central Bank thereon was communicated in writing to the Plaintiff",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      192.23,
+      525.31,
+      206.58
+    ],
+    "text": "and the Defendants and, in terms of Section 46 of the said Act, a written appeal",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      216.11,
+      525.0,
+      230.46
+    ],
+    "text": "against the said decision was not made by the Plaintiff to the Minister within 10",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      240.02,
+      525.32,
+      254.37
+    ],
+    "text": "days, (if the Plaintiff was dissatisfied with such decision), which, in terms of Section",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      264.02,
+      525.32,
+      278.37
+    ],
+    "text": "47 of the said Act, makes the said decision final and conclusive, and that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      287.9,
+      525.28,
+      302.25
+    ],
+    "text": "Defendants were not liable to make any further payment, and dismissed the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      311.9,
+      186.77,
+      326.25
+    ],
+    "text": "Plaintiffs action.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      347.78,
+      525.04,
+      362.13
+    ],
+    "text": "Being aggrieved by the said Judgment, the Plaintiff, by Petition of Appeal dated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      371.66,
+      525.04,
+      386.01
+    ],
+    "text": "31/10/1993, appealed to the Court of Appeal. The Court of Appeal by Judgment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      395.54,
+      525.07,
+      409.89
+    ],
+    "text": "dated 22/02/2011, affirmed the said order made by the learned District Judge dated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      419.44,
+      525.12,
+      433.79
+    ],
+    "text": "07/09/1993 and, inter alia, agreed with the Defendants case that the failure by the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      443.44,
+      525.34,
+      457.79
+    ],
+    "text": "Plaintiff to appeal, in terms of Section 46 of the said Act makes the said decision,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      467.32,
+      525.3,
+      481.67
+    ],
+    "text": "referred to in the previous paragraph, final and conclusive and that any further",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      491.32,
+      534.58,
+      505.67
+    ],
+    "text": "payment or balance payment would be illegal and dismissed the Plaintiffs appeal.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      523.12,
+      525.17,
+      537.47
+    ],
+    "text": "In regard to the evidence led at the trial, the Judgment of the Court of Appeal stated,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      547.12,
+      156.14,
+      561.47
+    ],
+    "text": "as follows",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.02,
+      583.87,
+      525.1,
+      598.22
+    ],
+    "text": "The evidence of the Plaintiff-Appellant was very brief other than a long line of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.02,
+      607.87,
+      524.95,
+      622.22
+    ],
+    "text": "questions to prove signature in P1 and comparison of P1 with P2 and P3 to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.02,
+      631.75,
+      525.03,
+      646.1
+    ],
+    "text": "identify the signature. In contrast Defendants evidence was on point to establish",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.02,
+      655.63,
+      525.26,
+      669.98
+    ],
+    "text": "issue Nos (2)-(6) and as such version of the Defendant-Respondents becomes more",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.02,
+      679.63,
+      524.97,
+      693.98
+    ],
+    "text": "probable. In fact the defence version was supported by statutory provisions,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.02,
+      703.51,
+      525.16,
+      717.86
+    ],
+    "text": "namely, Exchange Control Act. Plaintiff-Appellant does not rely on any statutory",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.02,
+      727.39,
+      525.11,
+      741.74
+    ],
+    "text": "provisions but only argue that the above statute has no application to the facts of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.02,
+      751.41,
+      517.54,
+      765.76
+    ],
+    "text": "this case. I am unable to agree with the Plaintiff-Appellant on that argument.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 9 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      72.59,
+      522.1,
+      86.94
+    ],
+    "text": "Being aggrieved by the said Judgment of the Court of Appeal, the Plaintiff-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      96.47,
+      520.9,
+      110.82
+    ],
+    "text": "Appellant filed his Petition dated 01/04/2011 in this Court, and prayed inter alia,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99.02,
+      120.18,
+      525.32,
+      147.42
+    ],
+    "text": "(a) to set aside the Judgment of the Court of Appeal dated 22nd February 2011",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126.02,
+      155.39,
+      202.61,
+      169.74
+    ],
+    "text": "marked X9;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99.02,
+      177.23,
+      525.34,
+      192.18
+    ],
+    "text": "(b) to set aside the Judgment of the District Court of Colombo dated 7th",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126.02,
+      200.27,
+      217.73,
+      214.62
+    ],
+    "text": "September 1993;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99.02,
+      222.21,
+      213.77,
+      245.58
+    ],
+    "text": "(c) to award costs;",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.039999961853027,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      266.9,
+      524.86,
+      281.25
+    ],
+    "text": "As stated in Journal Entry dated 07/01/2012, this Court having heard the learned",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      290.78,
+      525.21,
+      305.13
+    ],
+    "text": "Counsel for the Plaintiff-Appellant and the Defendants-Respondents, agreed to the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      314.78,
+      451.54,
+      329.13
+    ],
+    "text": "grant of Special Leave to Appeal on the following question of Law",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      338.37,
+      475.3,
+      365.49
+    ],
+    "text": "Whether the exchange control Act applies to the facts of this case.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      386.78,
+      525.34,
+      401.13
+    ],
+    "text": "In regard to the above-mentioned question of law, the Plaintiff-Appellant argued",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      410.68,
+      497.38,
+      425.03
+    ],
+    "text": "and also reiterated in their written submissions filed of record, that inter alia,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      447.34,
+      525.03,
+      461.87
+    ],
+    "text": "there is nothing in the Exchange Control Law which prevents a person in Sri",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT",
+      "Wingdings-Regular"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      471.4,
+      525.3,
+      485.75
+    ],
+    "text": "Lanka from making any payment in Sri Lanka to another person. The Exchange",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      495.4,
+      525.29,
+      509.75
+    ],
+    "text": "Control Act only prevents the payment of money outside Sri Lanka that is the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      519.28,
+      413.95,
+      533.63
+    ],
+    "text": "remittance of money outside Sri Lanka (Emphasis added).",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      542.87,
+      531.82,
+      570.35
+    ],
+    "text": "there are several phrases in the Exchange Control Act which prevent the",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT",
+      "Wingdings-Regular"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      580.03,
+      525.02,
+      594.38
+    ],
+    "text": "payment of money to persons outside Sri Lanka or the remittance of money",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      603.91,
+      525.24,
+      618.26
+    ],
+    "text": "outside Sri Lanka. However, there is nothing in the Exchange Control Act which",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      627.79,
+      525.29,
+      642.14
+    ],
+    "text": "prevents a person paying to another any money in Sri Lanka, as is suggested by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      651.79,
+      463.42,
+      666.14
+    ],
+    "text": "the topic Exchange Control means, the control of foreign exchange.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      688.51,
+      525.34,
+      702.86
+    ],
+    "text": "It was further contended that in this case, there is no foreign exchange involved",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      712.51,
+      525.33,
+      726.86
+    ],
+    "text": "and the purchase consideration was in Sri Lanka Rupees (Emphasis added). The",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      736.41,
+      525.19,
+      750.76
+    ],
+    "text": "payment of the part was in Sri Lanka Rupees and the Plaintiff is claiming the balance",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 10 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      72.59,
+      525.33,
+      86.94
+    ],
+    "text": "in Sri Lanka Rupees to be paid in Sri Lanka to an account of the Plaintiff. The",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      96.47,
+      525.29,
+      110.82
+    ],
+    "text": "Plaintiff is not asking that the money be paid to a blocked account, the Plaintiff is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      120.47,
+      453.7,
+      134.82
+    ],
+    "text": "simply asking for the payment of the balance purchase consideration.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      156.35,
+      525.32,
+      170.7
+    ],
+    "text": "In the circumstances (that is, as there was no evidence whatever that the Plaintiff",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      180.23,
+      525.16,
+      194.58
+    ],
+    "text": "resides outside Sri Lanka and that the Plaintiffs claim is for money in Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      204.23,
+      525.07,
+      218.58
+    ],
+    "text": "Rupees), the Plaintiffs claim is for the money to be paid to the Plaintiff in Sri",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      228.11,
+      525.06,
+      242.46
+    ],
+    "text": "Lankan Rupees and there is no law whatever that prevents the payment of money",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      252.02,
+      524.92,
+      266.37
+    ],
+    "text": "to a person in Sri Lanka. The law only prevents the payment of money outside Sri",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      276.02,
+      129.02,
+      290.37
+    ],
+    "text": "Lanka.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      312.38,
+      525.19,
+      326.73
+    ],
+    "text": "This position, the Plaintiff-Appellant contended, is consistent with the Exchange",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      336.26,
+      525.07,
+      350.61
+    ],
+    "text": "Control Act, because the Exchange Control Act as set out above prevents foreign",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      360.14,
+      525.33,
+      374.49
+    ],
+    "text": "exchange being taken out of Sri Lanka and the Act prevents the Sri Lankan Rupees",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      384.14,
+      296.57,
+      398.49
+    ],
+    "text": "being converted into foreign exchange.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      420.04,
+      525.2,
+      434.39
+    ],
+    "text": "Accordingly, the Plaintiff-Appellant states that it is clear that there is no prohibition",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      443.92,
+      525.31,
+      458.27
+    ],
+    "text": "whatever for the Defendant to pay the Plaintiff a sum of Rs. 1,999,200/- prayed for",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      467.92,
+      206.09,
+      482.27
+    ],
+    "text": "in this case.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      503.8,
+      492.7,
+      518.15
+    ],
+    "text": "Section 7 and Section 8 of the of the Exchange Control Act reads as follows;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      543.04,
+      156.5,
+      557.39
+    ],
+    "text": "Section 7.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      572.95,
+      454.06,
+      587.3
+    ],
+    "text": "Except with the permission of the bank no person shall in Sri Lanka -",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      595.82,
+      525.34,
+      622.94
+    ],
+    "text": "a) make any payment to or for the credit of a person resident outside Sri Lanka;",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      130.58,
+      631.75,
+      144.62,
+      646.1
+    ],
+    "text": "or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      654.73,
+      525.04,
+      669.26
+    ],
+    "text": "b) make any payment to or for the credit of a person resident in Sri Lanka by",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      130.58,
+      678.07,
+      448.78,
+      692.42
+    ],
+    "text": "order or on behalf of a person resident outside Sri Lanka or;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      701.05,
+      525.22,
+      715.58
+    ],
+    "text": "c) place or hold any sum to the credit of any person resident outside Sri Lanka;",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      130.58,
+      724.39,
+      197.09,
+      738.74
+    ],
+    "text": "Provided.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 11 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      72.59,
+      202.01,
+      86.94
+    ],
+    "text": "Section 8.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      102.29,
+      525.1,
+      116.82
+    ],
+    "text": "1. Except with the permission of the bank no person resident in Sri Lanka shall,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      130.58,
+      125.63,
+      525.12,
+      139.98
+    ],
+    "text": "subject to the provisions of this section, make any payment outside Sri",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      130.58,
+      148.79,
+      467.86,
+      163.14
+    ],
+    "text": "Lanka to or for the credit of a person resident outside Sri Lanka.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      171.57,
+      268.13,
+      193.5
+    ],
+    "text": "2. Nothing in this section.",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      214.31,
+      525.1,
+      228.66
+    ],
+    "text": "The Court of Appeal has quoted Section 7 of the Exchange Control Act and stated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      238.22,
+      525.07,
+      252.57
+    ],
+    "text": "that The Exchange Control Act was enacted not only to control payment of money",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      262.22,
+      525.16,
+      276.57
+    ],
+    "text": "outside Sri Lanka. This is a wrong notion. Act includes several parts and considers",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      286.1,
+      240.29,
+      300.45
+    ],
+    "text": "a variety of restrictions.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      321.98,
+      525.31,
+      336.33
+    ],
+    "text": "The manner of payment of the purchase price of the said shares, which, according",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      345.86,
+      525.25,
+      360.21
+    ],
+    "text": "to Clause 2 of the said Agreement (a copy of which is attached to the Plaint marked",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      369.86,
+      524.99,
+      384.21
+    ],
+    "text": "A), provides that the purchase price of the said shares should be paid, in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      393.74,
+      235.97,
+      408.09
+    ],
+    "text": "instalments set out therein,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      429.64,
+      525.25,
+      443.99
+    ],
+    "text": ".in Ceylon Rupees to the credit of a non-resident blocked account in the name of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      453.64,
+      525.34,
+      467.99
+    ],
+    "text": "the Vendor in the Chartered Bank Limited, Colombo, Sri Lanka, and has also stated",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      477.52,
+      525.02,
+      491.87
+    ],
+    "text": "that the parties to the said Agreement have agreed not to act contrary to the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      501.4,
+      400.27,
+      515.75
+    ],
+    "text": "provisions of the Exchange Control Act. (Emphasis added)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      537.4,
+      525.26,
+      551.75
+    ],
+    "text": "For the purpose of clarity, it may be pointed out that section 7 of the Exchange",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      561.28,
+      525.06,
+      575.63
+    ],
+    "text": "Control Act - refers to any payment, thereby making it immaterial as to whether",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      585.19,
+      358.39,
+      617.9
+    ],
+    "text": "the payment is made in foreign or local currency.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      622.03,
+      525.34,
+      636.38
+    ],
+    "text": "In the absence of a proper explanation to the contrary in regard to such payment,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      645.91,
+      525.17,
+      660.26
+    ],
+    "text": "this view appears to be supported by the fact that, if the parties to the said Agreement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      669.91,
+      525.0,
+      684.26
+    ],
+    "text": "acted on the basis that they were resident in Sri Lanka, in terms of the Exchange",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      693.79,
+      525.26,
+      708.14
+    ],
+    "text": "Control Act, there would have been no requirement under the Act for the said",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      717.67,
+      525.06,
+      732.02
+    ],
+    "text": "Agreement to provide that the purchase price of the said shares should be paid to a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      741.69,
+      302.69,
+      756.04
+    ],
+    "text": "blocked account as mentioned above.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 12 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      72.59,
+      525.35,
+      86.94
+    ],
+    "text": "As observed earlier, according to the evidence of Kandasamy Canagasabapathy, an",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      96.47,
+      525.18,
+      110.82
+    ],
+    "text": "application (V1), submitted on behalf of the Plaintiff-Appellant regarding the sale",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      120.47,
+      525.01,
+      134.82
+    ],
+    "text": "of the said shares, in Ceylon Hotels Limited, held by Mohamed Razeen Sally,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      144.35,
+      525.23,
+      158.7
+    ],
+    "text": "1017, Silom Road, Bangkok 5, Thailand; which stated that Proceeds will be",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      168.23,
+      525.11,
+      182.58
+    ],
+    "text": "credited to a Non-Resident Blocked Account opened at The Chartered Bank,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      192.23,
+      525.31,
+      206.58
+    ],
+    "text": "Colombo, signed by Forbes & Walker Ltd (Brokers), dated 12/05/1975, on behalf",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      216.11,
+      175.58,
+      230.46
+    ],
+    "text": "of the Plaintiff.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      240.02,
+      525.07,
+      254.37
+    ],
+    "text": "The said application was a clear manifestation of the intent to credit the sale",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      264.02,
+      522.1,
+      278.37
+    ],
+    "text": "proceeds to a Non-Resident blocked account in the name of the Plaintiff-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      287.9,
+      157.58,
+      302.25
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      323.78,
+      525.11,
+      338.13
+    ],
+    "text": "The reverse of this document stated that Permission granted for the sale of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      347.66,
+      525.34,
+      362.01
+    ],
+    "text": "securities detailed overleaf subject to the condition that the sale proceeds are",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      371.66,
+      525.13,
+      386.01
+    ],
+    "text": "credited to a non-resident blocked account in the name of Mohamed Razeen",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      395.54,
+      525.32,
+      409.89
+    ],
+    "text": "Sally with an endorsement by the Commissioner of Exchange stating, Permission",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      419.44,
+      524.91,
+      433.79
+    ],
+    "text": "granted for transfer of 27,508 shares in Ceylon Hotels Ltd by Mohamed Razeen",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      443.44,
+      525.34,
+      457.79
+    ],
+    "text": "Sally to McCallum Breweries Ceylon Ltd for Rs. 2,750,800/- Date 12-5-75 [V1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      467.32,
+      525.34,
+      481.67
+    ],
+    "text": "(a)], and not for the payment in full of the said purchase price of Rupees 4,750,000/.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      491.2,
+      522.1,
+      505.55
+    ],
+    "text": "On the same day, by a second agreement dated 12-5-1975 (V2), the Defendant-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      515.2,
+      525.33,
+      529.55
+    ],
+    "text": "Respondent duly transferred the said 27,508 shares at the consideration of Rupees",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      539.08,
+      522.1,
+      553.43
+    ],
+    "text": "2,750, 800/- which was duly paid by the Defendant-Respondent to the Plaintiff-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      562.96,
+      147.74,
+      577.31
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      598.99,
+      525.15,
+      613.34
+    ],
+    "text": "In terms of Section 46 of the said Act, a written appeal against the said decision was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      622.87,
+      525.12,
+      637.22
+    ],
+    "text": "not made by the Plaintiff-Appellant to the Minister within 10 days, (if dissatisfied",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      646.75,
+      525.01,
+      661.1
+    ],
+    "text": "with such decision), which, in terms of Section 47 of the said Act, makes the said",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      670.87,
+      251.09,
+      685.22
+    ],
+    "text": "decision final and conclusive.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      702.79,
+      525.0,
+      717.14
+    ],
+    "text": "The term blocked account appears in the following provisions of the Exchange",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      725.11,
+      525.07,
+      739.46
+    ],
+    "text": "Control Act and, as will be observed, there are restrictions in regard to the utilisation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 13 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      72.71,
+      525.17,
+      87.06
+    ],
+    "text": "of the funds in such a blocked account, which would naturally have been a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      95.15,
+      482.26,
+      109.5
+    ],
+    "text": "deterrent to requiring such payment and which could have been avoided. -",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      129.59,
+      525.28,
+      143.94
+    ],
+    "text": "31(1) Where any person applies for the permission of the bank for the making",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      152.03,
+      525.23,
+      166.38
+    ],
+    "text": "of a payment or the placing of any sum to the credit of any person resident",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      174.35,
+      525.17,
+      188.7
+    ],
+    "text": "outside Sri Lanka, the bank may direct that the sum payable or to be credited",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      196.79,
+      525.17,
+      211.14
+    ],
+    "text": "shall be paid or credited to a blocked account only. Where such direction is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      219.23,
+      525.34,
+      233.58
+    ],
+    "text": "given by the bank such person shall pay or credit such sum to a blocked account.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      253.82,
+      525.33,
+      268.17
+    ],
+    "text": "(4) Any sum standing to the credit of a blocked account shall not be dealt with",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      276.14,
+      321.07,
+      290.49
+    ],
+    "text": "except with the permission of the bank.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      310.7,
+      525.04,
+      325.05
+    ],
+    "text": "The Court of Appeal also expressed its agreement with certain submissions of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      333.14,
+      525.18,
+      347.49
+    ],
+    "text": "Defendant-Respondent, including that Section 7 of the said Act makes no",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      355.58,
+      524.99,
+      369.93
+    ],
+    "text": "distinction as regards monies paid outside or inside Sri Lanka if the person",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      378.02,
+      528.7,
+      392.37
+    ],
+    "text": "concerned is a non-resident, permission of the Controller of Exchange is essential.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      412.48,
+      525.23,
+      426.83
+    ],
+    "text": "The Plaintiff-Appellant, inter alia, takes up the position that there is no admission",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      434.92,
+      525.24,
+      449.27
+    ],
+    "text": "that the Plaintiff resides out of Sri Lanka, that there is no admission that the Plaintiff",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      457.36,
+      525.14,
+      471.71
+    ],
+    "text": "is a non-resident, which in fact is that the Plaintiff is a citizen of Sri Lanka and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      479.8,
+      295.13,
+      494.15
+    ],
+    "text": "resident for all purposes in Sri Lanka.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      514.24,
+      525.21,
+      528.59
+    ],
+    "text": "However, as submitted by the Defendant-Respondent, the Plaintiff constantly",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      536.68,
+      500.62,
+      551.03
+    ],
+    "text": "asserted the position that the Plaintiff resides outside the shores of Ceylon, by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      570.97,
+      525.32,
+      585.5
+    ],
+    "text": "(a) signing and or entering the contract between the parties in Bangkok,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      130.58,
+      593.59,
+      183.26,
+      607.94
+    ],
+    "text": "Thailand,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      615.62,
+      525.3,
+      642.5
+    ],
+    "text": "(b) being referred to as Mohamed Razeen Salih of Bangkok in the preamble of",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      130.58,
+      650.59,
+      525.1,
+      664.94
+    ],
+    "text": "the Agreement for the sale of shares Annexed to the Plaint and marked as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      130.58,
+      672.91,
+      155.06,
+      687.26
+    ],
+    "text": "A,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      694.94,
+      525.04,
+      721.82
+    ],
+    "text": "(c) having his address for the purpose of communication as 1017, Silom road,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      130.58,
+      729.91,
+      249.77,
+      744.26
+    ],
+    "text": "Bangkok 5, Thailand,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 14 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      72.53,
+      525.11,
+      87.06
+    ],
+    "text": "(d) providing his address as 1017, Silom road, Bangkok 5, Thailand, to Forbes",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      130.58,
+      95.15,
+      525.02,
+      109.5
+    ],
+    "text": "and Walkers that acted as the Plaintiffs broker to make an Application",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      130.58,
+      117.59,
+      524.98,
+      131.94
+    ],
+    "text": "under the Exchange Control Act No. 24 of 1953 to Sell a security held by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      130.58,
+      140.03,
+      444.1,
+      154.38
+    ],
+    "text": "or on behalf of a person resident outside the Sterling Area,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      174.29,
+      525.27,
+      188.82
+    ],
+    "text": "(e) providing his address as 1017, Silom road, Bangkok 5, Thailand, in the",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      135.02,
+      196.31,
+      402.07,
+      211.26
+    ],
+    "text": "Agreement to transfer shares dated 12th May 1975.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      219.35,
+      204.77,
+      233.7
+    ],
+    "text": "(Emphasis added)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      253.82,
+      525.32,
+      268.17
+    ],
+    "text": "This fact is further corroborated by the Plaintiff also including as his address 1017,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      276.26,
+      525.16,
+      290.61
+    ],
+    "text": "Silom road, Bangkok, Thailand, in the caption to this action, the caption in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      298.7,
+      524.95,
+      313.05
+    ],
+    "text": "appeal made to the Court of Appeal and the caption of the original action made in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      321.14,
+      356.59,
+      335.49
+    ],
+    "text": "the District Court of Colombo. (Emphasis added)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      353.9,
+      437.14,
+      368.25
+    ],
+    "text": "In this regard the Judgment of the Court of Appeal has stated that;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.02,
+      388.34,
+      525.19,
+      402.69
+    ],
+    "text": "We have considered the case of both parties and the Written Submissions. It is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.02,
+      410.8,
+      524.92,
+      425.15
+    ],
+    "text": "too late to advert to the fact that an admission was not recorded of the residence",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.02,
+      433.24,
+      525.03,
+      447.59
+    ],
+    "text": "of the Plaintiff-Appellant. This fact was never urged in the Original Court and it",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.02,
+      455.68,
+      525.3,
+      470.03
+    ],
+    "text": "is somewhat misleading when one looks at the entirety of the plaint especially",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.02,
+      478.12,
+      525.05,
+      492.47
+    ],
+    "text": "paragraph 4 and agreement marked A with the plaint. Vide terms/conditions of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.02,
+      500.56,
+      522.1,
+      514.91
+    ],
+    "text": "agreement state payment to be paid in Sri Lanka Rupees to the credit of a non-",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.02,
+      523.0,
+      524.98,
+      537.35
+    ],
+    "text": "resident block account. A party cannot approbate and reprobate the same",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.02,
+      545.32,
+      171.98,
+      559.67
+    ],
+    "text": "transaction,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      579.79,
+      246.05,
+      610.82
+    ],
+    "text": "with which this Court agrees.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      614.35,
+      525.16,
+      628.7
+    ],
+    "text": "The Judgment dated 07/09/1993 of the District Court of Colombo and the Judgment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      636.79,
+      525.19,
+      651.14
+    ],
+    "text": "dated 22/02/2011 of the Court of Appeal, have dealt with the relevant provisions of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      659.11,
+      525.19,
+      673.46
+    ],
+    "text": "the Exchange Control Act; the consequences arising from the failure to duly comply",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      681.55,
+      525.16,
+      695.9
+    ],
+    "text": "with such provisions of the Exchange Control Act; and other relevant matters in this",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      703.99,
+      288.65,
+      718.34
+    ],
+    "text": "case, as mentioned above, including -",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      779.51,
+      512.14,
+      806.59
+    ],
+    "text": "P a g e 15 | 15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      72.53,
+      352.51,
+      87.06
+    ],
+    "text": "(i) Section 7 Payments in Sri Lanka;",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      94.97,
+      379.99,
+      109.5
+    ],
+    "text": "(ii) Section 8 Payments outside Sri Lanka;",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      117.41,
+      277.01,
+      131.94
+    ],
+    "text": "(iii) Section 46 Appeals;",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      139.85,
+      340.27,
+      154.38
+    ],
+    "text": "(iv) Section 47 Finality of decisions.",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      174.47,
+      525.34,
+      188.82
+    ],
+    "text": "As discussed earlier, this Court having considered the relevant provisions of the law",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      196.91,
+      525.34,
+      211.26
+    ],
+    "text": "and the legal effect of the oral evidence and Documents marked P1, P2 and P3,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      219.35,
+      521.98,
+      233.7
+    ],
+    "text": "and the documents marked V1 and V2 tendered on behalf of the Plaintiff-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      241.82,
+      525.34,
+      256.17
+    ],
+    "text": "Appellant and the Defendant-Respondents, respectively, agrees with and reiterates",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      264.14,
+      525.18,
+      278.49
+    ],
+    "text": "the findings of the lower Courts, thereby avoiding unnecessary repetition, in regard",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      286.58,
+      359.47,
+      300.93
+    ],
+    "text": "to the reliefs referred to, by the Plaintiff-Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      321.14,
+      525.05,
+      335.49
+    ],
+    "text": "In view of what is stated above, this Court holds that the Exchange Control Act",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      343.58,
+      255.41,
+      357.93
+    ],
+    "text": "applies to the facts of this case.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      378.02,
+      525.33,
+      392.37
+    ],
+    "text": "Accordingly, the Judgment of the District Court of Colombo dated 07/09/ 1993 and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      400.46,
+      525.22,
+      414.81
+    ],
+    "text": "the Judgment of the Court of Appeal dated 22/2/2011, is affirmed; and this Appeal",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      422.92,
+      259.73,
+      437.27
+    ],
+    "text": "is hereby dismissed. No costs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      444.95,
+      188.57,
+      471.71
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      324.07,
+      524.56,
+      497.17,
+      540.1
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      572.83,
+      267.8,
+      588.37
+    ],
+    "text": "Murdu N.B. Fernando, PC J",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      597.07,
+      132.05,
+      612.61
+    ],
+    "text": "I agree",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      324.07,
+      621.19,
+      500.14,
+      636.73
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      669.43,
+      247.16,
+      684.97
+    ],
+    "text": "K. Priyantha Fernando, J",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.02,
+      693.67,
+      363.07,
+      709.21
+    ],
+    "text": "I agree",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      717.79,
+      500.38,
+      733.33
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973,
+      14.039999961853027
+    ]
+  }
+]

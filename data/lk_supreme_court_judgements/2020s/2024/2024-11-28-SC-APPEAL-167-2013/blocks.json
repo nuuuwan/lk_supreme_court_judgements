@@ -1,0 +1,3055 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      91.22,
+      84.59,
+      507.31,
+      100.13
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      101.99,
+      392.74,
+      131.52
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.0,
+      140.89,
+      488.02,
+      154.17
+    ],
+    "text": "SC/APPEAL/167/2013 1. Annaratnam Thangarajah nee",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.0,
+      163.81,
+      396.43,
+      177.09
+    ],
+    "text": "Sinnatamby",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      186.61,
+      460.06,
+      199.89
+    ],
+    "text": "SC/HCCA/LA/284/2010 2. Wijeshanthi Thangaraja,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      209.53,
+      491.5,
+      222.81
+    ],
+    "text": "NWP/HCCA/APPEAL/19/2009(F) Both of Hettiveediya, Puttalam.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      232.45,
+      410.47,
+      245.73
+    ],
+    "text": "DC Puttalam Case No. 27/RE PLAINTIFFS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      255.4,
+      362.35,
+      268.68
+    ],
+    "text": "-VS-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      278.32,
+      503.74,
+      291.6
+    ],
+    "text": "Ratnayake Padmawathi Ramaiah",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      301.12,
+      492.34,
+      314.4
+    ],
+    "text": "No. 7/17, Paul's Road Puttalam",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      324.04,
+      430.27,
+      337.32
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      368.56,
+      416.71,
+      381.84
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      391.48,
+      503.74,
+      404.76
+    ],
+    "text": "Ratnayake Padmawathi Ramaiah",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      414.4,
+      492.34,
+      427.68
+    ],
+    "text": "No. 7/17, Paul's Road Puttalam",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      437.34,
+      501.46,
+      450.62
+    ],
+    "text": "DEFENDANT APPELLANT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      460.14,
+      365.35,
+      473.42
+    ],
+    "text": "-VS-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      483.06,
+      483.87,
+      496.34
+    ],
+    "text": "1. Annaratnam Thangarajah nee",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.63,
+      497.94,
+      397.99,
+      511.22
+    ],
+    "text": "Sinnatamby",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      520.86,
+      460.06,
+      534.14
+    ],
+    "text": "2. Wijeshanthi Thangaraja,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      543.78,
+      494.5,
+      557.06
+    ],
+    "text": "Both of Hettiveediya, Puttalam.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      566.58,
+      505.42,
+      579.86
+    ],
+    "text": "PLAINTIFF - RESPONDENTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      612.45,
+      449.74,
+      625.73
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.87,
+      658.0,
+      513.94,
+      671.45
+    ],
+    "text": "1. Annaratnam Thangarajah nee",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.87,
+      673.17,
+      458.86,
+      716.21
+    ],
+    "text": "Sinnatamby, 2. Wijeshanthi Thangaraja,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      725.85,
+      494.5,
+      739.13
+    ],
+    "text": "Both of Hettiveediya, Puttalam.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "2",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      72.47,
+      529.42,
+      100.65
+    ],
+    "text": "Both appearing by Thiyagaraja Kanagasabai of 229/60.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      110.29,
+      526.31,
+      138.45
+    ],
+    "text": "11th Cross Street, Mannar Road, Puttalam",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      148.09,
+      491.5,
+      161.37
+    ],
+    "text": "Their duly appointed Attorney",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      170.89,
+      505.78,
+      199.17
+    ],
+    "text": "PLAINTIFF-RESPONDENT- APPELLANTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      208.69,
+      350.35,
+      221.97
+    ],
+    "text": "-VS-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      231.61,
+      506.74,
+      244.89
+    ],
+    "text": "Ratnayake Padmawathi Ramaiah",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      254.56,
+      495.34,
+      267.84
+    ],
+    "text": "No. 7/17, Paul's Road Puttalam",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.07,
+      277.48,
+      547.54,
+      290.76
+    ],
+    "text": "DEFENDANT APPELLANT -",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.07,
+      300.28,
+      427.15,
+      313.56
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      344.92,
+      311.69,
+      358.2
+    ],
+    "text": "Before: Hon. Jayantha Jayasuriya, PC, CJ.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      367.72,
+      298.37,
+      381.0
+    ],
+    "text": "Hon. E.A.G.R. Amarasekara, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      390.64,
+      272.33,
+      403.92
+    ],
+    "text": "Hon. A.H.M.D. Nawaz, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      413.56,
+      526.11,
+      441.72
+    ],
+    "text": "Counsel: Faisz Musthapha, PC with Hemasiri Vithanachchi instructed by Sanjeewa Kaluarachchi for the Plaintiff Respondent Appellants.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      451.38,
+      526.42,
+      479.54
+    ],
+    "text": "Manohara De Silva, PC with Senal Kariyawasam instructed by Atheek Inann for the Defendant - Appellant - Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      489.18,
+      201.05,
+      502.46
+    ],
+    "text": "Argued on: 09.05.2024",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      511.98,
+      200.81,
+      525.26
+    ],
+    "text": "Decided on: 28.11.2024",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      556.5,
+      209.69,
+      569.78
+    ],
+    "text": "E.A.G.R. Amarasekara, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      579.42,
+      526.42,
+      652.37
+    ],
+    "text": "This is an Appeal made by the Plaintiff Respondent Appellants (hereinafter sometimes referred to as the Appellants) against the Judgment of the Provincial High Court of Civil Appeal holden in Kurunegala dated 21.07.2010, allowing the appeal of the Defendant - Appellant Respondent (hereinafter sometimes referred to as the Respondent) and setting aside the Judgment of the District Court of Puttalam dated 10.12.2001.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      661.89,
+      408.43,
+      675.17
+    ],
+    "text": "As per the Plaint filed on 07.09.1995, the Appellant states as follows:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      684.64,
+      526.42,
+      698.09
+    ],
+    "text": "1. By Deeds of Gift Nos. 706, 707 and 709 dated 16.06.1974, Alvapillai Sivacolundu",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      699.69,
+      526.42,
+      742.73
+    ],
+    "text": "Navaratnarajah, Pathmanayaki Kadiragaman (nee Pathmanayaki Sivacolundu) and Alvapillai Sivacolundu Thirugnanasampanthan co- owned the premises at No. 07/71, Paul Road which is morefully described in the schedule to the plaint.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "3",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      72.3,
+      526.4,
+      85.75
+    ],
+    "text": "2. By Deed No. 81 dated 24.08.1992, the above-mentioned co-owners transferred the title",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      87.37,
+      526.42,
+      115.53
+    ],
+    "text": "of the premises to the Appellant. 3. Since January of 1993 or time close to that period, the Respondent has been in unlawful",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      117.13,
+      265.37,
+      130.41
+    ],
+    "text": "occupation of the said premises.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      140.05,
+      526.33,
+      168.21
+    ],
+    "text": "As a result, the Appellants had prayed for a declaration of title to the said land and premises, ejectment of the Respondent and all those who are holding under her and for damages.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      177.85,
+      427.39,
+      191.13
+    ],
+    "text": "Subsequently, the Respondent filed the Answer dated 27.03.1996 stating:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      200.6,
+      526.41,
+      214.05
+    ],
+    "text": "1. The Plaintiff has not been in the possession of the said land and the Respondent is not",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      215.65,
+      526.42,
+      243.81
+    ],
+    "text": "aware of the title pleaded by the Plaintiff. 2. The husband of the Respondent, Kanapathy Ratnasamy was the tenant of these premises",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      245.41,
+      526.41,
+      273.6
+    ],
+    "text": "under one Kadiragaman of No. 67, Davidson Road, Colombo. 3. After the demise of husband of the Respondent, the Respondent became the tenant",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      275.2,
+      526.4,
+      303.36
+    ],
+    "text": "under said Kadiragaman. 4. There was no request from the Appellants to the Respondent for attornment to accept",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      304.96,
+      526.25,
+      333.12
+    ],
+    "text": "them as landlords. 5. There is a misjoinder of Plaintiffs and no valid cause of action has been pleaded in the",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      334.84,
+      141.38,
+      348.12
+    ],
+    "text": "plaint.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      357.64,
+      428.59,
+      370.92
+    ],
+    "text": "In consequence, the Respondent prayed to dismiss the Appellants action.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      380.56,
+      526.42,
+      453.38
+    ],
+    "text": "When this case came up for trial on 21.09.1998, the parties admitted the jurisdiction of the Court and raised 15 issues. Out of the said issues, the first 5 issues were raised by the Appellants in accordance with the averments in the plaint, and the Respondent raised the issues No. 6 to 15 in accordance of the averments in the answer. Thereafter, the Appellants moved to raise 3 consequential issues to which the Respondent objected, the 3 consequential issues were:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      463.02,
+      146.66,
+      476.3
+    ],
+    "text": "(i) Issue No.16",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      485.94,
+      526.13,
+      514.1
+    ],
+    "text": "Did the Petitioners notify the Respondent regarding the change of ownership from Kadiragaman to the Petitioners?",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      523.74,
+      150.02,
+      537.02
+    ],
+    "text": "(ii) Issue No.17",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      546.66,
+      526.08,
+      574.82
+    ],
+    "text": "Did the Respondent refuse to accept the notice from the Petitioners informing the Respondent with regard to the purchase of property by the Petitioners?",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      584.34,
+      153.38,
+      597.62
+    ],
+    "text": "(iii) Issue No.18",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      607.29,
+      358.03,
+      620.57
+    ],
+    "text": "If so, were the Petitioners entitled to the reliefs prayed for?",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      630.21,
+      526.37,
+      703.01
+    ],
+    "text": "After hearing the parties, the learned trial Judge postponed the order with regard to the objections made to the above issues No.16 to 18 for 23.09.1999 and before the order on the objections was delivered the learned trial Judge was transferred out of the station and parties moved to have the trial de novo before the new Judge which was allowed and the following facts were admitted by the parties at the trial;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      712.65,
+      429.07,
+      725.93
+    ],
+    "text": "1.The premises in suit situates within the jurisdiction of the Court.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      735.56,
+      506.98,
+      748.85
+    ],
+    "text": "2.The said premises are governed by the provisions of the Rent Act No. 7 of 1972.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      72.47,
+      526.42,
+      85.75
+    ],
+    "text": "3.The original landlord of the subject matter of this action was one Kanagaratnam",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.02,
+      87.37,
+      187.7,
+      100.65
+    ],
+    "text": "Kadiragaman.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      110.29,
+      526.4,
+      123.57
+    ],
+    "text": "4.After the death of the Respondents husband, the Respondent continued as the tenant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.02,
+      125.17,
+      331.03,
+      138.45
+    ],
+    "text": "under the said Kanagaratnam Kadiragaman.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      148.09,
+      508.54,
+      161.37
+    ],
+    "text": "5.The Appellants and the Respondent appeared before the Rent Board of Puttalam.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      170.89,
+      526.43,
+      348.12
+    ],
+    "text": "The case proceeded to trial on 13 issues suggested by the parties and accepted by the Court. Out of said issues the Appellant raised the issues No.1 to 4 which were almost identical to previous issues No.2 to 5 raised on 21.09.1998 except for the change of date regarding the commencement of unlawful possession to March 1993 which was year 1993 in the previous set of issues. Issue No.1 raised on 21.09.1998 need not have been raised due to the admission No.3 mentioned above. Thus, the focus of the new set of issues No.1 to 4 raised on 23.10. 2000 appears to be substantially the same as the issues No.2 to 5 raised on the previous occasion which were abandoned due to the de novo trial. Issues No. 5 to 13 raised by the Respondent on 23.10.2000 focus on the same matters raised by the Respondent on 21.09.1998, by abandoned previous issues No. 6,7, 9,10,11,12,13,14 and 15 respectively. Through the pivotal issues raised by the Respondent for the de novo trial, the Respondent has endeavoured to present a defence that;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.02,
+      357.23,
+      497.02,
+      403.44
+    ],
+    "text": "She was the tenant of aforesaid Kadiragaman, Appellant has not even prayed in the plaint to accept him as the landlord, Hence, there is no cause of action revealed against the Respondent in the plaint.",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      412.96,
+      526.42,
+      515.54
+    ],
+    "text": "Thus, the defense placed through the issues seems to be that since there is no offer for attornment even in the plaint, she has the statutory protection as the tenant under the Rent Act till an offer is made for attornment, as application of the Rent Act has been admitted. However, the counter issues No.16,.17 and 18 that focussed on the offer for attornment and its refusal by the Respondent made prior to the filing of the action which were objected on the previous occasion has not been raised again. Thus, those issues have been totally abandoned for the trial de novo.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      525.18,
+      526.37,
+      553.34
+    ],
+    "text": "The previous landlord, K. Kadiragaman, in his evidence, among other things, had adverted to the following matters;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      562.98,
+      526.42,
+      606.02
+    ],
+    "text": "i) that he sold the property in suit to the Appellants by Deed No. 81 dated 24.08.1992 (P1-at page 187 of the brief) which was executed by him as the Power of Attorney(P2) holder of the three co-owners;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      615.69,
+      526.43,
+      673.61
+    ],
+    "text": "ii) that after the sale of the property he had informed by letter dated 05.03.1993 the Respondent's husband regarding the change of ownership and requested him to have future dealings with the present owners; (Copy of the said letter has been marked P3-at page 187 of the brief)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      683.25,
+      526.12,
+      711.41
+    ],
+    "text": "iii) that there was no doubt that the husband of the Respondent, Ratnasamy was his tenant. (Pages 63-69)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      721.05,
+      526.42,
+      764.09
+    ],
+    "text": "As per the contents of copy of the letter marked P3, original of it had been annexed to the copy sent to the Appellants requesting to send it to the husband of the Respondent, K. Ratnasamy. Envelope addressed to the husband of the Respondent which contained the letters has been",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      71.44,
+      526.42,
+      100.65
+    ],
+    "text": "marked as P4- vide page 68 of the brief. This envelope was opened in open court when the 1st Appellant was giving evidence- vide page 73",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      110.29,
+      430.15,
+      123.57
+    ],
+    "text": "The facts revealed in testimony of 1st Appellant, inter alia, are as follows;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      133.04,
+      526.46,
+      548.54
+    ],
+    "text": "i) After purchasing the property, they informed the Respondent and her husband about the change of ownership orally as well as by a letter. However, the said letter was not accepted by them-vide page 72 of the brief. ii) The envelope which contained the letters has been shown to the witness and opened in open Court- vide pages 72 and 73 of the brief. As per her evidence, the said envelope marked P4 had the name and address of the 1st Appellant as the sender and name and address of the husband of the Respondent as the recipient. As per her evidence there is an endorsement on the envelope in Tamil indicating the refusal to accept vide pages 72 and 73 of the brief. iii) When this envelope was opened in open Court it contained two letters which have been marked as P5 and P6. (P5 and P6 are found at bottom page Nos.197 and 198 of the brief respectively). Even though the envelope, as per evidence, was addressed to the husband of the Respondent, those two letters have been addressed to the Respondent as well as to her husband. P5 contained the offer for attornment of the new owners, namely the Appellants and P6 is the original of the letter P3 sent by the previous landlord, Kadiragaman. As per the said request made in that letter, rent was not paid to the Appellants. - vide pages 73 and 74. iv) Appellants have made complaints to the Rent Board and Mediation Board against the Respondent, her husband and some other people. The application to the Rent Board and its decision has been marked as P7 and P8 (found at pages 199/201 and 201/203 of the brief). As per P7, the application to the Rent Board was to get the vacant possession from the Respondent and P8 shows that the inquiry commenced in 04.11.1992 prior to the dates of aforesaid letter offering for attornment dated 10.03.1993. As per the decision mentioned in P8, Rent Board had advised the Appellant to seek legal remedy after an ex-parte inquiry held on 16.06.1993 due to the fact that the ownership could not be ascertained. P10 found at page 202/204 of the brief also indicate that mediation Board had issued a non-settlement certificate on 07.12.1993.",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      558.18,
+      526.42,
+      750.17
+    ],
+    "text": "The aforementioned documents show that, after purchasing the property in P1 on 24.08.1992, the Appellants were attempting to evict the Respondents and get the premises back through an application made to the Rent Board and while that application pending, they have sent the notice of attornment as alleged. As per the evidence given by William Rajapakshe, the Chairman, Mediation Board application before that Board was also to get the premises back on the footing that the Respondents were occupying it without permission. Perhaps during such inquiries, the Appellants would have informed orally that they have purchased the property. In fact, as referred to later in this Judgment, the Respondent in her evidence-in-chief has admitted that Appellants orally offered to attorn to them as the landlord during such inquiries even though the aforesaid application was to get the premises back for the Appellants. Thus, the only other evidence that contain an offer for attornment made by the new owner of the property is said letter marked P6 dated 10.03.1993.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "6",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      72.47,
+      526.08,
+      100.65
+    ],
+    "text": "D.V. Chandrasena, who was the Post Master of Puttalam in his evidence had stated inter alia as follows;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      109.88,
+      526.4,
+      124.53
+    ],
+    "text": "that according to the envelope (P4) the letter had been posted on 12- 03-1993 and it was",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      126.01,
+      526.32,
+      155.13
+    ],
+    "text": "addressed to Kanapathi Ratnasamy (husband of the Respondent), that the Registration No. 6329 on the envelope corresponded to the Registered Article",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      156.61,
+      526.4,
+      201.57
+    ],
+    "text": "Receipt (P11), that the named recipient of the mentioned on the envelope has refused to accept it, that they maintain postmans minuets relating to delivery of letters and such minuets",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      203.05,
+      526.4,
+      261.93
+    ],
+    "text": "reveals that the postman was unable to deliver it as per one entry due to the reason the premises was closed and as per the other entry due to the fact that addressee refused to accept it. that when addressee refused to accept, they keep the letter for 15 days and thereafter,",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      263.56,
+      216.05,
+      276.84
+    ],
+    "text": "return to the sender.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      286.36,
+      526.43,
+      746.45
+    ],
+    "text": "The evidence of the said post master on balance of probability proves that the envelope containing the letter for attornment had been refused by the addressee, the husband of the Respondent. Thus, if the tenant was the husband of the that premises there is sufficient evidence to establish the refusal to accept the envelope containing the letter offering attornment. He must bear the consequence of his acts. Even though, the husband of the Respondent did not open the envelope to see the offer for attornment, it has to be construed as a refusal of attornment since offer could not be accepted due to his own fault. Most probably he refused to accept the delivery of the said letter because he knew what it may contain. Thus, there was evidence that amounts to refusal to attorn the Appellants as the new landlord of the premises by the husband of the Respondent who was the tenant at that time. Thus, from that time onwards they are in unlawful possession as they refused to enter into a new tenancy agreement with the new owner of the premises. As per the admission No.4 made at the beginning of the de novo trial, he was the tenant of Kadiragaman, previous landlord, and after his demise the Respondent became the tenant of said Kadiragaman. However, in law, Kadiragaman cannot create a new tenancy relationship with the Respondent after the demise of the husband of the Respondent binding the Appellants without the approval of the Appellants as he was not the owner by that time. There cannot be a legally valid succession to or continuation of the tenancy of the husband of the Respondent as by his action of said refusal to accept the envelope containing the offer letter, he refused to enter into a valid contract of tenancy with the new owner. In common law, it is said that hire goes before sale. As such, the lessee or tenant can remain in the property till his lease period is over. As no long-term written lease agreement with Kadiragaman has been tendered, the tenancy should have been based on a monthly tenancy. With the refusal to attorn to the new owner, the husband of the Respondent, then tenant refused his option to enter into a new tenancy agreement with the new landlord. When he refused to attorn and pay rent to the new landlord he loses his right to claim the protection under the Rent Act as he becomes an unlawful occupier. In such situation there cannot be any continuation or succession of tenancy after his demise. Therefore, even though there is an admission that after the demise of the husband of the Respondent, the Respondent became the tenant under Kadiragaman, there is an error of law in that as there cannot be a valid agreement of tenancy between the Respondent and the previous owner which binds the Appellants. In this regard, I prefer to quote following passage from The Law of Property in Sri Lanka by G.L.Peiris, Volume Two, at page 235.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "7",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      72.47,
+      526.41,
+      294.24
+    ],
+    "text": "It would appear, therefore, that a purchaser of property which had been let was bound by the lease, and had to permit the lessee to continue in occupation until the end of the term of the lease. The purchaser may, of course, as against his vendor, insist on vacant possession or, in the alternative, claim rescission of the sale, but if he desires to abide by the sale, he can only take possession along with the lessee in occupation, if the latter chooses to continue with the lease. The lessee had the option of cancelling or surrendering the lease and pursuing his remedy upon his contract against his landlord or of retaining occupation of the property in terms of his lease against the purchaser. But, in the event of his pursuing the latter course, he was under an obligation to pay rent to the purchaser and to perform all the other obligations due by him as tenant to his landlord. The option or privilege that the tenant had to decide whether he would become a tenant of the purchaser consisted in this, that it was open to him to cancel or surrender the lease if he did not desire to become a tenant of the purchaser. However, where he chose to continue in possession as tenant of the premises, he did not have any right to refuse to pay rent or to refrain from fulfilling the other obligations of a tenant to the purchaser.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      303.88,
+      526.42,
+      361.8
+    ],
+    "text": "Hence, the tenant of the previous landlord has an option either to leave or to remain in the property. If he decides to remain in the property. He must attorn to accept the new owner as the landlord and pay rent. It is clear by his own conduct, the husband of the Respondent refused to attorn but remained in the property without paying rent to the new landlord.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      371.44,
+      526.41,
+      399.6
+    ],
+    "text": "The Respondent who was called as a witness by the Appellants, in her evidence-in-chief had stated inter alia as follows;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      408.83,
+      526.36,
+      423.48
+    ],
+    "text": "She was unaware as to why a case had been instituted against her and after coming to",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      424.96,
+      526.27,
+      454.1
+    ],
+    "text": "Courts only, she became aware that it was due to nonpayment of rent. Kadiragaman is the owner of the property and he used to collect rent during the time",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      455.7,
+      526.35,
+      484.82
+    ],
+    "text": "when her husband was alive. She came to know that Appellants were the owners of the subject matter only after",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      486.3,
+      526.29,
+      515.42
+    ],
+    "text": "coming to courts. (Plaint was filed in September 1995) Even though, she was aware from 1995 that the Appellants had become the owners, she",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      516.9,
+      526.42,
+      561.02
+    ],
+    "text": "did not pay rent to them as she has to pay only to Kadiragaman as to her knowledge Kadiragaman is the owner of the house. The complaint to the Mediation Board was made by her and it was not settled. There",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      562.5,
+      526.35,
+      591.62
+    ],
+    "text": "when requested to tender the deed, the Appellants absconded. The Rent Board inquiry, which happened in 1993, was based on an application filed by",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      593.1,
+      526.43,
+      621.29
+    ],
+    "text": "the Appellants who asked for the payment of rent. There the Appellants said that they purchased the land and pay rent but she did not pay.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      630.93,
+      526.42,
+      748.49
+    ],
+    "text": "Above shows what the Respondent (Defendant in the District Court) had stated when she was called to give evidence by the Appellants (Plaintiffs) lawyer in the District Court. It appears that her own lawyer has cross examined her after that and pointed out that the application filed there at the Rent Board was not for the recovery of rent. As mentioned before, it was to get the vacant possession of the premises as the Appellants were living in a rented house. During cross examination, when questioned regarding P7, the Respondent has admitted that there was no request to accept the Appellants as landlords. Further, through that cross examination it has been proved that the Respondent had deposited rent at the Urban Council from 1992 to 2000.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "8",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      72.47,
+      526.42,
+      234.69
+    ],
+    "text": "Even though, the proviso to section 175(2) read along with section 120(1) of the Evidence Ordinance allows a party to an action to be called as a witness even without his name being included in the list of witnesses. In Dalton Wijeyeratne V Hermine Wijeyerattne (1993) 1 Sri L R 313, it was held that those sections do not enable one party to compel the other party to give evidence. Peculiarly, when the Appellants (Plaintiffs) wanted to call the Respondent (Defendant) to give evidence, the Counsel for the Respondent has not objected for calling the Respondent as a witness by the Appellants counsel. The Respondent while giving evidence has admitted, that during the inquiry at the rent board (though it was not an application recover rent) there was a request from the Appellants to pay rent as they have purchased the land. Thus, the Respondent herself admits that there was an oral request to attorn to the new owners accepting them as the landlord.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      244.33,
+      526.35,
+      272.52
+    ],
+    "text": "The above indicates that there were offers orally as well as in writing to attorn to the new owners and pay rent in their name.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      282.16,
+      526.42,
+      503.9
+    ],
+    "text": "In certain case law, long occupation after the change of ownership appears to have been considered as indirect attornment. However, here the Respondent has not taken such stance in her answer or issues. It is true that the Respondent has deposited rent at the authorised person but those receipts do not indicate that money was deposited in the Appellants name. Further, while giving evidence, the Respondent has stated that they have to pay the rent to Kadiragaman, previous landlord of the property, and they have not paid to the Appellants indicating that she still considers the previous owner as the landlord. As such, long occupation by the Respondent after the change of ownership of the property or payment of rent to the authorised person cannot be considered as implied attornment. In this regard it is worth to refer to the decision made by a bench of 5 judges in Gunasekara V Jinadasa (1996) 2 Sri L R 115, where it was held that payment to the authorised person in the name of the person who is not the landlord does not discharge the tenants obligation to the landlord. Similarly, there was continued occupation in the said case but court declined to rely on the presumption of attornment due to long occupation after the change of ownership. The said case also held the availability of vindicatory action to evict a tenant who became a trespasser, when this kind of situations exist.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      513.54,
+      526.44,
+      645.89
+    ],
+    "text": "Hence in my view, there were sufficient material on balance of probability to held in favour of the Appellants that there was a refusal to attorn and therefore the Respondent falls within the meaning of a trespasser. Thus, there were material to answer issues No. 2 and 8 raised in the de novo trial (which are substantially the same as Issues No. 3 and 8 of the abandoned issues which have been answered in favour of the Plaintiff by the learned District Judge) in favour of the Appellants (Plaintiffs). Thus, the action filed in the District Court had to be decided in favour of the Plaintiff as per the evidence led in this case. The damages asked from the date of the plaint is Rs.1000/- per month. Now the basis for calculating, should not be the rent paid but the unlawful occupation as a trespasser. In that sense it appears to be very nominal amount.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      655.53,
+      526.41,
+      698.57
+    ],
+    "text": "At the conclusion of the trial the learned trial Judge in the District Court of Puttalam answered the abandoned set of 18 issues raised before the previous Judge and entered Judgment dated 10.12.2001 in favour of the Appellants inter alia on the following grounds:",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      708.04,
+      526.08,
+      721.49
+    ],
+    "text": "1. The Appellants and their predecessor had by documents P4, P5 and P6 informed the",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      723.09,
+      526.2,
+      751.25
+    ],
+    "text": "Respondent regarding the change of ownership and requested her to attorn to the Appellants. (page 128)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      781.66,
+      303.17,
+      806.5
+    ],
+    "text": "9",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      72.3,
+      526.27,
+      85.75
+    ],
+    "text": "2. The Respondent was not entitled to plead ignorance of change of ownership as prior to",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      87.37,
+      526.41,
+      130.41
+    ],
+    "text": "the date of despatch of letters 'P5 and P6' she had participated in the Rent Board proceedings. (page 128) 3. The Respondent, with the knowledge of change of ownership, has refused to accept the",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      132.01,
+      526.36,
+      160.17
+    ],
+    "text": "Appellants as new landlords. 4. Since the Respondent has refused to accept the new owners (Appellants), She has",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      161.89,
+      526.37,
+      190.05
+    ],
+    "text": "become a trespasser. 5. The conduct of the Respondent not to accept the Appellants as landlords dispensed with",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      191.65,
+      281.33,
+      204.93
+    ],
+    "text": "the requirement for a notice to quit.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      214.57,
+      526.42,
+      480.98
+    ],
+    "text": "I observe certain errors made by the learned District Judge in his Judgment. In fact, it is not the Respondent who originally refuse to attorn. It was her husband who was the tenant at the relevant time. As explained above by his conduct, refusing to accept the letters sent by post by the new owner which contained the offer for attornment, impeded the possibility of making the offer observable. Thereafter, he or one who was under him should not be allowed to say that there was no offer. It is his own conduct that made the offer not available for him to read and act accordingly. On the other hand, the Respondent has admitted that during the Rent Board inquiries there was a request to attorn and pay the rent. It was the husband of the Respondent who was the tenant at that time as per the admission made. So, the refusal to accept the Appellants as landlords was by the then tenant, husband of the Respondent, and from that time onwards, he and occupants under him (including the Respondent) became trespassers as far as the Appellants are concerned. Thus, Respondent after the demise of the husband cannot enter into a new tenant and landlord relationship with the previous landlord as in a way to bind the new owners without the consent of the new owner, even though the admission says that the Respondent became a tenant of the previous landlord after her husbands demise which should have naturally taken place after the refusal to accept the letter containing the offer for attornment was made. Once the original tenant become a trespasser, there cannot be any continuation or succession to the tenancy rights which existed prior to that.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      490.62,
+      526.42,
+      652.85
+    ],
+    "text": "The learned District Judge also erred by answering the abandoned issues. However, the issues No. 1 to 13 raised in de novo trial are substantially the same as issues No.2,3,4,5, 6,7,9,10,11,10,13,14 and 15 of the abandoned issues as both set of those issues which are substantially the same, have focused on the same matters. Thus, answering issues no.2,3,4,5,6,7,9,11,10,13 14 and 15 of the abandoned issues can be considered as answering issues No 1 to 13 raised for the de novo trial. I do not see any harm that can be caused to the Respondent in answering issues No.1and 8 of the abandoned issues. It does not matter even the two answers given to the said two issues are deleted from the judgment. It does not affect the finding made to the issue No.3 of the abandoned issues which in turn is the issues No. 2 in the new set of issues raised at the de novo trial. The answer was that the Respondent is an unlawful occupier indicating that she is a trespasser.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      662.49,
+      526.42,
+      750.17
+    ],
+    "text": "The other noticeable error made by the learned District Judge is the error made by answering purported issues No.16, 17 and 18 which were never issues in the first set of issues nor in the new set of issues raised for the de novo trial as they were objected in the first occasion and no order was made in that regard. One may argue if they were raised at the de novo trial it could have been objected and if it was accepted it could have been tested in a higher forum. Therefore, answering them was prejudicial to the Respondent. Under normal circumstances this argument",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      781.66,
+      305.93,
+      806.5
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      72.47,
+      526.4,
+      100.65
+    ],
+    "text": "may have some force but due to the following reasons I cannot hold that any prejudice has been caused.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.02,
+      109.88,
+      526.37,
+      124.53
+    ],
+    "text": "When evidence was led at the de novo trial these issues that focus on whether there",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.02,
+      126.01,
+      526.16,
+      155.13
+    ],
+    "text": "was an offer made to attorn were not there. The only issue that was raised by the Appellants (Plaintiffs) focus on the unlawful",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.02,
+      156.61,
+      526.14,
+      185.85
+    ],
+    "text": "occupation was issue No. 2 which was issue no.3 in the abandoned set of issues. The Appellants led evidence to show that the occupation of the premises by the",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.02,
+      187.33,
+      526.41,
+      231.33
+    ],
+    "text": "Respondent is unlawful only by leading evidence relating to offer made in relation to attornment and related matters. No objection was made against leading of that evidence stating that the said evidence",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.02,
+      232.81,
+      526.41,
+      261.93
+    ],
+    "text": "was exceeding the scope of the action. Even the defence taken included that there was no offer for attornment, even in the",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.02,
+      263.56,
+      526.35,
+      292.68
+    ],
+    "text": "plaint- vide new issue no.8 and abandoned issue No.10 and averment 8 of the answer. The Respondent also gave evidence relating to matters relating to request made by the",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.02,
+      294.16,
+      526.08,
+      323.28
+    ],
+    "text": "Appellants and not paying rent after that. On those evidence the learned District judge has answered the issue No.3 of the",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.02,
+      324.76,
+      526.42,
+      383.76
+    ],
+    "text": "abandoned issues which is issue No.2 in the new set of issues against the Respondent and that answer remains intact without the support of the answers made inadvertently to said purported issues No. 16,17,18. Without making objections to the Appellants (Plaintiffs) leading evidence of refusal to",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.02,
+      385.24,
+      526.42,
+      458.06
+    ],
+    "text": "attorn in relation to said issue No.2 (No.3 in the abandoned set of issues), now it cannot be allowed to say that answering them were prejudicial to her as those evidence was led in support of the said issue No.2 without objection at the trial. Even the answers to purported issues No.16,17, and 18 were deleted, the answer to said issue no.2 remains intact.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      467.7,
+      526.4,
+      525.62
+    ],
+    "text": "Being aggrieved by the decision of the learned District judge, the Respondent made an appeal to the Provincial High Court of Civil Appeal holden in Kurunegala. The learned Judges of the High Court by their Judgment dated 21.07.2010 set aside the Judgment of the District Court of Puttalam dated 10.12.2001 and held in favour of the Respondent on the following grounds:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      535.09,
+      526.4,
+      548.54
+    ],
+    "text": "1. There is no proof that the letters marked as \"P5\" and \"P6\" were in fact sent by registered",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      550.14,
+      526.29,
+      578.3
+    ],
+    "text": "post or if at all they were sent to the Respondent. 2. The letter \"P3\" is addressed to both the Respondent and her husband who was among",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      579.9,
+      526.41,
+      637.97
+    ],
+    "text": "the living at that time but the envelope is addressed only to the husband of the Respondent. This letter was sent twice to the husband of the Respondent but was returned unaccepted. 3. The learned District Judge held that the husband of the Respondent has refused to",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      639.57,
+      526.41,
+      697.49
+    ],
+    "text": "accept it acting as her agent and therefore she is liable to be sued in ejectment on the basis that she has refused to attorn to the new owner and therefore in unlawful occupation. 4. When the letter is only addressed to the husband, and the Respondent had no",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      699.09,
+      526.28,
+      742.13
+    ],
+    "text": "information of the contents of the envelope the refusal of the husband to accept same cannot be attributed to her. 5. The Appellants have not been able to offer any explanation for not addressing the letter",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      743.72,
+      447.34,
+      757.01
+    ],
+    "text": "to the Respondent if they considered her as the tenant of the premises.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      781.66,
+      305.93,
+      806.5
+    ],
+    "text": "11",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      72.3,
+      526.4,
+      85.75
+    ],
+    "text": "6. The Respondent was aware of the transaction between the Appellants and her landlord.",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      87.37,
+      526.27,
+      130.41
+    ],
+    "text": "Assuming that she was aware of those facts still there is no duty casts on the tenant to request the new owner to accept her as the tenant. 7. The argument of the counsel for the Appellants that answering the set of issues",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      132.01,
+      526.2,
+      160.17
+    ],
+    "text": "abandoned by the parties, does not have effect of causing miscarriage of justice to the Respondent lacks merit and is rejected.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      169.81,
+      526.29,
+      242.73
+    ],
+    "text": "The learned High Court Judges in fact erred with regard to the grounds mentioned in item 1 and 2 above. P3 was the copy that was with the previous landlord who marked it during his evidence. P6 is the original of P3 which was sent along with the P5, offer for attornment, by registered post in the envelope marked P4. The Post master gave evidence regarding the refusal to accept by the husband of the Respondent when it was delivered on the addressee.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      252.28,
+      526.42,
+      474.14
+    ],
+    "text": "If the judgment of the learned District judge gives the impression that the aforesaid letters were refused to accept by the husband of the Respondent as an agent of her (item 3 above), there is error in that reasoning. Refusal by the husband cannot be attributed as refusal by the Respondent as it was not known to them whether there is a letter addressed to the Respondent in the sealed cover when the cover is addressed to her husband only (see item 4 above) . However, as explained above, her husband was the tenant at that time, his conduct as explained above impeded the acceptance or refusal of the contents of the offer made and as such, he must face the consequence as the tenant. His own wrong cannot be held in his favour. As explained above, it has to be considered as the then tenant refused to accept the offer. On the other hand, there was evidence by the Respondent herself regarding the request made during the Rent Board inquiry to accept the tenancy with the new owner and pay rents to them which was not adhered to. As explained above even if there is an error in reasoning, after such refusal, then tenant and people under him including the Respondent became trespassers and there cannot be any continuation or succession to the tenancy that existed prior to that. Thus, issue No.2 (of new set) has to be answered in favour of the Appellants.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      483.66,
+      526.4,
+      571.46
+    ],
+    "text": "I do not think the Appellant needs to offer an explanation regarding addressing the envelope to the husband of the Respondent as he was the tenant at that time (see item 5 above). With regard to item 6 above, it is not only knowledge about new ownership, there were offers made orally at the Rent Board inquiry as per the evidence given by the Respondent herself to accept them as landlords and pay rent to them. Written offer was impeded by the conducted of the then tenant himself as explained above.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      581.1,
+      526.41,
+      639.05
+    ],
+    "text": "With regard to the item 7 above, I have already stated above that under normal circumstances it could have caused miscarriage of justice. However, as explained above, owing to the circumstances of this case, there cannot be any prejudice or miscarriage of justice caused to the Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      648.69,
+      526.42,
+      706.61
+    ],
+    "text": "Being aggrieved by the above High Court Judgment, the Appellants appealed to this Court. When the leave to appeal application was supported, this Court granted leave on 27.11.2013 on the following questions of law in Paragraph 11(a, c, d, f and g) of the Petition dated 30.08.2010 and they are answered as follows;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      716.25,
+      526.13,
+      744.41
+    ],
+    "text": "a) Did the Provincial High Court of Civil Appeal misdirect itself in holding that the judgment of the learned District Judge had directed in a miscarriage of justice for the reason that the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      781.66,
+      305.93,
+      806.5
+    ],
+    "text": "12",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      72.47,
+      526.24,
+      100.65
+    ],
+    "text": "learned District Judge had answered issues raised before his predecessor inasmuch as the said error, if any, was only an irregularity which had not occasioned a failure of justice?",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      110.12,
+      522.34,
+      123.57
+    ],
+    "text": "A. Answered in the affirmative. It is an irregularity as far as this case is concerned.",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      133.21,
+      526.26,
+      161.37
+    ],
+    "text": "c) Did the Provincial High Court of Civil Appeal misdirect itself by failing to take into account that the burden of establishing tenancy was with the respondent?",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      170.89,
+      526.27,
+      184.17
+    ],
+    "text": "A. Answered in the affirmative. As this has been filed as a vindicatory action based on",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      185.89,
+      526.18,
+      214.05
+    ],
+    "text": "title and once the title and unlawful possession is proved, lawfulness of the possession has to be proved by the Respondent.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      223.57,
+      526.1,
+      266.76
+    ],
+    "text": "d) Did the Provincial High Court of Civil Appeal err in failing to take cognizance of the fact that, although the previous issue had not been formally recorded afresh, they arose on the evidence led and as such the Court was justified in considering same?",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      276.28,
+      525.99,
+      289.56
+    ],
+    "text": "A. No what the High Court of Civil appeal failed to consider is that the new issues",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      130.58,
+      291.16,
+      526.33,
+      334.32
+    ],
+    "text": "raised are substantially the same as the parallel issues what has been abandoned but answered, and that the additional issues that were answered but not found among the new issues do not cause any prejudice miscarriage of justice..",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      343.84,
+      526.42,
+      387.0
+    ],
+    "text": "f) Did the Provincial High Court of Civil Appeal err by failing to consider that the respondent herself had put in issue the request for attornment and as such the matter raised in Issues 16, 17 and 18 related to consequences flowing from the said issues raised by the respondent?",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      396.52,
+      526.41,
+      409.8
+    ],
+    "text": "A. In the Affirmative due to issue No.8. On the other hand, there was no objection",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      130.58,
+      411.4,
+      526.12,
+      439.68
+    ],
+    "text": "raised in the Court below for leading evidence regarding offer made for attornment in view of new issue No.2",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      449.22,
+      529.54,
+      477.38
+    ],
+    "text": "g) Did the Provincial High Court of Civil Appeal err in interfering with the finding of fact by the learned District Judge that the Petitioners had requested the Respondent to attorn to them?",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      487.02,
+      526.09,
+      500.3
+    ],
+    "text": "A. In the affirmative as some findings as to the delivery of letters and Refusal by the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      135.02,
+      501.9,
+      526.24,
+      530.06
+    ],
+    "text": "learned high Court Judges are not correct. However, as observed above there are errors made by the District Court too.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      539.7,
+      526.25,
+      567.86
+    ],
+    "text": "As for the reasons given above, the question of law raised on behalf of the Respondent recorded in Journal Entry dated 27.11.2013 has to be answered in the negative.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      577.5,
+      526.37,
+      620.57
+    ],
+    "text": "For the reasons given above, the Judgment of the learned High Court Judges dated 21.07.2010 is set aside. The decision of the learned District Judge to grant relief as prayed for in the plaint is confirmed. However, the Judgment of the District Court should stand amended as follows;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      630.21,
+      526.19,
+      658.37
+    ],
+    "text": "The issues No.1 and 8 in the abandoned set of issues mentioned in the judgment and answers to them have to be deleted.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      668.01,
+      488.26,
+      681.29
+    ],
+    "text": "The purported issues No 16,17 and 18 and answers to them have to be deleted.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      690.93,
+      526.4,
+      719.09
+    ],
+    "text": "The other issues of the abandoned issues and the answers made to them have to be considered as answers to the parallel issue raised at the trial de novo.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      781.66,
+      305.93,
+      806.5
+    ],
+    "text": "13",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      72.47,
+      526.31,
+      115.53
+    ],
+    "text": "If there is any conflict with the reasons given in this judgment in favour of the Appellants with the reasons given in the District Court Judgment, the reasons given by this Court must replace the conflicting reasons in the District Court Judgment.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      125.17,
+      252.65,
+      138.45
+    ],
+    "text": "Hence, Appeal is allowed with costs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      231.61,
+      434.71,
+      244.89
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      300.28,
+      239.69,
+      313.56
+    ],
+    "text": "Hon. Jayantha Jayasuriya, PC, CJ.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      323.2,
+      147.02,
+      336.48
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      324.07,
+      369.04,
+      411.07,
+      382.32
+    ],
+    "text": "The Chief Justice",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      460.62,
+      200.33,
+      473.9
+    ],
+    "text": "Hon. A.H.M.D. Nawaz, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      483.42,
+      147.02,
+      496.7
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      529.26,
+      449.74,
+      542.54
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

@@ -1,0 +1,8409 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      71.99,
+      488.8,
+      88.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.83,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.65,
+      145.92,
+      472.85,
+      159.92
+    ],
+    "text": "Sooriya Pahtirennehelage Piyalka",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.65,
+      167.04,
+      355.99,
+      181.04
+    ],
+    "text": "Weerakanthi,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.65,
+      188.16,
+      355.99,
+      202.16
+    ],
+    "text": "Ingaradaula,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.65,
+      209.28,
+      344.95,
+      223.28
+    ],
+    "text": "Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.65,
+      230.52,
+      333.67,
+      244.52
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      284.79,
+      342.07,
+      298.77
+    ],
+    "text": "SC APPEAL NO: SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      305.91,
+      319.27,
+      319.89
+    ],
+    "text": "SC LA NO: SC/HCCA/LA/310/2017",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      327.03,
+      338.95,
+      341.01
+    ],
+    "text": "HC NO: NWP/HCCA/KUR/102/2011/F",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      348.15,
+      281.09,
+      362.13
+    ],
+    "text": "DC KULIYAPITIYA NO: 605/T",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      381.27,
+      295.97,
+      395.27
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.65,
+      423.53,
+      465.29,
+      437.53
+    ],
+    "text": "1. Sembukutti Arachchige Shanthi",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      444.65,
+      350.83,
+      458.65
+    ],
+    "text": "Siriwardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      465.77,
+      422.35,
+      479.77
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      486.89,
+      338.83,
+      500.89
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.45,
+      508.01,
+      467.45,
+      522.01
+    ],
+    "text": "1A. Sembukutti Arachchige Radhika",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      529.25,
+      350.83,
+      543.25
+    ],
+    "text": "Siriwardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.45,
+      550.37,
+      422.35,
+      564.37
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.65,
+      571.52,
+      494.38,
+      585.52
+    ],
+    "text": "2. Sembukutti Arachchige Premaratne,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      592.64,
+      442.78,
+      606.64
+    ],
+    "text": "Dambagahagedera, Yakwila.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.65,
+      613.76,
+      487.9,
+      627.76
+    ],
+    "text": "3. Sembukutti Arachchige Piyathilaka,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      634.88,
+      422.35,
+      648.88
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.65,
+      656.0,
+      501.58,
+      670.0
+    ],
+    "text": "4. Sembukutti Arachchige Dharmasena,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      677.12,
+      360.19,
+      691.12
+    ],
+    "text": "Ambalangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      698.23,
+      338.83,
+      712.24
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      35.14,
+      320.59,
+      62.94
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.45,
+      72.0,
+      410.11,
+      86.0
+    ],
+    "text": "4A. Gange Lalitha De Silva",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.45,
+      93.12,
+      520.3,
+      107.12
+    ],
+    "text": "4B. Sembukutti Arachchige Sisira Priyankara",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.45,
+      114.24,
+      496.03,
+      128.24
+    ],
+    "text": "4C. Sembukutti Arachchige Sisira Sanoja",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      135.36,
+      319.63,
+      149.36
+    ],
+    "text": "Dilhani",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.45,
+      156.48,
+      511.85,
+      170.48
+    ],
+    "text": "All of No. 5, Polwatta Municipal Houses,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      177.6,
+      360.19,
+      191.6
+    ],
+    "text": "Ambalangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.65,
+      198.72,
+      473.21,
+      212.72
+    ],
+    "text": "5. Sembukutti Arachchige Leelawati",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      219.96,
+      327.31,
+      233.96
+    ],
+    "text": "Manike,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      241.11,
+      422.35,
+      255.11
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.65,
+      262.23,
+      452.81,
+      276.23
+    ],
+    "text": "6. Sembukutti Arachchige Paulu",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      283.35,
+      347.95,
+      297.35
+    ],
+    "text": "Appuhamy,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      304.47,
+      449.74,
+      318.47
+    ],
+    "text": "Munamaldeniya, Akarawatta.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.65,
+      325.59,
+      356.95,
+      339.59
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      358.71,
+      370.63,
+      372.71
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.65,
+      391.83,
+      472.85,
+      405.83
+    ],
+    "text": "Sooriya Pahtirennehelage Piyalka",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.65,
+      412.97,
+      355.99,
+      426.97
+    ],
+    "text": "Weerakanthi,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.65,
+      434.09,
+      423.43,
+      448.09
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.65,
+      455.21,
+      395.59,
+      469.21
+    ],
+    "text": "PetitionerAppellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.65,
+      488.33,
+      295.97,
+      502.33
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.89,
+      521.45,
+      465.65,
+      535.45
+    ],
+    "text": "1. Sembukutti Arachchige Shanthi",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.93,
+      542.57,
+      351.19,
+      556.57
+    ],
+    "text": "Siriwardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      563.84,
+      422.35,
+      577.84
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      584.96,
+      338.83,
+      598.96
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.45,
+      606.08,
+      467.45,
+      620.08
+    ],
+    "text": "1A. Sembukutti Arachchige Radhika",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      627.2,
+      350.83,
+      641.2
+    ],
+    "text": "Siriwardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.45,
+      648.32,
+      422.35,
+      662.32
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.65,
+      669.44,
+      494.38,
+      683.44
+    ],
+    "text": "2. Sembukutti Arachchige Premaratne,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.57,
+      690.55,
+      442.78,
+      704.56
+    ],
+    "text": "Dambagahagedera, Yakwila.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      35.14,
+      320.59,
+      62.94
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      249.65,
+      72.0,
+      487.9,
+      86.0
+    ],
+    "text": "3. Sembukutti Arachchige Piyathilaka,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      93.12,
+      422.35,
+      107.12
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      249.65,
+      114.24,
+      501.58,
+      128.24
+    ],
+    "text": "4. Sembukutti Arachchige Dharmasena,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      135.36,
+      360.19,
+      149.36
+    ],
+    "text": "Ambalangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      156.48,
+      338.83,
+      170.48
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.45,
+      177.6,
+      410.11,
+      191.6
+    ],
+    "text": "4A. Gange Lalitha De Silva",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.45,
+      198.72,
+      520.3,
+      212.72
+    ],
+    "text": "4B. Sembukutti Arachchige Sisira Priyankara",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.45,
+      219.96,
+      496.01,
+      233.96
+    ],
+    "text": "4C. Sembukutti Arachchige Sisira Sanoja",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      241.11,
+      319.63,
+      255.11
+    ],
+    "text": "Dilhani",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.45,
+      262.23,
+      511.85,
+      276.23
+    ],
+    "text": "All of No. 5, Polwatta Municipal Houses,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      283.35,
+      360.19,
+      297.35
+    ],
+    "text": "Ambalangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      249.65,
+      304.47,
+      473.21,
+      318.47
+    ],
+    "text": "5. Sembukutti Arachchige Leelawati",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      325.59,
+      327.31,
+      339.59
+    ],
+    "text": "Manike,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      346.71,
+      422.35,
+      360.71
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      249.65,
+      367.83,
+      452.81,
+      381.83
+    ],
+    "text": "6. Sembukutti Arachchige Paulu",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      388.95,
+      347.95,
+      402.95
+    ],
+    "text": "Appuhamy,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      410.09,
+      449.74,
+      424.09
+    ],
+    "text": "Munamaldeniya, Akarawatta.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      273.65,
+      431.21,
+      427.27,
+      445.21
+    ],
+    "text": "Respondent-Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      273.65,
+      473.45,
+      404.47,
+      487.45
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      249.65,
+      515.81,
+      465.29,
+      529.81
+    ],
+    "text": "1. Sembukutti Arachchige Shanthi",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      536.93,
+      350.83,
+      550.93
+    ],
+    "text": "Siriwardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      558.05,
+      422.35,
+      572.05
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      579.2,
+      338.83,
+      593.2
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.45,
+      600.32,
+      467.45,
+      614.32
+    ],
+    "text": "1A. Sembukutti Arachchige Radhika",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      621.44,
+      350.83,
+      635.44
+    ],
+    "text": "Siriwardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      242.45,
+      642.56,
+      422.35,
+      656.56
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      249.65,
+      663.68,
+      494.38,
+      677.68
+    ],
+    "text": "2. Sembukutti Arachchige Premaratne,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.57,
+      684.79,
+      442.78,
+      698.8
+    ],
+    "text": "Dambagahagedera, Yakwila.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      249.65,
+      705.91,
+      487.9,
+      719.92
+    ],
+    "text": "3. Sembukutti Arachchige Piyathilaka,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      35.14,
+      320.59,
+      62.94
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      72.0,
+      422.35,
+      86.0
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249.65,
+      93.12,
+      501.58,
+      107.12
+    ],
+    "text": "4. Sembukutti Arachchige Dharmasena,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      114.24,
+      360.19,
+      128.24
+    ],
+    "text": "Ambalangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      135.36,
+      338.83,
+      149.36
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.45,
+      156.48,
+      476.38,
+      170.48
+    ],
+    "text": "4A. Gange Lalitha De Silva (Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.45,
+      177.6,
+      520.3,
+      191.6
+    ],
+    "text": "4B. Sembukutti Arachchige Sisira Priyankara",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.45,
+      198.72,
+      496.01,
+      212.72
+    ],
+    "text": "4C. Sembukutti Arachchige Sisira Sanoja",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      219.96,
+      319.63,
+      233.96
+    ],
+    "text": "Dilhani",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.45,
+      241.11,
+      511.85,
+      255.11
+    ],
+    "text": "All of No. 5, Polwatta Municipal Houses,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      262.23,
+      360.19,
+      276.23
+    ],
+    "text": "Ambalangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249.65,
+      283.35,
+      473.21,
+      297.35
+    ],
+    "text": "5. Sembukutti Arachchige Leelawati",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      304.47,
+      327.31,
+      318.47
+    ],
+    "text": "Manike,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      325.59,
+      422.35,
+      339.59
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249.65,
+      346.71,
+      452.81,
+      360.71
+    ],
+    "text": "6. Sembukutti Arachchige Paulu",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      367.83,
+      347.95,
+      381.83
+    ],
+    "text": "Appuhamy,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      272.57,
+      388.95,
+      449.74,
+      402.95
+    ],
+    "text": "Munamaldeniya, Akarawatta.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273.65,
+      410.09,
+      483.94,
+      424.09
+    ],
+    "text": "1A, 2nd, 3rd, 4B, 4C, 4D, 5th and 6th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273.65,
+      431.21,
+      488.02,
+      445.21
+    ],
+    "text": "Respondent-Respondent-Appellants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273.65,
+      458.33,
+      295.97,
+      472.33
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273.65,
+      485.45,
+      472.85,
+      499.45
+    ],
+    "text": "Sooriya Pahtirennehelage Piyalka",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273.65,
+      506.57,
+      355.99,
+      520.57
+    ],
+    "text": "Weerakanthi,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273.65,
+      527.81,
+      423.43,
+      541.81
+    ],
+    "text": "Ingaradaula, Narangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273.65,
+      548.93,
+      474.82,
+      562.93
+    ],
+    "text": "PetitionerAppellantRespondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      591.2,
+      417.91,
+      605.2
+    ],
+    "text": "Before: Hon. Justice Priyantha Jayawardena, P.C.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      612.32,
+      385.99,
+      626.32
+    ],
+    "text": "Hon. Justice A.L. Shiran Gooneratne",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      633.44,
+      407.83,
+      647.44
+    ],
+    "text": "Hon. Justice Mahinda Samayawardhena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      660.56,
+      446.66,
+      674.56
+    ],
+    "text": "Counsel: M.C. Jayaratna, P.C., with H.A. Nishani and H.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.62,
+      681.67,
+      501.7,
+      695.68
+    ],
+    "text": "Hettiarachchi for the 1A, 2nd, 3rd, 4B, 4C, 4D, 5th and 6th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.62,
+      702.79,
+      383.83,
+      716.8
+    ],
+    "text": "Respondent-Respondent-Appellants.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      35.14,
+      320.59,
+      62.94
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      72.0,
+      490.66,
+      86.0
+    ],
+    "text": "Jacob Joseph for the Petitioner-Appellant-Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      99.12,
+      235.37,
+      113.12
+    ],
+    "text": "Argued on : 26.10.2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      126.24,
+      222.53,
+      140.24
+    ],
+    "text": "Written submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165.62,
+      153.36,
+      513.7,
+      167.36
+    ],
+    "text": "by the Respondent-Respondent-Appellants on 05.10.2020.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      180.48,
+      237.65,
+      194.48
+    ],
+    "text": "Decided on: 28.02.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      222.72,
+      225.89,
+      236.7
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      255.99,
+      522.34,
+      269.99
+    ],
+    "text": "The original petitioner instituted these proceedings in the District Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      277.11,
+      522.31,
+      291.11
+    ],
+    "text": "of Kuliyapitiya in terms of section 528 of the Civil Procedure Code seeking",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      298.23,
+      522.26,
+      312.23
+    ],
+    "text": "letters of administration to administer the intestate estate of the deceased",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      319.35,
+      522.11,
+      333.35
+    ],
+    "text": "on the basis that she is the widow of the deceased. She tendered the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      340.47,
+      522.34,
+      354.47
+    ],
+    "text": "marriage certificate marked P1 with the petition. The original 2nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      361.59,
+      522.12,
+      375.59
+    ],
+    "text": "respondent who is the brother of the deceased (with the support of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      382.71,
+      522.26,
+      396.71
+    ],
+    "text": "other siblings) countersued for letters of administration on the basis that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      403.85,
+      522.26,
+      417.85
+    ],
+    "text": "the marriage between the petitioner and the deceased is a nullity in terms",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      424.97,
+      522.24,
+      438.97
+    ],
+    "text": "of section 18 of the Marriage Registration Ordinance, No. 19 of 1907, as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      446.09,
+      522.34,
+      460.09
+    ],
+    "text": "amended, since the petitioner married the 2nd respondents deceased",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      467.21,
+      522.34,
+      481.21
+    ],
+    "text": "brother without having her former marriage dissolved by a competent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      488.33,
+      138.74,
+      502.33
+    ],
+    "text": "Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      521.45,
+      437.62,
+      535.45
+    ],
+    "text": "Section 18 of the Marriage Registration Ordinance enacts:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      554.57,
+      521.89,
+      568.63
+    ],
+    "text": "No marriage shall be valid where either of the parties thereto shall",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      575.84,
+      521.85,
+      589.9
+    ],
+    "text": "have contracted a prior marriage which shall not have been legally",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      596.96,
+      287.57,
+      611.02
+    ],
+    "text": "dissolved or declared void.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      630.08,
+      437.62,
+      644.08
+    ],
+    "text": "Section 19 of the Marriage Registration Ordinance enacts:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      663.2,
+      522.02,
+      677.26
+    ],
+    "text": "19(1) No marriage shall be dissolved during the lifetime of the parties",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      684.31,
+      522.09,
+      698.38
+    ],
+    "text": "except by judgment of divorce a vinculo matrimonii pronounced in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      705.43,
+      261.17,
+      719.5
+    ],
+    "text": "some competent court.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      35.14,
+      320.59,
+      62.94
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      72.0,
+      522.02,
+      86.06
+    ],
+    "text": "(2) Such judgment shall be founded either on the ground of adultery",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      93.12,
+      521.91,
+      107.18
+    ],
+    "text": "subsequent to marriage, or of malicious desertion, or of incurable",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      114.24,
+      359.59,
+      128.3
+    ],
+    "text": "impotence at the time of such marriage.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      147.36,
+      522.24,
+      161.36
+    ],
+    "text": "Section 607 of the Civil Procedure Code provides for a spouse to institute",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      168.48,
+      522.24,
+      182.48
+    ],
+    "text": "an action in the District Court seeking a declaration that the marriage is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      189.6,
+      522.14,
+      203.6
+    ],
+    "text": "a nullity on any ground that results in the marriage between the parties",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      210.72,
+      522.09,
+      224.78
+    ],
+    "text": "being deemed void under the laws of Sri Lanka. It was held in Peiris v.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      231.96,
+      522.23,
+      246.02
+    ],
+    "text": "Peiris [1978-79] 2 Sri LR 55 that this includes the application of Roman",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      253.11,
+      522.26,
+      267.17
+    ],
+    "text": "Dutch law which recognises inter alia duress, mistake, fraud and",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      274.23,
+      522.34,
+      288.23
+    ],
+    "text": "immaturity as grounds on which nullity of marriage can be sought. In",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      295.35,
+      522.25,
+      309.41
+    ],
+    "text": "Seneviratne v. Premalatha (SC/APPEAL/211/2012, SC Minutes of",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      316.47,
+      522.19,
+      330.47
+    ],
+    "text": "02.05.2016) it was observed that a party can invoke section 607 against",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      337.59,
+      522.23,
+      351.59
+    ],
+    "text": "his or her spouse whose has entered into the marriage with that party",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      358.71,
+      522.34,
+      372.71
+    ],
+    "text": "without having his or her former marriage dissolved by an order of Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      391.83,
+      522.02,
+      405.89
+    ],
+    "text": "607(1) Any husband or wife may present a plaint to the Family Court",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      413.09,
+      521.86,
+      427.15
+    ],
+    "text": "within the local limits of the jurisdiction of which he or she (as the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      434.21,
+      521.88,
+      448.27
+    ],
+    "text": "case may be) resides, praying that his or her marriage may be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      455.33,
+      265.49,
+      469.39
+    ],
+    "text": "declared null and void.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      488.45,
+      521.89,
+      502.51
+    ],
+    "text": "(2) Such decree may be made on any ground which renders the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      509.57,
+      521.85,
+      523.63
+    ],
+    "text": "marriage contract between the parties void by the law applicable to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      530.69,
+      192.77,
+      544.75
+    ],
+    "text": "Sri Lanka.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      563.84,
+      522.26,
+      577.84
+    ],
+    "text": "Section 608 of the Civil Procedure Code provides for a dissolution of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      584.96,
+      522.25,
+      599.02
+    ],
+    "text": "marriage on separation a mensa et thoro for a specified period identified",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      606.08,
+      522.33,
+      620.14
+    ],
+    "text": "in the section. However, it was held in Tennakoon v. Tennakoon [1986] 1",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      627.2,
+      522.18,
+      641.2
+    ],
+    "text": "Sri LR 90 that the words either spouse in section 608(2) of the Civil",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      648.32,
+      522.11,
+      662.32
+    ],
+    "text": "Procedure Code must be understood as referring only to the innocent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      669.56,
+      522.12,
+      683.56
+    ],
+    "text": "spouse for the purpose of the relief of divorce under section 608(2)(a) or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      35.14,
+      320.59,
+      62.94
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      72.0,
+      522.26,
+      86.0
+    ],
+    "text": "section 608(2)(b) of the Civil Procedure Code. The necessity to prove a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      93.12,
+      382.63,
+      107.12
+    ],
+    "text": "matrimonial fault has not been done away with.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      126.24,
+      521.9,
+      140.3
+    ],
+    "text": "608(1) application for a separation a mensa et thoro on any ground",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      147.36,
+      522.01,
+      161.42
+    ],
+    "text": "on which by the law applicable to Sri Lanka such separation may be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      168.48,
+      521.88,
+      182.54
+    ],
+    "text": "granted, may be made by either husband or wife by plaint to the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      189.6,
+      522.1,
+      203.66
+    ],
+    "text": "Family Court, within the local limits of the jurisdiction of which he or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      210.72,
+      521.86,
+      224.78
+    ],
+    "text": "she, as the case may be, resides, and the court, on being satisfied",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      231.96,
+      521.86,
+      246.02
+    ],
+    "text": "on due trial of the truth of the statements made in such plaint, and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      253.11,
+      521.84,
+      267.17
+    ],
+    "text": "that there is no legal ground why the application should not be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      274.23,
+      389.59,
+      288.29
+    ],
+    "text": "granted, may decree separation accordingly.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      307.35,
+      262.13,
+      321.41
+    ],
+    "text": "(2) Either spouse may-",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      165.62,
+      340.47,
+      521.87,
+      354.53
+    ],
+    "text": "(a) after the expiry of a period of two years from the entering",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      165.62,
+      361.59,
+      521.9,
+      375.65
+    ],
+    "text": "of a decree of separation under subsection (1) by a Family",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      165.62,
+      382.71,
+      522.09,
+      396.77
+    ],
+    "text": "Court, whether entered before or after the 15th day of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      165.62,
+      403.85,
+      277.73,
+      417.91
+    ],
+    "text": "December,1977, or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      165.62,
+      436.97,
+      521.92,
+      451.03
+    ],
+    "text": "(b) notwithstanding that no application has been made under",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      165.62,
+      458.09,
+      522.01,
+      472.15
+    ],
+    "text": "subsection (1) but where there has been a separation a mensa",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      165.62,
+      479.21,
+      376.63,
+      493.27
+    ],
+    "text": "et thoro for a period of seven years,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      512.33,
+      521.98,
+      526.39
+    ],
+    "text": "apply to the Family Court by way of summary procedure for a decree",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      533.45,
+      521.9,
+      547.51
+    ],
+    "text": "of dissolution of marriage, and the court may, upon being satisfied",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      554.57,
+      522.02,
+      568.63
+    ],
+    "text": "that the spouses have not resumed cohabitation in any case referred",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      575.84,
+      522.08,
+      589.9
+    ],
+    "text": "to in paragraph (a), or upon the proof of the matters stated in an",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      596.96,
+      521.92,
+      611.02
+    ],
+    "text": "application made under the circumstances referred to in paragraph",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      618.08,
+      314.23,
+      632.14
+    ],
+    "text": "(b), enter judgment accordingly:",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      651.2,
+      521.92,
+      665.26
+    ],
+    "text": "Provided that no application under this subsection shall be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      672.32,
+      521.91,
+      686.38
+    ],
+    "text": "entertained by the court pending the determination of any appeal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      35.14,
+      320.59,
+      62.94
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      72.0,
+      522.02,
+      86.06
+    ],
+    "text": "taken from such decree of separation. The provisions of sections 604",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      93.12,
+      366.31,
+      107.18
+    ],
+    "text": "and 605 shall apply to such a judgment.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      126.24,
+      522.13,
+      140.24
+    ],
+    "text": "As seen from the marriage certificate P1, the position of the petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      147.36,
+      522.23,
+      161.36
+    ],
+    "text": "seems to be that since she did not hear from her former husband for more",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      168.48,
+      425.35,
+      182.48
+    ],
+    "text": "than seven years, she contracted the second marriage.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      201.6,
+      522.11,
+      215.6
+    ],
+    "text": "The former husband was alive at the time of the second marriage and at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      222.72,
+      522.13,
+      236.72
+    ],
+    "text": "the inquiry before the District Court into the issuance of letters of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      243.99,
+      530.02,
+      257.99
+    ],
+    "text": "administration, the former husband gave evidence for the 2nd respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      277.11,
+      522.14,
+      291.11
+    ],
+    "text": "The District Court refused to issue letters of administration to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      298.23,
+      522.11,
+      312.23
+    ],
+    "text": "petitioner (sought on the basis that she is the widow of the deceased as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      319.35,
+      522.34,
+      333.35
+    ],
+    "text": "crystallised in the issues), and instead issued the same to the 2nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      340.47,
+      387.91,
+      354.47
+    ],
+    "text": "respondent (as one of the heirs of the deceased).",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      373.59,
+      522.11,
+      387.59
+    ],
+    "text": "On appeal, the High Court set aside the order of the District Court and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      394.71,
+      522.17,
+      408.77
+    ],
+    "text": "ordered trial de novo on the basis that the District Judge failed to",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      415.85,
+      521.91,
+      429.91
+    ],
+    "text": "consider as to whether or not the marriage contracted between the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      436.97,
+      521.88,
+      451.03
+    ],
+    "text": "petitioner and the deceased was valid and lawful under and in terms of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      458.09,
+      521.82,
+      472.15
+    ],
+    "text": "section 108 of the Evidence Ordinance to be read with section 18 of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      479.21,
+      293.33,
+      493.27
+    ],
+    "text": "Marriage Registration Ordinance.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      512.45,
+      522.14,
+      526.45
+    ],
+    "text": "Being dissatisfied with the judgment of the High Court the respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      533.57,
+      271.25,
+      547.57
+    ],
+    "text": "have appealed to this Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      566.72,
+      429.94,
+      580.72
+    ],
+    "text": "Section 107 of the Evidence Ordinance reads as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      599.84,
+      522.02,
+      613.9
+    ],
+    "text": "When the question is whether a man is alive or dead, and it is shown",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      620.96,
+      521.84,
+      635.02
+    ],
+    "text": "that he was alive within thirty years, the burden of proving that he",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      642.08,
+      362.47,
+      656.14
+    ],
+    "text": "is dead is on the person who affirms it.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      675.2,
+      522.25,
+      689.2
+    ],
+    "text": "Section 108 (as it stood prior to the amendment introduced by Act No.10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      696.31,
+      515.86,
+      710.32
+    ],
+    "text": "of 1988 whereby seven years was reduced to one year) runs as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      35.14,
+      320.59,
+      62.94
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      72.0,
+      521.88,
+      86.06
+    ],
+    "text": "Provided that when the question is whether a man is alive or dead,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      93.12,
+      521.8,
+      107.18
+    ],
+    "text": "and it is proved that he has not been heard of for seven years by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      114.24,
+      521.84,
+      128.3
+    ],
+    "text": "those who would naturally have heard of him if he had been alive,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      135.36,
+      522.06,
+      149.42
+    ],
+    "text": "the burden of proving that he is alive is shifted to the person who",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      156.48,
+      189.17,
+      170.54
+    ],
+    "text": "affirms it.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      189.6,
+      522.34,
+      203.6
+    ],
+    "text": "Sections 107 and 108 are complementary to each other in that the latter",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      210.84,
+      522.24,
+      224.84
+    ],
+    "text": "is the proviso to the former. Both these sections fall under the chapter",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      231.96,
+      366.31,
+      245.96
+    ],
+    "text": "Burden of Proof in the Evidence Ordinance.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      265.11,
+      522.33,
+      279.17
+    ],
+    "text": "In Davoodbhoy v. Farook (1959) 63 NLR 97 it was held that these two",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      286.23,
+      522.1,
+      300.23
+    ],
+    "text": "sections do not enact a presumption of law or fact but only a rule of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      307.35,
+      522.34,
+      321.35
+    ],
+    "text": "evidence as to the burden of proof. Basnayake J. (as he then was) with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      328.47,
+      350.95,
+      342.47
+    ],
+    "text": "the agreement of Pulle J. at page 99 states:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      361.59,
+      521.98,
+      375.65
+    ],
+    "text": "It is essential to bear in mind that these two sections do not enact a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      382.71,
+      521.85,
+      396.77
+    ],
+    "text": "presumption of law or fact, but enact rules governing the burden of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      403.85,
+      521.88,
+      417.91
+    ],
+    "text": "proof like any one of the other rules that precede them. Section 107",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      424.97,
+      522.01,
+      439.03
+    ],
+    "text": "enacts the rule and section 108 enacts the proviso to it. In one case",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      446.09,
+      521.89,
+      460.15
+    ],
+    "text": "it is sufficient to show that the person about whom the question",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      467.21,
+      521.88,
+      481.27
+    ],
+    "text": "has arisen was alive within thirty years, in the other it must be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      488.45,
+      522.02,
+      502.51
+    ],
+    "text": "proved that he has not been heard of for seven years by those who",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      509.57,
+      522.01,
+      523.63
+    ],
+    "text": "would naturally have heard of him if he had been alive. These",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      530.69,
+      521.88,
+      544.75
+    ],
+    "text": "sections regulate the burden of proof in a case in which one party",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      551.81,
+      521.88,
+      565.87
+    ],
+    "text": "affirms that a person is dead and the other party that the same",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      572.96,
+      521.85,
+      587.02
+    ],
+    "text": "person is alive, and the question for decision is whether the person",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      594.08,
+      225.17,
+      608.14
+    ],
+    "text": "is dead or alive.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      627.2,
+      506.98,
+      641.2
+    ],
+    "text": "This was further explained at pages 100-101 in the following manner:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      660.32,
+      521.98,
+      674.38
+    ],
+    "text": "In a case where one party affirms that a person is dead and another",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      681.43,
+      522.0,
+      695.5
+    ],
+    "text": "that he is alive, if a party produces evidence to the effect that he was",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      702.55,
+      522.1,
+      716.62
+    ],
+    "text": "alive within thirty years then the person who affirms that he is dead",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      72.0,
+      521.83,
+      86.06
+    ],
+    "text": "must prove that he is dead; but if the person who affirms that he is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      93.12,
+      521.98,
+      107.18
+    ],
+    "text": "dead instead of proving that he is dead leads evidence which proves",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      114.24,
+      521.86,
+      128.3
+    ],
+    "text": "that he has not been heard of for seven years by those who would",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      135.36,
+      522.1,
+      149.42
+    ],
+    "text": "naturally have heard of him if he had been alive then the person who",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      156.48,
+      521.85,
+      170.54
+    ],
+    "text": "affirms that he is alive must prove that he is alive. So that in a case",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      177.6,
+      521.88,
+      191.66
+    ],
+    "text": "where the question is whether a person is alive or dead and one",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      198.72,
+      521.84,
+      212.78
+    ],
+    "text": "party affirms that he is dead and the other that he is alive and it is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      219.96,
+      522.05,
+      234.02
+    ],
+    "text": "in evidence that he was alive within thirty years the burden that lies",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      241.11,
+      521.83,
+      255.17
+    ],
+    "text": "on the party that affirms that he is dead by virtue of section 107 to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      262.23,
+      521.79,
+      276.29
+    ],
+    "text": "prove that he is dead shifts by operation of section 108 to the party",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      283.35,
+      521.94,
+      297.41
+    ],
+    "text": "that affirms that he is alive if it is proved that he has not been heard",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      304.47,
+      521.9,
+      318.53
+    ],
+    "text": "of for seven years by those who would naturally have heard of him",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      325.59,
+      253.49,
+      339.65
+    ],
+    "text": "if he had been alive.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      358.71,
+      522.13,
+      372.71
+    ],
+    "text": "But E.R.S.R. Coomaraswamy, The Law of Evidence, Vol II, Book I, pages",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      379.83,
+      522.23,
+      393.83
+    ],
+    "text": "428-429, is not in favour of this dichotomy between presumption of fact",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      400.97,
+      522.32,
+      414.97
+    ],
+    "text": "and law on the one hand and burden of proof on the other. He takes the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      422.09,
+      317.35,
+      436.09
+    ],
+    "text": "view that such difference is artificial:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      455.21,
+      521.95,
+      469.27
+    ],
+    "text": "The fact is that rules as to burden of proof and presumptions are so",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      476.33,
+      522.02,
+      490.39
+    ],
+    "text": "involved together that it is artificial to separate a given situation and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      497.45,
+      521.83,
+      511.51
+    ],
+    "text": "to state that it is a pure rule of the burden of proof and not of a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      518.57,
+      522.03,
+      532.63
+    ],
+    "text": "presumption. Every rebuttable presumption in favour of one party",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      539.81,
+      521.97,
+      553.87
+    ],
+    "text": "necessarily involves a rule as to burden of proof in the other and vice",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      560.93,
+      172.1,
+      574.99
+    ],
+    "text": "versa.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      594.08,
+      522.12,
+      608.08
+    ],
+    "text": "Explaining the affinity between sections 107 and 108 of the Evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      615.2,
+      522.12,
+      629.2
+    ],
+    "text": "Ordinance, the learned author on page 430 states that section 107",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      636.32,
+      522.23,
+      650.32
+    ],
+    "text": "creates a presumption of the continuance of life, and section 108",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      657.44,
+      404.23,
+      671.44
+    ],
+    "text": "functions as a clause that supplements section 107.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "11",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      72.0,
+      521.9,
+      86.06
+    ],
+    "text": "Sections 107 and 108 must be read together, because the latter",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      93.12,
+      521.89,
+      107.18
+    ],
+    "text": "section is a proviso to the earlier. Section 107 creates a legal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      114.24,
+      521.9,
+      128.3
+    ],
+    "text": "presumption of continuance of life, if nothing is shown to the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      135.36,
+      522.1,
+      149.42
+    ],
+    "text": "contrary. Section 108 is a proviso to section 107, so that if a man",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      156.48,
+      522.1,
+      170.54
+    ],
+    "text": "has not been heard of for one year [after the amendment in 1988] by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      177.6,
+      521.86,
+      191.66
+    ],
+    "text": "those who would naturally have heard of him, had he been alive,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      198.72,
+      521.98,
+      212.78
+    ],
+    "text": "the presumption of continuance of life under section 107 ceases, and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      219.96,
+      522.08,
+      234.02
+    ],
+    "text": "the burden of proving him to be alive lies on the person asserting it",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      241.11,
+      266.69,
+      255.17
+    ],
+    "text": "by denying the death.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      274.23,
+      522.12,
+      288.23
+    ],
+    "text": "It is seen that whereas section 107 is based on the presumption of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      295.35,
+      494.98,
+      309.35
+    ],
+    "text": "continuity of life, section 108 is based on the presumption of death.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      328.47,
+      522.34,
+      342.53
+    ],
+    "text": "In Hamy Vel Muladeniya v. Siyatu (1945) 46 NLR 95 Jayetileke J. states:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      361.59,
+      522.02,
+      375.65
+    ],
+    "text": "Under section 108 of the Evidence Ordinance when a person has not",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      382.71,
+      521.97,
+      396.77
+    ],
+    "text": "been heard of for seven years by those who would naturally have",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      403.85,
+      522.02,
+      417.91
+    ],
+    "text": "heard of him if he had been alive the presumption of life ceases, and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.62,
+      424.97,
+      462.34,
+      439.03
+    ],
+    "text": "the burden is shifted to the person who denies the death.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      458.09,
+      522.22,
+      472.09
+    ],
+    "text": "The High Court concedes that it is common ground that the second",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      479.21,
+      522.34,
+      493.21
+    ],
+    "text": "marriage was contracted whilst the first marriage was still subsisting,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      500.33,
+      522.33,
+      514.33
+    ],
+    "text": "thereby rendering the second marriage null and void under section 18 of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      521.57,
+      522.29,
+      535.57
+    ],
+    "text": "the Marriage Registration Ordinance. Nevertheless, the High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      542.69,
+      522.18,
+      556.69
+    ],
+    "text": "thereafter takes the view that the second marriage can be given validity",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      563.84,
+      522.34,
+      577.84
+    ],
+    "text": "by proper invocation of section 108 of the Evidence Ordinance, and that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      584.96,
+      520.42,
+      598.96
+    ],
+    "text": "the District Court had failed to consider it. This is a misdirection in law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      618.08,
+      522.28,
+      632.08
+    ],
+    "text": "It is undisputed that under the Marriage Registration Ordinance, during",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      639.2,
+      522.13,
+      653.2
+    ],
+    "text": "the subsistence of a marriage, a spouse cannot lawfully enter into",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      660.32,
+      522.3,
+      674.32
+    ],
+    "text": "another marriage, and such subsequent marriage during the subsistence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      681.43,
+      522.21,
+      695.44
+    ],
+    "text": "of the former marriage is void. It must also be born in mind that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      702.55,
+      522.33,
+      716.56
+    ],
+    "text": "dissolution of marriage by a judgment of a competent Court under section",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "12",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      72.0,
+      522.34,
+      86.0
+    ],
+    "text": "19(1) of the Marriage Registration Ordinance is necessary only during",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      93.12,
+      522.25,
+      107.12
+    ],
+    "text": "the lifetime of the parties. If one party is dead, there is no need for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      114.24,
+      522.3,
+      128.24
+    ],
+    "text": "dissolution of marriage by an order of Court. Section 108 of the Evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      135.36,
+      381.43,
+      149.36
+    ],
+    "text": "Ordinance creates only a presumption of death.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      168.48,
+      522.2,
+      182.48
+    ],
+    "text": "As much as there is a strong affinity between section 107 and 108 of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      189.6,
+      522.3,
+      203.6
+    ],
+    "text": "Evidence Ordinance, there is a strong affinity between section 108 of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      210.72,
+      526.18,
+      224.72
+    ],
+    "text": "Evidence Ordinance and the exception to section 362B of the Penal Code.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      243.99,
+      338.71,
+      257.99
+    ],
+    "text": "Section 362B of the Penal Code provides:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      277.11,
+      521.88,
+      291.17
+    ],
+    "text": "Whoever, having a husband or wife living, marries in any case in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      298.23,
+      522.02,
+      312.29
+    ],
+    "text": "which such marriage is void by reason of its taking place during the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      319.35,
+      521.9,
+      333.41
+    ],
+    "text": "life of such husband or wife, shall be punished with imprisonment",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      340.47,
+      522.09,
+      354.53
+    ],
+    "text": "of either description for a term which may extend to seven years,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      361.59,
+      309.67,
+      375.65
+    ],
+    "text": "and shall also be liable to fine.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      394.71,
+      307.75,
+      408.71
+    ],
+    "text": "The exception to this section states:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      427.85,
+      521.86,
+      441.91
+    ],
+    "text": "This section does not extend to any person whose marriage with",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      448.97,
+      522.02,
+      463.03
+    ],
+    "text": "such husband or wife has been declared void by a court of competent",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      470.09,
+      521.85,
+      484.15
+    ],
+    "text": "jurisdiction, nor to any person who contracts a marriage during the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      491.21,
+      522.09,
+      505.27
+    ],
+    "text": "life of a former husband or wife, if such husband or wife, at the lime",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      512.33,
+      522.02,
+      526.39
+    ],
+    "text": "of the subsequent marriage, shall have been continually absent from",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      533.45,
+      521.88,
+      547.51
+    ],
+    "text": "such person for the space of seven years and shall not have been",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      554.57,
+      453.7,
+      568.63
+    ],
+    "text": "heard of by such person as being alive within that time:",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      587.84,
+      521.94,
+      601.9
+    ],
+    "text": "Provided the person contracting such subsequent marriage shall,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      608.96,
+      522.01,
+      623.02
+    ],
+    "text": "before such marriage takes place, inform the person with whom such",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      630.08,
+      521.86,
+      644.14
+    ],
+    "text": "marriage is contracted of the real state of facts, as far as the same",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      651.2,
+      319.51,
+      665.26
+    ],
+    "text": "are within his or her knowledge.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      684.31,
+      522.32,
+      698.38
+    ],
+    "text": "Pattison v. Kalutara Special Criminal Investigation Bureau (1970) 73 NLR",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      705.43,
+      522.21,
+      719.44
+    ],
+    "text": "399 is one case where the exception to section 362B of the Penal Code",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "13",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      72.0,
+      522.18,
+      86.0
+    ],
+    "text": "was successfully invoked to defeat a criminal charge of bigamy. It was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      93.12,
+      201.41,
+      107.12
+    ],
+    "text": "held in this case:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      126.24,
+      521.89,
+      140.3
+    ],
+    "text": "Where, in a prosecution for bigamy, the defence of the accused is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      147.36,
+      521.89,
+      161.42
+    ],
+    "text": "based on the Exception to section 362B of the Penal Code, namely",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      168.48,
+      521.85,
+      182.54
+    ],
+    "text": "that the accused who contracted a second marriage did not know",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      189.6,
+      522.1,
+      203.66
+    ],
+    "text": "that his first wife had been alive at any time during the preceding",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      210.72,
+      522.02,
+      224.78
+    ],
+    "text": "seven years, the burden is on the prosecution to prove knowledge on",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      231.96,
+      521.85,
+      246.02
+    ],
+    "text": "the part of the accused that his first wife had been alive when he",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      253.11,
+      316.87,
+      267.17
+    ],
+    "text": "contracted his second marriage.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      286.23,
+      522.3,
+      300.23
+    ],
+    "text": "Although there is a close correlation between section 108 of the Evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      307.35,
+      522.19,
+      321.35
+    ],
+    "text": "Ordinance and the exception to section 362B of the Penal Code, it shall",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      328.47,
+      522.12,
+      342.47
+    ],
+    "text": "be born in mind that successful invocation of either section 108 of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      349.59,
+      522.13,
+      363.59
+    ],
+    "text": "Evidence Ordinance or the exception to section 362B of the Penal Code",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      370.71,
+      473.14,
+      384.71
+    ],
+    "text": "does not transform an invalid second marriage into a valid one.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      403.85,
+      499.06,
+      417.91
+    ],
+    "text": "In Fenton v. Reed (1809) 4 Johns 52 (N.Y. Sup. Ct.) it was observed:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      436.97,
+      521.97,
+      451.03
+    ],
+    "text": "The statute concerning bigamy does not render the second marriage",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      458.09,
+      522.1,
+      472.15
+    ],
+    "text": "legal, notwithstanding the former husband or wife may have been",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      479.21,
+      522.1,
+      493.27
+    ],
+    "text": "absent above five years, and not heard of. It only declares that the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      500.33,
+      521.9,
+      514.39
+    ],
+    "text": "party who marries again, in consequence of such absence of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      521.57,
+      521.95,
+      535.63
+    ],
+    "text": "former partner, shall be exempted from the operation of the statute,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      542.69,
+      521.88,
+      556.75
+    ],
+    "text": "and leaves the question on the validity of the second marriage just",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      129.62,
+      563.84,
+      231.41,
+      577.9
+    ],
+    "text": "where it found it.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      596.96,
+      522.24,
+      611.02
+    ],
+    "text": "In the case of Re Josephine Ratnayake (1921) 23 NLR 191, the wife filed",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      618.08,
+      522.14,
+      632.08
+    ],
+    "text": "an action seeking a declaration that her husband is dead on the basis",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      639.2,
+      522.11,
+      653.2
+    ],
+    "text": "that she did not hear from her husband for more than seven years. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      660.32,
+      522.14,
+      674.32
+    ],
+    "text": "District Court dismissed the action. On appeal, De Sampayo J. affirmed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      681.43,
+      360.55,
+      695.44
+    ],
+    "text": "the judgment of the District Court and held:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "14",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      72.0,
+      522.01,
+      86.06
+    ],
+    "text": "This application is entirely misconceived. It is supposed to have been",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      93.12,
+      521.88,
+      107.18
+    ],
+    "text": "in pursuance of section 108 of the Evidence Ordinance, which is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      114.24,
+      521.88,
+      128.3
+    ],
+    "text": "merely laying down a rule of evidence that, if a husband is absent",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      135.36,
+      522.1,
+      149.42
+    ],
+    "text": "for a certain period without any information as to his whereabouts,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      156.48,
+      521.88,
+      170.54
+    ],
+    "text": "for certain purposes his death may be presumed. But nowhere is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      177.6,
+      521.88,
+      191.66
+    ],
+    "text": "there any provision laying down the procedure for obtaining a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      198.72,
+      521.86,
+      212.78
+    ],
+    "text": "declaration of Court. The only way that the section of the Evidence",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      219.96,
+      522.05,
+      234.02
+    ],
+    "text": "Ordinance can be availed of is by repelling any charge of bigamy",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      241.11,
+      522.02,
+      255.17
+    ],
+    "text": "that may be made against her if she marries again. But beyond that",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      262.23,
+      363.19,
+      276.29
+    ],
+    "text": "that section does not help the appellant.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      295.35,
+      522.09,
+      309.41
+    ],
+    "text": "In Hamy Vel Muladeniya v. Siyatu (supra) it was held that Where a person",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      316.47,
+      522.02,
+      330.53
+    ],
+    "text": "is presumed to be dead in accordance with the provisions of section 108 of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      337.59,
+      506.74,
+      351.65
+    ],
+    "text": "the Evidence Ordinance, his property may be divided among his heirs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      370.71,
+      522.09,
+      384.77
+    ],
+    "text": "As was held in Davoodbhoy v. Farook (supra) that These sections",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      391.83,
+      522.01,
+      405.89
+    ],
+    "text": "[sections 107 and 108] regulate the burden of proof in a case in which one",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      412.97,
+      521.82,
+      427.03
+    ],
+    "text": "party affirms that a person is dead and the other party that the same",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      434.09,
+      521.99,
+      448.15
+    ],
+    "text": "person is alive, and the question for decision is whether the person is dead",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      455.33,
+      522.29,
+      469.39
+    ],
+    "text": "or alive. However, in the instant case there is no issue as to whether the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      476.45,
+      522.12,
+      490.45
+    ],
+    "text": "former husband of the petitioner was alive or dead at the time the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      497.57,
+      527.62,
+      511.57
+    ],
+    "text": "petitioner contracted the second marriage to the deceased: he was alive.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      530.69,
+      522.21,
+      544.75
+    ],
+    "text": "In the case of Parkash Chander v. Parmeshwari (AIR 1987 PH 37) it was",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      93.62,
+      551.81,
+      153.14,
+      565.81
+    ],
+    "text": "observed:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      584.96,
+      522.06,
+      599.02
+    ],
+    "text": "The presumption under S. 108 of the Evidence Act arises only when",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      606.08,
+      521.86,
+      620.14
+    ],
+    "text": "the question is raised in Court as to whether a man is alive or dead",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      627.2,
+      522.02,
+      641.26
+    ],
+    "text": "and such question is in issue. There is no presumption in this regard",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      648.32,
+      521.88,
+      662.38
+    ],
+    "text": "unless such a proceeding comes in the Court and an issue in this",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      129.62,
+      669.44,
+      522.03,
+      683.5
+    ],
+    "text": "regard is raised. S.108 is only a rule of evidence and presumption is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "15",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      129.62,
+      72.0,
+      521.89,
+      86.06
+    ],
+    "text": "drawn for purposes of reaching at a conclusion on the concerned",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      129.62,
+      93.12,
+      166.46,
+      107.18
+    ],
+    "text": "issue.",
+    "fonts": [
+      "BookmanOldStyle-Italic",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      126.24,
+      522.26,
+      140.24
+    ],
+    "text": "In certain jurisdictions, remarriage is legally recognised when one spouse",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      147.36,
+      522.23,
+      161.36
+    ],
+    "text": "is believed to be deceased or has been absent and unheard of for a period",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      168.48,
+      522.26,
+      182.48
+    ],
+    "text": "of years, typically ranging from three to seven. In such circumstances,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      189.6,
+      522.34,
+      203.6
+    ],
+    "text": "the second marriage is considered to be valid until held void by a Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      210.72,
+      251.57,
+      224.72
+    ],
+    "text": "of competent jurisdiction.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      243.99,
+      522.26,
+      257.99
+    ],
+    "text": "In India, section 13(1)(vii) of the Hindu Marriage Act of 1955 provides that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      265.11,
+      522.11,
+      279.11
+    ],
+    "text": "a Hindu marriage can be dissolved by a decree of divorce on the ground",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      286.23,
+      522.08,
+      300.23
+    ],
+    "text": "that the other party has not been heard of as being alive for a period of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      307.35,
+      522.23,
+      321.35
+    ],
+    "text": "seven years or more by those who would naturally have heard of that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      328.47,
+      522.26,
+      342.47
+    ],
+    "text": "party had they been alive. Similar provisions are found in section 27(h)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      349.59,
+      355.99,
+      363.59
+    ],
+    "text": "of the Special Marriage Act of 1954 in India.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      382.71,
+      522.12,
+      396.71
+    ],
+    "text": "Article 41 of the Family Code of the Philippines declares that a marriage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      403.85,
+      522.08,
+      417.85
+    ],
+    "text": "entered into by any individual while a previous marriage is still in effect",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      424.97,
+      522.23,
+      438.97
+    ],
+    "text": "is considered null and void, unless, before the subsequent marriage, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      446.09,
+      522.29,
+      460.09
+    ],
+    "text": "prior spouse has been absent for four consecutive years, and there exists",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      467.21,
+      522.15,
+      481.21
+    ],
+    "text": "a well-founded belief that the absent spouse is deceased. However, for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      488.33,
+      522.22,
+      502.33
+    ],
+    "text": "the purpose of contracting the subsequent marriage, the present spouse",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      509.45,
+      522.14,
+      523.45
+    ],
+    "text": "must initiate a summary proceeding, as provided in the Code, to declare",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      530.57,
+      522.16,
+      544.57
+    ],
+    "text": "the presumptive death of the absentee, without prejudice to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      551.81,
+      399.67,
+      565.81
+    ],
+    "text": "consequences of the absent spouses reappearance.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      584.96,
+      522.34,
+      598.96
+    ],
+    "text": "In the UK, in terms of sections 1 and 2 of the Presumption of Death Act",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      606.08,
+      522.19,
+      620.08
+    ],
+    "text": "2013, where a person is thought to have died, or has not been known to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      627.2,
+      522.26,
+      641.2
+    ],
+    "text": "be alive for a period of at least seven years, any person may apply to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      648.32,
+      522.12,
+      662.32
+    ],
+    "text": "High Court for a declaration that the missing person is presumed to be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      669.44,
+      522.1,
+      683.44
+    ],
+    "text": "dead. According to section 3(2), a declaration under this Act is effective",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.62,
+      690.55,
+      522.22,
+      704.56
+    ],
+    "text": "against all persons and for all purposes, including for the purposes of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "16",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      72.0,
+      522.07,
+      86.0
+    ],
+    "text": "acquisition of an interest in any property, and the ending of a marriage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      93.12,
+      441.7,
+      107.12
+    ],
+    "text": "or civil partnership to which the missing person is a party.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      126.24,
+      522.23,
+      140.24
+    ],
+    "text": "There are no similar express provisions found in the Marriage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      147.36,
+      522.3,
+      161.36
+    ],
+    "text": "Registration Ordinance or any other statute in Sri Lanka that link the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      168.48,
+      313.99,
+      182.48
+    ],
+    "text": "presumption of death to remarriage.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      201.6,
+      522.26,
+      215.6
+    ],
+    "text": "The Tsunami (Special Provisions) Act, No. 16 of 2005 made provisions to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      222.72,
+      522.14,
+      236.72
+    ],
+    "text": "issue death certificates where persons resident in identified areas as at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      243.99,
+      522.13,
+      257.99
+    ],
+    "text": "26.12.2004 were found missing for six months from that date. Section 2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      265.11,
+      254.21,
+      279.11
+    ],
+    "text": "of the Act reads as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      298.23,
+      521.78,
+      312.29
+    ],
+    "text": "Notwithstanding the provisions of section 108 of the Evidence",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      319.35,
+      521.79,
+      333.41
+    ],
+    "text": "Ordinance, where any person, who had been resident in an area",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      340.47,
+      521.96,
+      354.53
+    ],
+    "text": "referred to in the First Schedule to this Act as at December 26, 2004",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      361.59,
+      522.09,
+      375.65
+    ],
+    "text": "or was known to have been in or travelling through such area on that",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      382.71,
+      521.84,
+      396.77
+    ],
+    "text": "date, cannot be found and has not been heard of for six months since",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      403.85,
+      521.82,
+      417.91
+    ],
+    "text": "that date by those who would normally have heard of such person",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      424.97,
+      521.82,
+      439.03
+    ],
+    "text": "has such person been alive, and the disappearance is attributable",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      446.09,
+      522.05,
+      460.15
+    ],
+    "text": "to the Tsunami that occurred on that date, the burden of proving that",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      129.62,
+      467.21,
+      429.46,
+      481.27
+    ],
+    "text": "such person is alive is on the person who affirms it.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      500.33,
+      522.18,
+      514.33
+    ],
+    "text": "Under our law, the presumption of death is not a ground for dissolution",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      521.45,
+      171.62,
+      535.45
+    ],
+    "text": "of marriage.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      554.57,
+      522.26,
+      568.57
+    ],
+    "text": "Hence in terms of section 18 of the Marriage Registration Ordinance, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      575.84,
+      522.24,
+      589.84
+    ],
+    "text": "second marriage contracted with the deceased without the former",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      596.96,
+      522.13,
+      610.96
+    ],
+    "text": "marriage having been dissolved by a decree of divorce from a competent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      618.08,
+      522.26,
+      632.08
+    ],
+    "text": "court is void. On the facts and circumstances of this case, section 108 of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      639.2,
+      522.13,
+      653.2
+    ],
+    "text": "the Evidence Ordinance has no application, and the High Court was in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      660.32,
+      522.33,
+      674.32
+    ],
+    "text": "error when it set aside the District Judges order on that ground and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      681.43,
+      522.1,
+      695.44
+    ],
+    "text": "ordered a retrial in order to consider the application of the original",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      93.62,
+      702.55,
+      454.9,
+      716.56
+    ],
+    "text": "petitioner in light of section 108 of the Evidence Ordinance.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "17",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      72.0,
+      522.26,
+      86.0
+    ],
+    "text": "This court granted leave to appeal against the judgment of the High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      93.12,
+      292.85,
+      107.12
+    ],
+    "text": "on the following questions of law:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.62,
+      126.24,
+      521.76,
+      140.3
+    ],
+    "text": "1. Did the High Court err in law when it held that the question of the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      129.62,
+      147.36,
+      521.9,
+      161.42
+    ],
+    "text": "second marriage could have been decided along with the provisions",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      129.62,
+      168.48,
+      521.73,
+      182.54
+    ],
+    "text": "of section 108 of the Evidence Ordinance despite section 18 of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      129.62,
+      189.6,
+      432.34,
+      203.66
+    ],
+    "text": "General Marriages Ordinance is clear on that issue?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.62,
+      210.72,
+      521.96,
+      224.78
+    ],
+    "text": "2. Did the High Court err in law in ignoring section 19(1) of the General",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      129.62,
+      231.96,
+      260.69,
+      246.02
+    ],
+    "text": "Marriages Ordinance?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      111.62,
+      253.11,
+      428.26,
+      267.17
+    ],
+    "text": "3. Did the High Court err in law by ordering a re-trial?",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      286.23,
+      522.3,
+      300.23
+    ],
+    "text": "I answer the questions of law in the affirmative. I set aside the judgment",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      307.35,
+      522.08,
+      321.35
+    ],
+    "text": "of the High Court and restore the order of the District Court dated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      328.47,
+      400.39,
+      342.47
+    ],
+    "text": "20.07.2011 and allow the appeal but without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      361.59,
+      522.29,
+      375.59
+    ],
+    "text": "However, the judgment of the District Court is restored subject to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      382.71,
+      522.26,
+      396.71
+    ],
+    "text": "condition that issue No. 11 raised by the respondents need not be decided",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      403.85,
+      522.02,
+      417.91
+    ],
+    "text": "at this stage of the case. Issue No. 11 is: Should the property described",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      424.97,
+      522.02,
+      439.03
+    ],
+    "text": "in paragraphs 6 and 7 of the statement of objections of the respondents be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      446.09,
+      328.63,
+      460.15
+    ],
+    "text": "included in the inventory in this case?",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      479.21,
+      522.29,
+      493.21
+    ],
+    "text": "In terms of section 539(1) of the Civil Procedure Code, the inventory shall",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      500.33,
+      522.27,
+      514.33
+    ],
+    "text": "be filed by the person to whom the Court decides to issue the probate or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      521.57,
+      522.12,
+      535.57
+    ],
+    "text": "letters of administration within a period of one month from the date of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      542.69,
+      522.33,
+      556.69
+    ],
+    "text": "taking the oath as the executor or administrator. When the Court is called",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      563.84,
+      522.12,
+      577.84
+    ],
+    "text": "upon to decide to whom the probate or letters of administration shall be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      584.96,
+      522.07,
+      598.96
+    ],
+    "text": "issued, no time shall be wasted on inquiring into the correctness of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      606.08,
+      526.18,
+      620.08
+    ],
+    "text": "details of the deceaseds property included in the original petition.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      627.2,
+      522.22,
+      641.2
+    ],
+    "text": "Although it is a requirement under section 528(1)(d) of the Civil Procedure",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      648.32,
+      522.12,
+      662.32
+    ],
+    "text": "Code that the petitioner shall set out the details of the deceaseds",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      93.62,
+      669.44,
+      522.1,
+      683.44
+    ],
+    "text": "property in the petition, this is different from filing the inventory under",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      35.14,
+      323.95,
+      62.94
+    ],
+    "text": "18",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      388.27,
+      35.92,
+      517.95,
+      48.8
+    ],
+    "text": "SC/APPEAL/179/2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      72.0,
+      522.13,
+      86.0
+    ],
+    "text": "section 539(1) of the Civil Procedure Code. Section 539(1) reads as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      93.12,
+      141.38,
+      107.12
+    ],
+    "text": "follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      126.24,
+      521.88,
+      140.3
+    ],
+    "text": "In every case where an order has been made, by a District Court",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      147.36,
+      522.01,
+      161.42
+    ],
+    "text": "declaring any person entitled to have probate of a deceased persons",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      168.48,
+      521.88,
+      182.54
+    ],
+    "text": "will, or administration of a deceased persons property granted to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      189.6,
+      522.09,
+      203.66
+    ],
+    "text": "him it shall be the duty of the said person, executor or administrator,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      210.72,
+      521.84,
+      224.78
+    ],
+    "text": "in whose favour such order is made, to take within fifteen days of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      231.96,
+      521.86,
+      246.02
+    ],
+    "text": "the making of such order, the oath of an executor or administrator",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      253.11,
+      521.85,
+      267.17
+    ],
+    "text": "as set out in form No. 92 in the First Schedule, and thereafter to file",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      274.23,
+      521.95,
+      288.29
+    ],
+    "text": "in court within a period of one month from the date of taking of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      295.35,
+      521.91,
+      309.41
+    ],
+    "text": "oath, an inventory of the deceased persons property and effects,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      316.47,
+      521.8,
+      330.53
+    ],
+    "text": "with a valuation of the same as set out in form No. 92 in the First",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      337.59,
+      521.9,
+      351.65
+    ],
+    "text": "Schedule and the court shall forthwith grant probate or letters of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      129.62,
+      358.71,
+      339.43,
+      372.77
+    ],
+    "text": "administration, as the case may be.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      391.83,
+      522.12,
+      405.83
+    ],
+    "text": "At this stage, the question to be decided is to whom letters of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      412.97,
+      380.71,
+      426.97
+    ],
+    "text": "administration shall be issued and nothing else.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      352.15,
+      479.21,
+      522.34,
+      493.21
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      521.45,
+      286.61,
+      535.45
+    ],
+    "text": "Priyantha Jayawardena, P.C., J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      542.57,
+      140.42,
+      556.57
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      352.15,
+      563.84,
+      522.34,
+      577.84
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      606.08,
+      254.69,
+      620.08
+    ],
+    "text": "A.L. Shiran Gooneratne, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      93.62,
+      627.2,
+      140.42,
+      641.2
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      352.15,
+      648.32,
+      522.34,
+      662.32
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

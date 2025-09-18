@@ -1,0 +1,4756 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      83.99,
+      488.83,
+      100.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      108.59,
+      446.83,
+      124.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      160.44,
+      491.59,
+      174.44
+    ],
+    "text": "Ranasinghe Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      181.56,
+      464.74,
+      195.56
+    ],
+    "text": "Susantha Ranasinghe,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      202.68,
+      417.91,
+      216.68
+    ],
+    "text": "Alahenegama,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      223.8,
+      414.07,
+      237.8
+    ],
+    "text": "Alahenegama.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      244.95,
+      380.71,
+      258.95
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      266.07,
+      233.09,
+      280.05
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      287.19,
+      349.99,
+      301.19
+    ],
+    "text": "NWP/HCCA/KUR/57/2014(F) Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      308.31,
+      349.75,
+      322.29
+    ],
+    "text": "DC NIKAWERETIYA NO: 76/D",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      329.55,
+      512.5,
+      343.55
+    ],
+    "text": "Rathugamage Ancy Fernando,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      350.67,
+      461.14,
+      364.67
+    ],
+    "text": "Hiriwewa, Kobeigane.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      371.79,
+      392.23,
+      385.79
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      414.05,
+      424.63,
+      428.05
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      456.29,
+      508.66,
+      470.29
+    ],
+    "text": "Rathugamage Ancy Fernando,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      477.41,
+      457.3,
+      491.41
+    ],
+    "text": "Hiriwewa, Kobeigane.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      498.53,
+      452.98,
+      512.53
+    ],
+    "text": "Defendant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      531.65,
+      353.83,
+      545.65
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      564.8,
+      491.59,
+      578.8
+    ],
+    "text": "Ranasinghe Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      585.92,
+      464.74,
+      599.92
+    ],
+    "text": "Susantha Ranasinghe,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      607.04,
+      417.91,
+      621.04
+    ],
+    "text": "Alahenegama,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      628.16,
+      414.07,
+      642.16
+    ],
+    "text": "Alahenegama.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      649.4,
+      451.06,
+      663.4
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.67,
+      691.63,
+      458.5,
+      705.64
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      36.04,
+      312.96,
+      62.94
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      72.0,
+      508.66,
+      86.0
+    ],
+    "text": "Rathugamage Ancy Fernando,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      93.12,
+      393.19,
+      107.12
+    ],
+    "text": "Hiriwewa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      114.24,
+      395.59,
+      128.24
+    ],
+    "text": "Kobeigane.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      135.36,
+      513.7,
+      149.36
+    ],
+    "text": "Defendant-Appellant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      168.48,
+      353.83,
+      182.48
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      201.6,
+      491.59,
+      215.6
+    ],
+    "text": "Ranasinghe Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      222.72,
+      464.74,
+      236.72
+    ],
+    "text": "Susantha Ranasinghe,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      243.99,
+      417.91,
+      257.99
+    ],
+    "text": "Alahenegama,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      265.11,
+      414.07,
+      279.11
+    ],
+    "text": "Alahenegama.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      286.23,
+      452.02,
+      300.23
+    ],
+    "text": "Plaintiff-Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.67,
+      307.35,
+      400.87,
+      321.35
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      361.59,
+      370.15,
+      375.59
+    ],
+    "text": "Before: Hon. Justice P. Padman Surasena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      382.71,
+      385.99,
+      396.71
+    ],
+    "text": "Hon. Justice A.L. Shiran Gooneratne",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      403.85,
+      407.83,
+      417.85
+    ],
+    "text": "Hon. Justice Mahinda Samayawardhena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      436.97,
+      522.15,
+      450.97
+    ],
+    "text": "Counsel: Sapumal Bandara with Vishmi Yapa Abeywardena for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      458.09,
+      355.51,
+      472.09
+    ],
+    "text": "Defendant-Appellant-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      479.21,
+      518.62,
+      493.21
+    ],
+    "text": "Rasika Dissanayake with Shabbir Hassim for the Plaintiff-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      500.33,
+      316.87,
+      514.33
+    ],
+    "text": "Respondent-Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      533.45,
+      224.21,
+      547.45
+    ],
+    "text": "Written Submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      554.57,
+      482.98,
+      568.57
+    ],
+    "text": "By the Defendant-Appellant-Appellant on 06.04.2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      575.84,
+      494.5,
+      589.84
+    ],
+    "text": "By the Plaintiff-Respondent-Respondent on 09.05.2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      608.96,
+      232.61,
+      622.96
+    ],
+    "text": "Argued on: 14.03.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      642.08,
+      224.21,
+      656.08
+    ],
+    "text": "Written Submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      663.2,
+      494.5,
+      677.2
+    ],
+    "text": "By the Plaintiff-Respondent-Respondent on 04.04.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      696.31,
+      237.65,
+      710.32
+    ],
+    "text": "Decided on: 10.05.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      36.04,
+      312.96,
+      62.94
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      72.0,
+      225.89,
+      85.98
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      105.12,
+      522.1,
+      119.18
+    ],
+    "text": "The plaintiff husband filed action seeking a decree of divorce (vinculo",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      126.24,
+      522.13,
+      140.3
+    ],
+    "text": "matrimonii) on the ground of malicious desertion on the part of the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      147.36,
+      522.24,
+      161.36
+    ],
+    "text": "defendant wife. The defendant countersued for a divorce on constructive",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      168.48,
+      522.12,
+      182.48
+    ],
+    "text": "malicious desertion on the part of the husband. She also prayed for a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      189.72,
+      522.34,
+      203.72
+    ],
+    "text": "sum of Rs. one million as permanent alimony. There are no children from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      210.84,
+      522.1,
+      224.84
+    ],
+    "text": "this union. After trial, the District Court granted the divorce in favour of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      231.96,
+      522.14,
+      245.96
+    ],
+    "text": "the defendant but did not award permanent alimony citing want of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      253.11,
+      522.19,
+      267.11
+    ],
+    "text": "evidence. The defendant appealed to the High Court of Civil Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      274.23,
+      522.25,
+      288.23
+    ],
+    "text": "against the denial of permanent alimony. The High Court did not interfere",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      295.35,
+      522.12,
+      309.35
+    ],
+    "text": "with the judgment of the District Court and reiterated that there was no",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      316.47,
+      522.33,
+      330.47
+    ],
+    "text": "evidence to award alimony. The defendant is before this Court against",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      337.59,
+      285.41,
+      351.59
+    ],
+    "text": "the judgment of the High Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      370.71,
+      522.11,
+      384.71
+    ],
+    "text": "Learned counsel for the defendant cites section 615(1)(b) of the Civil",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      391.83,
+      522.11,
+      405.83
+    ],
+    "text": "Procedure Code as the provision which empowers the District Court to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      412.97,
+      343.51,
+      426.97
+    ],
+    "text": "award alimony after granting the divorce.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      446.09,
+      522.34,
+      460.09
+    ],
+    "text": "Section 615 of the Civil Procedure Code as it stands now reads as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.62,
+      479.21,
+      521.89,
+      493.27
+    ],
+    "text": "615. (1) The court may, if it thinks fit, upon pronouncing a decree of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.62,
+      500.45,
+      522.08,
+      514.51
+    ],
+    "text": "divorce or separation, order for the benefit of either spouse or of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.62,
+      521.57,
+      522.01,
+      535.63
+    ],
+    "text": "children of the marriage or of both, that the other spouse shall do",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.62,
+      542.69,
+      324.79,
+      556.75
+    ],
+    "text": "any one or more of the following:-",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.62,
+      569.84,
+      521.9,
+      583.9
+    ],
+    "text": "(a) make such conveyance or settlement as the court thinks",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.62,
+      590.96,
+      522.0,
+      605.02
+    ],
+    "text": "reasonable of such property or any part thereof as he may be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.62,
+      612.08,
+      229.97,
+      626.14
+    ],
+    "text": "entitled to;",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.62,
+      633.2,
+      324.31,
+      647.26
+    ],
+    "text": "(b) pay a gross sum of money;",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.62,
+      654.32,
+      521.9,
+      668.38
+    ],
+    "text": "(c) pay annually or monthly such sums of money as the court",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.62,
+      675.44,
+      276.05,
+      689.5
+    ],
+    "text": "thinks reasonable;",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      36.04,
+      312.96,
+      62.94
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.62,
+      72.0,
+      522.02,
+      86.06
+    ],
+    "text": "(d) secure the payment of such sums of money as may be ordered",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.62,
+      93.12,
+      521.91,
+      107.18
+    ],
+    "text": "under paragraph (b) or paragraph (c) by the hypothecation of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.62,
+      114.24,
+      521.89,
+      128.3
+    ],
+    "text": "immovable property or by the execution of a bond with or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.62,
+      135.36,
+      521.88,
+      149.42
+    ],
+    "text": "without sureties, or by the purchase of a policy of annuity in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      165.62,
+      156.48,
+      520.18,
+      170.54
+    ],
+    "text": "an insurance company or other institution approved by court.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      183.6,
+      521.92,
+      197.66
+    ],
+    "text": "(2) The court may at any stage discharge, modify, temporarily",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      204.72,
+      510.82,
+      218.78
+    ],
+    "text": "suspend and revive or enhance an order made under subsection.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      237.99,
+      522.12,
+      251.99
+    ],
+    "text": "In terms of section 615(1)(b) of the Civil Procedure Code, the Court may,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      259.11,
+      522.26,
+      273.11
+    ],
+    "text": "if it thinks fit, upon pronouncing a decree of divorce, order for the benefit",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      280.23,
+      522.26,
+      294.23
+    ],
+    "text": "of either spouse that the other spouse shall pay a gross sum of money as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      301.35,
+      522.29,
+      315.35
+    ],
+    "text": "permanent alimony. The legislature has not expressly stated matrimonial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      322.47,
+      522.12,
+      336.47
+    ],
+    "text": "fault as a factor in awarding alimony. In terms of this section, alimony",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      343.59,
+      522.1,
+      357.59
+    ],
+    "text": "can be awarded not only in favour of the wife, but also in favour the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      364.71,
+      522.33,
+      378.71
+    ],
+    "text": "husband. This is a clear departure from the earlier position where only",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      385.83,
+      292.37,
+      399.83
+    ],
+    "text": "the wife could claim for alimony.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      418.97,
+      522.24,
+      432.97
+    ],
+    "text": "Section 615 as it stood before the Civil Procedure Code (Amendment) Law,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      440.09,
+      282.05,
+      454.09
+    ],
+    "text": "No. 20 of 1977, read as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      473.21,
+      522.02,
+      487.27
+    ],
+    "text": "615. The court may, if it thinks fit, on any decree absolute declaring",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      494.33,
+      521.89,
+      508.39
+    ],
+    "text": "a marriage to be dissolved, or on any decree of separation obtained",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      515.45,
+      521.94,
+      529.51
+    ],
+    "text": "by the wife, order that the husband shall, to the satisfaction of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      536.57,
+      522.01,
+      550.63
+    ],
+    "text": "court, secure to the wife such gross sum of money, or such annual",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      557.81,
+      521.88,
+      571.87
+    ],
+    "text": "sum of money for any term not exceeding her own life, as, having",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      578.96,
+      521.79,
+      593.02
+    ],
+    "text": "regard to her fortune (if any), to the ability of the husband, and to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      600.08,
+      522.05,
+      614.14
+    ],
+    "text": "the conduct of the parties, it thinks reasonable; and for that purpose",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      621.2,
+      522.01,
+      635.26
+    ],
+    "text": "may cause a proper instrument to be executed by all necessary",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.62,
+      642.32,
+      176.66,
+      656.38
+    ],
+    "text": "parties.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      36.04,
+      312.96,
+      62.94
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      72.0,
+      521.98,
+      86.06
+    ],
+    "text": "(2) In every such case the court may make an order on the husband",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      93.12,
+      521.84,
+      107.18
+    ],
+    "text": "for payment to the wife of such monthly or weekly sums for her",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      114.24,
+      484.66,
+      128.3
+    ],
+    "text": "maintenance and support as the court may think reasonable:",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      147.36,
+      521.91,
+      161.42
+    ],
+    "text": "Provided that if the husband afterwards from any cause becomes",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      168.48,
+      521.88,
+      182.54
+    ],
+    "text": "unable to make such payments, it shall be lawful for the court to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      189.6,
+      521.9,
+      203.66
+    ],
+    "text": "discharge or modify the order, or temporarily to suspend the same",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      210.72,
+      522.1,
+      224.78
+    ],
+    "text": "as to the whole or any part of the money so ordered to be paid, and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      231.96,
+      521.83,
+      246.02
+    ],
+    "text": "again to revive the same order wholly or in part, as to the court",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      253.11,
+      188.45,
+      267.17
+    ],
+    "text": "seems fit.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      286.23,
+      522.26,
+      300.23
+    ],
+    "text": "Although the repealed section does not explicitly state that the wife must",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      307.35,
+      522.27,
+      321.35
+    ],
+    "text": "be the innocent party to be entitled to alimony, Courts have interpreted",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      328.47,
+      522.25,
+      342.53
+    ],
+    "text": "the conduct of the parties to mean that only the innocent party is entitled",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      349.59,
+      522.34,
+      363.65
+    ],
+    "text": "to it. The term The court may, if it thinks fit found in section 615 also",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      370.71,
+      522.25,
+      384.71
+    ],
+    "text": "lends support to come to that conclusion. As a result, alimony has been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      391.83,
+      403.03,
+      405.83
+    ],
+    "text": "denied when the wife is found to be the guilty party.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      424.97,
+      522.29,
+      438.97
+    ],
+    "text": "Hence, in practical terms, the obligation to pay permanent alimony is tied",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      446.09,
+      522.32,
+      460.09
+    ],
+    "text": "to the concept of matrimonial fault in divorce proceedings. In Sri Lanka,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      467.21,
+      522.29,
+      481.21
+    ],
+    "text": "under section 19(2) of the Marriage Registration Ordinance, No. 19 of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      488.45,
+      522.12,
+      502.45
+    ],
+    "text": "1907, as amended, a decree of divorce can be granted on proof of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      509.57,
+      522.29,
+      523.57
+    ],
+    "text": "matrimonial fault identified in law, i.e. adultery, malicious desertion and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      530.69,
+      518.62,
+      544.69
+    ],
+    "text": "incurable impotency. What is known in some other jurisdictions as no-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      551.81,
+      522.34,
+      565.87
+    ],
+    "text": "fault divorce is not part of our law (Tennekoon v. Tennekoon [1986] 1 Sri",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      572.96,
+      143.3,
+      586.96
+    ],
+    "text": "LR 90).",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      606.08,
+      522.26,
+      620.08
+    ],
+    "text": "In awarding permanent alimony after the grant of divorce, the Court has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      627.2,
+      522.16,
+      641.2
+    ],
+    "text": "discretion. However, this discretion needs to be exercised judicially, not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      648.32,
+      522.34,
+      662.32
+    ],
+    "text": "arbitrarily, leaving aside the personal beliefs, biases and prejudices of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      669.44,
+      505.3,
+      683.44
+    ],
+    "text": "Judge towards the marriage relationship, divorce, and alimony itself.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      36.04,
+      312.96,
+      62.94
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      72.0,
+      522.12,
+      86.0
+    ],
+    "text": "When permanent alimony is sought by the innocent spouse from the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      93.12,
+      522.13,
+      107.12
+    ],
+    "text": "guilty spouse, the Court needs to consider a variety of factors. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      114.24,
+      522.25,
+      128.24
+    ],
+    "text": "decision regarding the quantum of alimony should depend on the unique",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      135.36,
+      522.27,
+      149.36
+    ],
+    "text": "facts and circumstances of each individual case. A similar view was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      156.48,
+      522.09,
+      170.54
+    ],
+    "text": "expressed by me in respect of alimony pendente lite in Thamel v.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      177.6,
+      475.54,
+      191.66
+    ],
+    "text": "Nawaratne (SC/APPEAL/153/2019, SC Minutes of 28.02.2024).",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      210.84,
+      522.08,
+      224.84
+    ],
+    "text": "With respect, I am unable to agree with the view expressed in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      231.96,
+      522.34,
+      246.02
+    ],
+    "text": "judgment of the Court of Appeal in Anulawathie v. Gunapala and Another",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      253.11,
+      522.02,
+      267.17
+    ],
+    "text": "[1998] 1 Sri LR 63 at 67 which states that the sole criterion upon which",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      274.23,
+      522.34,
+      288.29
+    ],
+    "text": "alimony should be quantified is the financial status of the defendant.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      295.35,
+      522.23,
+      309.35
+    ],
+    "text": "Among all the factors, perhaps the most important is the financial status,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      316.47,
+      522.18,
+      330.47
+    ],
+    "text": "but not only the financial status of the guilty spouse but also of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      337.59,
+      201.17,
+      351.59
+    ],
+    "text": "innocent spouse.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      370.71,
+      522.26,
+      384.71
+    ],
+    "text": "In addition to the existing financial status of the parties, the Court must",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      391.95,
+      522.14,
+      405.95
+    ],
+    "text": "consider other factors such as their future earning capacity, the length",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      413.09,
+      522.12,
+      427.09
+    ],
+    "text": "of the marriage, the reason or reasons for divorce, the standard of living",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      434.21,
+      522.21,
+      448.21
+    ],
+    "text": "during the marriage, the ages and health of the parties, their station in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      455.33,
+      522.17,
+      469.33
+    ],
+    "text": "life or social standing, other financial liabilities, custody arrangements.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      476.45,
+      270.53,
+      490.45
+    ],
+    "text": "This is not an exhaustive list.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      509.57,
+      522.12,
+      523.57
+    ],
+    "text": "The underlying principle of ordering permanent alimony is to ensure",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      530.69,
+      522.1,
+      544.69
+    ],
+    "text": "sufficient support for the former wife after the divorce. It need not be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      551.81,
+      522.11,
+      565.81
+    ],
+    "text": "intended to serve as punishment for the husband found guilty of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      572.96,
+      522.3,
+      586.96
+    ],
+    "text": "matrimonial fault. The order for alimony should be reasonable and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      594.08,
+      147.62,
+      608.08
+    ],
+    "text": "realistic.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      627.2,
+      522.07,
+      641.2
+    ],
+    "text": "It is important to note that although alimony ordered after divorce is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      648.32,
+      522.13,
+      662.32
+    ],
+    "text": "termed permanent alimony, it is not truly permanent. Section 615(2)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      669.44,
+      522.14,
+      683.44
+    ],
+    "text": "states that the Court may at any stage discharge, modify, temporarily",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      690.55,
+      522.27,
+      704.56
+    ],
+    "text": "suspend, revive or enhance such an order. Therefore, judicial time need",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      36.04,
+      312.96,
+      62.94
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      72.0,
+      522.26,
+      86.0
+    ],
+    "text": "not be unnecessarily spent on deciding the question of alimony in divorce",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      93.12,
+      133.22,
+      107.12
+    ],
+    "text": "cases.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      126.24,
+      522.11,
+      140.24
+    ],
+    "text": "In the present case, the plaintiffs financial status was not established",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      147.36,
+      522.23,
+      161.36
+    ],
+    "text": "during the trial. At the commencement of evidence, the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      168.48,
+      522.14,
+      182.48
+    ],
+    "text": "mentioned his employment as an Assistant Store Keeper at the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      189.6,
+      522.27,
+      203.6
+    ],
+    "text": "Maganeguma road construction company, but the details about his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      210.72,
+      522.26,
+      224.72
+    ],
+    "text": "salary and expenses were not led by either party. It was also unclear",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      231.96,
+      522.26,
+      245.96
+    ],
+    "text": "whether this employment was temporary. Before the marriage, he worked",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      253.11,
+      522.13,
+      267.11
+    ],
+    "text": "as a tax collector on commission basis at the Pradeshiya Sabha, where",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      274.23,
+      522.25,
+      288.23
+    ],
+    "text": "the defendant also worked. The defendant testified that during the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      295.35,
+      522.34,
+      309.35
+    ],
+    "text": "marriage, she had to settle the plaintiffs loans, purchase a motorbike for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      316.47,
+      522.13,
+      330.47
+    ],
+    "text": "him, and cover household expenses. The defendant admits that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      337.59,
+      522.26,
+      351.59
+    ],
+    "text": "plaintiff is not from a wealthy background. The defendant does not claim",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      358.71,
+      522.23,
+      372.71
+    ],
+    "text": "that the plaintiff has any other movable or immovable properties, whether",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      379.83,
+      522.29,
+      393.83
+    ],
+    "text": "inherited or purchased. She also mentioned that the plaintiff paid",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      400.97,
+      522.1,
+      414.97
+    ],
+    "text": "maintenance for a child from a previous marriage using her money. It",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      422.09,
+      522.33,
+      436.09
+    ],
+    "text": "seems the plaintiff does not have permanent employment, while the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      443.21,
+      522.18,
+      457.21
+    ],
+    "text": "defendants employment is permanent. Following the registration, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      464.33,
+      522.14,
+      478.33
+    ],
+    "text": "plaintiff waited two years to bring the defendant to their matrimonial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      485.45,
+      522.25,
+      499.45
+    ],
+    "text": "home due to financial constraints. They did not have a separate",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      506.57,
+      522.17,
+      520.57
+    ],
+    "text": "matrimonial home. The matrimonial home was the plaintiffs parents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      527.81,
+      522.34,
+      541.81
+    ],
+    "text": "home. Constant disputes between the defendant and the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      548.93,
+      418.39,
+      562.93
+    ],
+    "text": "mother contributed to the breakdown of the marriage.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      582.08,
+      522.08,
+      596.08
+    ],
+    "text": "In short, while no evidence had been led to demonstrate the financial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      603.2,
+      522.14,
+      617.2
+    ],
+    "text": "states of the plaintiff, the defendant, through her evidence and during",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      624.32,
+      522.14,
+      638.32
+    ],
+    "text": "the cross-examination of the plaintiff, has established that she is in a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      645.44,
+      522.21,
+      659.44
+    ],
+    "text": "better financial position than the plaintiff. The District Judges finding",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      666.56,
+      522.07,
+      680.56
+    ],
+    "text": "that the defendant did not prove financial status of the plaintiff in order",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      36.04,
+      312.96,
+      62.94
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      72.0,
+      522.11,
+      86.0
+    ],
+    "text": "for the Court to order permanent alimony is flawless. It is that order",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      93.12,
+      328.15,
+      107.12
+    ],
+    "text": "which was affirmed by the High Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      126.24,
+      522.16,
+      140.24
+    ],
+    "text": "Although the repealed section 615 contained guidelines for the exercise",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      147.36,
+      522.12,
+      161.36
+    ],
+    "text": "of discretion in awarding permanent alimony, the new section lacks any",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      168.48,
+      522.1,
+      182.48
+    ],
+    "text": "such guidelines. Therefore, in the judgment, the High Court noted that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      189.6,
+      522.17,
+      203.6
+    ],
+    "text": "all the criteria identified in the UK Matrimonial Causes Act of 1973 may",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      210.72,
+      522.13,
+      224.72
+    ],
+    "text": "well be equally applicable to the exercise of judicial discretion in Sri",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      231.96,
+      522.13,
+      245.96
+    ],
+    "text": "Lanka in order to ascertain the financial status and the need of both",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      253.11,
+      522.15,
+      267.11
+    ],
+    "text": "parties to the action. Thereafter, the High Court examined each of these",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      274.23,
+      522.18,
+      288.23
+    ],
+    "text": "criteria identified in the UK Matrimonial Causes Act in relation to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      295.35,
+      522.26,
+      309.35
+    ],
+    "text": "facts of the case at hand and concluded that, since the defendant did not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      316.47,
+      482.98,
+      330.47
+    ],
+    "text": "satisfy those criteria, she was not entitled to permanent alimony.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      349.59,
+      522.28,
+      363.59
+    ],
+    "text": "Learned counsel for the defendant-appellant contends that this approach",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      370.71,
+      522.07,
+      384.71
+    ],
+    "text": "of the High Court is incorrect and could set a bad precedent unless this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      391.83,
+      522.34,
+      405.83
+    ],
+    "text": "Court clarifies the correct legal position. It is encouraging to learn that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      412.97,
+      522.16,
+      426.97
+    ],
+    "text": "learned counsel is considering broader policy implications beyond the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      434.09,
+      259.25,
+      448.09
+    ],
+    "text": "isolated appeal of this case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      467.21,
+      522.08,
+      481.21
+    ],
+    "text": "In terms of section 23(1)(c) of the UK Matrimonial Causes Act of 1973,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      488.33,
+      522.26,
+      502.33
+    ],
+    "text": "similar to the provisions in Sri Lanka, the Court, upon granting a divorce,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      509.45,
+      522.13,
+      523.45
+    ],
+    "text": "has the authority to order the payment of a lump sum. Furthermore,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      530.57,
+      522.26,
+      544.57
+    ],
+    "text": "section 25(1) of the Act requires the Court, in determining whether to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      551.81,
+      522.25,
+      565.81
+    ],
+    "text": "exercise its powers under this section, to consider all the circumstances",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      572.96,
+      522.14,
+      586.96
+    ],
+    "text": "of the case. Additionally, section 25(2) specifies that the Court must",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      594.08,
+      344.95,
+      608.08
+    ],
+    "text": "particularly consider the following factors:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      111.62,
+      627.2,
+      522.18,
+      641.2
+    ],
+    "text": "(a) the income, earning capacity, property and other financial",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      648.32,
+      522.25,
+      662.32
+    ],
+    "text": "resources which each of the parties to the marriage has or is likely",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      669.44,
+      522.12,
+      683.44
+    ],
+    "text": "to have in the foreseeable future, including in the case of earning",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      690.55,
+      522.33,
+      704.56
+    ],
+    "text": "capacity any increase in that capacity which it would in the opinion",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      36.04,
+      312.96,
+      62.94
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      72.0,
+      522.26,
+      86.0
+    ],
+    "text": "of the court be reasonable to expect a party to the marriage to take",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      93.12,
+      230.45,
+      107.12
+    ],
+    "text": "steps to acquire;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.62,
+      114.24,
+      522.14,
+      128.24
+    ],
+    "text": "(b) the financial needs, obligations and responsibilities which each of",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      135.36,
+      522.26,
+      149.36
+    ],
+    "text": "the parties to the marriage has or is likely to have in the foreseeable",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      156.48,
+      173.54,
+      170.48
+    ],
+    "text": "future;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.62,
+      177.6,
+      522.13,
+      191.6
+    ],
+    "text": "(c) the standard of living enjoyed by the family before the breakdown",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      198.72,
+      226.37,
+      212.72
+    ],
+    "text": "of the marriage;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.62,
+      219.96,
+      522.12,
+      233.96
+    ],
+    "text": "(d) the age of each party to the marriage and the duration of the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      241.11,
+      189.41,
+      255.11
+    ],
+    "text": "marriage;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.62,
+      262.23,
+      522.09,
+      276.23
+    ],
+    "text": "(e) any physical or mental disability of either of the parties to the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      283.35,
+      189.41,
+      297.35
+    ],
+    "text": "marriage;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.62,
+      304.47,
+      522.26,
+      318.47
+    ],
+    "text": "(f) the contributions which each of the parties has made or is likely in",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      325.59,
+      522.14,
+      339.59
+    ],
+    "text": "the foreseeable future to make to the welfare of the family,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      346.71,
+      522.09,
+      360.71
+    ],
+    "text": "including any contribution by looking after the home or caring for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      367.83,
+      195.65,
+      381.83
+    ],
+    "text": "the family;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.62,
+      388.95,
+      522.1,
+      402.95
+    ],
+    "text": "(g) the conduct of each of the parties, if that conduct is such that it",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      410.09,
+      502.66,
+      424.09
+    ],
+    "text": "would in the opinion of the court be inequitable to disregard it;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.62,
+      431.21,
+      522.09,
+      445.21
+    ],
+    "text": "(h) in the case of proceedings for divorce or nullity of marriage, the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      452.33,
+      522.08,
+      466.33
+    ],
+    "text": "value to each of the parties to the marriage of any benefit which,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      473.45,
+      522.09,
+      487.45
+    ],
+    "text": "by reason of the dissolution or annulment of the marriage, that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      494.57,
+      360.07,
+      508.57
+    ],
+    "text": "party will lose the chance of acquiring.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      527.81,
+      522.29,
+      541.81
+    ],
+    "text": "I appreciate that the grounds of divorce, socio-economic culture, and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      548.93,
+      522.26,
+      562.93
+    ],
+    "text": "societal values etc. between the UK and Sri Lanka are incomparable, and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      570.08,
+      522.16,
+      584.08
+    ],
+    "text": "therefore we cannot mechanically adopt the criteria formulated for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      591.2,
+      522.23,
+      605.2
+    ],
+    "text": "UK legal system without any modification. However, in exercising",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      612.32,
+      522.34,
+      626.32
+    ],
+    "text": "discretion, it is not inappropriate for our Courts to consider those factors",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      633.44,
+      522.13,
+      647.44
+    ],
+    "text": "also as guidelines but certainly not as a rigid checklist. Even under the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      654.56,
+      522.14,
+      668.56
+    ],
+    "text": "UK Matrimonial Causes Act, it is not an exhaustive list. The quantum of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      675.68,
+      518.62,
+      689.74
+    ],
+    "text": "alimonywhether as alimony pendente lite or as permanent alimony",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      36.04,
+      316.44,
+      62.94
+    ],
+    "text": "10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      72.0,
+      522.07,
+      86.0
+    ],
+    "text": "should be decided not based on hard and fast rules but on the unique",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      93.12,
+      323.35,
+      107.12
+    ],
+    "text": "facts and circumstances of each case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      126.24,
+      522.13,
+      140.24
+    ],
+    "text": "It may be worth considering the adoption of certain standards to guide",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      147.36,
+      522.14,
+      161.36
+    ],
+    "text": "the exercise of discretion, as this could enhance predictability and deter",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      168.48,
+      522.14,
+      182.48
+    ],
+    "text": "arbitrariness. However, it is important to ensure that this does not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      189.6,
+      522.27,
+      203.6
+    ],
+    "text": "compromise the flexibility inherent in judicial discretion, which is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      210.72,
+      522.31,
+      224.72
+    ],
+    "text": "particularly valuable in the determination of alimony. The legislature has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      231.96,
+      522.26,
+      245.96
+    ],
+    "text": "declined to specify any criteria in section 615 of the Civil Procedure Code",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      253.11,
+      355.03,
+      267.11
+    ],
+    "text": "so that this judicial discretion is preserved.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      286.23,
+      522.12,
+      300.23
+    ],
+    "text": "The questions of law upon which leave to appeal was granted and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      307.35,
+      278.21,
+      321.35
+    ],
+    "text": "answers thereto are as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.62,
+      340.47,
+      522.27,
+      354.47
+    ],
+    "text": "Q. Did the High Court misdirect itself in law when it applied criteria",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      361.59,
+      522.14,
+      375.59
+    ],
+    "text": "in the UK Matrimonial Causes Act of 1973 in assessing financial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      382.71,
+      181.46,
+      396.71
+    ],
+    "text": "status?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.62,
+      415.85,
+      522.13,
+      429.85
+    ],
+    "text": "A. Applying the UK criteria as a rigid checklist for awarding alimony",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      436.97,
+      522.08,
+      450.97
+    ],
+    "text": "in the Sri Lankan context is not feasible, but they can be used,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      458.09,
+      522.34,
+      472.09
+    ],
+    "text": "among other considerations, as guides to decide the quantum of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      479.21,
+      183.86,
+      493.21
+    ],
+    "text": "alimony.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.62,
+      512.33,
+      522.02,
+      526.33
+    ],
+    "text": "Q. Did the High Court err both in fact and law when it failed to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      533.45,
+      522.15,
+      547.45
+    ],
+    "text": "appreciate that, considering all the circumstances of the case, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      554.57,
+      497.86,
+      568.57
+    ],
+    "text": "defendant is entitled to have an order for permanent alimony?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.62,
+      587.84,
+      522.14,
+      601.84
+    ],
+    "text": "A. No, considering all the circumstances of the case, the defendant is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      608.96,
+      442.18,
+      622.96
+    ],
+    "text": "not entitled to have an order for permanent alimony.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      642.08,
+      522.13,
+      656.08
+    ],
+    "text": "I agree with the judgment of the High Court on the question of alimony",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      663.2,
+      522.26,
+      677.2
+    ],
+    "text": "subject to the views expressed in this judgment. The appeal is dismissed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      684.31,
+      207.89,
+      698.32
+    ],
+    "text": "but without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      36.04,
+      316.44,
+      62.94
+    ],
+    "text": "11",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      394.51,
+      37.96,
+      517.35,
+      50.84
+    ],
+    "text": "SC/APPEAL/31/2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      352.15,
+      99.12,
+      522.34,
+      113.12
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      141.36,
+      238.85,
+      155.36
+    ],
+    "text": "P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      162.48,
+      140.42,
+      176.48
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      352.15,
+      195.6,
+      522.34,
+      209.6
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      237.99,
+      254.69,
+      251.99
+    ],
+    "text": "A.L. Shiran Gooneratne, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      259.11,
+      140.42,
+      273.11
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      352.15,
+      292.23,
+      522.34,
+      306.23
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

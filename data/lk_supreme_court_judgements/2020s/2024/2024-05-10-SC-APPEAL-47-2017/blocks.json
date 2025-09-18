@@ -1,0 +1,5764 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      83.99,
+      488.8,
+      100.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      108.59,
+      446.83,
+      124.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      154.44,
+      517.75,
+      168.44
+    ],
+    "text": "Sirimewan Maha Mudalige Kalyani",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      175.56,
+      383.35,
+      189.56
+    ],
+    "text": "Sirimewan,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      196.68,
+      487.3,
+      210.68
+    ],
+    "text": "Udukekulawala, Bujjomuwa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      217.8,
+      358.87,
+      231.8
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      238.95,
+      233.09,
+      252.93
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      260.07,
+      281.09,
+      274.05
+    ],
+    "text": "WP/HCCA/KUR/165/2011(F)",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      281.19,
+      295.97,
+      295.19
+    ],
+    "text": "DC KULIYAPITIYA NO. 15707/L",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      302.31,
+      331.99,
+      316.31
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      344.67,
+      506.47,
+      358.67
+    ],
+    "text": "Herath Mudiyanselage Gunarath",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      365.79,
+      359.83,
+      379.79
+    ],
+    "text": "Menike,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      386.91,
+      615.67,
+      400.91
+    ],
+    "text": "Hemudawa, Sandalankawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      408.05,
+      378.07,
+      422.05
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.62,
+      450.29,
+      343.99,
+      464.29
+    ],
+    "text": "AND",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      492.53,
+      517.75,
+      506.53
+    ],
+    "text": "Sirimewan Maha Mudalige Kalyani",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      513.65,
+      383.35,
+      527.65
+    ],
+    "text": "Sirimewan,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      534.77,
+      487.3,
+      548.77
+    ],
+    "text": "Udukekulawala, Bujjomuwa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      555.89,
+      423.43,
+      569.89
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      598.16,
+      331.99,
+      612.16
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      640.52,
+      506.47,
+      654.52
+    ],
+    "text": "Herath Mudiyanselage Gunarath",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      661.64,
+      359.83,
+      675.64
+    ],
+    "text": "Menike,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      682.75,
+      484.9,
+      696.76
+    ],
+    "text": "Hemudawa, Sadalankawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.67,
+      703.87,
+      613.54,
+      717.88
+    ],
+    "text": "Defendant-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      35.14,
+      325.51,
+      62.94
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      72.0,
+      439.54,
+      86.0
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      114.24,
+      517.75,
+      128.24
+    ],
+    "text": "Sirimewan Maha Mudalige Kalyani",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      135.36,
+      383.35,
+      149.36
+    ],
+    "text": "Sirimewan,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      156.48,
+      487.3,
+      170.48
+    ],
+    "text": "Udukekulawala, Bujjomuwa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      177.6,
+      484.18,
+      191.6
+    ],
+    "text": "Plaintiff-Appellant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      219.96,
+      331.99,
+      233.96
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      262.23,
+      506.47,
+      276.23
+    ],
+    "text": "Herath Mudiyanselage Gunarath",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      283.35,
+      359.83,
+      297.35
+    ],
+    "text": "Menike,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      304.47,
+      484.9,
+      318.47
+    ],
+    "text": "Hemudawa, Sadalankawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      325.59,
+      449.38,
+      339.59
+    ],
+    "text": "Defendant-Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.67,
+      346.71,
+      382.87,
+      360.71
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      388.95,
+      436.66,
+      402.95
+    ],
+    "text": "Before: Hon. Chief Justice Jayantha Jayasuriya, P.C.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      410.09,
+      357.91,
+      424.09
+    ],
+    "text": "Hon. Justice S. Thurairaja, P.C.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      431.21,
+      421.51,
+      445.21
+    ],
+    "text": "Hon. Justice Mahinda Samayawardhena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      464.33,
+      495.94,
+      478.33
+    ],
+    "text": "Counsel: S.N. Vijithsingh with Tharushi Ishanka for the Plaintiff-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      485.45,
+      289.97,
+      499.45
+    ],
+    "text": "Appellant-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      512.57,
+      513.14,
+      526.57
+    ],
+    "text": "Upul Kumarapperuma, P.C. with Radha Kuruwitabandara",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      533.81,
+      424.63,
+      547.81
+    ],
+    "text": "for the Defendant-Respondent-Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      566.96,
+      236.45,
+      580.96
+    ],
+    "text": "Argued on: 13.02.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      600.08,
+      224.21,
+      614.08
+    ],
+    "text": "Written Submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      633.2,
+      475.3,
+      647.2
+    ],
+    "text": "By the Plaintiff-Appellant-Appellant on 13.03.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.62,
+      654.32,
+      521.38,
+      668.32
+    ],
+    "text": "By the Defendant-Respondent-Respondent on 14.03.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.62,
+      687.43,
+      268.37,
+      701.44
+    ],
+    "text": "Decided on: 10.05.2024",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      35.14,
+      325.51,
+      62.94
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      72.0,
+      225.89,
+      85.98
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      105.12,
+      522.34,
+      119.12
+    ],
+    "text": "The plaintiff filed this action against the defendant in the District Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      126.24,
+      522.34,
+      140.24
+    ],
+    "text": "of Kuliyapitiya on 26.12.2007 seeking cancellation of the deed of gift No.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      147.36,
+      522.26,
+      161.36
+    ],
+    "text": "14869 dated 12.10.2002 on the basis that the said deed was executed by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      168.48,
+      522.34,
+      182.48
+    ],
+    "text": "the plaintiffs late father in favour of the defendant under undue influence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      189.6,
+      522.29,
+      203.6
+    ],
+    "text": "and threats by the latter. The defendant sought dismissal of the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      210.72,
+      522.32,
+      224.72
+    ],
+    "text": "action on the basis that it was a voluntary act of the donor. After trial,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      231.96,
+      522.34,
+      245.96
+    ],
+    "text": "the District Court dismissed the plaintiffs action. On appeal, the High",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      253.11,
+      522.32,
+      267.11
+    ],
+    "text": "Court of Civil Appeal affirmed the judgment of the District Court. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      274.23,
+      500.5,
+      288.23
+    ],
+    "text": "plaintiff appealed to this Court from the judgment of the High Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      307.35,
+      522.33,
+      321.41
+    ],
+    "text": "According to the uncontradictory evidence led in the inter partes trial in",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      328.47,
+      522.32,
+      342.47
+    ],
+    "text": "the divorce case between the plaintiffs father and the mother (V1), the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      349.59,
+      522.34,
+      363.59
+    ],
+    "text": "plaintiffs mother left the matrimonial home on 23.12.1972. By judgment",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      370.71,
+      522.29,
+      384.71
+    ],
+    "text": "dated 16.03.2000, the District Court had granted the divorce in favour of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      391.83,
+      522.33,
+      405.83
+    ],
+    "text": "the plaintiffs father on the ground of malicious desertion on part of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      412.97,
+      522.34,
+      427.03
+    ],
+    "text": "plaintiffs mother. The father had paid a sum of Rs. 2,500,000 as ex gratia",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      434.09,
+      522.21,
+      448.09
+    ],
+    "text": "payment to the mother. At the inquiry before the Magistrate into the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      455.21,
+      522.2,
+      469.21
+    ],
+    "text": "death of the plaintiffs father, the plaintiffs mother had testified that she",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      476.45,
+      302.69,
+      490.45
+    ],
+    "text": "left the matrimonial home in 1973.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      509.57,
+      522.34,
+      523.57
+    ],
+    "text": "At the trial in the instant case, the plaintiff in her evidence stated that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      530.69,
+      522.34,
+      544.69
+    ],
+    "text": "the defendant had been living with the plaintiffs father since 1985 as his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      551.81,
+      522.27,
+      565.81
+    ],
+    "text": "mistress. She further stated that approximately 2-3 months after the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      572.96,
+      522.14,
+      586.96
+    ],
+    "text": "defendants arrival, her father expelled the plaintiffs mother from the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      594.08,
+      487.54,
+      608.08
+    ],
+    "text": "matrimonial home, and the plaintiff also accompanied the mother.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      627.2,
+      522.34,
+      641.2
+    ],
+    "text": "This evidence of the defendant is contrary to the unchallenged evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      648.32,
+      522.25,
+      662.32
+    ],
+    "text": "led in the parents divorce case. I must emphasise that the divorce trial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      669.44,
+      522.26,
+      683.5
+    ],
+    "text": "was not ex parte but inter partes where the plaintiffs mother was",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.62,
+      690.55,
+      240.77,
+      704.56
+    ],
+    "text": "represented by a lawyer.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      35.14,
+      325.51,
+      62.94
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      72.0,
+      522.29,
+      86.0
+    ],
+    "text": "The impugned deed had been executed on 12.10.2002 after entering the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      93.12,
+      522.34,
+      107.18
+    ],
+    "text": "judgment in the divorce case on 16.03.2000 but before the decree nisi",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      114.24,
+      522.25,
+      128.24
+    ],
+    "text": "was made absolute. The plaintiffs father got married to the defendant on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      135.36,
+      522.32,
+      149.42
+    ],
+    "text": "02.05.2003 after the decree nisi was made absolute. There was no",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      156.48,
+      522.14,
+      170.48
+    ],
+    "text": "rationale for exerting undue influence on the plaintiffs father to execute",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      177.72,
+      522.12,
+      191.72
+    ],
+    "text": "the deed in favour of the defendant because by that time the divorce",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      198.84,
+      522.13,
+      212.84
+    ],
+    "text": "proceedings had practically concluded without any opposition from the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      219.96,
+      522.18,
+      233.96
+    ],
+    "text": "plaintiffs mother, who had also received a significant sum of money as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      241.11,
+      206.45,
+      255.17
+    ],
+    "text": "ex gratia payment.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      274.23,
+      522.25,
+      288.23
+    ],
+    "text": "The plaintiffs father died on 16.05.2006. If the defendant started living",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      295.35,
+      522.08,
+      309.35
+    ],
+    "text": "with the plaintiffs father as husband and wife from 1985, executing the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      316.47,
+      522.34,
+      330.47
+    ],
+    "text": "impugned deed in favour of the defendant in 2002 does not raise",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      337.59,
+      194.69,
+      351.59
+    ],
+    "text": "suspicion at all.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      370.71,
+      522.14,
+      384.71
+    ],
+    "text": "The evidence of other witnesses called by the plaintiff including the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      391.83,
+      522.34,
+      405.83
+    ],
+    "text": "Buddhist priest in the village temple does not support the plaintiffs story.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      412.97,
+      522.21,
+      426.97
+    ],
+    "text": "The evidence of the priest is that, from the time the priest came to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      434.09,
+      522.13,
+      448.09
+    ],
+    "text": "temple, the plaintiffs father and the defendant lived in harmony as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      455.33,
+      325.27,
+      469.33
+    ],
+    "text": "husband and wife for about 16 years.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      488.45,
+      522.26,
+      502.45
+    ],
+    "text": "The plaintiff states that her father died under suspicious circumstances.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      509.57,
+      522.27,
+      523.57
+    ],
+    "text": "At the trial, the plaintiff raised issues on this point. This is not directly",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      530.69,
+      522.23,
+      544.69
+    ],
+    "text": "relevant to the matter to be resolved in this case. The matter in issue in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      551.81,
+      522.13,
+      565.81
+    ],
+    "text": "this case is whether the deed was executed under undue influence or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      572.96,
+      522.14,
+      586.96
+    ],
+    "text": "threats and not whether the plaintiffs father died under suspicious",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      594.08,
+      522.19,
+      608.08
+    ],
+    "text": "circumstances. However, the verdict of the inquirer into sudden deaths",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      615.2,
+      522.13,
+      629.2
+    ],
+    "text": "dated 16.05.2006, and the verdict of the Magistrate dated 11.07.2007,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      636.32,
+      522.18,
+      650.32
+    ],
+    "text": "do not indicate any foul play. The plaintiffs father was 65 years old at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      657.44,
+      522.33,
+      671.44
+    ],
+    "text": "the time of his death, which was attributed to liver failure due to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      678.56,
+      522.26,
+      692.56
+    ],
+    "text": "cirrhosis. The death was declared a natural death. The plaintiffs primary",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.62,
+      699.67,
+      522.23,
+      713.68
+    ],
+    "text": "grievance is that despite the coroners order to bury the deceaseds body,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      35.14,
+      325.51,
+      62.94
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      72.0,
+      522.34,
+      86.0
+    ],
+    "text": "it was cremated. The Magistrates Court dealt with this matter and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      93.12,
+      522.31,
+      107.12
+    ],
+    "text": "defendant was punished according to law. That does not warrant the deed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      114.24,
+      226.61,
+      128.24
+    ],
+    "text": "to be declared invalid.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      147.36,
+      522.34,
+      161.36
+    ],
+    "text": "The plaintiff states in her evidence that the deed was executed under",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      168.48,
+      522.34,
+      182.48
+    ],
+    "text": "death threats. However, there is not even a police complaint made about",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      189.6,
+      522.14,
+      203.6
+    ],
+    "text": "death threats or any family dispute, either by the deceased father or by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      210.72,
+      220.13,
+      224.72
+    ],
+    "text": "the plaintiff herself.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      243.99,
+      522.29,
+      257.99
+    ],
+    "text": "In short, there is no evidence acceptable to Court to prove undue",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      265.11,
+      522.32,
+      279.11
+    ],
+    "text": "influence or death threats. The judgment of the District Court is purely",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      286.23,
+      522.34,
+      300.23
+    ],
+    "text": "based on evidence. Both the District Court and the High Court have",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      307.35,
+      522.13,
+      321.35
+    ],
+    "text": "analysed the evidence in detail before dismissing the plaintiffs action.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      328.47,
+      526.18,
+      342.47
+    ],
+    "text": "There is no necessity to repeat the analysis of evidence in this judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      361.59,
+      522.11,
+      375.59
+    ],
+    "text": "This Court has granted leave to appeal on the questions of law as stated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      382.71,
+      522.23,
+      396.71
+    ],
+    "text": "in paragraph 16(ii)-(vi) of the petition. At the argument, learned counsel",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      403.85,
+      522.27,
+      417.85
+    ],
+    "text": "for the plaintiff-appellant stated that he would not pursue the question",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      424.97,
+      522.34,
+      438.97
+    ],
+    "text": "in paragraph 16(iii) of the petition. Let me now consider this appeal in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      446.09,
+      451.78,
+      460.09
+    ],
+    "text": "light of the questions of law raised by the plaintiff-appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      479.21,
+      522.1,
+      493.27
+    ],
+    "text": "16(ii). Has the High Court of Civil Appeal erred in law in holding that the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      500.33,
+      521.89,
+      514.39
+    ],
+    "text": "father of the plaintiff could transfer the rights of the entire property",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.62,
+      521.45,
+      427.03,
+      535.51
+    ],
+    "text": "when the mother of the plaintiffs father was alive?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      554.57,
+      522.34,
+      568.57
+    ],
+    "text": "The plaintiffs father seems to have derived title to the property from the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      575.84,
+      522.34,
+      589.84
+    ],
+    "text": "paternal inheritance. Learned counsel for the plaintiff raises this question",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      596.96,
+      522.11,
+      610.96
+    ],
+    "text": "to suggest that the plaintiffs father was not the sole owner of the land",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      618.08,
+      522.13,
+      632.08
+    ],
+    "text": "conveyed by the impugned deed. This assertion is based on the premise",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      639.2,
+      522.26,
+      653.2
+    ],
+    "text": "that when the plaintiffs grandfather died, his wife, the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      660.32,
+      522.26,
+      674.32
+    ],
+    "text": "grandmother, was alive, and therefore, one half of the land should belong",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.62,
+      681.43,
+      179.3,
+      695.44
+    ],
+    "text": "to the widow.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      35.14,
+      325.51,
+      62.94
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      72.0,
+      522.27,
+      86.0
+    ],
+    "text": "In the District Court, the plaintiff presented the case on the basis that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      93.12,
+      522.1,
+      107.12
+    ],
+    "text": "the plaintiffs father was the sole owner of the land. The plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      114.24,
+      522.32,
+      128.24
+    ],
+    "text": "maintained the same position even before the High Court. The plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      135.36,
+      522.34,
+      149.36
+    ],
+    "text": "cannot take up a new position for the first time before the Supreme Court,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      156.48,
+      405.19,
+      170.48
+    ],
+    "text": "which is not a question of law but a question of fact.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      189.6,
+      522.1,
+      203.6
+    ],
+    "text": "A party to an action is bound by specific constraints regarding the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      210.72,
+      522.26,
+      224.72
+    ],
+    "text": "presentation of his case. Firstly, a party cannot, by way of issues, present",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      231.96,
+      522.18,
+      245.96
+    ],
+    "text": "a case different from what was pleaded in his pleadings. Secondly, once",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      253.11,
+      522.13,
+      267.11
+    ],
+    "text": "issues are raised and accepted by Court, a party cannot present a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      274.23,
+      522.25,
+      288.23
+    ],
+    "text": "different case at the trial from what was already raised by way of issues.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      295.35,
+      522.1,
+      309.35
+    ],
+    "text": "Thirdly, once the judgment is pronounced by the trial Court, the losing",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      316.47,
+      522.27,
+      330.47
+    ],
+    "text": "party cannot present a different case before the appellate Court from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      337.59,
+      522.21,
+      351.59
+    ],
+    "text": "what was presented in the lower Courts, unless the new ground is on a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      358.71,
+      522.26,
+      372.71
+    ],
+    "text": "pure question of law and not on a question of fact or on a mixed question",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      379.83,
+      187.25,
+      393.83
+    ],
+    "text": "of fact and law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      412.97,
+      522.22,
+      426.97
+    ],
+    "text": "These rules seem to have universal application when the decisions of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      434.09,
+      302.45,
+      448.09
+    ],
+    "text": "other jurisdictions are considered.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      467.21,
+      522.34,
+      481.27
+    ],
+    "text": "In Mokweni and Others v. Plaatjies and Others [2023] ZAWCHC 266,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.62,
+      488.33,
+      498.34,
+      502.33
+    ],
+    "text": "Nziweni J. in the High Court of South Africa stated at paragraph 17:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      521.57,
+      521.9,
+      535.63
+    ],
+    "text": "Undoubtedly, raising an entirely new issue for the first time on",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      542.69,
+      521.84,
+      556.75
+    ],
+    "text": "appeal is something to be frowned on. This is because, it is well",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      563.84,
+      521.88,
+      577.9
+    ],
+    "text": "settled that appellate courts do not decide any issue that was not",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      584.96,
+      522.08,
+      599.02
+    ],
+    "text": "raised in the court a quo. The upshot of this is that a party cannot",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      606.08,
+      521.89,
+      620.14
+    ],
+    "text": "raise an issue on appeal that was not raised in the court",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      627.2,
+      522.02,
+      641.26
+    ],
+    "text": "a quo unless it is a pure question of law. Hence, a party must seek",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      648.32,
+      499.78,
+      662.38
+    ],
+    "text": "leave of the appellate court to introduce a new issue on appeal.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      35.14,
+      325.51,
+      62.94
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      72.0,
+      522.1,
+      86.06
+    ],
+    "text": "The Indian Supreme Court has followed the same practice. In Chitturi",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      93.12,
+      522.34,
+      107.18
+    ],
+    "text": "Subbanna v. Kudapa Subbanna & Others 1965 AIR 1325, Mudholkar J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      114.24,
+      150.98,
+      128.24
+    ],
+    "text": "declared:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      147.36,
+      521.94,
+      161.42
+    ],
+    "text": "It is right and proper that parties to a litigation should not be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      168.48,
+      522.02,
+      182.54
+    ],
+    "text": "permitted to set up the grounds of their claims or defence in driblets",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      189.72,
+      522.0,
+      203.78
+    ],
+    "text": "or at different stages and embarrass the opponents. Considerations",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      210.84,
+      521.88,
+      224.9
+    ],
+    "text": "of public policy require that a successful party should not, at the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      231.96,
+      521.93,
+      246.02
+    ],
+    "text": "appellate stage, be faced with new grounds of attack after having",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      253.11,
+      521.98,
+      267.17
+    ],
+    "text": "repulsed the original ones. The proper function of an appellate court",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      274.23,
+      521.84,
+      288.29
+    ],
+    "text": "is to correct an error in the judgment or proceedings of the court",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      295.35,
+      522.1,
+      309.41
+    ],
+    "text": "below and not to adjudicate upon a different kind of a dispute that",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      316.47,
+      521.84,
+      330.53
+    ],
+    "text": "was never taken before the court below. It is only in exceptional",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      337.59,
+      522.02,
+      351.65
+    ],
+    "text": "cases that the appellate court may in its discretion allow a new point",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      358.71,
+      522.02,
+      372.77
+    ],
+    "text": "to be raised before it provided there are good grounds for allowing it",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      379.83,
+      522.02,
+      393.89
+    ],
+    "text": "to be raised and no prejudice is caused thereby to the opponent of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      400.97,
+      356.71,
+      415.03
+    ],
+    "text": "the party permitted to raise such point.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      434.09,
+      522.31,
+      448.15
+    ],
+    "text": "In Jones v. MBNA International Bank [2000] EWCA Civ 514, Peter Gibson",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      455.33,
+      522.22,
+      469.33
+    ],
+    "text": "L.J. elucidated the rationale underlying these rules while summarising",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.62,
+      476.45,
+      340.39,
+      490.45
+    ],
+    "text": "the English law on the matter at para 38:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      509.57,
+      522.02,
+      523.63
+    ],
+    "text": "It is not in dispute that to withdraw a concession or take a point not",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      530.69,
+      521.84,
+      544.75
+    ],
+    "text": "argued in the lower court requires the leave of this court. In general",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      551.81,
+      521.88,
+      565.87
+    ],
+    "text": "the court expects each party to advance his whole case at the trial.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      572.96,
+      522.02,
+      587.02
+    ],
+    "text": "In the interests of fairness to the other party this court should be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      594.08,
+      521.83,
+      608.14
+    ],
+    "text": "slow to allow new points, which were available to be taken at the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      615.2,
+      522.0,
+      629.26
+    ],
+    "text": "trial but were not taken, to be advanced for the first time in this court.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      636.32,
+      521.91,
+      650.38
+    ],
+    "text": "That consideration is the weightier if further evidence might have",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      657.44,
+      521.92,
+      671.5
+    ],
+    "text": "been adduced at the trial, had the point been taken then, or if the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      678.56,
+      521.89,
+      692.62
+    ],
+    "text": "decision on the point requires an evaluation of all the evidence and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      699.67,
+      521.85,
+      713.74
+    ],
+    "text": "could be affected by the impression which the trial judge receives",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      35.14,
+      325.51,
+      62.94
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      72.0,
+      521.98,
+      86.06
+    ],
+    "text": "from seeing and hearing the witnesses. Indeed it is hard to see how,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      93.12,
+      521.91,
+      107.18
+    ],
+    "text": "if those circumstances obtained, this court, having regard to the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      114.24,
+      521.89,
+      128.3
+    ],
+    "text": "overriding objective of dealing with cases justly, could allow that",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      135.36,
+      261.17,
+      149.42
+    ],
+    "text": "new point to be taken.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      168.48,
+      522.09,
+      182.54
+    ],
+    "text": "The same approach was adopted by the High Court of Australia in Water",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      189.6,
+      522.34,
+      203.66
+    ],
+    "text": "Board v. Moustaka (1988) 62 ALJR 209 where Chief Justice Mason and",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      210.84,
+      522.24,
+      224.84
+    ],
+    "text": "Justices Wilson, Brennan and Dawson, after a careful consideration of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      231.96,
+      336.31,
+      245.96
+    ],
+    "text": "precedent on the matter held at para 13:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      265.11,
+      521.9,
+      279.17
+    ],
+    "text": "More than once it has been held by this Court that a point cannot be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      286.23,
+      521.76,
+      300.29
+    ],
+    "text": "raised for the first time upon appeal when it could possibly have",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      307.35,
+      521.8,
+      321.41
+    ],
+    "text": "been met by calling evidence below. Where all the facts have been",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      328.47,
+      522.08,
+      342.53
+    ],
+    "text": "established beyond controversy or where the point is one of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      349.59,
+      521.73,
+      363.65
+    ],
+    "text": "construction or of law, then a court of appeal may find it expedient",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      370.71,
+      521.71,
+      384.77
+    ],
+    "text": "and in the interests of justice to entertain the point, but otherwise",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      391.83,
+      283.01,
+      405.89
+    ],
+    "text": "the rule is strictly applied.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      424.97,
+      522.19,
+      438.97
+    ],
+    "text": "In the Sri Lankan context, the proposition that a question of fact can be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      446.09,
+      522.1,
+      460.09
+    ],
+    "text": "raised for the first time in appeal is mainly based on the old decision of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      467.21,
+      522.24,
+      481.27
+    ],
+    "text": "the House of Lords in The Tasmania (1890) 15 App. Cases 223 at 225",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.62,
+      488.45,
+      265.49,
+      502.45
+    ],
+    "text": "where Lord Herschell stated:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      521.57,
+      521.89,
+      535.63
+    ],
+    "text": "It appears to me that under these circumstances, a Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      542.69,
+      521.97,
+      556.75
+    ],
+    "text": "ought only to decide in favour of an appellant on a ground there put",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      563.84,
+      522.07,
+      577.9
+    ],
+    "text": "forward for the first time, if it be satisfied beyond doubt, first, that it",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      584.96,
+      521.89,
+      599.02
+    ],
+    "text": "has before it all the facts bearing upon the new contention, as",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      606.08,
+      521.9,
+      620.14
+    ],
+    "text": "completely as would have been the case if the controversy had",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      627.2,
+      521.88,
+      641.26
+    ],
+    "text": "arisen at the trial; and next, that no satisfactory explanation could",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      648.32,
+      521.98,
+      662.38
+    ],
+    "text": "have been offered by those whose conduct is impugned, if an",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      669.44,
+      522.0,
+      683.5
+    ],
+    "text": "opportunity for explanation had been afforded them when in the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      129.62,
+      690.55,
+      205.49,
+      704.62
+    ],
+    "text": "witness box.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      35.14,
+      325.51,
+      62.94
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      72.0,
+      522.26,
+      86.06
+    ],
+    "text": "In the Supreme Court case of Appuhamy v. Nona (1912) 15 NLR 311 at",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      93.12,
+      522.12,
+      107.12
+    ],
+    "text": "312, Justice Pereira raised some doubt about the acceptability of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      114.24,
+      522.12,
+      128.24
+    ],
+    "text": "above position in the context of procedure we adopt in Sri Lanka where",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      135.36,
+      522.34,
+      149.36
+    ],
+    "text": "a civil trial is conducted on identified issues. His Lordship stated that a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      156.48,
+      522.02,
+      170.54
+    ],
+    "text": "new point could be entertained in appeal if it might have been put",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      177.72,
+      522.34,
+      191.78
+    ],
+    "text": "forward in the Court below under some one or other of the issues framed.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      210.84,
+      521.88,
+      224.9
+    ],
+    "text": "I am not sure that this ruling would apply to a system of procedure",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      231.96,
+      521.98,
+      246.02
+    ],
+    "text": "in which the framing of issues at the trial is an essential step except",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      253.11,
+      521.95,
+      267.17
+    ],
+    "text": "to the extent of admitting a new contention urged for the first time in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      274.23,
+      522.02,
+      288.29
+    ],
+    "text": "the Court of Appeal, which, though not taken at the trial, is still",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      295.35,
+      522.02,
+      309.41
+    ],
+    "text": "admissible under some one or other of the issues framed. Under our",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      316.47,
+      521.86,
+      330.53
+    ],
+    "text": "procedure all the contentious matter between the parties to a civil",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      337.59,
+      521.83,
+      351.65
+    ],
+    "text": "suit is, so to say, focused in the issues of law and fact framed.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      358.71,
+      522.07,
+      372.77
+    ],
+    "text": "Whatever is not involved in the issues is to be taken as admitted by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      379.83,
+      521.98,
+      393.89
+    ],
+    "text": "one party or the other, and I do not think that under our procedure it",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      400.97,
+      522.0,
+      415.03
+    ],
+    "text": "is open to a party to put forward a ground for the first time in appeal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      422.09,
+      522.0,
+      436.15
+    ],
+    "text": "unless it might have been put forward in the Court below under some",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      443.33,
+      521.85,
+      457.39
+    ],
+    "text": "one or other of the issues framed, and when such a ground, that is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      464.45,
+      521.88,
+      478.51
+    ],
+    "text": "to say, a ground that might have been put forward in the Court",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      485.57,
+      521.89,
+      499.63
+    ],
+    "text": "below, is put forward in appeal for the first time, the cautions",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      506.69,
+      481.78,
+      520.75
+    ],
+    "text": "indicated in the case of the Tasmania may well be observed.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      539.81,
+      522.17,
+      553.81
+    ],
+    "text": "Justice Pereira did not entertain the question of fact raised for the first",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      560.93,
+      212.69,
+      574.93
+    ],
+    "text": "time in that appeal.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      594.08,
+      522.34,
+      608.14
+    ],
+    "text": "The cumulative effect of these two leading decisions (i.e. The Tasmania",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      615.2,
+      522.18,
+      629.26
+    ],
+    "text": "and Appuhamy v. Nona) is that a question of fact can be raised for the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      93.62,
+      636.32,
+      223.49,
+      650.32
+    ],
+    "text": "first time in appeal if:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.62,
+      669.44,
+      521.88,
+      683.5
+    ],
+    "text": "(a) it might have been put forward in the Court below under some one",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      129.62,
+      690.67,
+      333.19,
+      704.74
+    ],
+    "text": "or other of the issues framed; and",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      35.14,
+      328.99,
+      62.94
+    ],
+    "text": "10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      111.62,
+      72.0,
+      342.31,
+      86.06
+    ],
+    "text": "(b) if it is satisfied beyond doubt that",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      147.62,
+      93.12,
+      522.02,
+      107.18
+    ],
+    "text": "(i) it [the appellate Court] has before it all the facts bearing upon",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165.62,
+      114.24,
+      521.9,
+      128.3
+    ],
+    "text": "the new contention, as completely as would have been the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165.62,
+      135.36,
+      466.18,
+      149.42
+    ],
+    "text": "case if the controversy had arisen at the trial; and",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      147.62,
+      156.6,
+      522.02,
+      170.66
+    ],
+    "text": "(ii) no satisfactory explanation could have been offered by those",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165.62,
+      177.72,
+      521.92,
+      191.78
+    ],
+    "text": "whose conduct is impugned, if an opportunity for explanation",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165.62,
+      198.84,
+      464.02,
+      212.9
+    ],
+    "text": "had been afforded them when in the witness box.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      231.96,
+      522.09,
+      246.02
+    ],
+    "text": "Later cases such as Arulampikai v. Thambu (1944) 45 NLR 457, Setha v.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      253.11,
+      522.05,
+      267.17
+    ],
+    "text": "Weerakoon (1948) 49 NLR 225, Ranaweera Menike v. Rohini Senanayake",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      274.23,
+      522.32,
+      288.29
+    ],
+    "text": "[1992] 2 Sri LR 180 at 191, Somawathie v. Wilmon (supra) followed the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      295.47,
+      221.33,
+      309.47
+    ],
+    "text": "above two decisions.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      328.59,
+      522.31,
+      342.65
+    ],
+    "text": "In Leechman Co. Ltd v. Rangalle Consolidated [1981] 2 Sri LR 373, Justice",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      349.71,
+      240.17,
+      363.71
+    ],
+    "text": "Soza stated at page 391:",
+    "fonts": [
+      "BookmanOldStyle",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      382.83,
+      521.73,
+      396.89
+    ],
+    "text": "Where the point depends upon a question of fact which is disputed",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      403.97,
+      521.8,
+      418.03
+    ],
+    "text": "and should be determined on evidence, then it cannot be taken up",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      425.09,
+      521.94,
+      439.15
+    ],
+    "text": "for the first time in appeal unless the facts necessary for the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      446.21,
+      517.78,
+      460.27
+    ],
+    "text": "determination appear in the evidence and are not in dispute at all.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      479.33,
+      522.23,
+      493.33
+    ],
+    "text": "The plaintiff in the instant appeal has not satisfied the above requisites",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      500.45,
+      522.33,
+      514.45
+    ],
+    "text": "in order for this Court to entertain the new points of facts raised for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      521.57,
+      215.33,
+      535.57
+    ],
+    "text": "first time on appeal.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.06,
+      554.69,
+      532.9,
+      568.75
+    ],
+    "text": "16(iv). Has the High Court of Civil Appeal erred in law in holding that the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      575.84,
+      521.89,
+      589.9
+    ],
+    "text": "plaintiff has failed to establish that the impugned deed was",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      597.08,
+      521.92,
+      611.14
+    ],
+    "text": "executed under undue influence and threats exerted by the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.62,
+      618.2,
+      333.43,
+      632.26
+    ],
+    "text": "defendant on the plaintiffs father?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      651.32,
+      522.29,
+      665.32
+    ],
+    "text": "Through this question of law, learned counsel for the plaintiff took pains",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      672.44,
+      522.26,
+      686.44
+    ],
+    "text": "to present a different argument in terms of the burden of proof for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      93.62,
+      693.55,
+      522.34,
+      707.56
+    ],
+    "text": "first time before the Supreme Court. The trial in the District Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      35.14,
+      328.99,
+      62.94
+    ],
+    "text": "11",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      72.0,
+      522.13,
+      86.0
+    ],
+    "text": "proceeded on the basis that the burden of proof of undue influence was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      93.12,
+      522.23,
+      107.12
+    ],
+    "text": "on the plaintiff. When reading the written submissions filed before the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      114.24,
+      522.27,
+      128.24
+    ],
+    "text": "High Court and the judgment of the High Court, it is abundantly clear",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      135.36,
+      522.34,
+      149.36
+    ],
+    "text": "that the plaintiff maintained the same position in the High Court. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      156.48,
+      522.26,
+      170.48
+    ],
+    "text": "plaintiffs argument before the High Court was that, notwithstanding the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      177.6,
+      522.12,
+      191.6
+    ],
+    "text": "fact that she proved undue influence in the execution of the deed, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      198.72,
+      275.33,
+      212.72
+    ],
+    "text": "District Court held otherwise.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      231.96,
+      522.23,
+      245.96
+    ],
+    "text": "However, learned counsel for the plaintiff referring to section 111 of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      253.11,
+      522.34,
+      267.11
+    ],
+    "text": "Evidence Ordinance argues for the first time before this Court that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      274.23,
+      522.24,
+      288.23
+    ],
+    "text": "defendant was in a position of active confidence, and therefore the burden",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      295.35,
+      522.33,
+      309.35
+    ],
+    "text": "of proving the good faith of the execution of the deed falls on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      316.47,
+      522.34,
+      330.47
+    ],
+    "text": "defendant. In other words, learned counsel submits that the burden was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      337.59,
+      522.3,
+      351.59
+    ],
+    "text": "on the defendant to prove the negative; namely, that she did not exercise",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      358.71,
+      504.82,
+      372.71
+    ],
+    "text": "undue influence on the plaintiffs father in the execution of the deed.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      391.83,
+      522.25,
+      405.83
+    ],
+    "text": "This in my view is not a pure question of law but a mixed question of fact",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      412.97,
+      522.13,
+      426.97
+    ],
+    "text": "and law because in order to shift the burden as counsel for the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      434.09,
+      471.94,
+      448.09
+    ],
+    "text": "now suggests, there are prerequisites to be met by the plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      467.21,
+      522.31,
+      481.21
+    ],
+    "text": "In this case, at the commencement of the trial, the execution of the deed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      488.33,
+      315.67,
+      502.33
+    ],
+    "text": "was recorded as a formal admission.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      521.45,
+      522.19,
+      535.45
+    ],
+    "text": "Thereafter, the plaintiff raised issues on the basis that the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      542.57,
+      522.17,
+      556.57
+    ],
+    "text": "father died under suspicious circumstances mainly because of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      563.84,
+      522.32,
+      577.84
+    ],
+    "text": "cremation instead of burial, which I have already stated, is irrelevant to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      584.96,
+      303.89,
+      598.96
+    ],
+    "text": "decide the main issue in this case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      618.08,
+      522.08,
+      632.08
+    ],
+    "text": "Thereafter the plaintiff raised issues on the basis that the deed was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      639.2,
+      400.15,
+      653.2
+    ],
+    "text": "executed under undue influence and death threats.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      672.32,
+      522.29,
+      686.32
+    ],
+    "text": "Once the due execution of the deed, in terms of section 2 of the Prevention",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      93.62,
+      693.43,
+      522.31,
+      707.44
+    ],
+    "text": "of Frauds Ordinance, No. 7 of 1840, as amended, is admitted, the general",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      35.14,
+      328.99,
+      62.94
+    ],
+    "text": "12",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      72.0,
+      522.08,
+      86.0
+    ],
+    "text": "principle is that, the burden shifts to the opposing party to prove undue",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      93.12,
+      522.26,
+      107.12
+    ],
+    "text": "influence, fraud, conspiracy, coercion, or any other ground he relies upon",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      114.24,
+      231.17,
+      128.24
+    ],
+    "text": "to invalidate the deed.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      147.36,
+      522.23,
+      161.36
+    ],
+    "text": "If the plaintiffs position was that the burden of proof of the negative was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      168.48,
+      522.31,
+      182.48
+    ],
+    "text": "on the defendant, she ought to have presented the case in the trial Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      189.6,
+      522.24,
+      203.6
+    ],
+    "text": "in that manner. This was not done. The concept of fair trial demands it.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      210.72,
+      522.24,
+      224.72
+    ],
+    "text": "The administration of justice is not a game of strategy but rather a solemn",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      231.96,
+      340.87,
+      245.96
+    ],
+    "text": "and earnest pursuit to uncover the truth.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      265.11,
+      522.11,
+      279.11
+    ],
+    "text": "In any event, both parties had led evidence at the trial: the plaintiff led",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      286.23,
+      522.26,
+      300.23
+    ],
+    "text": "evidence that there was undue influence and the defendant led evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      307.35,
+      522.12,
+      321.35
+    ],
+    "text": "to prove that there was no undue influence. The District Court and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      328.47,
+      522.16,
+      342.47
+    ],
+    "text": "High Court accepted the defendants version. On the facts and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      349.59,
+      522.08,
+      363.59
+    ],
+    "text": "circumstances of this case, there is no reason for this Court to interfere",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      370.71,
+      199.25,
+      384.71
+    ],
+    "text": "with that finding.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      403.85,
+      521.88,
+      417.91
+    ],
+    "text": "16(v). Could the issue No. 21 and 22 be answered in favour of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.62,
+      424.97,
+      388.87,
+      439.03
+    ],
+    "text": "defendant in the circumstances of this case?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      458.09,
+      522.08,
+      472.09
+    ],
+    "text": "The issue No. 21 was whether the impugned deed was executed by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      479.21,
+      522.27,
+      493.21
+    ],
+    "text": "plaintiffs father voluntarily. The issue No. 22 was whether the defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      500.33,
+      363.43,
+      514.33
+    ],
+    "text": "is entitled to the reliefs sought in the answer.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      533.45,
+      522.34,
+      547.45
+    ],
+    "text": "After analysing the evidence, the District Court has answered these two",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      554.57,
+      522.34,
+      568.57
+    ],
+    "text": "issues in the affirmative and the High Court has affirmed it. Learned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      575.84,
+      522.08,
+      589.84
+    ],
+    "text": "counsel for the plaintiff does not explain how the analysis of evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      596.96,
+      522.34,
+      610.96
+    ],
+    "text": "made by the District Court, which was affirmed by the High Court, is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      618.08,
+      154.34,
+      632.08
+    ],
+    "text": "perverse.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      93.62,
+      651.2,
+      522.1,
+      665.26
+    ],
+    "text": "16(vi). Has the High Court of Civil Appeal erred in law by not considering",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      134.18,
+      672.32,
+      362.23,
+      686.38
+    ],
+    "text": "the evidence in the correct perspective?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      35.14,
+      328.99,
+      62.94
+    ],
+    "text": "13",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      394.39,
+      34.24,
+      517.23,
+      47.12
+    ],
+    "text": "SC/APPEAL/47/2017",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      72.0,
+      522.25,
+      86.0
+    ],
+    "text": "In view of the forgoing analysis, this question must be answered in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      93.12,
+      149.54,
+      107.12
+    ],
+    "text": "negative.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      126.24,
+      522.23,
+      140.24
+    ],
+    "text": "The judgment of the High Court of Civil Appeal is affirmed and the appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      147.36,
+      486.82,
+      161.36
+    ],
+    "text": "is dismissed. The defendant is entitled to costs in all three Courts.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      352.15,
+      213.6,
+      522.34,
+      227.6
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      255.99,
+      283.73,
+      269.99
+    ],
+    "text": "Jayantha Jayasuriya, P.C., C.J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      277.11,
+      140.42,
+      291.11
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      441.94,
+      310.23,
+      522.34,
+      324.23
+    ],
+    "text": "Chief Justice",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      352.47,
+      225.65,
+      366.47
+    ],
+    "text": "S. Thurairaja, P.C., J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.62,
+      373.59,
+      140.42,
+      387.59
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      352.15,
+      406.73,
+      526.18,
+      420.73
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

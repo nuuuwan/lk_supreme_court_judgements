@@ -1,0 +1,5566 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      117.62,
+      97.79,
+      533.71,
+      113.33
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      235.85,
+      115.19,
+      415.66,
+      130.73
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      159.59,
+      414.43,
+      230.1
+    ],
+    "text": "Officer in Charge, Motor Traffic Division, Police Station, Kandy.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      130.94,
+      238.22,
+      545.96,
+      253.76
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      266.42,
+      241.64,
+      337.52
+    ],
+    "text": "SC Appeal No. 173/2017 PHC (Central Province) No. Appeal 172/2006 M.C. Kandy No. 28451",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.07,
+      355.16,
+      328.66,
+      387.56
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      422.2,
+      507.58,
+      492.59
+    ],
+    "text": "Illakotulena Gamaralalage Thilakarathna, Kalugala, Pitwala, Nawalapitiya.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      490.3,
+      496.84,
+      543.34,
+      512.38
+    ],
+    "text": "Accused",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.07,
+      571.03,
+      343.42,
+      586.57
+    ],
+    "text": "AND",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      623.35,
+      507.58,
+      693.74
+    ],
+    "text": "Illakotulena Gamaralalage Thilakerathna, Kalugala, Pitwala, Nawalapitiya.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      426.58,
+      697.99,
+      543.61,
+      713.53
+    ],
+    "text": "Accused-Appellant",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.07,
+      72.59,
+      328.66,
+      88.13
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      132.47,
+      414.43,
+      202.74
+    ],
+    "text": "Officer in Charge, Motor Traffic Division, Police Station, Kandy.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415.63,
+      219.11,
+      543.61,
+      234.65
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      271.46,
+      459.22,
+      323.13
+    ],
+    "text": "Hon. Attorney General, Attorney Generals Department, Colombo 12.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      469.3,
+      339.38,
+      543.61,
+      354.92
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.07,
+      419.68,
+      452.77,
+      435.22
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      468.04,
+      507.58,
+      557.15
+    ],
+    "text": "Illakotulena Gamaralalage Thilakerathna, Kalugala, Pitwala, Nawalapitiya.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.71,
+      565.51,
+      543.61,
+      581.05
+    ],
+    "text": "Accused-Appellant-Appellant",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.07,
+      609.67,
+      328.66,
+      625.21
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      661.99,
+      414.43,
+      695.06
+    ],
+    "text": "Officer in Charge, Motor Traffic Division,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      72.71,
+      367.15,
+      105.66
+    ],
+    "text": "Police Station, Kandy.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      340.15,
+      122.03,
+      543.61,
+      137.57
+    ],
+    "text": "Plaintiff-Respondent-Respondent",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      174.35,
+      459.22,
+      226.02
+    ],
+    "text": "Hon. Attorney General, Attorney Generals Department, Colombo 12.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      393.91,
+      242.3,
+      543.61,
+      257.84
+    ],
+    "text": "Respondent-Respondent",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      294.5,
+      374.14,
+      310.52
+    ],
+    "text": "Before: Justice E.A.G.R. Amarasekara",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.02,
+      322.7,
+      399.58,
+      338.24
+    ],
+    "text": "Justice A.L. Shiran Gooneratne",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180.02,
+      350.78,
+      317.86,
+      366.32
+    ],
+    "text": "Justice Janak De Silva",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      405.4,
+      543.22,
+      420.94
+    ],
+    "text": "Counsel: Thishya Weragoda with Prathap Welikumbura, Thamali Rajapaksha",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      12.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180.02,
+      429.64,
+      543.32,
+      443.99
+    ],
+    "text": "and Kalani Dassanayake instructed by Susantha Dodanwela for the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180.02,
+      452.08,
+      351.19,
+      466.43
+    ],
+    "text": "Accused-Appellant-Appellant.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180.02,
+      486.4,
+      389.83,
+      500.75
+    ],
+    "text": "V. Hettige, SDSG for the Respondent.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      539.68,
+      246.6,
+      555.22
+    ],
+    "text": "Argued on: 30/05/2024",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      574.24,
+      247.13,
+      591.91
+    ],
+    "text": "Decided on: 22/10/2024",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      72.69,
+      263.84,
+      89.3
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.9,
+      127.61,
+      543.3,
+      142.14
+    ],
+    "text": "[1] The Accused-Appellant was charged on 4 counts, under the Penal Code and the",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      150.23,
+      543.3,
+      164.58
+    ],
+    "text": "Motor Traffic Act (as amended), in the Magistrates Court of Kandy, for causing the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      172.67,
+      543.1,
+      187.02
+    ],
+    "text": "death of a motor cyclist. At the conclusion of the trial, the Appellant was found",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      195.11,
+      438.46,
+      209.46
+    ],
+    "text": "guilty on 3 counts and the following sentences were imposed.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      216.95,
+      543.23,
+      231.9
+    ],
+    "text": "1st count, Section 298 of the Penal Code - 1year Rigorous Imprisonment with",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      240.02,
+      436.54,
+      254.37
+    ],
+    "text": "Rupees 1,500 fine with a default sentence of 6 months;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      261.74,
+      543.32,
+      276.69
+    ],
+    "text": "2nd count, Sections 214 (1) read with Section 151(3) and 217 (2) of the Motor",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      284.78,
+      380.59,
+      299.13
+    ],
+    "text": "Traffic Act, (as amended) - Rupees 500 fine;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      306.62,
+      543.31,
+      321.57
+    ],
+    "text": "3rd count, Section 214 (1) read with Section 149 (1), 217 (2) and 224 of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      329.66,
+      379.51,
+      344.01
+    ],
+    "text": "Motor Traffic Act, (as amended) - acquitted;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      351.5,
+      543.23,
+      366.45
+    ],
+    "text": "4th count, Section 148 (1) read with Section 151 (3) and 224 of the Motor",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      374.54,
+      380.23,
+      388.89
+    ],
+    "text": "Traffic Act, (as amended) - Rupees 500 fine.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.9,
+      396.8,
+      543.33,
+      411.33
+    ],
+    "text": "[2] Aggrieved by the said Judgment dated 31/07/2006, the Appellant appealed against",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      419.44,
+      543.3,
+      433.79
+    ],
+    "text": "the conviction and sentence to the Provincial High Court of the Central Province",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      441.76,
+      543.13,
+      456.11
+    ],
+    "text": "holden in Kandy (the High Court). After hearing the case and considering the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      464.2,
+      542.93,
+      478.55
+    ],
+    "text": "submissions from both parties, the High Court, by judgment dated 05/01/2017,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      486.64,
+      543.22,
+      500.99
+    ],
+    "text": "having affirmed the conviction, the learned High Court Judge was of the view that;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      509.08,
+      543.11,
+      523.43
+    ],
+    "text": "[t]he said sentence imposed on the Accused is not proportionate to the gravity of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      531.52,
+      543.28,
+      545.87
+    ],
+    "text": "the negligent act committed by the accused, and proceeded to vary the sentence as",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      553.96,
+      153.86,
+      568.31
+    ],
+    "text": "follows:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      575.83,
+      543.29,
+      590.78
+    ],
+    "text": "1st count, 3 years Rigorous Imprisonment, Rupees 250,000 as compensation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      598.75,
+      546.7,
+      613.1
+    ],
+    "text": "to be paid to PW2, with a default sentence of 3 years Rigorous Imprisonment;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      620.59,
+      312.43,
+      635.54
+    ],
+    "text": "2nd count, remained unchanged;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      643.03,
+      485.62,
+      657.98
+    ],
+    "text": "3rd count, acquittal set aside and a fine of Rupees 1,500 imposed;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      665.47,
+      310.27,
+      680.42
+    ],
+    "text": "4th count, remained unchanged.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74.9,
+      72.53,
+      543.32,
+      87.06
+    ],
+    "text": "[3] Being aggrieved by the said Judgment, the Appellant made an application to the",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      95.15,
+      543.3,
+      109.5
+    ],
+    "text": "High Court seeking leave to appeal to the Supreme Court in terms of Section 9 of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      117.59,
+      543.25,
+      131.94
+    ],
+    "text": "the High Court of the Provinces (Special Provisions) Act No. 19 of 1990 (as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      140.03,
+      168.98,
+      154.38
+    ],
+    "text": "amended).",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74.9,
+      162.17,
+      543.32,
+      176.7
+    ],
+    "text": "[4] Having heard also considering the submissions by both parties, the High Court, by",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      184.79,
+      543.28,
+      199.14
+    ],
+    "text": "Order dated 11/08/2017, granted leave to appeal only on the sentence imposed by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      207.23,
+      543.34,
+      221.58
+    ],
+    "text": "the High Court. In the circumstances, the conviction of the Accused-Appellant, of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      229.67,
+      329.71,
+      244.02
+    ],
+    "text": "the offences as charged, stands affirmed.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74.9,
+      251.96,
+      543.32,
+      266.49
+    ],
+    "text": "[5] The position of the Accused-Appellant is that the learned High Court Judge has",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      274.58,
+      543.26,
+      288.93
+    ],
+    "text": "enhanced the punishment without affording the Appellant an opportunity to respond",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      297.02,
+      543.3,
+      311.37
+    ],
+    "text": "and/ or show cause why the punishment ought to be enhanced. The Counsel for the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      319.34,
+      543.31,
+      333.69
+    ],
+    "text": "Appellant strongly contends that an enhanced sentence was imposed in the absence",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      341.78,
+      543.28,
+      356.13
+    ],
+    "text": "of an application by the State to do so. It is also contended that the learned High",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      364.22,
+      569.4,
+      378.57
+    ],
+    "text": "Court Judge did not consider sentencing guidelines prior to enhancing the sentence.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74.9,
+      386.48,
+      543.32,
+      401.01
+    ],
+    "text": "[6] It is observed, that the Magistrates Court is empowered to try the Appellant on",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      409.12,
+      543.31,
+      423.47
+    ],
+    "text": "offences as charged and the above variation in sentence on count 1 and 3 by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      431.56,
+      521.86,
+      445.91
+    ],
+    "text": "High Court is within the exercise of judicial discretion of the sentencing judge.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      74.9,
+      453.82,
+      543.33,
+      468.35
+    ],
+    "text": "[7] With leave of the High Court, the Counsel for the Accused-Appellant filed a motion",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      476.32,
+      543.26,
+      490.67
+    ],
+    "text": "dated 20/01/2017 seeking leave to appeal to the Supreme Court against the said",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      498.76,
+      543.24,
+      513.11
+    ],
+    "text": "Judgment dated 05/01/2017. In terms of Section 9 of the High Court of the Provinces",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      521.2,
+      543.2,
+      535.55
+    ],
+    "text": "(Special Provisions) Act No. 19 of 1990 (as amended), the High Court can grant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      543.64,
+      543.18,
+      557.99
+    ],
+    "text": "leave to appeal to the Supreme Court, ex mere moto or at the instance of any",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      566.11,
+      543.32,
+      580.46
+    ],
+    "text": "aggrieved party to such matter or proceedings. In support of the said motion, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      588.55,
+      543.29,
+      602.9
+    ],
+    "text": "Court permitted the Accused-Appellant to file written submissions, and accordingly",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      610.99,
+      543.28,
+      625.34
+    ],
+    "text": "written submissions dated 08/08/2017 was filed of record. Given the opportunity to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      633.31,
+      543.3,
+      647.66
+    ],
+    "text": "show cause, the Accused-Appellant did not identify any issue of law ought to be",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      655.75,
+      543.32,
+      670.1
+    ],
+    "text": "considered by the High Court nor contended harshness or any other mitigating factor",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      678.19,
+      543.23,
+      692.54
+    ],
+    "text": "associated with the said enhanced sentence. An application to refer a point of law",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      700.63,
+      543.31,
+      714.98
+    ],
+    "text": "must plead reasons why that point should be considered by the High Court. Section",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      72.71,
+      543.25,
+      87.06
+    ],
+    "text": "322(1) of the Code of Criminal Procedure Act makes it imperative to indicate the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      94.55,
+      543.34,
+      109.5
+    ],
+    "text": "grounds of appeal. In W.M.W.P.K Amarasekara v Nagaratnam Ratnakumara1, K.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      117.59,
+      543.11,
+      131.94
+    ],
+    "text": "Priyantha Fernando J. held, In the instant case, no application for leave to appeal",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      140.03,
+      542.84,
+      154.38
+    ],
+    "text": "was made to the High Court. Once such application is made, if the High Court",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      162.35,
+      543.15,
+      176.7
+    ],
+    "text": "decides to grant leave, it is incumbent upon the High Court to specify the substantial",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      184.79,
+      543.22,
+      199.14
+    ],
+    "text": "question of law on which leave is granted. No such order is made in the instant case",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      207.23,
+      543.04,
+      221.58
+    ],
+    "text": "by the High Court as no leave to appeal application was made, not even ex mero",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      229.67,
+      349.99,
+      244.02
+    ],
+    "text": "motu, as provided in section 9 (a) of the Act.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.9,
+      251.96,
+      543.32,
+      266.49
+    ],
+    "text": "[8] Mitigatory factors are capable of reducing the severity of a sentence. The gravity of",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      274.58,
+      543.33,
+      288.93
+    ],
+    "text": "the offence an accused is charged with and matters unconnected to the offence, such",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      297.02,
+      543.33,
+      311.37
+    ],
+    "text": "as age, ill health and family responsibilities can be used to demonstrate to Court to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      319.34,
+      543.34,
+      333.69
+    ],
+    "text": "impact upon the assessment of the offenders culpability. On the other hand,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      341.78,
+      543.27,
+      356.13
+    ],
+    "text": "aggravating factors increase the sentence and must be considered in the context of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      364.22,
+      234.77,
+      378.57
+    ],
+    "text": "the offence committed.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.9,
+      386.48,
+      543.33,
+      401.01
+    ],
+    "text": "[9] The High Court having considered proportionality of the sentence in contrast with",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      409.12,
+      543.27,
+      423.47
+    ],
+    "text": "the gravity of the convicted offence, proceeded to enhance the penalty given by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      431.56,
+      543.32,
+      445.91
+    ],
+    "text": "learned Magistrate. An enhancement of sentence of a conviction offence is generally",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      454.0,
+      543.33,
+      468.35
+    ],
+    "text": "associated with an aggravating feature. The submission of the Accused-Appellant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      476.32,
+      543.32,
+      490.67
+    ],
+    "text": "was that at no time during the proceedings before the High Court did the State",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      498.76,
+      543.29,
+      513.11
+    ],
+    "text": "Counsel sought to establish aggravating factors or urge the Court to vary the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      521.2,
+      543.3,
+      535.55
+    ],
+    "text": "sentence on such circumstances. When the sentence was enhanced, the High Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      543.64,
+      543.18,
+      557.99
+    ],
+    "text": "too did not state as to why it is of that opinion. It was also the submission of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      566.11,
+      543.17,
+      580.46
+    ],
+    "text": "Appellant that the Court did not give an opportunity to show cause as to why the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      588.55,
+      543.28,
+      602.9
+    ],
+    "text": "punishment ought not to be enhanced, and also afford an opportunity to adduce any",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      610.99,
+      248.81,
+      625.34
+    ],
+    "text": "mitigatory circumstances.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.42,
+      632.71,
+      543.34,
+      647.66
+    ],
+    "text": "[10] In Officer-In-Charge of Horana Police Station vs. Sirimanna Hettige Jayasena2,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      655.75,
+      543.14,
+      670.1
+    ],
+    "text": "it was held;It is observed that, the conviction and sentence imposed by the learned",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      685.78,
+      305.68,
+      720.09
+    ],
+    "text": "1 SC Appeal No. 136/2014, SC Minutes of 30th May 2024 2 [2022] SC Appeal No. 115/2019 (SC, 4 April 2022)",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      72.71,
+      543.08,
+      87.06
+    ],
+    "text": "Magistrate is not irregular and is sanctioned by law. The learned High Court Judge",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      95.15,
+      542.97,
+      109.5
+    ],
+    "text": "affirmed the conviction for reasons stated in the said Order, however, failed to give",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      117.59,
+      543.05,
+      131.94
+    ],
+    "text": "reasons for varying the sentence. When the High Court Judge interfered with an",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      140.03,
+      543.1,
+      154.38
+    ],
+    "text": "exercise of judicial judgment, the necessary factors leading to such interference",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      162.35,
+      543.05,
+      176.7
+    ],
+    "text": "should be stated. Also, when the Judge is inclined to a variation of sentence, the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      184.79,
+      542.96,
+      199.14
+    ],
+    "text": "Judge should permit the Counsel to address Court as to the appropriateness of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      207.23,
+      543.14,
+      221.58
+    ],
+    "text": "varied sentence and to what extent should it be varied. I observe that the High Court",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      229.67,
+      542.83,
+      244.02
+    ],
+    "text": "Judge has failed to afford an opportunity to the Petitioner to be heard and to give",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      252.14,
+      543.0,
+      266.49
+    ],
+    "text": "reasons. A bald [sic] statement, as in this case, to justify a variation in sentence,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      274.58,
+      201.17,
+      288.93
+    ],
+    "text": "does not suffice.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.42,
+      296.84,
+      543.31,
+      311.37
+    ],
+    "text": "[11] Consideration of aggravating or mitigatory circumstances generally, has relevance",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      319.34,
+      543.33,
+      333.69
+    ],
+    "text": "to the assessment of the seriousness of the offence. The appropriate effect on such",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      341.78,
+      543.32,
+      356.13
+    ],
+    "text": "consideration in sentence would depend on the circumstances of each case, in which",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      364.22,
+      543.33,
+      378.57
+    ],
+    "text": "the Court can take note of any factor it considers to aggravate or mitigate the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      386.66,
+      543.33,
+      401.01
+    ],
+    "text": "imposed sentence. As such, the consideration of proportionality of the sentence to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      409.12,
+      425.47,
+      423.47
+    ],
+    "text": "the gravity of the convicted offence, must be well reasoned.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.42,
+      430.96,
+      401.59,
+      445.91
+    ],
+    "text": "[12] In Bed Raj vs. State of Uttar Pradesh3 it was held that,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      454.0,
+      542.96,
+      468.35
+    ],
+    "text": "a question of a sentence is a matter of discretion and it is well settled that when",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      476.32,
+      543.06,
+      490.67
+    ],
+    "text": "discretion has been properly exercised along accepted judicial lines, an appellate",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      498.76,
+      543.35,
+      513.11
+    ],
+    "text": "court should not interfere to the detriment of an accused person except for very",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      521.2,
+      543.29,
+      535.55
+    ],
+    "text": "strong reasons which must be disclosed in the face of the judgement. (emphasis",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      543.64,
+      147.38,
+      557.99
+    ],
+    "text": "added)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      566.11,
+      543.02,
+      580.46
+    ],
+    "text": "In a matter of enhancement, there should not be interference when the sentence",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      588.55,
+      543.33,
+      602.9
+    ],
+    "text": "passed imposes substantial punishment. Interference is only called for when it is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      610.99,
+      239.45,
+      625.34
+    ],
+    "text": "manifestly inadequate,",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.42,
+      633.13,
+      543.32,
+      647.66
+    ],
+    "text": "[13] If adequate reasons are given for imposing a more lenient or a more stringent",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      655.75,
+      542.9,
+      670.1
+    ],
+    "text": "sentence, this Court may not interfere with the judicial discretion exercised by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      697.3,
+      218.55,
+      720.09
+    ],
+    "text": "3 [1954] AIR 778 (SC), 781",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      72.71,
+      543.34,
+      87.06
+    ],
+    "text": "High Court. The Counsel for the Respondent cited the case of Indrawansa vs.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      94.55,
+      543.34,
+      109.5
+    ],
+    "text": "Officer-in-Charge, Police Station, Wennappuwa and Another4, to emphasis upon",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      117.59,
+      543.1,
+      131.94
+    ],
+    "text": "the opportunity given to an aggrieved party to show cause justifying mitigatory or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      140.03,
+      543.31,
+      154.38
+    ],
+    "text": "aggravating circumstances in mitigating the penalty, with reference to Section 303",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      162.35,
+      466.66,
+      176.7
+    ],
+    "text": "(1) and (2) of the Code of Criminal Procedure Act No. 15 of 1979.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.42,
+      184.19,
+      543.34,
+      199.14
+    ],
+    "text": "[14] In the above case the Court considered the decisions in Karunaratne vs. The State5,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      206.63,
+      543.19,
+      221.58
+    ],
+    "text": "Attorney General vs. Mendis6 and stressed upon the need to have regard to the",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      229.67,
+      543.34,
+      244.02
+    ],
+    "text": "nature and the gravity of the offence, the presence of any aggravating or mitigatory",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      252.14,
+      457.54,
+      266.49
+    ],
+    "text": "factor concerning the offender, prior to any variation of sentence.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.42,
+      274.4,
+      543.14,
+      288.93
+    ],
+    "text": "[15] The Court also acknowledged that deterrence serves a dual purpose: specific",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      297.02,
+      543.02,
+      311.37
+    ],
+    "text": "deterrence to prevent the individual from reoffending and general deterrence to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      319.34,
+      543.25,
+      333.69
+    ],
+    "text": "reinforce the notion that 'crime does not pay, and on the question whether a sentence",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      341.78,
+      528.7,
+      356.13
+    ],
+    "text": "of imprisonment should remain or be suspended, the Court was of the view that;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      364.22,
+      543.2,
+      378.57
+    ],
+    "text": "When addressing the question of suspending a sentence, the gravity of the offence,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      386.66,
+      543.31,
+      401.01
+    ],
+    "text": "the impact on the offenders family, delay in sentencing, age, or ill health, pleading",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      409.12,
+      543.32,
+      423.47
+    ],
+    "text": "guilty in the first given opportunity, previous convictions, subsequent conduct of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      431.56,
+      543.34,
+      445.91
+    ],
+    "text": "accused are some of the many mitigatory factors that a court may consider.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      454.0,
+      543.31,
+      468.35
+    ],
+    "text": "Therefore, a case-by-case consideration of the offence, the offender-based factors",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      476.32,
+      543.31,
+      490.67
+    ],
+    "text": "and the interest of society is essential to decide whether a sentence of imprisonment",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      498.76,
+      287.45,
+      513.11
+    ],
+    "text": "should remain or be suspended.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.42,
+      520.6,
+      500.74,
+      535.55
+    ],
+    "text": "[16] As held in the case of Alister Anthoney Pereira vs. State of Maharashta7,",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      543.64,
+      542.91,
+      557.99
+    ],
+    "text": "Sentencing policy is an important task in the matters of crime. One of the prime",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      566.11,
+      542.96,
+      580.46
+    ],
+    "text": "objectives of criminal law is imposition of appropriate adequate just and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      588.55,
+      543.05,
+      602.9
+    ],
+    "text": "proportionate sentence commenced with the nature and gravity of the crime and the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      610.99,
+      543.28,
+      625.34
+    ],
+    "text": "manner in which the crime is done. There is no straight-jacket formula for",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      662.86,
+      218.55,
+      720.09
+    ],
+    "text": "4 [2021] 3 SLR 323 5 78 NLR 413 6 [1995] 1 SLR 138 7 [2012] AIR 3820 (SC)",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "9",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      72.71,
+      542.98,
+      87.06
+    ],
+    "text": "sentencing an accused on proof of crime. The courts have evolved certain",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      95.15,
+      167.54,
+      109.5
+    ],
+    "text": "principles:",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      117.59,
+      543.14,
+      131.94
+    ],
+    "text": "Twin objectives of sentencing policy is deterrence and correction what sentence",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      140.03,
+      542.85,
+      154.38
+    ],
+    "text": "would meet the ends of Justice depends on the fact and circumstances of each case",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      162.35,
+      543.33,
+      176.7
+    ],
+    "text": "and the court must keep in mind the gravity of the crime, motive for the crime, nature",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      184.79,
+      543.05,
+      199.14
+    ],
+    "text": "of the offense and all other attendant circumstances. The principle of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      207.23,
+      543.1,
+      221.58
+    ],
+    "text": "proportionality in sentencing is a crime duo is well entrenched in criminal",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      229.67,
+      543.04,
+      244.02
+    ],
+    "text": "jurisprudence. As a matter of law proportion between crime and punishment bears",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      252.14,
+      543.15,
+      266.49
+    ],
+    "text": "mostly relevant influence in determination of sentencing the crime to a full stop the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      274.58,
+      543.0,
+      288.93
+    ],
+    "text": "court has to take into consideration all aspects including social interest and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      297.02,
+      449.38,
+      311.37
+    ],
+    "text": "consciousness of the Society for award of appropriate sentence.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.42,
+      319.16,
+      543.33,
+      333.69
+    ],
+    "text": "[17] Provisions in Section 303(1) of the Code of Criminal Procedure Act No. 15 of 1979",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      341.78,
+      543.34,
+      356.13
+    ],
+    "text": "and Section 303(1) as amended by Act No. 47 of 1999 enables suspension of a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      364.22,
+      543.32,
+      378.57
+    ],
+    "text": "sentence of imprisonment. In terms of Section 303 (2) of Act No. 15 of 1979, if the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      386.66,
+      543.29,
+      401.01
+    ],
+    "text": "Court was of the opinion that it was inappropriate in the circumstances of the case",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      409.12,
+      543.31,
+      423.47
+    ],
+    "text": "to deal with the offender in terms of the said subsection, where a sentence should",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      431.56,
+      543.3,
+      445.91
+    ],
+    "text": "not be suspended, then the Court would state so giving reasons in writing. By the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      454.0,
+      543.16,
+      468.35
+    ],
+    "text": "amending Act No. 47 of 1999, considering the criteria set out in the form of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      476.32,
+      543.31,
+      490.67
+    ],
+    "text": "legislative guidelines, the Court was given the discretion to make an order",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      498.76,
+      543.34,
+      513.11
+    ],
+    "text": "suspending a sentence, if it was satisfied and was appropriate to do so in the given",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      521.2,
+      449.62,
+      535.55
+    ],
+    "text": "circumstances, for reasons stated in writing. (Emphasis added).",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.42,
+      543.46,
+      543.34,
+      557.99
+    ],
+    "text": "[18] Judicial discretion to make an order suspending a sentence demands that the court",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      566.11,
+      543.32,
+      580.46
+    ],
+    "text": "makes a judicious intervention in appropriate circumstances, in the expectation of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      588.55,
+      543.34,
+      602.9
+    ],
+    "text": "progressively contributing to the better administration of the criminal justice system.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      610.99,
+      542.96,
+      625.34
+    ],
+    "text": "When sentencing an offender to a term of imprisonment and the wide discretion of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      633.31,
+      542.88,
+      647.66
+    ],
+    "text": "Court to order suspending the whole or part of the sentence, put into the context of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      655.75,
+      543.33,
+      670.1
+    ],
+    "text": "statutory guidelines in terms Section 303(1) as amended by Act No. 47 of 1999, as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      678.19,
+      375.91,
+      692.54
+    ],
+    "text": "seen below, essentially reiterates current case law.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "10",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.42,
+      72.53,
+      543.34,
+      87.06
+    ],
+    "text": "[19] Section 303(1) of the Code of Criminal Procedure Amendment Act No.47 of 1999",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      95.15,
+      147.02,
+      109.5
+    ],
+    "text": "states;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      117.59,
+      543.18,
+      131.94
+    ],
+    "text": "303(1) Subject to the provisions of this section, on sentencing an offender to a term",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      140.03,
+      542.92,
+      154.38
+    ],
+    "text": "of imprisonment, a court may make an order suspending the whole or part of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      162.35,
+      543.26,
+      176.7
+    ],
+    "text": "sentence if it is satisfied, for reasons to be stated in writing, that it is appropriate",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      184.79,
+      372.19,
+      199.14
+    ],
+    "text": "to do so in the circumstances, having regard to",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      207.05,
+      534.05,
+      221.58
+    ],
+    "text": "a) the maximum penalty prescribed for the offence in respect of which the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.02,
+      229.67,
+      272.93,
+      244.02
+    ],
+    "text": "sentence is imposed;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      251.96,
+      358.39,
+      266.49
+    ],
+    "text": "b) the nature and gravity of the offence;",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      274.4,
+      525.34,
+      288.93
+    ],
+    "text": "c) the offenders culpability and degree of responsibility for the offence;",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      296.84,
+      341.59,
+      311.37
+    ],
+    "text": "d) the offenders previous character;",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      319.16,
+      534.18,
+      333.69
+    ],
+    "text": "e) any injury, loss or damage resulting directly from the commission of the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.02,
+      341.78,
+      207.17,
+      356.13
+    ],
+    "text": "offence;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      364.04,
+      534.05,
+      378.57
+    ],
+    "text": "f) the presence of any aggravating or mitigating factor concerning the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.02,
+      386.66,
+      210.41,
+      401.01
+    ],
+    "text": "offender.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      408.94,
+      534.09,
+      423.47
+    ],
+    "text": "g) the need to punish the offender to an extent, and in a manner, which is",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.02,
+      431.56,
+      328.39,
+      445.91
+    ],
+    "text": "just in all of the circumstances;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      453.82,
+      534.21,
+      468.35
+    ],
+    "text": "h) the need to deter the offender or other persons from committing offences",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.02,
+      476.32,
+      360.67,
+      490.67
+    ],
+    "text": "of the same or of a similar character;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      498.58,
+      534.15,
+      513.11
+    ],
+    "text": "i) the need to manifest the denunciation by the court of the type of conduct",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.02,
+      521.2,
+      363.91,
+      535.55
+    ],
+    "text": "in which the offender was engaged in;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      543.46,
+      507.7,
+      557.99
+    ],
+    "text": "j) the need to protect the victim or the community from the offender;",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      565.93,
+      534.06,
+      580.46
+    ],
+    "text": "k) the fact that the person accused of the offence pleaded guilty to the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.02,
+      588.55,
+      475.3,
+      602.9
+    ],
+    "text": "offence and such person is sincerely and truly repentant; or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      610.81,
+      395.35,
+      625.34
+    ],
+    "text": "l) a combination of two or more of the above",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "TimesNewRomanPS-BoldItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      162.02,
+      633.31,
+      262.01,
+      647.66
+    ],
+    "text": "(Emphasis added).",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.42,
+      655.57,
+      542.98,
+      670.1
+    ],
+    "text": "[20] This section allows a Court to suspend all or part of a term of imprisonment if it",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      678.19,
+      543.27,
+      692.54
+    ],
+    "text": "deems appropriate, based on the severity and nature of the offence, the offender's",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "11",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      72.71,
+      542.96,
+      87.06
+    ],
+    "text": "past behavior and character, the harm caused by the crime, and other relevant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      95.15,
+      191.45,
+      109.5
+    ],
+    "text": "circumstances.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68.42,
+      117.41,
+      543.23,
+      131.94
+    ],
+    "text": "[21] The legislative intent was to encourage the exercise of judicial discretion that",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      140.03,
+      543.33,
+      154.38
+    ],
+    "text": "balances retribution and rehabilitation. In appropriate circumstances, the Court, if it",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      162.35,
+      543.32,
+      176.7
+    ],
+    "text": "is satisfied, for reason to be stated in writing, may proceed to suspend the whole or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      184.79,
+      219.17,
+      199.14
+    ],
+    "text": "part of the sentence.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68.42,
+      207.05,
+      533.74,
+      221.58
+    ],
+    "text": "[22] This is to be contrasted with section 303, prior to the amendment where it states;",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142.82,
+      229.49,
+      507.12,
+      244.02
+    ],
+    "text": "(1) A court which imposes a sentence of imprisonment on an offender",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      252.14,
+      506.98,
+      266.49
+    ],
+    "text": "for a term not exceeding two years for an offence may order that",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      274.58,
+      507.31,
+      288.93
+    ],
+    "text": "the sentence shall not take effect unless, during a period specified",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      297.02,
+      507.13,
+      311.37
+    ],
+    "text": "in the order being not less than five years from the date of the order",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      319.34,
+      507.22,
+      333.69
+    ],
+    "text": "(hereinafter referred to as the \"operational period\"), such offender",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      341.78,
+      507.12,
+      356.13
+    ],
+    "text": "commits another offence punishable with imprisonment",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      364.22,
+      426.79,
+      378.57
+    ],
+    "text": "(hereinafter referred to as \" subsequent offence \").",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      142.82,
+      386.48,
+      543.08,
+      401.01
+    ],
+    "text": "(2) A court which imposes a sentence of imprisonment for a term not",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      409.12,
+      543.08,
+      423.47
+    ],
+    "text": "exceeding six months in respect of one offence on an offender who has",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      431.56,
+      542.97,
+      445.91
+    ],
+    "text": "had no previous experience of imprisonment shall make an order under",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      454.0,
+      281.93,
+      468.35
+    ],
+    "text": "subsection (1) unless -",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143.42,
+      476.14,
+      543.08,
+      490.67
+    ],
+    "text": "(a) the offence involved the use or threat of violence, or the use or possession",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      498.76,
+      426.55,
+      513.11
+    ],
+    "text": "of a firearm, an explosive or an offensive weapon;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143.42,
+      521.02,
+      542.94,
+      535.55
+    ],
+    "text": "(b) the offence is one in respect of which a probation order or order for",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      543.64,
+      392.35,
+      557.99
+    ],
+    "text": "conditional discharge was originally made;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143.42,
+      565.93,
+      542.99,
+      580.46
+    ],
+    "text": "(c) the offender was subject to a suspended sentence at the time the offence",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      588.55,
+      262.01,
+      602.9
+    ],
+    "text": "was committed; or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      143.42,
+      610.81,
+      542.97,
+      625.34
+    ],
+    "text": "(d) the court is of opinion that, for reasons to be stated in writing, it would",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      633.31,
+      543.04,
+      647.66
+    ],
+    "text": "be inappropriate in the circumstances of the case, to deal with the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      162.02,
+      655.75,
+      350.95,
+      670.1
+    ],
+    "text": "offender in terms of this subsection.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "12",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68.42,
+      72.53,
+      543.26,
+      87.06
+    ],
+    "text": "[23] When analyzing Section 303, before and after its amendment, it is clear that there is",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      95.15,
+      542.94,
+      109.5
+    ],
+    "text": "a significant transition in the legislative intent from a mandatory to a directive",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      117.59,
+      325.39,
+      131.94
+    ],
+    "text": "approach in the suspension of sentences.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68.42,
+      139.85,
+      543.0,
+      154.38
+    ],
+    "text": "[24] Prior to the amendment, Section 303 applied to sentences of imprisonment not",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      162.35,
+      543.3,
+      176.7
+    ],
+    "text": "exceeding two years, with a mandatory suspension order for first-time offenders",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      184.79,
+      472.06,
+      199.14
+    ],
+    "text": "sentenced to six months or less, unless specific exceptions were met.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68.42,
+      207.05,
+      543.19,
+      221.58
+    ],
+    "text": "[25] The amendment to Section 303, introduces a discretionary framework. Previously,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      229.67,
+      543.3,
+      244.02
+    ],
+    "text": "courts were required to mandatorily suspend sentences, with written reasons to be",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      252.14,
+      543.0,
+      266.49
+    ],
+    "text": "given only if they decided otherwise. Now, judges need to provide reasons only",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      274.58,
+      542.93,
+      288.93
+    ],
+    "text": "when they choose to suspend a sentence, considering a specific list of factors. This",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      297.02,
+      543.31,
+      311.37
+    ],
+    "text": "shift from a mandatory to a more discretionary approach would give judges greater",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      319.34,
+      543.34,
+      333.69
+    ],
+    "text": "flexibility to make decisions based on distinct characteristics on a case-to-case basis.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68.42,
+      341.6,
+      543.3,
+      356.13
+    ],
+    "text": "[26] In the Court of Appeal Judgment in Bandage Sumindra Jayanthi vs. Attorney",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      363.62,
+      543.18,
+      378.57
+    ],
+    "text": "General8, Justice A.H.M.D. Nawaz, held that, the criteria listed in Section 303 (1)",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      386.66,
+      543.2,
+      401.01
+    ],
+    "text": "of the Code of Criminal Procedure Act, as amended, align with legal principles long",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      409.12,
+      543.07,
+      423.47
+    ],
+    "text": "established by case law. While Section 303(1) mandates that judges consider these",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      431.56,
+      543.25,
+      445.91
+    ],
+    "text": "criteria before suspending a sentence, they are also applicable in any situation where",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      454.0,
+      542.98,
+      468.35
+    ],
+    "text": "a judge imposes a custodial sentence. These criteria serve as legislative guidelines",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      476.32,
+      543.09,
+      490.67
+    ],
+    "text": "for judges when deciding on any punishment under the Penal Code or other criminal",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      498.76,
+      320.83,
+      513.11
+    ],
+    "text": "statutes. The Court was of the view that,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      521.2,
+      543.05,
+      535.55
+    ],
+    "text": "These criteria are not limited to suspended sentences alone and will apply in any",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      543.64,
+      543.32,
+      557.99
+    ],
+    "text": "situation where a judge wishes to impose a custodial sentence. This non- exhaustive",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      566.11,
+      543.1,
+      580.46
+    ],
+    "text": "list of factors, though prescribed by the legislature in 1999, reflect the jurisprudence",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      588.55,
+      472.78,
+      602.9
+    ],
+    "text": "that has been echoed by appellate courts over a long period of time.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      610.99,
+      484.3,
+      625.34
+    ],
+    "text": "It is perceived that not every guideline fit every situation. Accordingly,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      633.31,
+      238.73,
+      647.66
+    ],
+    "text": "Where a court decides-",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      655.57,
+      402.55,
+      670.1
+    ],
+    "text": "a) Not to follow a relevant sentencing guideline,",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      697.3,
+      218.55,
+      720.09
+    ],
+    "text": "8 [2015] 1 SLR 20",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "13",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.02,
+      72.53,
+      543.16,
+      87.06
+    ],
+    "text": "b) Not to make a compensation, reparation nor a travel restriction order",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      162.02,
+      95.15,
+      312.31,
+      109.5
+    ],
+    "text": "where it has power to do so,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.02,
+      117.41,
+      543.24,
+      131.94
+    ],
+    "text": "c) Not to order a suspended sentence to take effect, the endorsement of the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      162.02,
+      140.03,
+      543.33,
+      154.38
+    ],
+    "text": "defendants driving record or the defendants disqualification from",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      162.02,
+      162.35,
+      542.26,
+      176.7
+    ],
+    "text": "driving, for the usual minimum period, or at all, where it could do so, or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.02,
+      184.61,
+      182.54,
+      199.14
+    ],
+    "text": "d) ----",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.58,
+      219.23,
+      543.32,
+      233.58
+    ],
+    "text": "the court must explain why it has so decided when it explains the sentence that it",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      112.58,
+      241.1,
+      180.14,
+      256.05
+    ],
+    "text": "has passed9",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68.42,
+      275.96,
+      543.16,
+      290.49
+    ],
+    "text": "[27] In Indrawansa vs. Officer-in-Charge, Police Station, Wennappuwa and",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      297.98,
+      543.29,
+      312.93
+    ],
+    "text": "Another10, the Court having observed that the Appellant did not mitigate the",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      321.02,
+      543.34,
+      335.37
+    ],
+    "text": "sentence before the High Court or before the Supreme Court, held that, when",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      343.34,
+      543.22,
+      357.69
+    ],
+    "text": "considering the suspension of a sentence, a case-by-case assessment is crucial,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      365.78,
+      543.06,
+      380.13
+    ],
+    "text": "weighing the offence, offender-related factors, and societal interests to decide on",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      388.22,
+      543.25,
+      402.57
+    ],
+    "text": "imprisonment or suspension of a sentence. As the Appellant presented no mitigating",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      410.68,
+      543.31,
+      425.03
+    ],
+    "text": "circumstances to lessen the severity of the sentence (as is the case here), the Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      433.12,
+      542.99,
+      447.47
+    ],
+    "text": "concluded that there was no justification to alter the sentence imposed by the lower",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      455.56,
+      141.26,
+      469.91
+    ],
+    "text": "court.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      68.9,
+      478.06,
+      543.32,
+      493.03
+    ],
+    "text": "[28] The High Court when enhancing the sentence in consideration of the gravity of the",
+    "fonts": [
+      "ArialMT",
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      500.56,
+      543.33,
+      514.91
+    ],
+    "text": "negligent act committed by the accused, made no reference to any aggravating",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      523.0,
+      543.24,
+      537.35
+    ],
+    "text": "factors based on the facts and circumstances of the case, but merely proceeded to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      545.44,
+      543.31,
+      559.79
+    ],
+    "text": "do so. If the learned High Court Judge was of the view that a more stringent sentence",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      567.91,
+      543.2,
+      582.26
+    ],
+    "text": "should be given to the Appellant where ends of justice would be satisfied, then it is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      590.35,
+      543.2,
+      604.7
+    ],
+    "text": "the duty of the learned High Court Judge to give reasons. Without giving any",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      612.79,
+      543.23,
+      627.14
+    ],
+    "text": "reasons at all for adopting that course, it would not be conducive to interfere with a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      635.23,
+      543.33,
+      649.58
+    ],
+    "text": "sentence already imposed. In all the above circumstances and also having",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      685.78,
+      412.36,
+      720.09
+    ],
+    "text": "9 [Criminal Procedure Rules 2015 (SI 2015/1490), r. 28.1(1) and (2); Great Britain] 10 Indrawansa (n3)",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      731.4,
+      542.6,
+      755.88
+    ],
+    "text": "14",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      72.71,
+      543.31,
+      87.06
+    ],
+    "text": "considered the nature and the gravity of the offence, this Court finds that this is not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      95.15,
+      474.99,
+      109.94
+    ],
+    "text": "a fit case to suspend the sentence imposed by the learned Magistrate.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Italic",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      68.42,
+      117.41,
+      543.32,
+      131.94
+    ],
+    "text": "[29] Therefore, I answer the question of law which leave to appeal was granted in favour",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      140.03,
+      543.31,
+      154.38
+    ],
+    "text": "of the Accused-Appellant, only in respect of variation in sentence, which is not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      162.35,
+      211.61,
+      176.7
+    ],
+    "text": "legally justifiable.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      68.42,
+      184.61,
+      543.33,
+      199.14
+    ],
+    "text": "[30] For these reasons, the said Judgment of the learned High Court Judge dated",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      207.23,
+      543.32,
+      221.58
+    ],
+    "text": "05/01/2017, convicting the Accused-Appellant is affirmed. However, the enhanced",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      229.67,
+      543.18,
+      244.02
+    ],
+    "text": "sentence given by the said Judgment is set aside and the sentence imposed by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      252.14,
+      405.55,
+      266.49
+    ],
+    "text": "learned Magistrate will stand restored. No costs ordered.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      274.58,
+      275.21,
+      288.93
+    ],
+    "text": "The Appeal is partly allowed.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      356.23,
+      389.54,
+      529.33,
+      405.08
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      420.16,
+      399.58,
+      435.7
+    ],
+    "text": "E.A.G.R. Amarasekara J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      456.16,
+      131.3,
+      471.7
+    ],
+    "text": "I agree",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      360.07,
+      492.4,
+      533.17,
+      507.94
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      522.88,
+      197.0,
+      538.42
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.02,
+      559.0,
+      147.53,
+      574.54
+    ],
+    "text": "I agree",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      360.07,
+      595.15,
+      532.16,
+      610.69
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  }
+]
