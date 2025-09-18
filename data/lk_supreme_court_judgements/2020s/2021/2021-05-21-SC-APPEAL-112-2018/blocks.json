@@ -1,0 +1,3789 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      71.99,
+      488.8,
+      88.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.83,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.25,
+      145.92,
+      467.14,
+      159.92
+    ],
+    "text": "Disanayaka Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      167.04,
+      470.5,
+      181.04
+    ],
+    "text": "Chandrapala Meegahaarawa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      188.16,
+      399.19,
+      202.16
+    ],
+    "text": "Karandagamada,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      209.28,
+      339.67,
+      223.28
+    ],
+    "text": "Arawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      230.52,
+      344.47,
+      244.52
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      272.79,
+      363.67,
+      286.77
+    ],
+    "text": "SC APPEAL NO: SC/APPEAL/112/2018",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      293.91,
+      340.87,
+      307.89
+    ],
+    "text": "SC LA NO: SC/HCCA/LA/183/2017",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      315.03,
+      420.79,
+      329.01
+    ],
+    "text": "HCCA BADULLA NO: UVA/HCCA/BA/09/2015/L",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      336.15,
+      282.05,
+      350.13
+    ],
+    "text": "DC BADULLA NO: M/6700",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      369.27,
+      317.59,
+      383.27
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      408.41,
+      459.41,
+      422.41
+    ],
+    "text": "Disanayaka Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      429.53,
+      473.62,
+      443.53
+    ],
+    "text": "Samaraweera Meegahaarawa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      450.65,
+      399.19,
+      464.65
+    ],
+    "text": "Karandagamada,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      471.77,
+      339.67,
+      485.77
+    ],
+    "text": "Arawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      492.89,
+      359.83,
+      506.89
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      535.25,
+      392.23,
+      549.25
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      577.52,
+      459.41,
+      591.52
+    ],
+    "text": "Disanayaka Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      598.64,
+      473.62,
+      612.64
+    ],
+    "text": "Samaraweera Meegahaarawa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      619.76,
+      399.19,
+      633.76
+    ],
+    "text": "Karandagamada,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      640.88,
+      339.67,
+      654.88
+    ],
+    "text": "Arawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.25,
+      662.0,
+      420.55,
+      676.0
+    ],
+    "text": "Defendant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      704.23,
+      317.59,
+      718.24
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      35.98,
+      313.63,
+      64.02
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.25,
+      93.12,
+      467.14,
+      107.12
+    ],
+    "text": "Disanayaka Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      114.24,
+      470.5,
+      128.24
+    ],
+    "text": "Chandrapala Meegahaarawa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      135.36,
+      399.19,
+      149.36
+    ],
+    "text": "Karandagamada,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      156.48,
+      339.67,
+      170.48
+    ],
+    "text": "Arawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      177.6,
+      418.63,
+      191.6
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      219.96,
+      426.07,
+      233.96
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.25,
+      262.23,
+      467.14,
+      276.23
+    ],
+    "text": "Disanayaka Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      283.35,
+      470.5,
+      297.35
+    ],
+    "text": "Chandrapala Meegahaarawa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      304.47,
+      399.19,
+      318.47
+    ],
+    "text": "Karandagamada,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      325.59,
+      339.67,
+      339.59
+    ],
+    "text": "Arawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      346.71,
+      479.38,
+      360.71
+    ],
+    "text": "Plaintiff-Respondent-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      388.95,
+      317.59,
+      402.95
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      431.21,
+      459.41,
+      445.21
+    ],
+    "text": "Disanayaka Mudiyanselage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      452.33,
+      473.62,
+      466.33
+    ],
+    "text": "Samaraweera Meegahaarawa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      473.45,
+      399.19,
+      487.45
+    ],
+    "text": "Karandagamada,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      494.57,
+      339.67,
+      508.57
+    ],
+    "text": "Arawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      515.81,
+      494.74,
+      529.81
+    ],
+    "text": "Defendant-Appellant-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      558.05,
+      332.47,
+      572.05
+    ],
+    "text": "Before: P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      579.2,
+      319.27,
+      593.2
+    ],
+    "text": "S. Thurairaja, P.C., J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      600.32,
+      370.15,
+      614.32
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      642.56,
+      491.62,
+      656.56
+    ],
+    "text": "Counsel: Mahinda Nanayakkara for the Plaintiff-Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.25,
+      663.68,
+      250.85,
+      677.68
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      684.79,
+      446.98,
+      698.8
+    ],
+    "text": "Malaka Herath for the Defendant-Appellant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.25,
+      705.91,
+      264.29,
+      719.92
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      35.98,
+      313.63,
+      64.02
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      72.0,
+      258.05,
+      86.0
+    ],
+    "text": "Argued on: 24.02.2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      99.12,
+      480.58,
+      113.12
+    ],
+    "text": "Further written submissions by the Appellant on: 08.03.2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      126.24,
+      494.02,
+      140.24
+    ],
+    "text": "Further written submissions by the Respondent on: 10.03.2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      153.36,
+      259.25,
+      167.36
+    ],
+    "text": "Decided on: 21.05.2021",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      216.72,
+      298.13,
+      230.72
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      249.99,
+      500.72,
+      263.99
+    ],
+    "text": "The Plaintiff filed this action against the Defendant in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      271.11,
+      500.72,
+      285.11
+    ],
+    "text": "District Court of Badulla seeking to recover a sum of Rs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      292.23,
+      500.74,
+      306.23
+    ],
+    "text": "872,000 with legal interest, on the basis that he sold 26,446.5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      313.35,
+      500.74,
+      327.35
+    ],
+    "text": "kg of paddy at a rate of Rs. 33 per kg to the Defendant in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      334.47,
+      500.74,
+      348.47
+    ],
+    "text": "September 2009. According to the Plaintiff, at the time of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      355.59,
+      500.74,
+      369.59
+    ],
+    "text": "sale, the Defendant did not pay a single cent in cash but",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      376.71,
+      500.72,
+      390.71
+    ],
+    "text": "provided the Plaintiff with two post-dated cheques marked P1",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      397.85,
+      500.72,
+      411.85
+    ],
+    "text": "and P2 \u2013 P1 for Rs. 20,000 and P2 for Rs. 850,000 \u2013 both of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      418.97,
+      500.74,
+      432.97
+    ],
+    "text": "which were subsequently dishonoured. Although the action was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      440.09,
+      500.61,
+      454.09
+    ],
+    "text": "not filed under the Bills of Exchange Ordinance or Chapter 53 of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      461.21,
+      500.66,
+      475.21
+    ],
+    "text": "the Civil Procedure Code, the Plaintiff based his case on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      482.33,
+      500.73,
+      496.33
+    ],
+    "text": "aforesaid two cheques. The Defendant totally denies that he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      503.45,
+      500.74,
+      517.45
+    ],
+    "text": "engaged in any paddy transaction with the Plaintiff and states",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      524.57,
+      500.69,
+      538.57
+    ],
+    "text": "that the Plaintiff was a money lender and that the Defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      545.81,
+      500.69,
+      559.81
+    ],
+    "text": "borrowed Rs. 20,000 on P1, and P2 was additional security",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      566.96,
+      500.66,
+      580.96
+    ],
+    "text": "provided for the same. The Defendant sought dismissal of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      588.08,
+      500.67,
+      602.08
+    ],
+    "text": "Plaintiff\u2019s action. The District Court entered Judgment for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      609.2,
+      500.62,
+      623.2
+    ],
+    "text": "Plaintiff but, on appeal, the High Court of Civil Appeal set it",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      630.32,
+      500.74,
+      644.32
+    ],
+    "text": "aside and the appeal of the Defendant was allowed. Hence the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      651.44,
+      500.52,
+      665.44
+    ],
+    "text": "Plaintiff before this Court. This Court granted leave to appeal to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      672.56,
+      500.67,
+      686.56
+    ],
+    "text": "the Plaintiff on the following questions of law formulated by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      693.67,
+      168.26,
+      707.68
+    ],
+    "text": "Plaintiff:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      35.98,
+      313.63,
+      64.02
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      72.0,
+      500.25,
+      86.06
+    ],
+    "text": "(a) Is the judgment of the High Court of Civil Appeal wrong",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      93.12,
+      215.09,
+      107.18
+    ],
+    "text": "in law?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      114.24,
+      500.17,
+      128.3
+    ],
+    "text": "(b) Has the High Court of Civil Appeal failed to consider the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      135.36,
+      500.42,
+      149.42
+    ],
+    "text": "fact that the District Court has considered all the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      156.48,
+      500.48,
+      170.54
+    ],
+    "text": "ingredients which should be contained in a judgment as",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      177.6,
+      425.59,
+      191.66
+    ],
+    "text": "per section 187 of the Civil Procedure Code?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      198.72,
+      500.5,
+      212.78
+    ],
+    "text": "(c) Can the High Court of Civil Appeal dismiss the Plaintiff\u2019s",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      219.96,
+      500.18,
+      234.02
+    ],
+    "text": "action without setting aside the judgment of the District",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      241.11,
+      210.77,
+      255.17
+    ],
+    "text": "Court?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      274.23,
+      412.63,
+      288.23
+    ],
+    "text": "Let me consider these three questions one by one.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      307.35,
+      500.69,
+      321.35
+    ],
+    "text": "The first question of law formulated by the Plaintiff is broad and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      328.47,
+      500.74,
+      342.47
+    ],
+    "text": "unspecific. It is not clear on what basis the Plaintiff says that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      349.59,
+      500.74,
+      363.59
+    ],
+    "text": "the Judgment of the High Court of Civil Appeal is wrong in law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      370.71,
+      500.55,
+      384.71
+    ],
+    "text": "At the argument before this Court, learned counsel for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      391.83,
+      500.67,
+      405.83
+    ],
+    "text": "Plaintiff stated that the analysis of evidence by the District Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      412.97,
+      500.55,
+      426.97
+    ],
+    "text": "was correct whereas the analysis of evidence by the High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      434.09,
+      500.56,
+      448.09
+    ],
+    "text": "was incorrect. In the facts and circumstances of this case, I do",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      455.21,
+      500.74,
+      469.21
+    ],
+    "text": "not think so. When the High Court stated the Plaintiff had not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      476.33,
+      500.69,
+      490.33
+    ],
+    "text": "proved his case on a balance of probability and then opined that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      497.45,
+      500.66,
+      511.45
+    ],
+    "text": "the Defendant\u2019s version was more probable than that of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      518.57,
+      500.66,
+      532.63
+    ],
+    "text": "Plaintiff, the High Court took inter alia the following matters into",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      539.81,
+      202.37,
+      553.81
+    ],
+    "text": "consideration:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      572.96,
+      500.65,
+      586.96
+    ],
+    "text": "(a) Admittedly, the Plaintiff is a money lender and the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      594.08,
+      500.73,
+      608.08
+    ],
+    "text": "paddy transaction the Plaintiff speaks of is not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      615.2,
+      234.53,
+      629.2
+    ],
+    "text": "believable.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      636.32,
+      500.66,
+      650.32
+    ],
+    "text": "(b) It is unlikely that a person seeking to buy a large stock",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      657.44,
+      500.73,
+      671.44
+    ],
+    "text": "of paddy would come without a rupee in cash but with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.22,
+      678.56,
+      315.67,
+      692.56
+    ],
+    "text": "two post-dated cheques.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      35.98,
+      313.63,
+      64.02
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      72.0,
+      500.63,
+      86.0
+    ],
+    "text": "(c) If the alleged paddy transaction is a single transaction",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      93.12,
+      500.74,
+      107.12
+    ],
+    "text": "which took place on one particular occasion, it was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      114.24,
+      500.74,
+      128.24
+    ],
+    "text": "unnecessary for the Defendant to have provided two",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      135.36,
+      500.67,
+      149.36
+    ],
+    "text": "post-dated cheques \u2013 one for Rs. 20,000 and the other",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      156.48,
+      500.74,
+      170.48
+    ],
+    "text": "for Rs. 850,000 \u2013 instead of offering one post-dated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      177.6,
+      218.69,
+      191.6
+    ],
+    "text": "cheque.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      198.72,
+      500.69,
+      212.72
+    ],
+    "text": "(d) The alleged paddy transaction took place in September",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      219.96,
+      500.72,
+      233.96
+    ],
+    "text": "2009, but according to the document V6 dated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      241.11,
+      500.74,
+      255.11
+    ],
+    "text": "06.10.2010, the Defendant had not yet paid back a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      262.23,
+      500.69,
+      276.23
+    ],
+    "text": "sum of Rs. 42,000 previously borrowed from the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      283.35,
+      500.74,
+      297.35
+    ],
+    "text": "Plaintiff in 2006. Therefore, it is unlikely the Plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      304.47,
+      500.66,
+      318.47
+    ],
+    "text": "would have sold the Defendant a large stock of paddy",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      325.59,
+      414.79,
+      339.59
+    ],
+    "text": "worth a sum of Rs. 872,734.50 on credit.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      346.71,
+      500.74,
+      360.71
+    ],
+    "text": "(e) Admittedly, the Defendant is illiterate. He can sign his",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      367.83,
+      500.73,
+      381.83
+    ],
+    "text": "name but cannot read or write. The Defendant admits",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      388.95,
+      500.73,
+      402.95
+    ],
+    "text": "his signature on the two cheques. The Plaintiff\u2019s own",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      410.09,
+      500.69,
+      424.09
+    ],
+    "text": "witness Susantha admitted in his evidence that he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      431.21,
+      500.65,
+      445.21
+    ],
+    "text": "(Susantha) filled the cheques at the request of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      169.22,
+      452.33,
+      450.58,
+      466.33
+    ],
+    "text": "Plaintiff and in the absence of the Defendant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      485.45,
+      500.59,
+      499.45
+    ],
+    "text": "I cannot find fault with the analysis of the learned High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      506.57,
+      471.46,
+      520.57
+    ],
+    "text": "Judge in deciding that the Plaintiff failed to prove his case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      539.81,
+      500.74,
+      553.81
+    ],
+    "text": "Learned counsel for the Plaintiff accepts that if the Plaintiff fails",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      560.93,
+      504.58,
+      574.93
+    ],
+    "text": "to prove the paddy transaction, the Plaintiff\u2019s action shall fail.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      582.08,
+      500.67,
+      596.08
+    ],
+    "text": "The finding of the High Court that on a preponderance of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      603.2,
+      491.14,
+      617.2
+    ],
+    "text": "probability the paddy transaction was not proved is acceptable.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      636.32,
+      500.74,
+      650.32
+    ],
+    "text": "In the facts and circumstances of this case, the Defendant\u2019s",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      657.44,
+      420.07,
+      671.44
+    ],
+    "text": "version is more probable than that of the Plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      35.98,
+      313.63,
+      64.02
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      72.0,
+      500.73,
+      86.0
+    ],
+    "text": "At the argument, learned counsel for the Plaintiff heavily relied",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      93.12,
+      500.74,
+      107.12
+    ],
+    "text": "on the failure of the Defendant to reply to the letter of demand",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      114.24,
+      500.73,
+      128.24
+    ],
+    "text": "sent prior to the institution of the action. Counsel vehemently",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      135.36,
+      500.64,
+      149.36
+    ],
+    "text": "submits that the Defendant is estopped from denying liability",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      156.48,
+      415.03,
+      170.48
+    ],
+    "text": "due to the failure to answer the letter of demand.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      189.6,
+      500.73,
+      203.6
+    ],
+    "text": "In business matters, if the party receiving a letter, email or the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      210.72,
+      500.74,
+      224.72
+    ],
+    "text": "like, disputes the assertions contained in it, he must reply, for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      231.96,
+      500.66,
+      245.96
+    ],
+    "text": "failure to do so can be regarded as an admission of the claim",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      253.11,
+      208.13,
+      267.11
+    ],
+    "text": "made therein.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      286.23,
+      500.31,
+      300.29
+    ],
+    "text": "In the oft quoted decision of Saravanamuttu v. de Mel (1948) 49",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      307.35,
+      247.97,
+      321.41
+    ],
+    "text": "NLR 529, it was held:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      340.47,
+      500.19,
+      354.53
+    ],
+    "text": "In business matters, if a person states in a letter to another",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      361.59,
+      500.5,
+      375.65
+    ],
+    "text": "that a certain state of facts exists, the person to whom the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      382.71,
+      500.16,
+      396.77
+    ],
+    "text": "letter is written must reply if he does not agree with or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      403.85,
+      500.19,
+      417.91
+    ],
+    "text": "means to dispute the assertions. Otherwise, the silence of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      424.97,
+      500.2,
+      439.03
+    ],
+    "text": "the latter amounts to an admission of the truth of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      446.09,
+      354.79,
+      460.15
+    ],
+    "text": "allegations contained in that letter.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      479.21,
+      500.4,
+      493.27
+    ],
+    "text": "The following dicta of Lord Esher M.R. in Wiedeman v. Walpole",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      500.45,
+      500.43,
+      514.51
+    ],
+    "text": "(1891) 2 Q.B. 534 was quoted with approval in Colombo Electric",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      521.57,
+      500.74,
+      535.63
+    ],
+    "text": "Tramways and Lighting Co. Ltd v. Pereira (1923) 25 NLR 193 at",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      542.69,
+      149.06,
+      556.69
+    ],
+    "text": "195:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      575.84,
+      500.49,
+      589.9
+    ],
+    "text": "Now there are cases\u2014business and mercantile cases\u2014in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      596.96,
+      500.5,
+      611.02
+    ],
+    "text": "which the Courts have taken notice that, in the ordinary",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      618.08,
+      500.19,
+      632.14
+    ],
+    "text": "course of business, if one man of business states in a letter",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      639.2,
+      500.23,
+      653.26
+    ],
+    "text": "to another that he has agreed to do certain things, the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      660.32,
+      500.2,
+      674.38
+    ],
+    "text": "person who receives that letter must answer it, if he means",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      681.43,
+      500.46,
+      695.5
+    ],
+    "text": "to dispute the fact that he did so agree. So, where",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      702.55,
+      500.33,
+      716.62
+    ],
+    "text": "merchants are in dispute one with the other in the course of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      35.98,
+      313.63,
+      64.02
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.22,
+      72.0,
+      500.25,
+      86.06
+    ],
+    "text": "carrying on some business negotiations, and one writes to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.22,
+      93.12,
+      500.2,
+      107.18
+    ],
+    "text": "the other, \u201cbut you promised me that you would do this or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.22,
+      114.24,
+      500.49,
+      128.3
+    ],
+    "text": "that\u201d, if the other does not answer that letter, but proceeds",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.22,
+      135.36,
+      500.37,
+      149.42
+    ],
+    "text": "with the negotiations, he must be taken to admit the truth of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.22,
+      156.48,
+      237.17,
+      170.54
+    ],
+    "text": "the statement.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      189.6,
+      500.54,
+      203.6
+    ],
+    "text": "The above has been quoted with approval in several cases,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      210.72,
+      413.35,
+      224.78
+    ],
+    "text": "including Seneviratne v. LOLC [2006] 1 Sri LR 230.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      243.99,
+      500.67,
+      257.99
+    ],
+    "text": "However, I must add that although it is a general principle that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      265.11,
+      500.67,
+      279.11
+    ],
+    "text": "failure to answer a business letter amounts to an admission of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      286.23,
+      500.74,
+      300.23
+    ],
+    "text": "the contents therein, this is not an absolute principle of law. In",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      307.35,
+      500.64,
+      321.35
+    ],
+    "text": "other words, failure to reply to a business letter alone cannot",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      328.47,
+      500.74,
+      342.47
+    ],
+    "text": "decide the whole case. It is one factor which can be taken into",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      349.59,
+      500.7,
+      363.59
+    ],
+    "text": "account along with other factors in determining whether the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      370.71,
+      500.74,
+      384.71
+    ],
+    "text": "Plaintiff has proved his case. Otherwise, when it is established",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      391.83,
+      500.73,
+      405.89
+    ],
+    "text": "that the formal demand, which is a sine qua non for the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      412.97,
+      500.5,
+      427.03
+    ],
+    "text": "institution of an action, was not replied, Judgment can ipso",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      434.09,
+      500.74,
+      448.15
+    ],
+    "text": "facto be entered for the Plaintiff. That cannot be done.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      455.33,
+      500.66,
+      469.33
+    ],
+    "text": "Therefore, although failure to reply to a business letter or a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      476.45,
+      500.74,
+      490.45
+    ],
+    "text": "letter of demand is a circumstance which can be held against",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      497.57,
+      500.74,
+      511.57
+    ],
+    "text": "the Defendant, it cannot by and of itself prove the Plaintiff's",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      518.69,
+      500.74,
+      532.69
+    ],
+    "text": "case. The impact of such failure to reply will depend on the facts",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      539.81,
+      500.66,
+      553.87
+    ],
+    "text": "and circumstances of each case. Vide the Judgment of",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      560.93,
+      500.31,
+      574.99
+    ],
+    "text": "Weeramantry J. in Wickremasinghe v. Devasagayam (1970) 74",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      582.08,
+      173.06,
+      596.14
+    ],
+    "text": "NLR 80.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      615.2,
+      500.48,
+      629.2
+    ],
+    "text": "In the instant case, there is no strong evidence in favour of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      636.44,
+      500.69,
+      650.44
+    ],
+    "text": "Plaintiff to support the alleged paddy transaction. It is admitted",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      657.56,
+      500.7,
+      671.56
+    ],
+    "text": "that the Defendant is illiterate and the Plaintiff is a money",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      678.68,
+      500.73,
+      692.68
+    ],
+    "text": "lender. Document V1 goes to prove that the Plaintiff had lent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      699.79,
+      500.63,
+      713.8
+    ],
+    "text": "money to the Defendant prior to the alleged paddy transaction",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      35.98,
+      313.63,
+      64.02
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      72.0,
+      500.73,
+      86.0
+    ],
+    "text": "and that loan remained unsettled. In the facts and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      93.12,
+      500.73,
+      107.12
+    ],
+    "text": "circumstances of this case, the failure to answer the letter of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      114.24,
+      275.33,
+      128.24
+    ],
+    "text": "demand P3 is not decisive.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      147.36,
+      463.54,
+      161.36
+    ],
+    "text": "The first question of law shall be answered in the negative.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      180.48,
+      500.49,
+      194.54
+    ],
+    "text": "The second question of law for me is meaningless. It is: \u201cthe",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      201.6,
+      500.48,
+      215.66
+    ],
+    "text": "High Court of Civil Appeal failed to consider the fact that the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      222.84,
+      500.5,
+      236.9
+    ],
+    "text": "District Court has considered all the ingredients which should be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      243.99,
+      500.19,
+      258.05
+    ],
+    "text": "contained in a judgment as per section 187 of the Civil Procedure",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      265.11,
+      500.69,
+      279.17
+    ],
+    "text": "Code\u201d. No argument in relation to the ingredients of a Judgment",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      286.23,
+      500.74,
+      300.23
+    ],
+    "text": "was advanced before the High Court by either party. The High",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      307.35,
+      500.73,
+      321.35
+    ],
+    "text": "Court did not consider such a matter in its Judgment; nor did",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      328.47,
+      500.59,
+      342.47
+    ],
+    "text": "the High Court set aside the Judgment of the District Court on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      349.59,
+      500.74,
+      363.59
+    ],
+    "text": "the basis that the same did not contain all the requirements of a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      370.71,
+      464.02,
+      384.71
+    ],
+    "text": "Judgment as per section 187 of the Civil Procedure Code.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      403.85,
+      429.94,
+      417.85
+    ],
+    "text": "This question shall be answered against the Plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      436.97,
+      500.7,
+      450.97
+    ],
+    "text": "The third question of law is of a technical nature. The last",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      458.09,
+      500.69,
+      472.09
+    ],
+    "text": "paragraph of the High Court Judgment when translated into",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      479.21,
+      500.48,
+      493.27
+    ],
+    "text": "English reads: \u201cFor the above-mentioned reasons, the Court",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      500.45,
+      504.05,
+      514.51
+    ],
+    "text": "decides to allow the appeal of the Defendant-Appellant.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      521.57,
+      500.48,
+      535.63
+    ],
+    "text": "Accordingly, the appeal is allowed and the Plaintiff-Respondent\u2019s",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      542.69,
+      300.77,
+      556.75
+    ],
+    "text": "action is dismissed. No costs.\u201d",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      575.84,
+      500.66,
+      589.84
+    ],
+    "text": "Learned counsel for the Plaintiff argues it is wrong to have",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      596.96,
+      500.67,
+      610.96
+    ],
+    "text": "dismissed the Plaintiff\u2019s action without setting aside the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      618.08,
+      500.5,
+      632.08
+    ],
+    "text": "Judgment of the District Court. Although the High Court does",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      639.2,
+      500.73,
+      653.2
+    ],
+    "text": "not expressly state that it sets aside the Judgment of the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      660.32,
+      500.67,
+      674.32
+    ],
+    "text": "Court, the same is implicit in allowing the appeal of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      681.43,
+      500.66,
+      695.44
+    ],
+    "text": "Defendant-Appellant. After allowing the appeal, the High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      702.55,
+      500.74,
+      716.56
+    ],
+    "text": "was correct, for the reasons set out in the Judgment, to have",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      35.98,
+      313.63,
+      64.02
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      72.0,
+      500.72,
+      86.0
+    ],
+    "text": "stated that the Plaintiff\u2019s action in the District Court shall stand",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      93.12,
+      500.57,
+      107.12
+    ],
+    "text": "dismissed. Judgments need not be set aside on such flimsy",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      114.24,
+      500.7,
+      128.24
+    ],
+    "text": "technical grounds which have not prejudiced the substantial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      135.36,
+      434.98,
+      149.42
+    ],
+    "text": "rights of the parties or occasioned a failure of justice.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      168.48,
+      347.11,
+      182.48
+    ],
+    "text": "I dismiss the appeal but without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      330.55,
+      267.99,
+      500.74,
+      281.99
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      310.23,
+      260.45,
+      324.23
+    ],
+    "text": "P. Padman Surasena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      331.35,
+      162.02,
+      345.35
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      330.55,
+      364.47,
+      500.74,
+      378.47
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      406.73,
+      247.25,
+      420.73
+    ],
+    "text": "S. Thurairaja, P.C., J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      427.85,
+      165.86,
+      441.85
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      330.55,
+      460.97,
+      500.74,
+      474.97
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
