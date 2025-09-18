@@ -3,14 +3,14 @@ from functools import cached_property
 
 from utils import Log
 
-from pdf_scraper import AbstractDoc
+from scraper import AbstractPDFDoc
 from supreme.JudgementDocWebMixin import JudgementDocWebMixin
 
 log = Log("JudgementDoc")
 
 
 @dataclass
-class JudgementDoc(JudgementDocWebMixin, AbstractDoc):
+class JudgementDoc(JudgementDocWebMixin, AbstractPDFDoc):
     parties: str
     judgement_by: str
 

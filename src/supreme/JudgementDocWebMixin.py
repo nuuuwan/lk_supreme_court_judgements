@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from utils import Log
 
-from pdf_scraper import AbstractDoc
+from scraper import AbstractDoc
 
 log = Log("JudgementDocWebMixin")
 
@@ -32,7 +32,9 @@ class JudgementDocWebMixin:
 
         # url_pdf
         td_final = tds[-1]
-        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
+        url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute(
+            "href"
+        )
         assert url_pdf.endswith(".pdf"), url_pdf
 
         return cls(
