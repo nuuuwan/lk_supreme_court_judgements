@@ -1,11 +1,11 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_16:51:05-green)
-![DatasetSize](https://img.shields.io/badge/dataset_size-446.9_kB-yellow)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_17:20:31-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-447.0_kB-yellow)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements)
 
-📜 [**1,524** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**446.9 kB**), from **2016-07-22** to **2025-09-18**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+📜 [**1,526** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data) (**447.0 kB**), from **2016-07-22** to **2025-09-18**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
 📑 In JSON, PDF, TXT and 🤗 Hugging Face Formats
 
@@ -17,7 +17,7 @@
 
 ...
 
-*📒 PDFs have been downloaded for **900** (**59%**) documents*
+*📒 PDFs have been downloaded for **909** (**60%**) documents*
 
 🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
 
@@ -53,6 +53,7 @@
 
 - 2025-09-18 | `SC/FR/524/2012` | Hon. M. Sampath K. B. Wijeratne J - H.D.S. Wimalarathna No. 209, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-524-2012)
 - 2025-09-18 | `SC/FR/313/2020` | Hon. Menaka Wijesundera J - Sriramachandran Thanikumar At... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-313-2020)
+- 2025-09-18 | `SC/FR/233/2020` | Hon. Janak De Silva J - Attanayakage Don Susil Attana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-233-2020)
 - 2025-09-18 | `SC/CHC APPEAL/9/2016` | Hon. Menaka Wijesundera J - 1. Jayawardana Mulge Susantha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-CHC-APPEAL-9-2016)
 - 2025-09-18 | `SC/APPEAL/48/2022` | Hon. Kumuduni Wickremasinghe J - 1. Thenudaya Nithil Demash Ko... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-APPEAL-48-2022)
 - 2025-09-18 | `SC/APPEAL/16/2022` | Hon. M. Sampath K. B. Wijeratne J - Elpitiya Plantation Company n... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-APPEAL-16-2022)
@@ -70,7 +71,6 @@
 - 2025-09-09 | `SC/FR/371/2015` | Hon. Sampath B. Abayakoon J - 1. Pitawasala Koralage Handun... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-09-SC-FR-371-2015)
 - 2025-09-08 | `SC/APPEAL/162/2013` | Hon. Sampath B. Abayakoon J - 1. W.H.M. Gunaratne, 251/1, D... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-08-SC-APPEAL-162-2013)
 - 2025-09-08 | `SC/APPEAL/115/2013` | Hon. Justice Janak De Silva - 1B,16A. Edirisingha Mudiyanse... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-08-SC-APPEAL-115-2013)
-- 2025-09-04 | `SC/FR/276/2018` | Hon. Menaka Wijesundera J - Lokugamhewage Deepika Damayan... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-04-SC-FR-276-2018)
 
 ---
 
