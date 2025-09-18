@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_16:25:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_16:51:05-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-446.9_kB-yellow)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements)
@@ -17,7 +17,7 @@
 
 ...
 
-*📒 PDFs have been downloaded for **888** (**58%**) documents*
+*📒 PDFs have been downloaded for **900** (**59%**) documents*
 
 🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_supreme_court_judgements/issues) are welcome!
 
