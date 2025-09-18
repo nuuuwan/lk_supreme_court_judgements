@@ -1,11 +1,11 @@
 {
-  "time_updated": "2025-09-18 18:58:02",
+  "time_updated": "2025-09-18 19:26:47",
   "n_docs": 1526,
-  "n_docs_with_pdfs": 914,
-  "p_docs_with_pdfs": 0.598951507208388,
+  "n_docs_with_pdfs": 937,
+  "p_docs_with_pdfs": 0.6140235910878112,
   "date_str_min": "2016-07-22",
   "date_str_max": "2025-09-18",
-  "dataset_size": 850993389,
+  "dataset_size": 860480382,
   "url_source": "https://supremecourt.lk/judgements/",
   "url_data": "https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data",
   "url_repo": "https://github.com/nuuuwan/lk_supreme_court_judgements"
