@@ -1,0 +1,2960 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      36.11,
+      312.05,
+      63.19
+    ],
+    "text": "1",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.58,
+      72.52,
+      534.27,
+      94.71
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      133.22,
+      106.96,
+      483.91,
+      129.15
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      141.23,
+      543.46,
+      286.4
+    ],
+    "text": "In the matter of an appeal in terms of Section 5(c) of the High Court of the Provinces (Special Provisions) Act No 19 of 1990 as amended by High Court of the Provinces (Special Provisions) (Amendment) Act No 54 of 2006. SC / Appeal / 53/2013",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      294.98,
+      505.09,
+      310.52
+    ],
+    "text": "SC/HCCA/LA/472/2012 Nuwarapaksa Pedige Gunawathie,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      319.1,
+      431.98,
+      334.64
+    ],
+    "text": "SP/HC/CALA/899/2011 Polwattewedagedara,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      343.34,
+      372.82,
+      358.88
+    ],
+    "text": "DC/Kegalle/3930/L Meepitiya.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      367.46,
+      517.45,
+      383.0
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      391.82,
+      418.66,
+      407.36
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.05,
+      415.74,
+      494.79,
+      431.96
+    ],
+    "text": "1. Nuwarapaksa Pedige Malani,",
+    "fonts": [
+      "Arial",
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.05,
+      440.2,
+      422.74,
+      455.74
+    ],
+    "text": "Atabomulahena,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.05,
+      464.32,
+      405.58,
+      479.86
+    ],
+    "text": "Dampelgoda,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.05,
+      488.44,
+      377.62,
+      503.98
+    ],
+    "text": "Bossala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.05,
+      512.36,
+      495.01,
+      528.1
+    ],
+    "text": "2. Meragal Pedige Wimaladasa,",
+    "fonts": [
+      "Arial,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.05,
+      536.8,
+      422.74,
+      552.34
+    ],
+    "text": "Atabomulahena,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.05,
+      560.92,
+      405.58,
+      576.46
+    ],
+    "text": "Dampelgoda,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.05,
+      585.04,
+      535.57,
+      600.58
+    ],
+    "text": "Bossala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.05,
+      609.19,
+      543.61,
+      624.73
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.33,
+      633.43,
+      434.02,
+      648.97
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.05,
+      657.59,
+      494.79,
+      673.81
+    ],
+    "text": "1. Nuwarapaksa Pedige Malani,",
+    "fonts": [
+      "Arial",
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.05,
+      681.91,
+      422.74,
+      697.45
+    ],
+    "text": "Atabomulahena,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      36.11,
+      312.05,
+      63.19
+    ],
+    "text": "2",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      72.21,
+      405.58,
+      87.75
+    ],
+    "text": "Dampelgoda,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      96.35,
+      377.62,
+      111.89
+    ],
+    "text": "Bossala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.05,
+      120.27,
+      495.01,
+      136.01
+    ],
+    "text": "2. Meragal Pedige Wimaladasa,",
+    "fonts": [
+      "Arial,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      144.71,
+      422.74,
+      160.25
+    ],
+    "text": "Atabomulahena,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      168.83,
+      405.58,
+      184.37
+    ],
+    "text": "Dampelgoda,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      192.95,
+      377.62,
+      208.49
+    ],
+    "text": "Bossala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.05,
+      227.15,
+      507.13,
+      242.69
+    ],
+    "text": "Defendant Appellants",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      251.54,
+      382.66,
+      267.08
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      275.42,
+      505.09,
+      290.96
+    ],
+    "text": "Nuwarapaksa Pedige Gunawathie,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      299.54,
+      431.98,
+      315.08
+    ],
+    "text": "Polwattewedagedara,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      323.78,
+      507.61,
+      339.32
+    ],
+    "text": "Meepitiya.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      347.9,
+      518.65,
+      363.44
+    ],
+    "text": "Plaintiff Respondent",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      326.33,
+      396.38,
+      476.53,
+      411.92
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      430.36,
+      501.49,
+      445.9
+    ],
+    "text": "Nuwarapaksa Pedige Gunawathie,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      454.48,
+      431.98,
+      470.02
+    ],
+    "text": "Polwattewedagedara,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      478.6,
+      507.61,
+      494.14
+    ],
+    "text": "Meepitiya.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      502.84,
+      536.77,
+      518.38
+    ],
+    "text": "Plaintiff Respondent Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      326.33,
+      527.2,
+      382.66,
+      542.74
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.05,
+      551.12,
+      494.79,
+      567.34
+    ],
+    "text": "1. Nuwarapaksa Pedige Malani,",
+    "fonts": [
+      "Arial",
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      575.44,
+      422.74,
+      590.98
+    ],
+    "text": "Atabomulahena,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      599.71,
+      405.58,
+      615.25
+    ],
+    "text": "Dampelgoda,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      623.83,
+      377.62,
+      639.37
+    ],
+    "text": "Bossala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.05,
+      647.75,
+      495.01,
+      663.49
+    ],
+    "text": "2. Meragal Pedige Wimaladasa,",
+    "fonts": [
+      "Arial,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      672.07,
+      422.74,
+      687.61
+    ],
+    "text": "Atabomulahena,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.05,
+      696.31,
+      405.58,
+      711.85
+    ],
+    "text": "Dampelgoda,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      36.11,
+      312.05,
+      63.19
+    ],
+    "text": "3",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      327.05,
+      72.21,
+      377.62,
+      87.75
+    ],
+    "text": "Bossala.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.05,
+      106.43,
+      540.73,
+      121.97
+    ],
+    "text": "Defendant Appellant Respondents",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      154.67,
+      534.37,
+      170.21
+    ],
+    "text": "BEFORE : PRIYASATH DEP, PC, J. (as he was then)",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      178.79,
+      452.62,
+      194.33
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      202.91,
+      441.58,
+      218.45
+    ],
+    "text": "ANIL GOONARATNE, J.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      251.3,
+      540.85,
+      266.84
+    ],
+    "text": "COUNSEL : M. S. A. Saheed with A. M. Hussain for the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      275.42,
+      469.33,
+      290.96
+    ],
+    "text": "Plaintiff Respondent Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      297.55,
+      540.44,
+      315.08
+    ],
+    "text": "Dr. Sunil Cooray for the 1st & 2nd Defendant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      323.78,
+      421.9,
+      339.32
+    ],
+    "text": "Appellant Respondents",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      372.02,
+      473.77,
+      387.56
+    ],
+    "text": "WRITTEN SUBMISSION ON: 03.05.2013 Plaintiff Respondent",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      252.05,
+      396.14,
+      346.78,
+      411.68
+    ],
+    "text": "Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      420.4,
+      475.21,
+      435.94
+    ],
+    "text": "25.06.2013 Defendant Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      444.52,
+      367.06,
+      460.06
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      492.76,
+      550.09,
+      508.3
+    ],
+    "text": "ARGUED ON : 03.02.2016",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      517.0,
+      358.06,
+      532.54
+    ],
+    "text": "DECIDED ON : 01.08.2017",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      565.24,
+      236.6,
+      580.78
+    ],
+    "text": "UPALY ABEYRATHNE, J.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      613.51,
+      543.37,
+      629.05
+    ],
+    "text": "The Plaintiff Respondent Appellant (hereinafter referred to as the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      637.75,
+      543.18,
+      653.29
+    ],
+    "text": "Appellant) has preferred this appeal from the judgment of the High Court of Civil",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      661.87,
+      543.59,
+      677.41
+    ],
+    "text": "Appeal of the Sabaragamuwa Province, holden at Kegalle dated 04.10.2012. By",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      685.99,
+      543.61,
+      701.53
+    ],
+    "text": "the said judgment, the High Court has set aside the judgment of the learned",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      36.11,
+      312.05,
+      63.19
+    ],
+    "text": "4",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      72.21,
+      543.55,
+      87.75
+    ],
+    "text": "Additional District Judge of Kegalle dated 29.08.2011, which was delivered in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      96.35,
+      266.48,
+      111.89
+    ],
+    "text": "favour of the Plaintiff Appellant.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      120.47,
+      543.48,
+      136.01
+    ],
+    "text": "When the matter was supported for leave to appeal, this court has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      144.71,
+      543.36,
+      160.25
+    ],
+    "text": "granted leave on the following questions of law raised by the Appellant and the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      168.83,
+      222.08,
+      184.37
+    ],
+    "text": "Respondents respectively:",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      192.75,
+      543.55,
+      208.49
+    ],
+    "text": "1. Whether the Civil Appellate High Court erred in law in holding",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.02,
+      215.08,
+      543.4,
+      232.61
+    ],
+    "text": "that the 1st Defendant was a co-owner of the subject matter of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.02,
+      241.31,
+      209.84,
+      256.85
+    ],
+    "text": "Action?",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      265.26,
+      543.11,
+      281.0
+    ],
+    "text": "2. Whether the Plaintiff can maintain this action for the ejectment of",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.02,
+      289.58,
+      543.61,
+      305.12
+    ],
+    "text": "the Defendant from an undivided 01 (one) acre out of a land of 07",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.02,
+      313.7,
+      297.32,
+      329.24
+    ],
+    "text": "(seven) acres in extent?",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      345.91,
+      543.61,
+      363.44
+    ],
+    "text": "The Appellant has instituted the said action against the 1st and 2nd",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      372.02,
+      543.26,
+      387.56
+    ],
+    "text": "Defendant Appellant Respondents (hereinafter referred to as the Respondents) in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      396.14,
+      543.62,
+      411.68
+    ],
+    "text": "the said District Court seeking declaration of title to the land described in the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      420.4,
+      543.58,
+      435.94
+    ],
+    "text": "schedule to the plaint and ejectment of the Respondents therefrom. The Appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      444.52,
+      543.21,
+      460.06
+    ],
+    "text": "has averred that her father Bandiya, the predecessor in title to the said land, by",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      468.64,
+      543.49,
+      484.18
+    ],
+    "text": "deed of gift bearing No 45595 dated 11.06.1984, gifted 01 acre of undivided land",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      492.76,
+      542.99,
+      508.3
+    ],
+    "text": "and the house standing thereon out of a land in extent of 07 acres subject to the life",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      517.0,
+      543.23,
+      532.54
+    ],
+    "text": "interest of said Bandiya and his wife. After the death of said Bandiya and his wife",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      541.12,
+      543.61,
+      556.66
+    ],
+    "text": "the Appellant became the sole owner of said 01 acre and lived there. She separated",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      565.24,
+      543.57,
+      580.78
+    ],
+    "text": "the land by a fence. On or about 12.05.1987, the Respondent having no title to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      589.36,
+      427.06,
+      604.9
+    ],
+    "text": "said land had forcibly entered in to possession of the said land.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      637.75,
+      543.21,
+      653.29
+    ],
+    "text": "The Respondents have filed their answer denying the averments",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      661.87,
+      543.04,
+      677.41
+    ],
+    "text": "contained in the plaint and praying for a dismissal of the Appellant\u2019s action. They",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      685.99,
+      543.44,
+      701.53
+    ],
+    "text": "have averred that they were living in the house on the said land permanently and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      36.11,
+      312.05,
+      63.19
+    ],
+    "text": "5",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      72.21,
+      543.37,
+      87.75
+    ],
+    "text": "the Appellant\u2019s said title deed bearing No 45595 was a forged deed. They have",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      96.35,
+      543.07,
+      111.89
+    ],
+    "text": "further averred that the Appellant, after her marriage, did not live in the house on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      120.47,
+      543.61,
+      136.01
+    ],
+    "text": "the said property. However, in their answer, the Respondents have not claimed title",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      144.71,
+      376.9,
+      160.25
+    ],
+    "text": "on deeds or by inherutance to the said land in dispute.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      192.95,
+      543.04,
+      208.49
+    ],
+    "text": "Prior to the trial of the case an inquiry had been held in to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      217.07,
+      543.05,
+      232.61
+    ],
+    "text": "application for interim injunction sought by the Appellant restraining the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      241.31,
+      543.37,
+      256.85
+    ],
+    "text": "Respondents from interfering with the Appellant entering in to the said land in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      265.46,
+      543.48,
+      281.0
+    ],
+    "text": "dispute and taking the produce of the said land. Accordingly, an interim injunction",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      289.58,
+      316.52,
+      305.12
+    ],
+    "text": "had been issued in favour of the Appellant.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      337.94,
+      543.11,
+      353.48
+    ],
+    "text": "The case has proceeded to trial on 19 issues. The Respondents have",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      362.06,
+      543.57,
+      377.6
+    ],
+    "text": "raised issues No 9 to 17. However, issues they have not challenged the said deed of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      386.18,
+      543.3,
+      401.72
+    ],
+    "text": "gift bearing No 45595 in the said issues, which was referred to in their answer as a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      410.3,
+      543.61,
+      425.84
+    ],
+    "text": "forged deed. The Appellant and her husband had given evidence at the trial. They",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      434.44,
+      543.61,
+      449.98
+    ],
+    "text": "had produced documents marked P 1 to P 8 inclusive of the said title deed No",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      458.68,
+      543.56,
+      474.22
+    ],
+    "text": "45595 of the Appellant and also their marriage certificate to establish that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      482.8,
+      543.3,
+      498.34
+    ],
+    "text": "Appellant had gone on a binna marriage. The Respondents have not challenged the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      506.92,
+      543.3,
+      522.46
+    ],
+    "text": "said binna marriage certificate too. In her evidence, the Appellant has stated that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      531.04,
+      543.52,
+      546.58
+    ],
+    "text": "after the said marriage, she was living in her father\u2019s house put up on the said land",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      555.28,
+      542.87,
+      570.82
+    ],
+    "text": "in dispute with her husband. Later, her father gifted the said land to her by the said",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      579.4,
+      543.6,
+      594.94
+    ],
+    "text": "deed of gift bearing No 45595. Upon the death of her father, said Bandiya, the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      603.55,
+      543.47,
+      619.09
+    ],
+    "text": "Respondents came to the said house in order to attend the funeral. After the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      627.67,
+      543.56,
+      643.21
+    ],
+    "text": "funeral, she became unconscious very often due to a ghostly influence and therefor",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      651.91,
+      543.05,
+      667.45
+    ],
+    "text": "she moved to her husband\u2019s house situated at Meepitiya on 07.05. 1987 for",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      676.03,
+      543.37,
+      691.57
+    ],
+    "text": "medical treatment. Hence, she had requested the Respondents to stay in the said",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      700.15,
+      543.04,
+      715.69
+    ],
+    "text": "house to look after the house during her absence. On 12.05.1987, when she",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      36.11,
+      312.05,
+      63.19
+    ],
+    "text": "6",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      72.21,
+      543.32,
+      87.75
+    ],
+    "text": "returned to her said house subsequent to treatments she was chased out by the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      96.35,
+      543.46,
+      111.89
+    ],
+    "text": "Respondents from the said house. Appellant\u2019s husband, Gunasinghe too has given",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      120.47,
+      132.29,
+      136.01
+    ],
+    "text": "evidence.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      166.84,
+      543.61,
+      184.37
+    ],
+    "text": "The Respondents have closed their case leading the evidence of the 1st",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      192.95,
+      543.5,
+      208.49
+    ],
+    "text": "Respondent Malani. They have not produced any documentary proof of the facts",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      217.07,
+      543.6,
+      232.61
+    ],
+    "text": "alleged by them. In her evidence, the Respondent has admitted that she had gone",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      239.32,
+      543.61,
+      256.85
+    ],
+    "text": "on a diga marriage whilst the Appellant had gone on a binna marriage. The 1st",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      265.46,
+      543.48,
+      281.0
+    ],
+    "text": "Respondent has further stated that after her marriage, in 1979, she came in to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      289.58,
+      543.58,
+      305.12
+    ],
+    "text": "occupation of the said house and the Appellant was residing at Meepitiya. Whilst",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      313.7,
+      543.39,
+      329.24
+    ],
+    "text": "taking the said position, the Respondent has admitted the extract of the electoral",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      337.94,
+      543.61,
+      353.48
+    ],
+    "text": "register produced marked P 8. According to P 8 her residence was at Dampella.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      362.06,
+      543.31,
+      377.6
+    ],
+    "text": "She has further admitted that consequent to the death of her father said Bandiya the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      386.18,
+      543.56,
+      401.72
+    ],
+    "text": "Appellant fell ill and went to Meepitiya for treatment and returned to the premises",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      408.31,
+      543.61,
+      425.84
+    ],
+    "text": "in dispute. Although the issue No 17 has been raised on prescriptive title, the 1st",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      432.45,
+      543.49,
+      449.98
+    ],
+    "text": "Respondent has not given evidence on that basis. The 1st Respondent whilst",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      458.68,
+      543.38,
+      474.22
+    ],
+    "text": "admitting her diga marriage has claimed the title of the said property on the basis",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      482.8,
+      543.1,
+      498.34
+    ],
+    "text": "of her binna marriage. She said that she is living in the said house in dispute with",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      506.92,
+      435.94,
+      522.46
+    ],
+    "text": "her father and she is entitled to the said property on inheritance.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      555.28,
+      543.59,
+      570.82
+    ],
+    "text": "In this regard, the Respondents should have adduced evidence to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      577.41,
+      543.58,
+      594.94
+    ],
+    "text": "prove that the 1st Respondent had gone on a binna marriage and thereby she",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      603.55,
+      543.09,
+      619.09
+    ],
+    "text": "became entitled to her father\u2019s property on inheritance according to Kandiyan Law",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      625.68,
+      543.6,
+      643.21
+    ],
+    "text": "and therefore, she is a co-owner of the said property. However, the 1st Respondent",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      651.91,
+      543.47,
+      667.45
+    ],
+    "text": "has not produced her marriage certificate in her evidence to establish whether her",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      676.03,
+      234.92,
+      691.57
+    ],
+    "text": "marriage was binna or diga.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      36.11,
+      312.05,
+      63.19
+    ],
+    "text": "7",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      70.22,
+      543.39,
+      87.75
+    ],
+    "text": "It is interesting to note that the 1st Respondent, in her evidence has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      96.35,
+      543.59,
+      111.89
+    ],
+    "text": "admitted that she went on a diga marriage with Wimalaratne and moved in to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      120.47,
+      543.35,
+      136.01
+    ],
+    "text": "occupation of said Wimalaratna\u2019s house. However, P 8, the extract of the electoral",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      144.71,
+      371.5,
+      160.25
+    ],
+    "text": "register indicated that she was residing at Dampella.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      192.95,
+      543.49,
+      208.49
+    ],
+    "text": "On the other hand, the Respondents having led evidence on the said",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      215.08,
+      543.53,
+      232.61
+    ],
+    "text": "basis have failed to raise issues on the said matters. Whether the 1st Respondent has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      241.31,
+      543.04,
+      256.85
+    ],
+    "text": "regained binna rights has to be decided on evidence. It is not a pure question of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      265.46,
+      543.01,
+      281.0
+    ],
+    "text": "law. Hence such matters should be raised at the trial stage. The Respondents have",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      289.58,
+      543.32,
+      305.12
+    ],
+    "text": "failed to do so. Therefore, the Respondents are not entitled to raise such matters for",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      313.7,
+      215.48,
+      329.24
+    ],
+    "text": "the first time in appeal.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      362.06,
+      543.14,
+      377.6
+    ],
+    "text": "In the case of Punchi Menike vs. Appuhamy (1917) 19 N.L.R. 358,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      386.18,
+      542.97,
+      401.72
+    ],
+    "text": "De Sampayo J. said: \" The point to be kept in view in all cases, I think, is that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      410.3,
+      543.19,
+      425.84
+    ],
+    "text": "essence of a diga marriage is the severance of the daughter from the father's family",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      434.44,
+      542.98,
+      449.98
+    ],
+    "text": "and her entry into that of the husband, and her consequent forfeiture of any share",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      458.68,
+      543.02,
+      474.22
+    ],
+    "text": "of the family property ; and the principle underlying the acquisition of binna rights,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      482.8,
+      543.33,
+      498.34
+    ],
+    "text": "as I understand it, is that the daughter is re-admitted into the father's family and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      506.92,
+      543.59,
+      522.46
+    ],
+    "text": "restored to her natural rights of inheritance. This of course is not a one-sided",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      531.04,
+      486.85,
+      546.58
+    ],
+    "text": "process; the father's family must intend or at least recognize the result.\u201d",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      579.4,
+      543.61,
+      594.94
+    ],
+    "text": "Therefore, when there are no issues raised at the trial on the point",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      603.55,
+      543.45,
+      619.09
+    ],
+    "text": "urged for determination, this court cannot go in to such matters at the appeal stage.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      627.67,
+      543.61,
+      643.21
+    ],
+    "text": "In the circumstances, the respondents\u2019 possession of the land in dispute has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      651.91,
+      543.6,
+      667.45
+    ],
+    "text": "become unlawful. The Appellant, therefore, is entitled to a decree for declaration",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      676.03,
+      543.44,
+      691.57
+    ],
+    "text": "of title against the Respondents since the Respondents are remaining in the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      36.11,
+      312.05,
+      63.19
+    ],
+    "text": "8",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      72.21,
+      543.5,
+      87.75
+    ],
+    "text": "possession of the land in dispute in the capacity of trespassers. Hence, I answer the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      96.35,
+      351.22,
+      111.89
+    ],
+    "text": "said questions of law in favour of the Appellants.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      144.71,
+      543.6,
+      160.25
+    ],
+    "text": "Therefore, I set aside the said judgment of the learned High Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      168.83,
+      543.16,
+      184.37
+    ],
+    "text": "Judges dated 04.10.2012 and up hold the judgment of the learned Additional",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      192.95,
+      518.89,
+      208.49
+    ],
+    "text": "District Judge dated 29.08.2011. I allow the appeal of the Appellant with costs.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      241.31,
+      238.52,
+      256.85
+    ],
+    "text": "Appeal allowed.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      289.58,
+      520.69,
+      305.12
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      337.94,
+      237.08,
+      353.48
+    ],
+    "text": "PRIYASATH DEP, PC, CJ.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      362.06,
+      189.53,
+      377.6
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      410.3,
+      472.33,
+      425.84
+    ],
+    "text": "Chief Justice",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      434.44,
+      225.56,
+      449.98
+    ],
+    "text": "ANIL GOONARATNE, J.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      458.68,
+      189.53,
+      474.22
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      506.92,
+      520.69,
+      522.46
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  }
+]
