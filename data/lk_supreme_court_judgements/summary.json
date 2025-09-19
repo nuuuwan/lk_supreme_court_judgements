@@ -1,13 +1,14 @@
 {
   "doc_class_label": "lk_supreme_court_judgements",
-  "doc_class_description": "Judgements of the [Supreme Court of Sri Lanka](https://supremecourt.lk/judgements/).",
-  "time_updated": "2025-09-19 12:51:31",
+  "doc_class_emoji": "\u2696\ufe0f",
+  "doc_class_description": "A Supreme Court judgement is the final and binding decision delivered by the highest court in a country.\n\nIn Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitution, safeguarding fundamental rights, and resolving disputes of national importance. Its judgements set legal precedents that influence how laws are applied and upheld across the nation, shaping both governance and society.",
+  "time_updated": "2025-09-19 13:05:44",
   "n_docs": 1526,
   "n_docs_with_pdfs": 1024,
   "n_docs_with_text": 1024,
   "date_str_min": "2016-07-22",
   "date_str_max": "2025-09-18",
-  "dataset_size": 966225572,
+  "dataset_size": 966238029,
   "url_source": "https://supremecourt.lk/judgements/",
   "url_data": "https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements",
   "latest_doc_d": {
