@@ -19,8 +19,7 @@ class JudgementDoc(JudgementDocWebMixin, AbstractPDFDoc):
     def get_doc_class_description(cls) -> str:
         return "\n\n".join(
             [
-                "A Supreme Court judgement is the final and binding decision delivered by the highest court in a country.",  # noqa: E501
-                "In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitution, safeguarding fundamental rights, and resolving disputes of national importance. Its judgements set legal precedents that influence how laws are applied and upheld across the nation, shaping both governance and society.",  # noqa: E501
+                "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.",  # noqa: E501
             ]
         )
 
