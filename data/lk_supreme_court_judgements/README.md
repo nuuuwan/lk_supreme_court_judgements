@@ -1,6 +1,6 @@
-# ⚖️🇱🇰 #SriLanka Supreme Court Judgements `Dataset`
+# ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_13:05:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_13:51:27-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
@@ -8,9 +8,9 @@ A Supreme Court judgement is the final and binding decision delivered by the hig
 
 In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitution, safeguarding fundamental rights, and resolving disputes of national importance. Its judgements set legal precedents that influence how laws are applied and upheld across the nation, shaping both governance and society.
 
-- [**1,526** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**966.2 MB**), from **2016-07-22** to **2025-09-18**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+- [**1,530** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**980.8 MB**), from **2016-07-22** to **2025-09-19**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
-- In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
+- In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
 - In **English**
 
@@ -19,15 +19,15 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-09-18-SC-FR-524-2012",
-    "num": "SC/FR/524/2012",
-    "date_str": "2025-09-18",
-    "description": "Hon. M. Sampath K. B. Wijeratne J - H.D.S. Wimalarathna No. 209, ...",
+    "doc_id": "2025-09-19-SC-APPEAL-17-2018",
+    "num": "SC/APPEAL/17/2018",
+    "date_str": "2025-09-19",
+    "description": "Hon. Sobhitha Rajakaruna J - Saddatissa Athukorala No 349/...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_524_2012.pdf",
-    "parties": "H.D.S. Wimalarathna No. 209, Mahabopitiya, Alawwa. PETITIONER Vs. 1. D.M.S.K. Dassanayake, Inspector of Police, Police Station, Alawwa. 2. Senaratna, 52524, Police Constable, Police Station, Alawwa. 3. A.B. Mahinda Pushpakumara Inspector of Police, Officer-in-Charge, Police Station, Alawwa. 4. Lal Kumara 20167, Police Sergeant, Police Station, Alawwa. 5. Karunarathna,, 32182, Police Sergeant, Police Station, Alawwa. 6. Inspector General of Police, Police Head Quarters, Colombo 01. 7. Hon. Attorney-general, Attorney- General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_17_2018.pdf",
+    "parties": "Saddatissa Athukorala No 349/1, Passara Town, Passara. 2ND DEFENDANT-PETITIONER-APPELLANT Vs. Mohamed Hussain Mohamed Mubarak (Deceased) No. 131, Kovilkade, Passara. PLAINTIFF- RESPONDENT-RESPONDENT Mohamed Hussain Dissanayake Mudiyanselage Sumithra Mubarak No.131, Kovilkade, Passara SUBSTITUTED PLAINTIFF- RESPONDENT-RESPONDENT 1. Dhawala Pushpa Athukorala 3. Rosalin Karnaratne (deceased) All of: No 349/1, Passara Town, Passara. 4. Mohamed Hussain Noorul Sauda 5. Mohamed Hussain Ummul Halima 6. Mohamed Hussain Ummul Lathifa All of: No.24/3, Parakrama Mawatha, Passara. 7. Mohamed Hussain Ummul Naseela No.370, Main Street, Passara. 8. Mohamed Hussain Mohamed Amanulla 9. Mohamed Hussain Ummul Hidaya 10. Mohamed Hussain Mohamed Fuad 11. Mohamed Hussain Sithty Fathima 12. Mohamed Hussain Mohamed Faus All of: No.24/3, Parakrama Mawatha, Passara. 13. Mohamed Ansar No.364, Main Street, Passara. 14. S.A. Abdul Kafar No.366, Main Street, Passara. 15. Amarasinghe No.368, Main Street, Passara. 16. E. V. Karthigesu (deceased) 16a.E. V. K. Nagendram Sathkunarajah 17. Rajeswari Nagendram Both of: No.305, Main Street, Passara. DEFENDANTS-RESPONDENTS- RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sobhitha Rajakaruna J"
 }
 ```
 
@@ -44,6 +44,7 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 
 ## 🆕 20 Latest documents
 
+- 2025-09-19 | `SC/APPEAL/17/2018` | Hon. Sobhitha Rajakaruna J - Saddatissa Athukorala No 349/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-17-2018)
 - 2025-09-18 | `SC/FR/524/2012` | Hon. M. Sampath K. B. Wijeratne J - H.D.S. Wimalarathna No. 209, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-524-2012)
 - 2025-09-18 | `SC/FR/313/2020` | Hon. Menaka Wijesundera J - Sriramachandran Thanikumar At... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-313-2020)
 - 2025-09-18 | `SC/FR/233/2020` | Hon. Janak De Silva J - Attanayakage Don Susil Attana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-233-2020)
@@ -63,7 +64,6 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 - 2025-09-10 | `SC/FR/282/2015` | Hon. S. Thurairaja PC J - 1. K. D. Chandrasekara, 2. K.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-10-SC-FR-282-2015)
 - 2025-09-09 | `SC/FR/371/2015` | Hon. Sampath B. Abayakoon J - 1. Pitawasala Koralage Handun... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-09-SC-FR-371-2015)
 - 2025-09-08 | `SC/APPEAL/162/2013` | Hon. Sampath B. Abayakoon J - 1. W.H.M. Gunaratne, 251/1, D... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-08-SC-APPEAL-162-2013)
-- 2025-09-08 | `SC/APPEAL/115/2013` | Hon. Justice Janak De Silva - 1B,16A. Edirisingha Mudiyanse... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-08-SC-APPEAL-115-2013)
 
 ---
 
