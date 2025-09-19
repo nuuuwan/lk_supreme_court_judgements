@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_16:24:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_16:51:18-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
@@ -8,9 +8,9 @@ A Supreme Court judgement is the final and binding decision delivered by the hig
 
 In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitution, safeguarding fundamental rights, and resolving disputes of national importance. Its judgements set legal precedents that influence how laws are applied and upheld across the nation, shaping both governance and society.
 
-- [**1,540** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.0 GB**), from **2016-07-22** to **2025-09-19**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+- [**1,541** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.1 GB**), from **2016-07-22** to **2025-09-19**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
-- In **JSON**, **PDF** (72%), **TXT** (72%) & **🤗 Hugging Face** (72%)
+- In **JSON**, **PDF** (74%), **TXT** (74%) & **🤗 Hugging Face** (74%)
 
 - In **English**
 
@@ -19,15 +19,15 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-09-19-SC-APPEAL-17-2018",
-    "num": "SC/APPEAL/17/2018",
+    "doc_id": "2025-09-19-SC-APPEAL-62-2025",
+    "num": "SC/APPEAL/62/2025",
     "date_str": "2025-09-19",
-    "description": "Hon. Sobhitha Rajakaruna J - Saddatissa Athukorala No 349/...",
+    "description": "Hon. K. Priyantha Fernando J - 1.The Officer-in-Charge Polic...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_17_2018.pdf",
-    "parties": "Saddatissa Athukorala No 349/1, Passara Town, Passara. 2ND DEFENDANT-PETITIONER-APPELLANT Vs. Mohamed Hussain Mohamed Mubarak (Deceased) No. 131, Kovilkade, Passara. PLAINTIFF- RESPONDENT-RESPONDENT Mohamed Hussain Dissanayake Mudiyanselage Sumithra Mubarak No.131, Kovilkade, Passara SUBSTITUTED PLAINTIFF- RESPONDENT-RESPONDENT 1. Dhawala Pushpa Athukorala 3. Rosalin Karnaratne (deceased) All of: No 349/1, Passara Town, Passara. 4. Mohamed Hussain Noorul Sauda 5. Mohamed Hussain Ummul Halima 6. Mohamed Hussain Ummul Lathifa All of: No.24/3, Parakrama Mawatha, Passara. 7. Mohamed Hussain Ummul Naseela No.370, Main Street, Passara. 8. Mohamed Hussain Mohamed Amanulla 9. Mohamed Hussain Ummul Hidaya 10. Mohamed Hussain Mohamed Fuad 11. Mohamed Hussain Sithty Fathima 12. Mohamed Hussain Mohamed Faus All of: No.24/3, Parakrama Mawatha, Passara. 13. Mohamed Ansar No.364, Main Street, Passara. 14. S.A. Abdul Kafar No.366, Main Street, Passara. 15. Amarasinghe No.368, Main Street, Passara. 16. E. V. Karthigesu (deceased) 16a.E. V. K. Nagendram Sathkunarajah 17. Rajeswari Nagendram Both of: No.305, Main Street, Passara. DEFENDANTS-RESPONDENTS- RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Sobhitha Rajakaruna J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_62_2025.pdf",
+    "parties": "1.The Officer-in-Charge Police Station Pulmoddai 2. The Hon. Attorney General Attorney General\u2019s Department Colombo 12 Respondents - Respondents - Appellants V. Siyaptha Finance PLC, No. 110, Sir James Peiris Mawatha, Colombo 02. Claimant - Petitioner - Appellant - Respondent\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
 }
 ```
 
@@ -44,6 +44,7 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 
 ## 🆕 20 Latest documents
 
+- 2025-09-19 | `SC/APPEAL/62/2025` | Hon. K. Priyantha Fernando J - 1.The Officer-in-Charge Polic... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-62-2025)
 - 2025-09-19 | `SC/APPEAL/17/2018` | Hon. Sobhitha Rajakaruna J - Saddatissa Athukorala No 349/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-17-2018)
 - 2025-09-19 | `SC/APPEAL/10/2016` | Hon. Sampath B. Abayakoon J - Simithra Arachchige Rohini Gu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-10-2016)
 - 2025-09-18 | `SC/FR/524/2012` | Hon. M. Sampath K. B. Wijeratne J - H.D.S. Wimalarathna No. 209, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-524-2012)
@@ -63,7 +64,6 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 - 2025-09-11 | `SC/APPEAL/28/2023` | Hon. Justice Janak De Silva - 1. Dr. Asela Gunawardena, Dir... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-APPEAL-28-2023)
 - 2025-09-11 | `SC/APPEAL/153/2018` | Hon. Justice A.L. Shiran Gooneratne - Pathirana Arachchige Vipulasi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-APPEAL-153-2018)
 - 2025-09-10 | `SC/FR/282/2015` | Hon. S. Thurairaja PC J - 1. K. D. Chandrasekara, 2. K.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-10-SC-FR-282-2015)
-- 2025-09-09 | `SC/FR/371/2015` | Hon. Sampath B. Abayakoon J - 1. Pitawasala Koralage Handun... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-09-SC-FR-371-2015)
 
 ---
 
