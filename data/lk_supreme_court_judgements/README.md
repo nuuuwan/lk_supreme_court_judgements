@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_14:26:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_14:51:41-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
@@ -8,9 +8,9 @@ A Supreme Court judgement is the final and binding decision delivered by the hig
 
 In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitution, safeguarding fundamental rights, and resolving disputes of national importance. Its judgements set legal precedents that influence how laws are applied and upheld across the nation, shaping both governance and society.
 
-- [**1,531** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**992.2 MB**), from **2016-07-22** to **2025-09-19**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+- [**1,532** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.0 GB**), from **2016-07-22** to **2025-09-19**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
-- In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
+- In **JSON**, **PDF** (70%), **TXT** (70%) & **🤗 Hugging Face** (70%)
 
 - In **English**
 
@@ -33,7 +33,7 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 
 ## Documents By Year
 
-![Documents by year](images/docs_by_year.png)
+![Documents by year](../lk_supreme_court_judgements_data/data/lk_supreme_court_judgements/docs_by_year.png)
 
 ## 🤗 Hugging Face Datasets
 
@@ -45,6 +45,7 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 ## 🆕 20 Latest documents
 
 - 2025-09-19 | `SC/APPEAL/17/2018` | Hon. Sobhitha Rajakaruna J - Saddatissa Athukorala No 349/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-17-2018)
+- 2025-09-19 | `SC/APPEAL/10/2016` | Hon. Sampath B. Abayakoon J - Simithra Arachchige Rohini Gu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-10-2016)
 - 2025-09-18 | `SC/FR/524/2012` | Hon. M. Sampath K. B. Wijeratne J - H.D.S. Wimalarathna No. 209, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-524-2012)
 - 2025-09-18 | `SC/FR/313/2020` | Hon. Menaka Wijesundera J - Sriramachandran Thanikumar At... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-313-2020)
 - 2025-09-18 | `SC/FR/233/2020` | Hon. Janak De Silva J - Attanayakage Don Susil Attana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-233-2020)
@@ -63,7 +64,6 @@ In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitut
 - 2025-09-11 | `SC/APPEAL/153/2018` | Hon. Justice A.L. Shiran Gooneratne - Pathirana Arachchige Vipulasi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-APPEAL-153-2018)
 - 2025-09-10 | `SC/FR/282/2015` | Hon. S. Thurairaja PC J - 1. K. D. Chandrasekara, 2. K.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-10-SC-FR-282-2015)
 - 2025-09-09 | `SC/FR/371/2015` | Hon. Sampath B. Abayakoon J - 1. Pitawasala Koralage Handun... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-09-SC-FR-371-2015)
-- 2025-09-08 | `SC/APPEAL/162/2013` | Hon. Sampath B. Abayakoon J - 1. W.H.M. Gunaratne, 251/1, D... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-08-SC-APPEAL-162-2013)
 
 ---
 
