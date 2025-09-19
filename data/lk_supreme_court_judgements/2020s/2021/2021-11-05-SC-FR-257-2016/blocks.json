@@ -1,0 +1,5941 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "1",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.74,
+      68.94,
+      482.53,
+      86.61
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.69,
+      84.8,
+      380.62,
+      102.47
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      119.51,
+      597.03,
+      186.2
+    ],
+    "text": "In the matter of an application under and in terms of Articles 17 and 126 of the Constitution of the Republic of Sri Lanka.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0,
+      12.479999542236328,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      204.42,
+      597.2,
+      290.51
+    ],
+    "text": "Gayani Amitha Wickramasekara, \u201cDhampalle Gedara\u201d Welpitiya, Weligama. Petitioner",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      309.21,
+      355.15,
+      323.03
+    ],
+    "text": "SC(FR) Application No:257/16 Vs.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      341.2,
+      595.88,
+      355.19
+    ],
+    "text": "1. Dharmasena Dissanayake,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.07,
+      356.73,
+      597.62,
+      385.91
+    ],
+    "text": "Chairman, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      395.18,
+      597.32,
+      412.91
+    ],
+    "text": "2. Salam Abdul Waid,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      3.0,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.07,
+      414.45,
+      596.9,
+      443.51
+    ],
+    "text": "Member, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      452.91,
+      598.28,
+      469.33
+    ],
+    "text": "3. D. Shiranthi Wijayatilaka,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.07,
+      470.87,
+      596.9,
+      500.05
+    ],
+    "text": "Member, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      509.33,
+      597.68,
+      525.85
+    ],
+    "text": "4. Dr. Prathap Ramanujam,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.07,
+      527.27,
+      596.9,
+      556.45
+    ],
+    "text": "Member, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      565.85,
+      598.28,
+      582.25
+    ],
+    "text": "5. V. Jegarasasingam,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.07,
+      583.79,
+      596.9,
+      612.97
+    ],
+    "text": "Member, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      622.26,
+      598.28,
+      636.25
+    ],
+    "text": "6. Santi Nihal Seneviratne,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.07,
+      637.79,
+      596.9,
+      667.0
+    ],
+    "text": "Member, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      676.28,
+      596.56,
+      691.48
+    ],
+    "text": "7. S.Ranugge,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.07,
+      693.02,
+      596.92,
+      722.2
+    ],
+    "text": "Member, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "2",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      71.99,
+      596.21,
+      85.98
+    ],
+    "text": "8. D.L. Mendis,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      87.54,
+      596.96,
+      116.72
+    ],
+    "text": "Member, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      126.0,
+      595.88,
+      142.4
+    ],
+    "text": "9. Sarath Jayathilaka,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      143.94,
+      596.9,
+      173.12
+    ],
+    "text": "Member, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      182.4,
+      595.88,
+      198.92
+    ],
+    "text": "10. H.M.G. Senevirathne,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      200.46,
+      595.48,
+      229.52
+    ],
+    "text": "Secretary, Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      247.74,
+      494.33,
+      292.79
+    ],
+    "text": "1st to 10th Respondents are of No:177, Nawala Road, Narahenpita, Colombo 05.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      302.19,
+      596.57,
+      324.71
+    ],
+    "text": "11. Mr. J.J. Ratnasiri,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      5.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      325.29,
+      597.67,
+      396.59
+    ],
+    "text": "Secretary, Ministry of Public Administration And Management, Independence Square, Colombo 07.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      405.03,
+      596.96,
+      425.15
+    ],
+    "text": "12. Ms. K.V.P.M.J. Gamage,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      3.0,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      426.57,
+      597.61,
+      517.09
+    ],
+    "text": "Director General of Combined Services, Ministry of Public Administration And Management, Independence Square, Colombo 07.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      535.74,
+      597.68,
+      549.73
+    ],
+    "text": "13. Hon. Attorney General,",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.07,
+      551.15,
+      597.12,
+      595.69
+    ],
+    "text": "Attorney General\u2019s Department, Hulftsdorp, Colombo 12.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      604.94,
+      414.07,
+      624.25
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      656.78,
+      347.83,
+      735.64
+    ],
+    "text": "Before: Jayantha Jayasuriya PC CJ., Murdu N.B. Fernando, PC J. and S. Thurairaja, PC J. Counsel: Chandana Prematilake for the Petitioner",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      743.42,
+      453.1,
+      757.23
+    ],
+    "text": "Rajiv Goonetilleke Senior State Counsel for the Respondents",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "3",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      72.16,
+      219.17,
+      85.98
+    ],
+    "text": "Argued on: 13.01.2020",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      105.72,
+      230.69,
+      154.28
+    ],
+    "text": "Decided on: 05.11.2021 Murdu N.B. Fernando, PC J.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      175.02,
+      526.45,
+      188.84
+    ],
+    "text": "The Petitioner came before this Court in August 2016, alleging that the Respondents",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      6.0,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      196.5,
+      526.39,
+      210.32
+    ],
+    "text": "have violated and are continuously violating the Petitioner\u2019s fundamental right to equality",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      218.1,
+      526.11,
+      231.92
+    ],
+    "text": "before the law and the equal protection of the law enshrined in Article 12(1) of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      239.7,
+      526.4,
+      253.52
+    ],
+    "text": "Constitution and the fundamental right to freedom of occupation encompassed in Article",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      261.18,
+      223.01,
+      275.0
+    ],
+    "text": "14(1) (g) of the Constitution.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      290.85,
+      526.52,
+      304.67
+    ],
+    "text": "The Petitioner\u2019s main grievance was the non-appointment of the Petitioner to supra",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      312.33,
+      526.1,
+      326.15
+    ],
+    "text": "grade of the Public Management Assistants Service and the failure of the Respondents to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      333.93,
+      359.47,
+      347.75
+    ],
+    "text": "act in accordance with the relevant rules and regulations.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      363.45,
+      526.43,
+      377.27
+    ],
+    "text": "This Court in October 2016, granted the Petitioner leave to proceed on the alleged",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      385.05,
+      304.25,
+      398.87
+    ],
+    "text": "violation of Article 12(1) of the Constitution.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      414.57,
+      526.5,
+      428.39
+    ],
+    "text": "At the time of institution of the instant application, the Petitioner was a grade I",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      436.17,
+      526.45,
+      449.99
+    ],
+    "text": "officer of the Public Management Assistants Service (\u201cPMAS\u201d) which was established",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      457.79,
+      411.91,
+      471.61
+    ],
+    "text": "encompassing clerical and other allied services in the public sector.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      487.31,
+      526.35,
+      501.13
+    ],
+    "text": "Public Management Assistants Service, is governed by a service minute and in terms",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      508.91,
+      526.19,
+      522.73
+    ],
+    "text": "of the said service minute, the promotions to supra grade of PMAS is based upon two",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      530.51,
+      485.86,
+      544.33
+    ],
+    "text": "avenues, a limited competitive examination and a merit based promotion scheme.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      560.03,
+      526.54,
+      573.85
+    ],
+    "text": "The Petitioner\u2019s grievance before this Court is in respect of the Limited",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      581.63,
+      523.38,
+      595.45
+    ],
+    "text": "Competitive Examination of 2013 and more specifically with regard to the non-",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      603.11,
+      526.39,
+      616.93
+    ],
+    "text": "appointment of the Petitioner to the supra grade of PMAS, when admittedly vacancies exist",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      624.71,
+      170.66,
+      638.53
+    ],
+    "text": "in the supra grade.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      654.26,
+      526.36,
+      668.08
+    ],
+    "text": "The learned Senior State Counsel, representing the Respondents, did not deny the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      675.86,
+      526.46,
+      689.68
+    ],
+    "text": "existence of vacancies, consequent to the finalization of the limited competitive",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      697.46,
+      181.7,
+      711.28
+    ],
+    "text": "examination of 2013.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      726.98,
+      526.29,
+      740.8
+    ],
+    "text": "The matter in dispute between the parties is the specific number of vacancies or the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      748.58,
+      411.19,
+      762.39
+    ],
+    "text": "unfilled cadre vacancies existing in the supra grade at a given time.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "4",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      72.16,
+      526.26,
+      85.98
+    ],
+    "text": "The Petitioner\u2019s contention is that there were twelve vacancies to be filled at the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      93.78,
+      526.39,
+      107.6
+    ],
+    "text": "time the appointments were made, whereas the Respondents position is that there were only",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      115.26,
+      526.38,
+      129.08
+    ],
+    "text": "six positions and a considered decision was made by the Public Service Commission not to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      136.86,
+      526.29,
+      150.68
+    ],
+    "text": "fill the said six approved cadre positions, from the results of the limited competition",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      158.46,
+      184.82,
+      172.28
+    ],
+    "text": "examination of 2013.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      187.98,
+      526.29,
+      201.8
+    ],
+    "text": "Prior to examining the submissions of the parties pertaining to the vacancies and the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      209.58,
+      526.4,
+      223.4
+    ],
+    "text": "requirement of filling the said cadre positions, I wish to advert to certain facts, which I",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      231.06,
+      432.31,
+      244.88
+    ],
+    "text": "consider important to understand the issue before us for determination.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      260.7,
+      526.19,
+      274.52
+    ],
+    "text": "In terms of the service minute of PMAS, appointments to the supra grade is made",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      282.21,
+      526.51,
+      296.03
+    ],
+    "text": "on the results of a limited competitive examination. The candidates who satisfy the basic",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      303.81,
+      526.5,
+      317.63
+    ],
+    "text": "qualifications are appointed to the posts available or to the approved posts, consequent to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      325.41,
+      526.44,
+      339.23
+    ],
+    "text": "been successful at a written test and verification of their qualifications by an interview",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      346.89,
+      109.82,
+      360.71
+    ],
+    "text": "board.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      376.53,
+      526.52,
+      390.35
+    ],
+    "text": "Thus, there is a written test conducted by the department of examinations and an",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      398.01,
+      309.53,
+      411.83
+    ],
+    "text": "interview process to examine the certification.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      427.65,
+      526.12,
+      441.47
+    ],
+    "text": "The number of approved posts belonging to the respective grades of PMAS is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      449.13,
+      526.53,
+      462.95
+    ],
+    "text": "referred to in the service minute. The time frame of holding of the examination would",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      470.75,
+      242.81,
+      484.57
+    ],
+    "text": "depend on the existing vacancies.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      500.27,
+      526.53,
+      514.09
+    ],
+    "text": "In the instant matter, applications were called by the Public Service Commission for",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      521.87,
+      526.54,
+      535.69
+    ],
+    "text": "the limited competitive examination of 2013 for promotions to the supra grade of PMAS,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      543.47,
+      496.42,
+      557.29
+    ],
+    "text": "in terms of the service minute, by a gazette notification published in October 2013.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      572.99,
+      526.54,
+      586.81
+    ],
+    "text": "Though applications for the said examination were called in the year 2013, and the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      594.59,
+      526.45,
+      608.41
+    ],
+    "text": "Petitioner tendered an application for the aforesaid examination, the first component of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      615.47,
+      424.03,
+      629.89
+    ],
+    "text": "selection process, the written test was held only on 15th March, 2015.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      645.74,
+      526.37,
+      659.56
+    ],
+    "text": "At the written test [consisting of five papers], the Petitioner obtained 305 marks",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      667.22,
+      208.85,
+      681.04
+    ],
+    "text": "from a total of 500 marks.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      696.86,
+      526.54,
+      710.68
+    ],
+    "text": "Based upon the existing vacancies in the Public Management Assistants Service,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      718.46,
+      526.25,
+      732.28
+    ],
+    "text": "100 posts of the supra grade were to be filled on the results of the aforesaid competitive",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      739.94,
+      140.06,
+      753.75
+    ],
+    "text": "examination.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "5",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      72.16,
+      526.16,
+      85.98
+    ],
+    "text": "Thus, the first hundred candidates who had scored the highest marks at the written",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      93.78,
+      526.47,
+      107.6
+    ],
+    "text": "test were to be called for the interview at which only verification of documents were to take",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      115.26,
+      107.78,
+      129.08
+    ],
+    "text": "place.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      144.9,
+      526.54,
+      158.72
+    ],
+    "text": "Based upon the above criteria the department of examinations had to forward a list",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      166.38,
+      523.26,
+      180.2
+    ],
+    "text": "comprising of 100 names. Since there were multiple candidates who had obtained the cut-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      187.98,
+      526.5,
+      201.8
+    ],
+    "text": "off mark, all the candidates who obtained the cut-off mark 306, were included in the list of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      209.58,
+      526.53,
+      223.4
+    ],
+    "text": "names. Thus, a list of 101 names were tendered by the department of examinations of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      231.06,
+      385.87,
+      244.88
+    ],
+    "text": "candidates who obtained the highest marks at the written test.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      260.7,
+      526.4,
+      274.52
+    ],
+    "text": "The Petitioner and eight others who obtained 305 marks, [the next best mark at the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      282.21,
+      526.54,
+      296.03
+    ],
+    "text": "written test] were not included in the aforesaid list of 101 names and the Petitioner had no",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      303.21,
+      526.47,
+      317.63
+    ],
+    "text": "qualms with regard to the said selection. Hence, the 1st component of the limited",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      325.41,
+      377.95,
+      339.23
+    ],
+    "text": "competitive examination is not challenged before this Court.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      354.93,
+      526.54,
+      368.75
+    ],
+    "text": "The next component of the selection process was the interview and the aforesaid 101",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      376.53,
+      526.48,
+      390.35
+    ],
+    "text": "candidates were called for the interview. It was held in December 2015, and out of the 101",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      398.01,
+      526.46,
+      411.83
+    ],
+    "text": "candidates called, only 94 candidates presented themselves at the interview and the said 94",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      419.01,
+      526.54,
+      433.43
+    ],
+    "text": "candidates were promoted to supra grade with effect from the date of the written test, 15th",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      441.21,
+      138.98,
+      455.03
+    ],
+    "text": "March 2015.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      470.75,
+      526.54,
+      484.57
+    ],
+    "text": "Thus, from the 101 approved vacancies ear-marked to be filled, 94 posts were filled.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      492.35,
+      520.54,
+      506.17
+    ],
+    "text": "Seven posts were not filled. Hence, seven vacancies of the supra grade were left unfilled.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      521.87,
+      526.51,
+      535.69
+    ],
+    "text": "This decision of the Public Service Commission brought in many appeals and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      543.47,
+      488.38,
+      557.29
+    ],
+    "text": "representations by unsuccessful candidates requesting filling of the said vacancies.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      572.39,
+      526.54,
+      586.81
+    ],
+    "text": "Thus, the Public Service Commission, by letter dated 08th June, 2016 [document",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      593.99,
+      526.54,
+      608.41
+    ],
+    "text": "tendered to this Court, by the Respondent together with the motion dated 14th August, 2017]",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      616.07,
+      526.54,
+      629.89
+    ],
+    "text": "made order to permit one candidate [who was on maternity leave] to face the interview.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      637.67,
+      526.54,
+      651.49
+    ],
+    "text": "The Public Service Commission also made a direction not to fill the remaining six posts,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      659.3,
+      526.54,
+      673.12
+    ],
+    "text": "since there were nine candidates, [including the Petitioner] who had obtained 305 marks,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      680.9,
+      526.47,
+      694.72
+    ],
+    "text": "[the next best mark at the written test] vying for the said six posts. These vacancies were to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      702.38,
+      526.54,
+      716.2
+    ],
+    "text": "be filled, when the limited competitive examination was next held was the order made by",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      723.98,
+      238.73,
+      737.8
+    ],
+    "text": "the Public Service Commission.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "6",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      72.16,
+      526.52,
+      85.98
+    ],
+    "text": "The Petitioner does not challenge this position either. However, the contention of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      93.78,
+      526.43,
+      107.6
+    ],
+    "text": "Petitioner is that there were twelve vacancies. i.e., the six vacancies the Public Service",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      115.26,
+      526.51,
+      129.08
+    ],
+    "text": "Commission left unfilled plus another six vacancies (\u201cadditional six vacancies\u201d), that arose",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      136.86,
+      526.52,
+      150.68
+    ],
+    "text": "consequent to the resignation of six other candidates. Hence, the Petitioner argues, the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      158.46,
+      504.94,
+      172.28
+    ],
+    "text": "Petitioner who obtained 305 marks is entitled to one such vacancy in the supra grade.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      187.98,
+      526.51,
+      201.8
+    ],
+    "text": "The submission of the Petitioner with regard to the said additional six vacancies is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      209.58,
+      526.4,
+      223.4
+    ],
+    "text": "that six out of the 94 candidates promoted to supra grade, subsequently tendered their",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      231.06,
+      526.52,
+      244.88
+    ],
+    "text": "resignation from the PMAS and joined Sri Lanka Administrative Service which resulted in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      252.66,
+      394.87,
+      266.48
+    ],
+    "text": "an additional six vacancies being opened-up in the supra grade.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      282.21,
+      526.54,
+      296.03
+    ],
+    "text": "It is observed, that parallel to the aforementioned limited competitive examination",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      303.81,
+      526.47,
+      317.63
+    ],
+    "text": "for promotions to the supra grade of PMAS in the year 2013, applications were also called",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      325.41,
+      526.54,
+      339.23
+    ],
+    "text": "for another limited competitive examination to recruit applicants for grade III of the Sri",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      346.89,
+      526.53,
+      360.71
+    ],
+    "text": "Lanka Administrative Service (\u201cSLAS\u201d). Some of the candidates applied for both posts and",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      368.49,
+      264.41,
+      382.31
+    ],
+    "text": "were successful at both examinations.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      398.01,
+      526.5,
+      411.83
+    ],
+    "text": "The contention of the Petitioner is that the appointments to SLAS was with effect",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      419.01,
+      526.39,
+      433.43
+    ],
+    "text": "from 09th November, 2015 a date prior to the day in which interviews for supra grade of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      441.21,
+      526.5,
+      455.03
+    ],
+    "text": "PMAS was held, in the month of December 2015.The Petitioner further submits, that out",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      462.71,
+      526.51,
+      476.53
+    ],
+    "text": "of the persons who applied for both posts and were recruited to SLAS, two did not present",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      484.31,
+      526.53,
+      498.13
+    ],
+    "text": "themselves at the PMAS supra grade interview, whereas six others faced the interview and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      505.91,
+      411.79,
+      519.73
+    ],
+    "text": "were successful and appointed to supra grade of the PMAS as well.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      535.43,
+      526.53,
+      549.25
+    ],
+    "text": "Thus, the Petitioner puts forwards an argument that since the six candidates who",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      557.03,
+      526.54,
+      570.85
+    ],
+    "text": "were appointed to the supra grade, have now tendered their resignation from PMAS, that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      578.51,
+      526.52,
+      592.33
+    ],
+    "text": "the said six posts should also be opened to be filled by the unsuccessful candidates who",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      600.11,
+      494.98,
+      613.93
+    ],
+    "text": "faced the limited competitive examination for promotions to supra grade of PMAS.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      629.63,
+      526.53,
+      643.45
+    ],
+    "text": "In order to substantiate its argument, the Petitioner mainly relies upon Clause 14 of",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      651.26,
+      382.63,
+      665.08
+    ],
+    "text": "the gazette notice calling for applications to the supra grade.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      680.9,
+      243.17,
+      694.72
+    ],
+    "text": "Clause 14 reads as follows:",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      99.02,
+      710.42,
+      473.02,
+      724.24
+    ],
+    "text": "\u201cAppointment of any candidate shall be cancelled, if he/she",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.58,
+      732.02,
+      466.73,
+      745.83
+    ],
+    "text": "refuses to assume duties at the respective office. At such",
+    "fonts": [
+      "Times New Roman,BoldItalic",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "7",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.58,
+      72.16,
+      466.47,
+      85.98
+    ],
+    "text": "occasions vacancies will be filled by calling other candidates in",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.58,
+      93.78,
+      337.27,
+      107.6
+    ],
+    "text": "the order of marks.\u201d (emphasis added)",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      123.3,
+      525.19,
+      137.12
+    ],
+    "text": "Hence, the learned Counsel for the Petitioner submits, in view of the resignation of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      144.9,
+      525.09,
+      158.72
+    ],
+    "text": "the candidates [upon being recruited to SLAS] cancellation of such appointments in the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      166.38,
+      525.15,
+      180.2
+    ],
+    "text": "supra grade of PMAS took place and hence, the said situation falls within the four corners",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      187.98,
+      525.21,
+      201.8
+    ],
+    "text": "of the aforesaid Clause 14. Therefore, it was contended, that such vacancies should be filled",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      209.58,
+      525.21,
+      223.4
+    ],
+    "text": "by calling the candidates in the order of marks. Further, it was contended since the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      231.06,
+      525.04,
+      244.88
+    ],
+    "text": "Petitioner obtained 305 marks at the written test, one mark below the cut off mark 306, that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      252.66,
+      525.22,
+      266.48
+    ],
+    "text": "the Petitioner should be appointed to the supra grade and the said appointment should also",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      273.69,
+      525.22,
+      288.11
+    ],
+    "text": "be back dated to fall in line with the other 94 candidates, i.e., with effect from 15th March,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      295.77,
+      112.7,
+      309.59
+    ],
+    "text": "2015.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      325.41,
+      525.18,
+      339.23
+    ],
+    "text": "I have considered the above submission pertaining to Cause 14 and am not inclined",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      346.89,
+      525.24,
+      360.71
+    ],
+    "text": "to accept the argument put forward by the learned Counsel for the Petitioner, for the below",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      368.49,
+      174.74,
+      382.31
+    ],
+    "text": "mentioned reasons.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      398.01,
+      150.74,
+      411.83
+    ],
+    "text": "Firstly,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      427.65,
+      525.22,
+      441.47
+    ],
+    "text": "Clause 14 speaks of candidates failing to assume duties at the respective office",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      449.13,
+      525.09,
+      462.95
+    ],
+    "text": "which would create a vacancy. In the instant matter, vacancies were only created when",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      470.15,
+      525.2,
+      484.57
+    ],
+    "text": "the said six candidates having accepted office with effect from 15th March, 2015 tendered",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      491.75,
+      525.21,
+      506.17
+    ],
+    "text": "their resignation effective from 09th November, 2015. Therefore, it is quite clear, that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      513.83,
+      525.22,
+      527.65
+    ],
+    "text": "said six candidates accepted the appointments and hence, there were no vacancies as at that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      534.83,
+      525.1,
+      549.25
+    ],
+    "text": "date i.e., 15th March, 2015 as contended by the Petitioner. Moreover, the said six candidates",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      557.03,
+      525.13,
+      570.85
+    ],
+    "text": "in my view, did not refuse to assume duties at the respective office, and as such the situation",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      578.51,
+      525.11,
+      592.33
+    ],
+    "text": "contemplated in Clause 14 does not kick-in with regard to the instant application.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      600.11,
+      525.2,
+      613.93
+    ],
+    "text": "Accepting the appointment and then resigning on a subsequent date cannot be equated to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      621.71,
+      525.14,
+      635.53
+    ],
+    "text": "refusing to take up an appointment as referred to in Clause 14. Hence, Clause 14 has no",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      643.22,
+      247.97,
+      657.04
+    ],
+    "text": "applicability to the matter in issue.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      672.86,
+      162.5,
+      686.68
+    ],
+    "text": "Secondly,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      702.38,
+      525.21,
+      716.2
+    ],
+    "text": "The post was advertised and applications for supra grade were called in October",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      723.98,
+      525.18,
+      737.8
+    ],
+    "text": "2013, based upon the vacancies existing as at that date in the PMAS. The vacancies the",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      744.97,
+      424.39,
+      759.39
+    ],
+    "text": "Petitioner relies upon admittedly took place on 09th November, 2015.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "8",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      72.16,
+      525.22,
+      85.98
+    ],
+    "text": "Thus, in my view, the vacancies that arose subsequent to the day of the gazette in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      93.78,
+      525.17,
+      107.6
+    ],
+    "text": "October 2013, will not get caught up under this gazette notification. Hence, Clause 14",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      115.26,
+      525.03,
+      129.08
+    ],
+    "text": "which speaks of filling of vacancies by calling other candidates in the order of merit has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      136.86,
+      273.41,
+      150.68
+    ],
+    "text": "no applicability to the instant situation.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      166.38,
+      524.95,
+      180.2
+    ],
+    "text": "It is also observed, that there is no document produced by the Petitioner to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      187.98,
+      525.17,
+      201.8
+    ],
+    "text": "substantiate the exact date of appointment of the six persons to the SLAS. Is it by letter",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      208.98,
+      525.21,
+      223.4
+    ],
+    "text": "dated 09th November, 2015 to be effective from 09th November, 2015? Were the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      231.06,
+      525.17,
+      244.88
+    ],
+    "text": "appointments made on a subsequent date and backdated to the said date? If so, can the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      252.66,
+      525.22,
+      266.48
+    ],
+    "text": "Petitioner justify the contention with regard to the effective date of the six vacancies, on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      274.29,
+      334.87,
+      288.11
+    ],
+    "text": "the material and documents produced before Court?",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      303.81,
+      525.22,
+      317.63
+    ],
+    "text": "In my view, on the said ground too, the Petitioner\u2019s argument fails. The inability of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      325.41,
+      525.02,
+      339.23
+    ],
+    "text": "the Petitioner to produce evidence pertaining to the exact date on which the appointments",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      346.89,
+      525.22,
+      360.71
+    ],
+    "text": "to the SLAS was made, resulted in paucity of material before Court to determine the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      368.49,
+      524.97,
+      382.31
+    ],
+    "text": "veracity of the Petitioner\u2019s assertion. This fact becomes more significant in view of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      390.09,
+      525.22,
+      403.91
+    ],
+    "text": "Petitioner\u2019s own document produced as P13A. By the said document its amply clear, that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      410.97,
+      525.22,
+      425.39
+    ],
+    "text": "the appointments to the supra grade of PMAS, was communicated by a letter dated 29th",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      433.17,
+      525.22,
+      446.99
+    ],
+    "text": "April, 2016 whereas, the said appointment was back dated approximately by one year i.e.,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      454.17,
+      387.31,
+      468.61
+    ],
+    "text": "to 15th March,2015 the day on which the written test was held.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      484.31,
+      524.96,
+      498.13
+    ],
+    "text": "The Petitioner finally contended, that by back dating the appointments, the six",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      505.91,
+      524.93,
+      519.73
+    ],
+    "text": "candidates were able to receive the arrears of salary in the supra grade for a period of six",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      527.39,
+      525.18,
+      541.21
+    ],
+    "text": "months from March 2015 till November 2015 and further argued that such conduct is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      548.99,
+      525.21,
+      562.81
+    ],
+    "text": "irregular and illegal and would amount to obtaining a monetary gain at the expense of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      570.59,
+      103.22,
+      584.41
+    ],
+    "text": "State.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      600.11,
+      524.89,
+      613.93
+    ],
+    "text": "In my view the said contention too, does not stand to reason as the Establishment",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      621.71,
+      426.91,
+      635.53
+    ],
+    "text": "Code, permits backdating of promotions subject to certain conditions.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      651.26,
+      524.94,
+      665.08
+    ],
+    "text": "Chapter II of the Establishment Code regulates the recruitment procedure and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      672.86,
+      524.97,
+      686.68
+    ],
+    "text": "appointment of public officers. Section 1:9 refers to the date of the appointment to be either",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      694.46,
+      525.07,
+      708.28
+    ],
+    "text": "the date of appointment referred to in the letter of appointment or the date of assuming of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      715.94,
+      525.17,
+      729.76
+    ],
+    "text": "duties in accordance with the provisions therein. Section 1:10 states ante-dating of an",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      737.54,
+      524.95,
+      751.35
+    ],
+    "text": "appointment should not take place without the approval of the relevant authority and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      778.52,
+      303.65,
+      805.61
+    ],
+    "text": "9",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      72.16,
+      525.13,
+      85.98
+    ],
+    "text": "Section 1:10:2 indicates, for ante-dating an appointment, there should be a substantial",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      93.78,
+      522.06,
+      107.6
+    ],
+    "text": "vacancy in the relevant post. However, in view of Section 1:11:2 a post cannot be ante-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      115.26,
+      525.05,
+      129.08
+    ],
+    "text": "dated to a date prior to the competitive examination. In the instant matter the appointments",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      136.26,
+      525.17,
+      150.68
+    ],
+    "text": "were ante-dated to the date of the written exam being the 1st component of the competitive",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      158.46,
+      525.15,
+      172.28
+    ],
+    "text": "examination. Hence, in my view ante-dating of the appointments or backdating of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      179.94,
+      524.94,
+      193.76
+    ],
+    "text": "promotion have taken place in accordance with the provisions laid down in the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      201.54,
+      178.58,
+      215.36
+    ],
+    "text": "Establishment Code.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      231.06,
+      525.21,
+      244.88
+    ],
+    "text": "Section 6 of Chapter II, refers to conditions to be satisfied when an appointment or",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      252.66,
+      525.16,
+      266.48
+    ],
+    "text": "a promotion is to be made. Having financial provision for such appointment is one such",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      274.29,
+      525.07,
+      288.11
+    ],
+    "text": "pre-condition. Similarity backdating of promotions would entail payment of arrears among",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      295.77,
+      525.22,
+      309.59
+    ],
+    "text": "other benefits, unless otherwise directed. In the instant matter, the successful candidates,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      317.37,
+      525.22,
+      331.19
+    ],
+    "text": "without exception were entitled to the arrears of salary, stemming from such backdating.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      338.97,
+      525.22,
+      352.79
+    ],
+    "text": "Hence payment of arrears of salary was also in accordance with the provisions of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      360.45,
+      269.33,
+      374.27
+    ],
+    "text": "Establishment Code.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      390.09,
+      525.16,
+      403.91
+    ],
+    "text": "The Petitioners grievance appears to be in the event a public officer who belong on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      411.57,
+      525.22,
+      425.39
+    ],
+    "text": "one joins another service in the public sector he should not be given a back dated",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      433.17,
+      525.15,
+      446.99
+    ],
+    "text": "promotion in the service to which he belonged nor paid arrears of salary from the date of",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      454.79,
+      525.09,
+      468.61
+    ],
+    "text": "the back dated appointment. However, it is observed that the Establishment Code makes",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      476.27,
+      525.22,
+      490.09
+    ],
+    "text": "provision for an officer who is entitled to a due promotion, to be granted such promotion",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      497.87,
+      525.2,
+      511.69
+    ],
+    "text": "even in instances in which such a person is not in service, retired or deceased as provided",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      519.47,
+      525.04,
+      533.29
+    ],
+    "text": "for in Section 6:2 of Chapter. It of the Establishment Code, the provided promotion is a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      540.95,
+      524.92,
+      554.77
+    ],
+    "text": "grade to grade promotion. In the instant matter, promotes are still in service. They have",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      562.55,
+      525.0,
+      576.37
+    ],
+    "text": "neither retired nor deceased six of the promotees only joined the Sri Lanka Administrative",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      584.15,
+      218.21,
+      597.97
+    ],
+    "text": "Service of the public sector.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      613.67,
+      525.08,
+      627.49
+    ],
+    "text": "Further the impugned promotion is a grade to grade promotion [ i.e., grade I to supra",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      635.27,
+      524.85,
+      649.09
+    ],
+    "text": "grade in the PMAS] and the promotions are with regard to substantial vacancies in the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      656.9,
+      115.46,
+      670.72
+    ],
+    "text": "PMAS.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      686.42,
+      525.22,
+      700.24
+    ],
+    "text": "Hence, I am of the view that the Establishment Code provides for back dating of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      708.02,
+      525.14,
+      721.84
+    ],
+    "text": "appointments, which would intern entitle appointees to receive a financial benefit, by way",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      729.5,
+      525.12,
+      743.32
+    ],
+    "text": "of arrears of salary, and acceptance of such arrears of salary, is not irregular or illegal as",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      751.1,
+      218.57,
+      764.91
+    ],
+    "text": "contended by the Petitioner.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      778.52,
+      306.65,
+      805.61
+    ],
+    "text": "10",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      72.16,
+      525.0,
+      85.98
+    ],
+    "text": "Moreover, in the instant application, the promotions granted were grade to grade",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      93.78,
+      524.92,
+      107.6
+    ],
+    "text": "promotions and falls clearly within the purview and provisions of the Establishment Code",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      115.26,
+      515.02,
+      129.08
+    ],
+    "text": "as discussed earlier. The Establishment Code has statutory flavor and force.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      144.9,
+      525.21,
+      158.72
+    ],
+    "text": "This Court, in the and mark judgement of Abeywickrama v Pathirana and others",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      166.38,
+      525.12,
+      180.2
+    ],
+    "text": "[1986]1 Sri LR 120 and in Public Service United Nurses Union v Minister of Public",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      187.98,
+      525.09,
+      201.8
+    ],
+    "text": "Administration and others [1988] 1 Sri LR 229, analysed in depth the provisions of the",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      209.58,
+      513.7,
+      223.4
+    ],
+    "text": "present and past Constitutions and held that the Establishment Code has statutory force.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      239.1,
+      525.22,
+      252.92
+    ],
+    "text": "This ratio has been endorsed and followed in many judgments of this Court. In a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      260.7,
+      525.14,
+      274.52
+    ],
+    "text": "recent judgement of this Court, it was re-echoed that it is trite law that the Establishment",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      282.21,
+      525.12,
+      296.03
+    ],
+    "text": "Code by virtue of its constitutional origin acquires statutory force, subject however to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      303.81,
+      525.21,
+      317.63
+    ],
+    "text": "reservation that it is not inconsistent with any other provision of the Constitution. [see.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      325.77,
+      522.18,
+      339.59
+    ],
+    "text": "Locomotive Assistants Union v Abeywickrama SC/FR 29/2018 SC minutes dated 16-",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      347.25,
+      120.98,
+      361.07
+    ],
+    "text": "07-2020]",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      376.53,
+      525.23,
+      390.35
+    ],
+    "text": "As discussed earlier, the limited competitive examination for promotions to supra",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      398.01,
+      525.22,
+      411.83
+    ],
+    "text": "grade in PMAS and recruitment to grade III of SLAS were called in the year 2013.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      419.61,
+      524.99,
+      433.43
+    ],
+    "text": "However, in both instances the process of selection was finalized only in 2015/2016. The",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      441.21,
+      525.22,
+      455.03
+    ],
+    "text": "delay in the selection process cannot be attributable to the recipients of the promotion and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      462.71,
+      525.1,
+      476.53
+    ],
+    "text": "as laid down in the Establishment Code, the selectees should enjoy the fruits of their",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      484.31,
+      130.34,
+      498.13
+    ],
+    "text": "promotion.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      513.83,
+      525.18,
+      527.65
+    ],
+    "text": "Thus, backdating of the impugned appointment with regard to the 94 recipients,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      535.43,
+      525.03,
+      549.25
+    ],
+    "text": "including the six candidates, based upon the provisions of the Establishment Code, in my",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      557.03,
+      525.22,
+      570.85
+    ],
+    "text": "view cannot be deemed unjust or unlawful as contended by the Petitioner. Moreover,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      578.51,
+      525.07,
+      592.33
+    ],
+    "text": "payment of arrears of salary to the said promotees, including the six promotees who joined",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      600.11,
+      525.14,
+      613.93
+    ],
+    "text": "SCAS at a subsequent date will not amount to the said appointees enjoying a monetary gain",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      621.71,
+      441.67,
+      635.53
+    ],
+    "text": "at the expense of the State either, as vehemently argued by the Petitioner.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      651.26,
+      525.05,
+      665.08
+    ],
+    "text": "Therefore, I see no reason to deprive the said six candidates of the promotion they",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      672.26,
+      525.11,
+      686.68
+    ],
+    "text": "received to supra grade of the PMAS with effect from 15th March, 2015 based upon the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      694.46,
+      277.25,
+      708.28
+    ],
+    "text": "arguments formulated by the Petitioner.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      723.98,
+      525.08,
+      737.8
+    ],
+    "text": "Further, I see no merit in the contention of the Petitioner, with regard to Clause 14",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      745.58,
+      525.19,
+      759.39
+    ],
+    "text": "of the gazette notification and or to declare the afore discussed six posts to be considered",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      778.52,
+      306.65,
+      805.61
+    ],
+    "text": "11",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      72.16,
+      525.23,
+      85.98
+    ],
+    "text": "as additional vacancies and or that there were twelve vacancies in the offing and not six as",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      93.78,
+      524.96,
+      107.6
+    ],
+    "text": "submitted by the Respondents. Furthermore, I see no reason or justification to direct that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      115.26,
+      512.62,
+      129.08
+    ],
+    "text": "one such vacancy be filled by the Petitioner who obtained 305 marks at the written test.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      144.9,
+      525.21,
+      158.72
+    ],
+    "text": "In any event, the said six candidates whose promotions the Petitioner moves to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      166.38,
+      525.22,
+      180.2
+    ],
+    "text": "deprive have not been brought before Court by the Petitioner. The conduct of the Petitioner",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      187.98,
+      525.19,
+      201.8
+    ],
+    "text": "in not bringing the necessary parties before Court should also be considered in determining",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      209.58,
+      154.94,
+      223.4
+    ],
+    "text": "this application.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      239.1,
+      525.21,
+      252.92
+    ],
+    "text": "I would pause at this juncture, to consider the submissions made on behalf of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      260.7,
+      145.34,
+      274.52
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      290.25,
+      525.21,
+      304.07
+    ],
+    "text": "The learned Senior State Counsel re-iterated that there were only six vacancies and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      311.85,
+      525.22,
+      325.67
+    ],
+    "text": "submitted to Court that the decision by the Public Service Commission to leave the six",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      333.33,
+      525.09,
+      347.15
+    ],
+    "text": "posts of the supra grade unfilled, in view of the candidates not presenting themselves at",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      354.93,
+      525.14,
+      368.75
+    ],
+    "text": "the interview, was a well-considered and a reasonable decision. The learned Counsel also",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      376.53,
+      525.14,
+      390.35
+    ],
+    "text": "submitted that the said decision to leave the said vacancies as it is, is neither irrational or",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      398.01,
+      525.17,
+      411.83
+    ],
+    "text": "arbitrary, especially in the context, where nine persons with equal marks, were vying for",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      419.61,
+      524.97,
+      433.43
+    ],
+    "text": "the said six posts. Further, it was submitted that in any event, Clause 16 of the gazette",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      441.21,
+      520.3,
+      455.03
+    ],
+    "text": "notification calling for applications for the supra grade permitted such a course of action.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      470.75,
+      247.97,
+      484.57
+    ],
+    "text": "Clause 16 reads as follows:",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      500.27,
+      463.27,
+      514.09
+    ],
+    "text": "\u201cThe Public Service Commission reserves the right to",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      521.87,
+      434.9,
+      535.69
+    ],
+    "text": "refrain from filling some or all of the vacancies and also",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      543.47,
+      434.97,
+      557.29
+    ],
+    "text": "to decide on matters not provided for in respect of these",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      564.95,
+      214.25,
+      578.77
+    ],
+    "text": "regulations.\u201d",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      594.59,
+      525.12,
+      608.41
+    ],
+    "text": "I have considered the said submissions in the context of the service minute and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      616.07,
+      524.94,
+      629.89
+    ],
+    "text": "observe that according to the said minute of the PMAS, the total approved posts of supra",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      637.67,
+      525.1,
+      651.49
+    ],
+    "text": "grade stands at 782. The recruitment to the said grade is twofold. Limited category and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      659.3,
+      525.06,
+      673.12
+    ],
+    "text": "open category and the ratio is 30% for limited category and 70% for open category. The",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      680.9,
+      525.05,
+      694.72
+    ],
+    "text": "methodology of recruitment to the supra grade is laid down by way of rules and regulations",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      702.38,
+      524.85,
+      716.2
+    ],
+    "text": "and is administered under the direction of the Public Service Commission by the Ministry",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      723.98,
+      525.13,
+      737.8
+    ],
+    "text": "of Public Administration, all of whom are Respondents to this application. It is also",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      745.58,
+      525.08,
+      759.39
+    ],
+    "text": "observed that the limited competitive examination as the word denotes, is a competitive",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      778.52,
+      306.65,
+      805.61
+    ],
+    "text": "12",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      72.16,
+      524.92,
+      85.98
+    ],
+    "text": "examination limited to the officers of the particular service and is not open to the public at",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      93.78,
+      103.22,
+      107.6
+    ],
+    "text": "large.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      123.3,
+      524.8,
+      137.12
+    ],
+    "text": "Thus, I am of the view that the decision of the Public Service Commission not to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      144.9,
+      525.16,
+      158.72
+    ],
+    "text": "fill the six vacancies is a reasonable and a bonafide decision and made well within its ambit",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      166.38,
+      133.82,
+      180.2
+    ],
+    "text": "and power.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      196.02,
+      525.25,
+      209.84
+    ],
+    "text": "I would also wish to consider, whether such decision of the Public Service",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      217.5,
+      487.3,
+      231.32
+    ],
+    "text": "Commission is arbitrary, irrational or unwarranted, as contended by the Petitioner.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      247.14,
+      525.2,
+      260.96
+    ],
+    "text": "This Court in the case of Karunathilaka and another v Jayalath de Silva and",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      268.65,
+      315.53,
+      282.47
+    ],
+    "text": "others [2003] 1 Sri LR 35 observed as follows:",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      67.46,
+      298.29,
+      479.98,
+      312.11
+    ],
+    "text": "\u201cThe basic principle governing the concept of equality is to remove",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,BoldItalic",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      319.77,
+      479.8,
+      333.59
+    ],
+    "text": "unfairness and arbitrariness. It profoundly forbids actions, which deny",
+    "fonts": [
+      "Times New Roman,BoldItalic",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      341.37,
+      479.87,
+      355.19
+    ],
+    "text": "equality and thereby becomes discriminative. The hallmark of the concept",
+    "fonts": [
+      "Times New Roman,BoldItalic",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      362.97,
+      479.9,
+      376.79
+    ],
+    "text": "of equality is to ensure that fairness is meted out. Article 12(1) of the",
+    "fonts": [
+      "Times New Roman,BoldItalic",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      384.45,
+      479.65,
+      398.27
+    ],
+    "text": "Constitution, which governs the principles of equality, approves actions",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      406.05,
+      479.74,
+      419.87
+    ],
+    "text": "which has a reasonable basis for the decision and this Court has not been",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      427.65,
+      479.9,
+      441.47
+    ],
+    "text": "hesitant to accept those as purely valid decisions.\u201d (pages 41 and 42)",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      449.13,
+      199.01,
+      462.95
+    ],
+    "text": "(emphasis added)",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      478.79,
+      524.87,
+      492.61
+    ],
+    "text": "Similarly, in the case of Wickramasinghe v Ceylon Petroleum Corporation and",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      500.27,
+      524.76,
+      514.09
+    ],
+    "text": "others [2001] 2 Sri LR 409 having discussed the positive connotation reasonableness as",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      521.87,
+      524.98,
+      535.69
+    ],
+    "text": "opposed to the negative connotation arbitrariness, this Court observed, that if the actions",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      543.47,
+      524.98,
+      557.29
+    ],
+    "text": "of the Respondents are reasonable, then such decision would not amount to be an arbitrary",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      564.95,
+      119.9,
+      578.77
+    ],
+    "text": "decision.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      593.99,
+      524.98,
+      608.41
+    ],
+    "text": "In the instant application the decision of the 1st to 9th Respondents, i.e., the Public",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      616.07,
+      524.82,
+      629.89
+    ],
+    "text": "Service Commission, not to fill six posts of the supra grade, based upon the results of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      637.67,
+      524.79,
+      651.49
+    ],
+    "text": "2013 examination, I consider to be a reasonable decision arrived at, taking into",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      659.3,
+      524.9,
+      673.12
+    ],
+    "text": "consideration the facts and circumstances of the matter in issue. It does not offend the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      680.9,
+      524.98,
+      694.72
+    ],
+    "text": "principles of reasonableness and fair play and is not procedurally flawed. Hence, it cannot",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      702.38,
+      524.93,
+      716.2
+    ],
+    "text": "be termed arbitrary and/or unwarranted and/or manifestly irrational as contended by the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      723.98,
+      126.86,
+      737.8
+    ],
+    "text": "Petitioner.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      778.52,
+      306.65,
+      805.61
+    ],
+    "text": "13",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      72.16,
+      525.01,
+      85.98
+    ],
+    "text": "Similarly, I see no merit in the argument of the Petitioner, that there are twelve",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      93.78,
+      524.96,
+      107.6
+    ],
+    "text": "vacancies and that the Petitioner is entitled to be appointed to one such vacancy. Thus, I",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      115.26,
+      524.98,
+      129.08
+    ],
+    "text": "reject the argument of the Petitioner pertaining to the six additional vacancies. Further, I",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      136.86,
+      524.86,
+      150.68
+    ],
+    "text": "determine that the six posts left unfilled upon the direction of the Public Service",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      158.46,
+      524.97,
+      172.28
+    ],
+    "text": "Commission, is a reasonable and a bonafide decision made for good, valid and justifiable",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      179.94,
+      178.22,
+      193.76
+    ],
+    "text": "reasons.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      209.58,
+      524.58,
+      223.4
+    ],
+    "text": "Hence, I hold that the Petitioner has not been discriminated by the Respondents in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      231.06,
+      524.65,
+      244.88
+    ],
+    "text": "any manner whatsoever or that similarly circumstanced persons have been treated",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      252.66,
+      524.87,
+      266.48
+    ],
+    "text": "differently by the Respondents. Thus, I see no ground or reason to appoint the Petitioner",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      274.29,
+      524.56,
+      288.11
+    ],
+    "text": "to one of the said vacant posts of the supra grade of the PMAS as prayed for by the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      295.77,
+      126.86,
+      309.59
+    ],
+    "text": "Petitioner.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      325.41,
+      524.61,
+      339.23
+    ],
+    "text": "In the aforesaid circumstances and for reasons adumbrated herein, I hold that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      346.89,
+      524.95,
+      360.71
+    ],
+    "text": "Petitioner\u2019s fundamental right to equality before the law and equal protection of the law",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      368.49,
+      520.42,
+      382.31
+    ],
+    "text": "enshrined in Article 12(1) of the Constitution has not been infringed by the Respondents.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      398.01,
+      524.98,
+      411.83
+    ],
+    "text": "The application of the Petitioner is therefore dismissed. I make no order as to costs.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      427.65,
+      237.17,
+      441.47
+    ],
+    "text": "Application is dismissed.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      31.44,
+      506.87,
+      506.26,
+      520.69
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      31.44,
+      536.39,
+      200.21,
+      550.21
+    ],
+    "text": "Jayantha Jayasuriya PC CJ",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      31.44,
+      558.83,
+      112.7,
+      572.65
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      31.44,
+      599.51,
+      434.11,
+      613.33
+    ],
+    "text": "Chief Justice",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      31.44,
+      643.94,
+      154.34,
+      657.76
+    ],
+    "text": "S. Thurairaja PC J",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      31.44,
+      666.38,
+      115.82,
+      680.2
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      31.44,
+      718.34,
+      509.38,
+      732.16
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  }
+]

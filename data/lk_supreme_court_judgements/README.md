@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_15:23:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_15:51:25-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
@@ -8,9 +8,9 @@ A Supreme Court judgement is the final and binding decision delivered by the hig
 
 In Sri Lanka, the Supreme Court plays a vital role in interpreting the Constitution, safeguarding fundamental rights, and resolving disputes of national importance. Its judgements set legal precedents that influence how laws are applied and upheld across the nation, shaping both governance and society.
 
-- [**1,535** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.0 GB**), from **2016-07-22** to **2025-09-19**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
+- [**1,539** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.0 GB**), from **2016-07-22** to **2025-09-19**, scraped from **[https://supremecourt.lk/judgements/](https://supremecourt.lk/judgements/)**
 
-- In **JSON**, **PDF** (71%), **TXT** (71%) & **🤗 Hugging Face** (71%)
+- In **JSON**, **PDF** (72%), **TXT** (72%) & **🤗 Hugging Face** (72%)
 
 - In **English**
 
