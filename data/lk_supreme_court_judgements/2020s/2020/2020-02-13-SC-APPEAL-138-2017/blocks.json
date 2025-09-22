@@ -1,0 +1,4732 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 1 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.26,
+      72.06,
+      521.3,
+      92.63
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      204.77,
+      95.0,
+      394.95,
+      115.57
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      158.19,
+      526.52,
+      173.66
+    ],
+    "text": "In the matter of an Application for",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      176.55,
+      526.57,
+      192.02
+    ],
+    "text": "Leave to Appeal to the Supreme",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      194.91,
+      526.55,
+      210.38
+    ],
+    "text": "Court from an Order of the",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      213.27,
+      526.57,
+      228.74
+    ],
+    "text": "Provincial High Court under and in",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      231.63,
+      526.56,
+      247.1
+    ],
+    "text": "terms of section 31DD of the",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      249.99,
+      526.57,
+      265.46
+    ],
+    "text": "Industrial Disputes Act (as",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      268.35,
+      383.77,
+      283.82
+    ],
+    "text": "amended)",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      326.82,
+      490.35,
+      406.01
+    ],
+    "text": "Prasanna Peiris, No. 114/14, Sri Wickrema Rajasinghe Road, 3rd Kurana, Negombo.",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      414.42,
+      456.77,
+      429.89
+    ],
+    "text": "APPLICANT",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      438.42,
+      351.86,
+      453.89
+    ],
+    "text": "-VS-",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      462.44,
+      484.83,
+      541.63
+    ],
+    "text": "Toroid International (Pvt) Ltd., P.O. Box 15, Phase II F.T.Z., Katunayake.",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      550.16,
+      435.38,
+      565.63
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      598.04,
+      412.94,
+      613.51
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      622.04,
+      520.73,
+      717.22
+    ],
+    "text": "Toroid International (Pvt) Ltd., P.O. Box 15, Phase II F.T.Z., Katunayake. RESPONDENT-APPELLANT",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      725.75,
+      351.86,
+      741.22
+    ],
+    "text": "-VS-",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      328.52,
+      267.58,
+      379.28
+    ],
+    "text": "SC Appeal No: 138/2017 HC ALT No. 373/2013 LT Case No: 21/2570/2009",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 2 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      71.89,
+      526.73,
+      167.06
+    ],
+    "text": "Prasanna Peiris, No. 114/14, Sri Wickrema Rajasinghe Road, 3rd Kurana, Negombo. APPLICANT-RESPONDENT",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      199.47,
+      446.78,
+      214.94
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      247.47,
+      526.59,
+      406.49
+    ],
+    "text": "Noratel International (Pvt.) Ltd. (formerly known as Toroid International (Pvt) Ltd.), P.O. Box 15, Phase II, Export Processing Zone, Katunayake. RESPONDENT-APPELLANT-PETITIONER -VS-",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      415.14,
+      490.35,
+      526.27
+    ],
+    "text": "Prasanna Peiris, No. 114/14, Sri Wickrema Rajasinghe Road, 3rd Kurana, Negombo. APPLICANT-RESPONDENT- RESPONDENT",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      558.68,
+      363.26,
+      574.15
+    ],
+    "text": "BEFORE : BUWANEKA ALUWIHARE, PC, J.",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      577.04,
+      304.92,
+      592.51
+    ],
+    "text": "L.T.B. DEHIDENIYA, J.",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      595.4,
+      308.28,
+      610.87
+    ],
+    "text": "S. THURAIRAJA, PC, J.",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      632.12,
+      526.36,
+      647.59
+    ],
+    "text": "COUNSEL : Ms. Manoli Jinadasa with Ms. Shehara Karunatne instructed by C.",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.02,
+      656.03,
+      493.47,
+      671.5
+    ],
+    "text": "Suriyaarachchi for the Respondent \u2013 Appellant- Appellant.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      680.03,
+      526.58,
+      695.5
+    ],
+    "text": "Applicant \u2013 Respondent \u2013 Respondent is absent and",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.02,
+      703.91,
+      260.5,
+      719.38
+    ],
+    "text": "unrepresented",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      726.66,
+      278.62,
+      743.38
+    ],
+    "text": "ARGUED ON : 14th January 2020.",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 3 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      70.52,
+      526.7,
+      87.24
+    ],
+    "text": "WRITTEN SUBMISSIONS : Respondent-Appellant \u2013 Appellant on the 25th of",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      252.05,
+      95.79,
+      322.08,
+      111.26
+    ],
+    "text": "August 2017",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      118.42,
+      356.88,
+      135.14
+    ],
+    "text": "DECIDED ON : 13th February 2020.",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      191.55,
+      200.28,
+      207.02
+    ],
+    "text": "S. THURAIRAJA, PC, J.",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      216.75,
+      526.58,
+      232.22
+    ],
+    "text": "The Employer, Noratel International (Pvt.) Ltd. formerly known as Toroid",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      240.63,
+      526.68,
+      256.1
+    ],
+    "text": "International (Pvt.) Ltd. is the Employer - Respondent \u2013 Appellant \u2013 Appellant",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      264.63,
+      526.57,
+      280.1
+    ],
+    "text": "(Hereinafter sometimes referred to as the Employer \u2013 Appellant.) The Employee, Mr.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      288.54,
+      526.59,
+      304.01
+    ],
+    "text": "Prasanna Peiris is the Employee - Applicant \u2013 Respondent \u2013 Respondent. (Hereinafter",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      312.54,
+      365.16,
+      328.01
+    ],
+    "text": "sometimes referred to as the Employee \u2013 Respondent.)",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      344.46,
+      526.64,
+      359.93
+    ],
+    "text": "It was revealed at the Labour Tribunal that the Employee \u2013 Respondent was a",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      368.46,
+      526.67,
+      383.93
+    ],
+    "text": "technical supervisor in the production maintenance division of the said Company. He",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      391.09,
+      526.68,
+      407.81
+    ],
+    "text": "was seen on the 15th of January 2001 at 0610 Hrs, pouring petrol from a white can",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      416.34,
+      526.71,
+      431.81
+    ],
+    "text": "into his motorcycle. A security officer Chrishantha Nallapperuma, who on seeing the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      440.22,
+      526.57,
+      455.69
+    ],
+    "text": "incident questioned and confronted the Employee \u2013 Respondent. Being dissatisfied",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      464.24,
+      526.57,
+      479.71
+    ],
+    "text": "with the answers he received, he produced the Employee \u2013 Respondent to the senior",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      488.12,
+      526.66,
+      503.59
+    ],
+    "text": "security officer Bandusena, who after speaking to the applicant in private, had let him",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      512.12,
+      526.37,
+      527.59
+    ],
+    "text": "go. This entire incident was also witnessed by W. Karunawathie, a female security",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      536.0,
+      526.34,
+      551.47
+    ],
+    "text": "officer who then confronted the senior security officer and informed relevant",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      560.0,
+      217.54,
+      575.47
+    ],
+    "text": "authorities of the incident.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      591.92,
+      526.7,
+      607.39
+    ],
+    "text": "After a domestic inquiry the Employee \u2013 Respondent was found guilty of",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      615.8,
+      526.52,
+      631.27
+    ],
+    "text": "pilfering petrol belonging to the Employer \u2013 Appellant to his motorcycle and for",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      639.8,
+      526.58,
+      655.27
+    ],
+    "text": "committing the offence of theft of company petrol and his services were terminated.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      663.71,
+      526.59,
+      679.18
+    ],
+    "text": "The Employee \u2013 Respondent then filed an application before the Labour Tribunal and",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      687.71,
+      526.59,
+      703.18
+    ],
+    "text": "the matter was inquired by the President of the Labour Tribunal, who found that the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      711.59,
+      526.44,
+      727.06
+    ],
+    "text": "termination was unreasonable and awarded compensation as an alternative to",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      735.59,
+      526.53,
+      751.06
+    ],
+    "text": "reinstatement. Further, the Labour Tribunal had ordered compensation from the date",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 4 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      71.77,
+      526.39,
+      87.24
+    ],
+    "text": "of termination up to the date of deciding this case as well as other additional",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      95.79,
+      526.59,
+      111.26
+    ],
+    "text": "payments (total amount to be paid being Rs. 732,424/-). Being aggrieved with the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      119.67,
+      526.56,
+      135.14
+    ],
+    "text": "Order of the Labour Tribunal, the Employer \u2013 Appellant appealed to the Provincial",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      143.67,
+      526.36,
+      159.14
+    ],
+    "text": "High Court holden at Negombo. After hearing the appeal the High Court concluded",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      167.55,
+      526.59,
+      183.02
+    ],
+    "text": "that the decision of the Labour Tribunal was just and equitable. Hence the order was",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      191.55,
+      286.42,
+      207.02
+    ],
+    "text": "affirmed and the appeal was dismissed.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      223.47,
+      526.7,
+      238.94
+    ],
+    "text": "Being aggrieved with the High Court Order the Employer \u2013 Appellant",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      247.35,
+      526.71,
+      262.82
+    ],
+    "text": "preferred an appeal to this Court. Initially the notice was issued on the Employee \u2013",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      271.38,
+      526.38,
+      286.85
+    ],
+    "text": "Respondent on the 01/03/2016 and it was fixed for support on the 14/06/2016. On",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      295.26,
+      523.42,
+      310.73
+    ],
+    "text": "that day the Employee \u2013 Respondent was absent and unrepresented. Notice was re-",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      319.26,
+      526.58,
+      334.73
+    ],
+    "text": "issued. On the 26/09/2016 the wife of the Employee \u2013 Respondent was present and",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      343.14,
+      526.67,
+      358.61
+    ],
+    "text": "informed the court that the Employee \u2013 Respondent was out of the island and also",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      367.14,
+      526.71,
+      382.61
+    ],
+    "text": "that they had retained an Attorney-at-Law to represent them. However the said",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      391.02,
+      526.55,
+      406.49
+    ],
+    "text": "Attorney \u2013 at - Law did not appear before Court. On the 06/12/2016 the matter was",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      415.02,
+      526.7,
+      430.49
+    ],
+    "text": "mentioned and the Employee \u2013 Respondent was absent and unrepresented. Once",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      438.9,
+      526.55,
+      454.37
+    ],
+    "text": "again notice was issued on the Employee \u2013 Respondent and on the 23/02/2017 a",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      462.92,
+      526.68,
+      478.39
+    ],
+    "text": "Counsel represented the Employee \u2013 Respondent and the matter was re-fixed for",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      486.8,
+      526.7,
+      502.27
+    ],
+    "text": "support on the 26/05/2017 as the Employee \u2013 Respondent was overseas and time",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      510.8,
+      526.52,
+      526.27
+    ],
+    "text": "was required to obtain a power of attorney and once again on that date the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      534.68,
+      526.35,
+      550.15
+    ],
+    "text": "Employee \u2013 Respondent was absent and unrepresented. Notice was issued on the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      558.68,
+      526.64,
+      574.15
+    ],
+    "text": "Respondent and matter was fixed for support on 07/07/2017. On said day he was",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      582.56,
+      526.71,
+      598.03
+    ],
+    "text": "absent and unrepresented. Since sufficient notices were given to the Employer \u2013",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      606.56,
+      526.39,
+      622.03
+    ],
+    "text": "Respondent, the Counsel for the Appellant were allowed to support the application.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      630.44,
+      526.58,
+      645.91
+    ],
+    "text": "The Court being satisfied, granted leave under paragraph 16 (c) of the petition.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      654.47,
+      526.47,
+      669.94
+    ],
+    "text": "Subsequently this case was fixed for argument on the 02/03/2018, 29/10/2018,",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      678.35,
+      526.68,
+      693.82
+    ],
+    "text": "08/07/2019 and finally on 14/01/2020. On all these days the Employee \u2013 Respondent",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      702.35,
+      526.7,
+      717.82
+    ],
+    "text": "was absent and unrepresented. Since notices were sent on several occasions, this",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      726.23,
+      526.57,
+      741.7
+    ],
+    "text": "court took up the appeal for argument and allowed Counsel to make her",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      750.23,
+      145.39,
+      765.7
+    ],
+    "text": "submissions.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 5 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      71.77,
+      526.55,
+      87.24
+    ],
+    "text": "I considered all the material before the Labour Tribunal, High Court and this",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      95.79,
+      526.25,
+      111.26
+    ],
+    "text": "Court. The question of law on which leave was granted is reproduced below for the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      119.67,
+      214.9,
+      135.14
+    ],
+    "text": "purpose of easy reference;",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      151.59,
+      526.48,
+      167.06
+    ],
+    "text": "16 (c) \u2013 Whether the orders of Provincial High Court and the Labour Tribunal",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      175.59,
+      526.3,
+      191.06
+    ],
+    "text": "are consistent with the principles of industrial law pertaining to the award of",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      199.47,
+      526.24,
+      214.94
+    ],
+    "text": "compensation and/or the calculation of compensation? In any event is the relief",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      223.47,
+      526.61,
+      238.94
+    ],
+    "text": "awarded to the applicant by the Provincial High Court and the Labour Tribunal",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      247.35,
+      526.32,
+      262.82
+    ],
+    "text": "just and equitable and/or consistent with the principles of law, considering the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      271.38,
+      299.87,
+      286.85
+    ],
+    "text": "facts and circumstances of this case?",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      303.3,
+      526.45,
+      318.77
+    ],
+    "text": "Counsel for the Employer \u2013 Appellant submitted to court that she wished to",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      327.18,
+      526.64,
+      342.65
+    ],
+    "text": "address the standard of proof required to establish misconduct which was also",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      351.18,
+      154.04,
+      366.65
+    ],
+    "text": "allowed.",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      383.1,
+      526.49,
+      398.57
+    ],
+    "text": "It is well established that the Labour Tribunal has equity jurisdiction and the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      407.1,
+      393.36,
+      422.57
+    ],
+    "text": "standard of proof necessary is on a balance of probabilities.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      439.02,
+      526.44,
+      454.49
+    ],
+    "text": "In Associated Battery Manufacturers (Ceylon) LTD vs. United Engineering",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      462.92,
+      299.02,
+      478.39
+    ],
+    "text": "Workers Union (77 NLR 541) it was held",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      494.96,
+      526.48,
+      510.43
+    ],
+    "text": "Where in an inquiry before a Labour Tribunal it was alleged that the reason for",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      518.84,
+      526.32,
+      534.31
+    ],
+    "text": "the termination of employment was that the workman was guilty of a criminal",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      542.84,
+      526.57,
+      558.31
+    ],
+    "text": "act involving moral turpitude, the allegation need not be established by proof",
+    "fonts": [
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      566.72,
+      526.67,
+      582.19
+    ],
+    "text": "beyond reasonable doubt as in a criminal case. Such an allegation has to",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      590.72,
+      526.47,
+      606.19
+    ],
+    "text": "be decided on a balance of probability, the very elements of the gravity of",
+    "fonts": [
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      614.6,
+      526.22,
+      630.07
+    ],
+    "text": "the charge becoming a part of the whole range of circumstances which are",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      638.6,
+      408.85,
+      654.07
+    ],
+    "text": "weighed in the balance, as in every other civil proceeding.",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      670.55,
+      490.48,
+      686.02
+    ],
+    "text": "(Emphasis added)",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      702.47,
+      526.43,
+      717.94
+    ],
+    "text": "In the present case, the learned President of the Labour Tribunal had the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      726.35,
+      526.68,
+      741.82
+    ],
+    "text": "privilege of hearing the evidence and observing the demeanor and deportment of all",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      750.35,
+      148.63,
+      765.82
+    ],
+    "text": "the witnesses.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 6 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      71.77,
+      526.49,
+      87.24
+    ],
+    "text": "It is on record that the Employee \u2013 Respondent had given evidence and had",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      95.79,
+      526.71,
+      111.26
+    ],
+    "text": "admitted that he had lied under oath. Specifically, he had submitted to the Tribunal",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      119.67,
+      526.47,
+      135.14
+    ],
+    "text": "that he was unemployed after the termination from the Appellant Company.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      143.67,
+      526.36,
+      159.14
+    ],
+    "text": "However evidence was submitted before the Labour Tribunal that he was employed",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      167.55,
+      526.47,
+      183.02
+    ],
+    "text": "in another establishment on a higher pay than what he was receiving at the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      191.55,
+      182.71,
+      207.02
+    ],
+    "text": "Appellant Company.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      255.5,
+      427.33,
+      272.13
+    ],
+    "text": "\u0db4%\u0dc1\u0dca\u0db1\u0dba : \u0daf\u0dd0\u0db1\u0dca \u0dad\u0db8\u0dd4\u0db1\u0dca \u0db8\u0dda \u0dc0\u0db1\u0dc0\u0dd2\u0da7 \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0d9a \u0db1\u0dd2\u0dbb\u0dad \u0db8\u0dc0\u0db1\u0dc0\u0dcf\u0daf?",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      281.95,
+      244.07,
+      298.2
+    ],
+    "text": "\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba: \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca \u0db1\u0dd1.",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      307.49,
+      494.32,
+      324.12
+    ],
+    "text": "\u0db4%\u0dc1\u0dca\u0db1\u0dba : \u0dad\u0db8\u0dd4\u0db1\u0dca\u0da7 \u0db8\u0db8 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dc5d \u0dad\u0db8\u0dcf \u0db4\u0dd2\u0dc5s\u0d9c\u0dad\u0dca\u0dad\u0dcf \u0d86\u0dbb\u0dca. 43 \u0d9a\u0dd2\u0dba\u0db1",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      171.02,
+      325.73,
+      494.32,
+      378.24
+    ],
+    "text": "\u0db8\u0dd9L\u0db1\u0db8\u0dba\u0db1\u0dca \u0d85\u0daf \u0daf\u0dd2\u0db1 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0db4\u0dd4 \u0db8\u0dd9L\u0db1\u0db8\u0dba\u0db1\u0dca \u0db8\u0dc0\u0db1\u0dca\u0db1\u0db4\u0dd4\u0db8\u0dc0 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0db8\u0dd0\u0d9a\u0dca\u0dc3\u0dd2\u0dc3\u0dca \u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dc3\u0db8\u0dcf\u0d9c\u0db8\u0dda 2009.11.16 \u0db8\u0dc0\u0db1\u0dd2 \u0daf\u0dd2\u0db1 \u0dc3\u0dd2\u0da7 \u0dc3\u0dd6\u0db4\u0dbb\u0dd3\u0d9a\u0dcaI\u0d9a \u0dad\u0db1\u0dad\u0dd4\u0db8\u0dbb\u0dca \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0 \u0d9a\u0dc5d \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      388.03,
+      215.27,
+      404.28
+    ],
+    "text": "\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba: \u0d91\u0db8\u0dd9\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      413.69,
+      494.32,
+      430.32
+    ],
+    "text": "\u0db4%\u0dc1\u0dca\u0db1\u0dba : \u0d91\u0dad\u0db8\u0d9a\u0ddc\u0da7 \u0d86\u0dbb\u0dca 44 \u0d9a\u0dd2\u0dba\u0db1 \u0db8\u0dd9L\u0db1\u0db8\u0dba\u0db1\u0dca \u0d91\u0db8 \u0dad\u0db1\u0dad\u0dd4\u0db8\u0dbb\u0dca \u0dad\u0db8\u0dcf\u0dc0",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      166.58,
+      431.81,
+      337.45,
+      448.44
+    ],
+    "text": "\u0dc3\u0dca:s\u0dbb \u0d9a<d \u0d9a\u0dd2\u0dba\u0dcf \u0dad\u0db8\u0dcf \u0db4\u0dd2<s\u0d9c\u0dad\u0dca\u0dad\u0dcf?",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      458.23,
+      264.95,
+      474.48
+    ],
+    "text": "\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba: \u0d91\u0db8\u0dd9\u0db8\u0dba\u0dd2 \u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2\u0db1\u0dd2.",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      483.79,
+      418.57,
+      500.42
+    ],
+    "text": "\u0db4%\u0dc1\u0dca\u0db1\u0dba : \u0dad\u0db8\u0dcf \u0dad\u0dc0\u0db8\u0dad\u0dca \u0d92 \u0d86\u0dba\u0dad\u0db1\u0db8\u0dba\u0daf \u0db8\u0dc3\u0dda\u0dc0\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db8\u0db1\u0dca?",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      510.21,
+      215.27,
+      526.46
+    ],
+    "text": "\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba: \u0d91\u0db8\u0dd9\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      535.87,
+      494.32,
+      552.5
+    ],
+    "text": "\u0db4%\u0dc1\u0dca\u0db1\u0dba : \u0d91\u0db8\u0dc3\u0dda \u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca \u0d89\u0db1\u0dca\u0db1 \u0dad\u0db8\u0dcf \u0dad\u0db8\u0dba\u0dd2 2012.02.21 \u0daf\u0dd2\u0db1 7",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.02,
+      561.07,
+      494.32,
+      577.7
+    ],
+    "text": "\u0db8\u0dc0\u0db1\u0dd2 \u0db4\u0dd2\u0da7\u0dd4\u0db8\u0dda \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0db1\u0dca\u0db8\u0db1\u0dca \u0db8\u0db8\u0db8 \u0d85\u00ea\u0d9a\u0dbbK\u0db8\u0dda \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd9\u0dcf",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.02,
+      586.53,
+      280.79,
+      602.78
+    ],
+    "text": "\u0dbb\u0dd0\u0d9a\u0dd2\u0dba\u0dcf\u0dc0\u0d9a\u0dca \u0db1\u0dd0\u0dd9\u0dd0 \u0d9a\u0dd2\u0dba\u0dcf",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      619.29,
+      261.35,
+      635.54
+    ],
+    "text": "\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba: \u0d91\u0db8\u0dd9\u0db8\u0dba\u0dd2 \u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2\u0db1\u0dd2.",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      644.95,
+      494.32,
+      661.58
+    ],
+    "text": "\u0db4%\u0dc1\u0dca\u0db1\u0dba : \u0dad\u0db8\u0dcf \u0d91\u0dad\u0db8\u0d9a\u0ddc\u0da7 \u0db4\u0dd2<s\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0daf \u0db8\u0db8\u0db8 \u0d85\u00ea\u0d9a\u0dbbK\u0db8\u0dda \u0dad\u0db8\u0dcf \u0daf\u0dd2\u0dc0\u0dd4\u0dbb\u0dd9\u0dcf",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.02,
+      670.44,
+      269.63,
+      686.69
+    ],
+    "text": "\u0db8 \u0ddc\u0dbb\u0dd4 \u0d9a\u0dd2\u0dda\u0dc0\u0dcf \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      703.2,
+      261.35,
+      719.45
+    ],
+    "text": "\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba: \u0d91\u0db8\u0dd9\u0db8\u0dba\u0dd2 \u0dc3\u0dca\u0dc0\u0dcf\u0db8\u0dd2\u0db1\u0dd2.",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 7 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      71.88,
+      494.32,
+      88.51
+    ],
+    "text": "\u0db4%\u0dc1\u0dca\u0db1\u0dba : \u0dad\u0db8\u0dcf \u0d9a\u0dd2\u0dba\u0db1 \u0d86\u0d9a\u0dcf\u0dbb\u0dba\u0da7 \u0dc0\u0d9c\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0d9a\u0dcf\u0dbb \u0d86\u0dba\u0dad\u0db1\u0dba \u0dad\u0db8\u0dcf\u0dc0",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.02,
+      97.1,
+      494.32,
+      113.73
+    ],
+    "text": "\u0db8\u0dc3\u0dda\u0dc0\u0db8\u0dba\u0db1\u0dca \u0db4\u0dd9 \u0d9a\u0dbb\u0db4\u0dd4 \u0db4\u0dbd\u0dd2\u0dba\u0da7 \u0db8\u0dda \u0d85\u00ea\u0d9a\u0dbbK\u0dba\u0da7 \u0d87\u0dc0\u0dd2\u0dbd\u0dca\u0dd9\u0dcf \u0dc1\u0dd4\u0daf\u0dca\u0db0",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "Su_Vijaya1"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.02,
+      122.68,
+      389.17,
+      138.93
+    ],
+    "text": "\u0dc0\u0dd6 \u0dba\u0dd2 \u0dd9\u0db8\u0dda \u0d85\u0dad \u0dad\u0dd2\u0dba\u0dcf \u0db8 \u0ddc\u0dbb\u0dd4 \u0d9a\u0dd2\u0dda\u0dc0\u0dcf \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      155.44,
+      214.91,
+      171.69
+    ],
+    "text": "\u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba: \u0d91\u0db8\u0dd9\u0db8\u0dba\u0dd2",
+    "fonts": [
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      187.83,
+      526.49,
+      203.3
+    ],
+    "text": "When a President of a Labour Tribunal is exercising equity jurisdiction he",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      211.83,
+      526.51,
+      227.3
+    ],
+    "text": "should be mindful of a person who states falsehood under oath. In the present case,",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      235.71,
+      526.7,
+      251.18
+    ],
+    "text": "the Labour Tribunal has ignored all the deficiencies and presumed otherwise. When",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      259.71,
+      526.53,
+      275.18
+    ],
+    "text": "there was evidence to say that he was employed and the same was admitted by the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      283.62,
+      526.34,
+      299.09
+    ],
+    "text": "Employee \u2013 Respondent the President of the Labour Tribunal assumed that he was",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      307.62,
+      147.55,
+      323.09
+    ],
+    "text": "unemployed.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      339.54,
+      526.27,
+      355.01
+    ],
+    "text": "The Labour Tribunal should hold the scale equal for both parties. They are not",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      363.42,
+      526.56,
+      378.89
+    ],
+    "text": "expected to run as a Philanthropic organization, which is required to show kindness",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      387.42,
+      526.64,
+      402.89
+    ],
+    "text": "when there is sufficient evidence to show otherwise. In the present case, I find that",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      411.3,
+      526.3,
+      426.77
+    ],
+    "text": "the President of the Labour Tribunal had acted unreasonably when evidence shows",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      435.3,
+      142.03,
+      450.77
+    ],
+    "text": "the contrary.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      467.24,
+      526.49,
+      482.71
+    ],
+    "text": "The awarding of compensation is governed under Section 33 of the Industrial",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      491.24,
+      526.39,
+      506.71
+    ],
+    "text": "Disputes Act No. 43 of 1950 (as amended) which is reproduced below for easy",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      515.12,
+      130.75,
+      530.59
+    ],
+    "text": "reference;",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      547.04,
+      208.8,
+      562.51
+    ],
+    "text": "Section 33 (1) (d)",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      578.96,
+      516.14,
+      594.43
+    ],
+    "text": "Without prejudice to the generality of the matters that may be specified in any",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      602.96,
+      508.39,
+      618.43
+    ],
+    "text": "award under this Act or in any order of a labour tribunal, such award or such",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      626.84,
+      460.17,
+      642.31
+    ],
+    "text": "order may contain decisions- as to the payment by any employer of",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      650.87,
+      486.98,
+      666.34
+    ],
+    "text": "compensation to any workman, the amount of such compensation or the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      674.75,
+      461.13,
+      690.22
+    ],
+    "text": "method of computing such amount, and the time within which such",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      698.75,
+      255.35,
+      714.22
+    ],
+    "text": "compensation shall be paid;",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      730.67,
+      189.21,
+      746.14
+    ],
+    "text": "Section 33 (5)",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 8 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      71.77,
+      526.59,
+      87.24
+    ],
+    "text": "Where the arbitrator, industrial court or labour tribunal considers that a",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      95.79,
+      526.24,
+      111.26
+    ],
+    "text": "decision should be made, under paragraph (b) of subsection (1), for the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      119.67,
+      526.28,
+      135.14
+    ],
+    "text": "reinstatement in service of any workman, then, if the workman so requests, the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      143.67,
+      526.35,
+      159.14
+    ],
+    "text": "arbitrator, industrial court or labour tribunal may, in lieu of making that",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      167.55,
+      526.27,
+      183.02
+    ],
+    "text": "decision, make a decision, under paragraph (d) of that subsection, for the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      191.55,
+      526.23,
+      207.02
+    ],
+    "text": "payment of compensation to that workman ; and in any such case, the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      215.43,
+      526.23,
+      230.9
+    ],
+    "text": "provisions of subsection (2) shall apply as though the decision were for the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      239.43,
+      426.73,
+      254.9
+    ],
+    "text": "payment of compensation as an alternative to reinstatement.",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      271.02,
+      189.21,
+      286.49
+    ],
+    "text": "Section 33 (6)",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      302.7,
+      494.42,
+      318.17
+    ],
+    "text": "The provisions of subsections (3) and (5) shall not be construed to limit the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      326.58,
+      481.71,
+      342.05
+    ],
+    "text": "power of the industrial court or a labour tribunal or an arbitrator, under",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      350.58,
+      519.94,
+      366.05
+    ],
+    "text": "paragraph (d) of subsection (1), to include in an award or order a decision as to",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      374.46,
+      507.25,
+      389.93
+    ],
+    "text": "the payment of compensation as an alternative to reinstatement, in any case",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      398.46,
+      398.05,
+      413.93
+    ],
+    "text": "where the court, tribunal or arbitrator thinks fit so to do",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      430.14,
+      526.28,
+      445.61
+    ],
+    "text": "However none of the provisions define the manner in which the quantum of",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      454.02,
+      526.44,
+      469.49
+    ],
+    "text": "compensation should be determined. The only parameter provided for in the Act",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      478.04,
+      526.34,
+      493.51
+    ],
+    "text": "concerning such granting of compensation is the just and equitable concept",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      501.92,
+      306.94,
+      517.39
+    ],
+    "text": "provided or in Section 31 C (1) which states;",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      533.84,
+      526.3,
+      549.31
+    ],
+    "text": "\u2018Where an application under section 31B is made to a labour tribunal, it shall be",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      557.84,
+      526.35,
+      573.31
+    ],
+    "text": "the duty of the tribunal in to make all such inquiries into that application and",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      581.72,
+      526.23,
+      597.19
+    ],
+    "text": "hear all such evidence as the tribunal may consider necessary and thereafter",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      605.72,
+      526.42,
+      621.19
+    ],
+    "text": "make, not later than six months from the date of such application, such order as",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      629.6,
+      378.37,
+      645.07
+    ],
+    "text": "may appear to the tribunal to be just and equitable\u2019",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      661.67,
+      507.51,
+      694.3
+    ],
+    "text": "In the case of Richard Peiris and Co. Ltd. v D.J. Wijesiriwardena (62 NLR 233) T.S. Fernando J stated;",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      704.03,
+      519.98,
+      719.5
+    ],
+    "text": "\u201c in regard to the power of the Tribunal to make such order as may appear to it",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      728.03,
+      512.19,
+      743.5
+    ],
+    "text": "to be just and equitable there is point in Counsel\u2019s submission that justice and",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      780.06,
+      508.01,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 9 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      71.77,
+      525.12,
+      87.24
+    ],
+    "text": "equity can themselves be measured not according to the urgings of a kind heart,",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      95.79,
+      329.53,
+      111.26
+    ],
+    "text": "but only within the framework of the law.\u201d",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      127.71,
+      526.73,
+      143.18
+    ],
+    "text": "S.R. De Silva, a renowned writer on industrial law in \u2018The Legal Framework of",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      151.59,
+      526.71,
+      167.06
+    ],
+    "text": "Industrial relations in Ceylon\u2019 (H.W Cave 1973) (at page 390) wrote that the",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      175.59,
+      526.27,
+      191.06
+    ],
+    "text": "quantum of compensation is generally within the discretion of the court, and no",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      199.47,
+      526.71,
+      214.94
+    ],
+    "text": "definite rules can be laid down in regard to the assessment of compensation. The",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      223.47,
+      526.32,
+      238.94
+    ],
+    "text": "reason for the termination, the nature of the workman\u2019s employment, his length of",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      247.35,
+      526.21,
+      262.82
+    ],
+    "text": "service and the employer\u2019s capacity to pay would all be relevant to the quantum of",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      271.38,
+      150.31,
+      286.85
+    ],
+    "text": "compensation.",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      303.3,
+      526.61,
+      318.77
+    ],
+    "text": "In Moosajees Limited v Eksath Engineru Saha Samanya Kamkaru",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      327.18,
+      526.37,
+      342.65
+    ],
+    "text": "Samithiya (79(1) NLR 285) the court took into consideration the very serious nature of",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      351.18,
+      526.18,
+      366.65
+    ],
+    "text": "the charge of which the firm had wrongfully found them guilty, the length of service,",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      375.06,
+      526.25,
+      390.53
+    ],
+    "text": "good conduct during service, the wages each workman last drew, the fact that four of",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      399.06,
+      526.36,
+      414.53
+    ],
+    "text": "them have failed to obtain employment for as long as fifteen months, the ability of the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      422.94,
+      526.7,
+      438.41
+    ],
+    "text": "employer to pay and the need of the employee. I have also borne in mind the fact",
+    "fonts": [
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      446.94,
+      526.71,
+      462.41
+    ],
+    "text": "that one of them has succeeded in getting employment elsewhere. [S.R. De Silva,",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      470.96,
+      519.87,
+      486.43
+    ],
+    "text": "The Legal Framework of Industrial Relations in Ceylon, (H.W. Cave 1973) at page 390]",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      502.88,
+      490.48,
+      518.35
+    ],
+    "text": "(Emphasis added)",
+    "fonts": [
+      "Segoe UI,Bold",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      566.72,
+      526.72,
+      582.19
+    ],
+    "text": "In the case of Saleem v Hatton National Bank [(1994) SLR Vol 2 379]",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      590.72,
+      526.71,
+      606.19
+    ],
+    "text": "Kulatunga J followed Sharvananda J\u2019s distinction of the words \u2018compensation\u2019 and",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      614.6,
+      526.59,
+      630.07
+    ],
+    "text": "\u2018damages\u2019 in The Caledonian (Ceylon) Tea And Rubber Estates Ltd. v J.S. Hillman",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      638.6,
+      526.36,
+      654.07
+    ],
+    "text": "(79(1) NLR 421) and stated \u2018Damage\u2019 always signifies recompense given to a party",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      662.51,
+      526.15,
+      677.98
+    ],
+    "text": "for the wrong that has been done to him. On the other hand \u2018compensation\u2019",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      686.51,
+      510.76,
+      701.98
+    ],
+    "text": "includes recompense for pecuniary loss or damage which involves no breach of duty.",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      718.43,
+      526.51,
+      733.9
+    ],
+    "text": "There are general principles recognized by the Superior Courts when granting",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      742.31,
+      526.7,
+      757.78
+    ],
+    "text": "compensation. In Bank of America v Abeygunasekara [(1991) SLR Vol 1 317] it was",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      780.06,
+      511.13,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 10 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      71.77,
+      526.33,
+      87.24
+    ],
+    "text": "held that the amount that should be awarded as compensation should not be",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      95.79,
+      526.57,
+      111.26
+    ],
+    "text": "mechanically calculated on the basis of the salary a workman should have earned till",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      119.67,
+      526.21,
+      135.14
+    ],
+    "text": "he reached the age of retirement. The relevant factors that should be taken into",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      143.67,
+      423.61,
+      159.14
+    ],
+    "text": "consideration in arriving at what is just and fair compensation are:-",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      120.26,
+      175.59,
+      388.21,
+      191.06
+    ],
+    "text": "I. The immediate monetary loss to the workman.",
+    "fonts": [
+      "Arial,Italic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      117.02,
+      199.47,
+      346.57,
+      214.94
+    ],
+    "text": "II. The prospective and future losses, and",
+    "fonts": [
+      "Arial,Italic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      113.78,
+      223.47,
+      269.51,
+      238.94
+    ],
+    "text": "III. The retirement benefits.",
+    "fonts": [
+      "Arial,Italic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      255.39,
+      526.18,
+      270.86
+    ],
+    "text": "It was also observed that the other aspect that is relevant to the computation of",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      279.3,
+      526.72,
+      294.77
+    ],
+    "text": "compensation is the prospects of future employment. In this case the Employee \u2013",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      303.3,
+      526.7,
+      318.77
+    ],
+    "text": "Respondent had found new employment and this should have been a factor in the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      324.98,
+      304.74,
+      343.08
+    ],
+    "text": "Labour Tribunal and High Court\u2019s decisions.",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      359.22,
+      526.63,
+      374.69
+    ],
+    "text": "In Jayasuriya v Sri Lanka State Plantation Corporation [(1995) SLR Vol 2",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      383.1,
+      170.35,
+      398.57
+    ],
+    "text": "379] it was stated;",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      415.02,
+      526.28,
+      430.49
+    ],
+    "text": "Once the incurred losses have been computed, any wages or benefits paid by",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      439.02,
+      526.27,
+      454.49
+    ],
+    "text": "the employer after the termination as well as remuneration from fresh",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      462.92,
+      526.54,
+      478.39
+    ],
+    "text": "employment must be deducted. If the employee had obtained equally",
+    "fonts": [
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      486.92,
+      526.62,
+      502.39
+    ],
+    "text": "beneficial or financially better alternative employment, he should receive",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      510.8,
+      362.89,
+      526.27
+    ],
+    "text": "no compensation at all for he suffers no loss.",
+    "fonts": [
+      "Segoe UI,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      542.84,
+      454.48,
+      558.31
+    ],
+    "text": "(Emphasis added)",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      598.64,
+      526.7,
+      614.11
+    ],
+    "text": "In Fentiman v Fluid Engineering Products Ltd. (1991 IRLR 150) it was held as",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      622.64,
+      115.27,
+      638.11
+    ],
+    "text": "follows;",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      646.52,
+      526.32,
+      661.99
+    ],
+    "text": "if an employee obtains new employment at a higher rate of pay, then the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      670.55,
+      526.23,
+      686.02
+    ],
+    "text": "Industrial Tribunal should calculate the compensatory award on the basis of the",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      694.43,
+      526.2,
+      709.9
+    ],
+    "text": "loss suffered from the date of dismissal up to the date when the new",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      718.43,
+      247.67,
+      733.9
+    ],
+    "text": "employment commenced.",
+    "fonts": [
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      780.06,
+      511.13,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 11 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      71.77,
+      526.67,
+      87.24
+    ],
+    "text": "In Jayasuriya v Sri Lanka State Plantation Corporation (Supra) it was also",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      95.79,
+      526.23,
+      111.26
+    ],
+    "text": "stated that for compensation the essential question is the actual financial loss caused",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      119.67,
+      526.27,
+      135.14
+    ],
+    "text": "by the unfair dismissal because compensation is an indemnity for the loss. What should",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      143.67,
+      526.56,
+      159.14
+    ],
+    "text": "be considered is financial loss and not sentimental harm. It was further stated by Dr.",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      167.55,
+      529.46,
+      183.02
+    ],
+    "text": "Amerasinghe J that \u201d While it is not possible to enumerate all the circumstances",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      191.55,
+      526.13,
+      207.02
+    ],
+    "text": "that may be relevant in every case, it may be stated that the essential question,",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      215.43,
+      526.3,
+      230.9
+    ],
+    "text": "in the determination of compensation for unfair dismissal, is this: What is the actual",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      239.43,
+      530.03,
+      254.9
+    ],
+    "text": "financial loss caused by the unfair dismissal?, for compensation is an \u201cindemnity for",
+    "fonts": [
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      263.31,
+      526.68,
+      278.78
+    ],
+    "text": "the loss\u201d. (Per Soza, J. in Associated Newspapers of Ceylon Ltd. v. Jayasinghe). It was",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      287.34,
+      526.25,
+      302.81
+    ],
+    "text": "further stated that the burden is on the employee to adduce sufficient evidence to",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      311.22,
+      526.68,
+      326.69
+    ],
+    "text": "enable a Labour Tribunal to decide the loss. In this case the Employee \u2013 Respondent",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      335.22,
+      526.3,
+      350.69
+    ],
+    "text": "gave false information to the Labour Tribunal and lied under oath about his",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      359.1,
+      526.28,
+      374.57
+    ],
+    "text": "employment status this should be considered against the Employee and he should",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      383.1,
+      400.8,
+      398.57
+    ],
+    "text": "not have been granted an enhanced award of compensation.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      430.98,
+      526.7,
+      446.45
+    ],
+    "text": "Taking the abovementioned case law into consideration, I find that losses can",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      454.86,
+      526.68,
+      470.33
+    ],
+    "text": "be of various kinds; but the matter for deliberation in these circumstances is the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      478.88,
+      421.08,
+      494.35
+    ],
+    "text": "financial loss, and not sentimental harm caused by the employer.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      525.51,
+      526.57,
+      542.23
+    ],
+    "text": "For the aforesaid reasons I answer the 1st question of law negatively.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      549.39,
+      526.68,
+      566.11
+    ],
+    "text": "Answering the 2nd question of law I find that both parties should prove their case on",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      574.64,
+      210.94,
+      590.11
+    ],
+    "text": "a balance of probabilities.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      622.52,
+      526.43,
+      637.99
+    ],
+    "text": "Considering the materials and submissions, I find that the Order of the learned",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      646.4,
+      526.61,
+      661.87
+    ],
+    "text": "President of the Labour Tribunal namely the termination was unreasonable is",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      670.43,
+      526.71,
+      685.9
+    ],
+    "text": "acceptable and I affirm the same. However, the computation in awarding the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      694.31,
+      526.43,
+      709.78
+    ],
+    "text": "compensation cannot be accepted. Under the Industrial Disputes Act and decided",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      718.31,
+      526.45,
+      733.78
+    ],
+    "text": "cases the actual financial loss during the period of unemployment will be considered",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      742.19,
+      526.68,
+      757.66
+    ],
+    "text": "for computation of compensation. Accordingly, I order compensation equivalent to",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      780.06,
+      511.13,
+      805.66
+    ],
+    "text": "SC Appeal 138/2017 JUDGMENT Page 12 of 12",
+    "fonts": [
+      "Arial",
+      "Arial,Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      71.77,
+      526.53,
+      87.24
+    ],
+    "text": "ten months\u2019 salary to be awarded to the Employee \u2013 Respondent (Rs. 26, 258 x 10 =",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      95.79,
+      526.62,
+      111.26
+    ],
+    "text": "Rs. 262,580/-). If the money had been already deposited before this appeal was filed,",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      119.67,
+      526.27,
+      135.14
+    ],
+    "text": "the aforementioned amount is to be deducted and the balance to be refunded to the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      143.67,
+      526.39,
+      159.14
+    ],
+    "text": "Employer \u2013 Appellant together with relevant portion of interest accrued. Similarly, the",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      167.55,
+      498.39,
+      183.02
+    ],
+    "text": "Employee \u2013 Respondent should be paid Rs. 262,580/- with the relevant interest.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      223.47,
+      172.88,
+      238.94
+    ],
+    "text": "Appeal allowed.",
+    "fonts": [
+      "Segoe UI,BoldItalic",
+      "Segoe UI,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      324.07,
+      287.34,
+      511.35,
+      302.81
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      319.26,
+      255.24,
+      334.73
+    ],
+    "text": "BUWANEKA ALUWIHARE, PC, J.",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      343.26,
+      157.27,
+      358.73
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      324.07,
+      391.14,
+      511.35,
+      406.61
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      423.06,
+      200.28,
+      438.53
+    ],
+    "text": "L.T.B. DEHIDENIYA, J.",
+    "fonts": [
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      446.94,
+      114.31,
+      462.41
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Segoe UI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      494.96,
+      511.35,
+      510.43
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Segoe UI",
+      "Segoe UI,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
