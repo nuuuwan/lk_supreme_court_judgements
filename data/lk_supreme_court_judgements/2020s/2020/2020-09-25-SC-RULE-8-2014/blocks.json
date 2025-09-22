@@ -1,0 +1,8456 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      190.85,
+      58.54,
+      425.27,
+      75.51
+    ],
+    "text": "IN THE SUPREME COURT OF THE",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.064000129699707
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      126.62,
+      91.82,
+      489.89,
+      108.77
+    ],
+    "text": "DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      125.18,
+      543.86,
+      139.66
+    ],
+    "text": "In the matter of a Rule issued against Mr.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      146.9,
+      543.86,
+      161.38
+    ],
+    "text": "Wasantha Wijewardena Attorney-at-Law in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      168.62,
+      543.86,
+      183.1
+    ],
+    "text": "terms of section 42(3) read with section 42(2) of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      190.34,
+      462.86,
+      204.82
+    ],
+    "text": "the Judicature Act No. 2 of 1978.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      249.89,
+      193.65,
+      264.37
+    ],
+    "text": "S C Rule No. 08/ 2014",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      279.65,
+      416.99,
+      294.13
+    ],
+    "text": "R M Karunaratne Banda,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      309.29,
+      337.19,
+      323.77
+    ],
+    "text": "No. 95/1,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      339.05,
+      346.91,
+      353.53
+    ],
+    "text": "Kahawatta,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      368.81,
+      351.23,
+      383.29
+    ],
+    "text": "Ambatenna.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      428.23,
+      377.99,
+      442.71
+    ],
+    "text": "COMPLAINANT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      487.75,
+      308.61,
+      502.23
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      547.15,
+      514.22,
+      561.63
+    ],
+    "text": "Wasantha Wijewardena, (Attorney-at-Law)",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      576.91,
+      326.03,
+      591.39
+    ],
+    "text": "No. 03,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      606.7,
+      372.71,
+      621.18
+    ],
+    "text": "Colombo Street,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      636.34,
+      323.63,
+      650.82
+    ],
+    "text": "Kandy.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.61,
+      695.86,
+      370.25,
+      710.34
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      58.54,
+      374.27,
+      75.51
+    ],
+    "text": "Before: VIJITH K MALALGODA PC J",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.02400016784668,
+      14.064000129699707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      91.82,
+      355.9,
+      108.77
+    ],
+    "text": "P PADMAN SURASENA J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.7,
+      125.18,
+      323.38,
+      142.13
+    ],
+    "text": "S THURAIRAJA PC J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      158.54,
+      504.5,
+      173.02
+    ],
+    "text": "Counsel: Dr. Avanthi Perera SSC with Sureka Ahamad SC for Attorney General.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      188.3,
+      441.74,
+      202.78
+    ],
+    "text": "Rohan Sahabandu PC for the Bar Association of Sri Lanka.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      218.06,
+      524.3,
+      232.54
+    ],
+    "text": "Respondent Wasantha Wijewardena Attorney-at-Law appeared in person.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      247.73,
+      501.62,
+      262.21
+    ],
+    "text": "Inquiry conducted on : 03-09-2019, 02-12-2019, 10-02-2020, and 10-03-2020.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      277.49,
+      267.93,
+      291.97
+    ],
+    "text": "Decided on : 25-09-2020",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      307.25,
+      219.21,
+      321.73
+    ],
+    "text": "P PADMAN SURASENA J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      337.01,
+      543.86,
+      351.49
+    ],
+    "text": "Upon a Complaint against the Respondent Attorney-at-Law made to this Court by the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      358.73,
+      540.14,
+      373.21
+    ],
+    "text": "Complainant, this Court served a copy of the said complaint on the Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      380.45,
+      543.86,
+      394.93
+    ],
+    "text": "at-Law and called for his observations thereon. Thereafter, this Court referred the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      402.17,
+      543.86,
+      416.65
+    ],
+    "text": "complaint to a disciplinary committee of the Bar Association of Sri Lanka in accordance",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      423.91,
+      543.86,
+      438.39
+    ],
+    "text": "with section 43 of the Judicature Act with a direction to conduct a preliminary inquiry into",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      445.63,
+      543.86,
+      460.11
+    ],
+    "text": "the alleged misconduct of the Respondent Attorney-at-Law. This was to enable this Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      467.35,
+      543.86,
+      481.83
+    ],
+    "text": "to determine whether further proceedings should be taken against the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      489.07,
+      463.34,
+      503.55
+    ],
+    "text": "Attorney-at-Law to deal with him under section 42 of the Judicature Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      518.83,
+      543.86,
+      533.31
+    ],
+    "text": "The said disciplinary committee (of the Bar Association of Sri Lanka) having inquired into",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      540.55,
+      543.86,
+      555.03
+    ],
+    "text": "the said complaint, has forwarded to this Court its order dated 07-12-2013. This has been",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      562.27,
+      543.86,
+      576.75
+    ],
+    "text": "produced before this Court marked P 11. The said disciplinary committee had concluded",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      583.99,
+      543.86,
+      598.47
+    ],
+    "text": "that the Respondent Attorney-at-Law, who has filed an application on behalf of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      605.74,
+      543.86,
+      620.22
+    ],
+    "text": "Complainant after receiving fees from him, has not given an acceptable explanation for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      627.46,
+      543.86,
+      641.94
+    ],
+    "text": "his absence in the Supreme Court on 17-06-2009 and 20-07-2009, which were the dates",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      649.18,
+      543.86,
+      663.66
+    ],
+    "text": "the Court had fixed the said application for support. Further, the said disciplinary",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      670.9,
+      543.86,
+      685.38
+    ],
+    "text": "committee also had concluded that it was long after the Court had dismissed the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      692.62,
+      543.86,
+      707.1
+    ],
+    "text": "application that the Respondent Attorney-at-Law had made the re-listing application. The",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "said disciplinary committee had also stated in its order that it is a bounden duty on the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "part of the Respondent Attorney-at-Law to have examined the record to check the next",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      102.02,
+      543.86,
+      116.5
+    ],
+    "text": "date for support and that he should have taken steps to file a re-listing application",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      123.74,
+      293.49,
+      138.22
+    ],
+    "text": "immediately after the order of dismissal.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      153.38,
+      543.86,
+      167.86
+    ],
+    "text": "It was on the above basis that the disciplinary committee of the Bar Association of Sri",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      175.1,
+      543.86,
+      189.58
+    ],
+    "text": "Lanka had finally concluded that the Respondent Attorney-at-Law has not shown due",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      196.82,
+      543.86,
+      211.3
+    ],
+    "text": "diligence in carrying out his professional obligations towards his client and decided to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      218.66,
+      427.07,
+      233.14
+    ],
+    "text": "refer the record of its proceedings to this Court for further action.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      248.33,
+      543.86,
+      262.81
+    ],
+    "text": "This Court on the receipt of the said record of proceedings by the said disciplinary",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      270.05,
+      543.86,
+      284.53
+    ],
+    "text": "committee noticed the Respondent Attorney-at-Law as well as the Hon. Attorney General",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      291.77,
+      222.93,
+      306.25
+    ],
+    "text": "to appear before this Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      321.53,
+      543.86,
+      336.01
+    ],
+    "text": "Thereafter, this Court on 09-05-2014 having considered the conclusions of the disciplinary",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      343.25,
+      543.86,
+      357.73
+    ],
+    "text": "committee of the Bar Association of Sri Lanka has directed the Registrar of this Court to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      364.97,
+      543.86,
+      379.45
+    ],
+    "text": "forward certified copies of the relevant documents to the Hon. Attorney General for the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      386.69,
+      543.86,
+      401.17
+    ],
+    "text": "purpose of drafting a Rule against the Respondent Attorney-at-Law in terms of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      408.41,
+      294.93,
+      422.89
+    ],
+    "text": "relevant provisions in the Judicature Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      438.19,
+      543.86,
+      452.67
+    ],
+    "text": "It was pursuant to the above order that Hon. Attorney General had prepared a draft Rule",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      459.91,
+      543.86,
+      474.39
+    ],
+    "text": "and submitted to this Court. It was the said Rule, 1 which was issued against the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      481.63,
+      475.34,
+      496.11
+    ],
+    "text": "Respondent Attorney-at-Law under the hand of the Registrar of this Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      511.39,
+      543.86,
+      525.87
+    ],
+    "text": "The said Rule has averred the facts and circumstances relevant to the questionable acts",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      533.11,
+      543.86,
+      547.59
+    ],
+    "text": "and conduct of the Respondent Attorney-at-Law. The several averments of facts in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      554.83,
+      543.86,
+      569.31
+    ],
+    "text": "said Rule point to three main alleged questionable acts/conduct on the part of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      576.55,
+      340.79,
+      591.03
+    ],
+    "text": "Respondent Attorney-at-Law. They are as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      606.34,
+      543.86,
+      620.86
+    ],
+    "text": "(i) The Respondent Attorney-at-Law never informed the Complainant that the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      628.06,
+      543.86,
+      642.54
+    ],
+    "text": "Fundamental Rights Application, which was to be filed, would be time barred and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      649.78,
+      540.02,
+      664.26
+    ],
+    "text": "that the Complainant would never have instructed the Respondent Attorney-at-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      692.0,
+      227.9,
+      720.07
+    ],
+    "text": "1 Rule dated 17th September 2014.",
+    "fonts": [
+      "Calibri",
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      8.039999961853027,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "Law to file such an application and paid his fees if he had been appraised of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      80.3,
+      185.1,
+      94.78
+    ],
+    "text": "said position.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      109.94,
+      543.86,
+      124.46
+    ],
+    "text": "(ii) The Respondent Attorney-at-Law failed to appear for the petitioner in the relevant",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      131.66,
+      543.86,
+      146.14
+    ],
+    "text": "Fundamental Rights Application (No. SC FR 445 / 2009) when it was listed for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      153.38,
+      543.86,
+      167.86
+    ],
+    "text": "support initially on 17-06-2009 and subsequently on 20-07-2009 and that the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      175.1,
+      543.86,
+      189.58
+    ],
+    "text": "Supreme court dismissed the said application on the latter date as the Petitioner",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      196.82,
+      356.99,
+      211.3
+    ],
+    "text": "had been absent and unrepresented in Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      226.58,
+      543.86,
+      241.1
+    ],
+    "text": "(iii) The Respondent Attorney-at-Law failed to file or support an application to have",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      248.33,
+      540.14,
+      262.81
+    ],
+    "text": "the said dismissed application re-listed and restored until he filed a motion on 19-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      270.05,
+      482.42,
+      284.53
+    ],
+    "text": "10-2009, which was rejected by the Supreme Court due to the delay.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      299.81,
+      543.86,
+      314.29
+    ],
+    "text": "It was on the premise of the above-alleged questionable acts/conduct by the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      321.53,
+      326.15,
+      336.01
+    ],
+    "text": "Attorney-at-Law that the Rule has alleged that;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      351.29,
+      543.86,
+      365.81
+    ],
+    "text": "a) by reason of the said acts and conduct, the Respondent Attorney-at-Law has",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      373.01,
+      543.86,
+      387.49
+    ],
+    "text": "conducted in a manner that would reasonably be regarded as disgraceful or",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      394.73,
+      547.58,
+      409.21
+    ],
+    "text": "dishonourable by Attorneys-at-Law of good repute and competence and have thus",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      416.45,
+      543.86,
+      430.93
+    ],
+    "text": "committed a breach of Rule 60 of the Supreme Court (Conduct of and Etiquette",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      438.19,
+      543.86,
+      452.67
+    ],
+    "text": "for Attorneys-at-Law) Rules 1988, made under Article 136 of the Constitution of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      459.91,
+      357.71,
+      474.39
+    ],
+    "text": "the Democratic Socialist Republic of Sri Lanka;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      489.67,
+      543.86,
+      504.19
+    ],
+    "text": "b) by reason of the aforesaid acts and conduct, the Respondent Attorney-at-Law has",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      511.39,
+      540.02,
+      525.87
+    ],
+    "text": "conducted in a manner that would render him unfit to remain as an Attorney-at-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      533.11,
+      468.38,
+      547.59
+    ],
+    "text": "Law and has thus committed a breach of Rule 60 of the said Rules;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      562.87,
+      543.86,
+      577.39
+    ],
+    "text": "c) by reason of the aforesaid acts and conduct, the Respondent Attorney-at-Law has",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      584.59,
+      543.86,
+      599.07
+    ],
+    "text": "conducted in a manner which is inexcusable and such as to be regarded as",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      606.34,
+      543.86,
+      620.82
+    ],
+    "text": "deplorable by his colleagues in the profession and has thus committed a breach",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      628.06,
+      262.05,
+      642.54
+    ],
+    "text": "of Rule 60 of the said Rules;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      657.82,
+      543.86,
+      672.34
+    ],
+    "text": "d) by reason of the aforesaid acts and conduct, the Respondent Attorney-at-Law has",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      679.54,
+      543.86,
+      694.02
+    ],
+    "text": "conducted in a manner unworthy of an Attorney-at-Law and has thus committed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      701.26,
+      311.75,
+      715.74
+    ],
+    "text": "a breach of Rule 60 of the said Rules;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      58.56,
+      543.86,
+      73.08
+    ],
+    "text": "e) by reason of the aforesaid conduct, the Respondent Attorney-at-Law has",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      80.3,
+      211.05,
+      94.78
+    ],
+    "text": "committed acts of;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164.42,
+      109.94,
+      258.45,
+      124.46
+    ],
+    "text": "i. deceit and/or;",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164.42,
+      139.7,
+      248.01,
+      154.22
+    ],
+    "text": "ii. malpractice.",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      169.46,
+      543.86,
+      183.94
+    ],
+    "text": "Having alleged as above, the Rule has directed the Respondent Attorney-at-Law, to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      191.18,
+      543.86,
+      205.66
+    ],
+    "text": "appear before this Court and show cause as to why he should not be suspended from",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      212.9,
+      543.86,
+      227.38
+    ],
+    "text": "practice or be removed from the office of the Attorney-at-Law of the Supreme Court of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      234.62,
+      543.86,
+      249.1
+    ],
+    "text": "the Democratic Socialist Republic of Sri Lanka, in terms of section 42(2) of the Judicature",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      256.37,
+      96.18,
+      270.85
+    ],
+    "text": "Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      286.13,
+      543.86,
+      300.61
+    ],
+    "text": "The Respondent Attorney-at-Law appeared in person to defend himself. This Court then",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      307.85,
+      543.86,
+      322.33
+    ],
+    "text": "read out the said Rule and handed over a copy of the said Rule to him in open court. As",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      329.57,
+      543.86,
+      344.05
+    ],
+    "text": "the Respondent Attorney-at-Law moved for time to show cause the Court then had",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      347.33,
+      543.86,
+      365.77
+    ],
+    "text": "granted him time and fixed the inquiry for another date. 2 Thereafter, the Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      373.01,
+      458.18,
+      387.49
+    ],
+    "text": "commenced the inquiry on 03-09-2019 and concluded it on 10-03-2020.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      402.77,
+      543.86,
+      417.25
+    ],
+    "text": "The main witness called in support of the Rule is Randilisi Mudiyanselage Karunaratne",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      424.51,
+      543.86,
+      438.99
+    ],
+    "text": "Banda who is the Complainant in this case. In addition, the evidence of the Registrar of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      446.23,
+      543.86,
+      460.71
+    ],
+    "text": "the Supreme Court was also led before this Court in support of the Rule. After the learned",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      467.95,
+      540.02,
+      482.43
+    ],
+    "text": "Senior State Counsel closed the case in support of the Rule, the Respondent Attorney-at-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      489.67,
+      266.25,
+      504.15
+    ],
+    "text": "Law also gave evidence under oath.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      519.43,
+      543.86,
+      533.91
+    ],
+    "text": "The Respondent Attorney-at-Law did not challenge the following factual positions in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      541.15,
+      543.86,
+      555.63
+    ],
+    "text": "course of the inquiry before this Court. Therefore, the said factual positions became",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      562.87,
+      281.25,
+      577.35
+    ],
+    "text": "common grounds. They are as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      592.51,
+      543.86,
+      607.03
+    ],
+    "text": "(i) The Complainant having paid the full fees quoted, had duly retained the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      614.26,
+      543.86,
+      628.74
+    ],
+    "text": "Respondent Attorney-at-Law, and instructed him to file a Fundamental Rights",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      635.98,
+      543.86,
+      650.46
+    ],
+    "text": "Application in the Supreme Court in order to obtain relief for the complained",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      657.82,
+      324.23,
+      672.3
+    ],
+    "text": "infringement of his Fundamental Rights.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      692.0,
+      242.3,
+      720.07
+    ],
+    "text": "2 Vide proceedings dated 17-09-2014.",
+    "fonts": [
+      "Calibri",
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      58.56,
+      543.86,
+      73.08
+    ],
+    "text": "(ii) Accordingly, the Respondent Attorney-at-Law has filed the Fundamental Rights",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "Application bearing No. SC FR 445 / 2009, which was then fixed for support for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      102.02,
+      543.86,
+      116.5
+    ],
+    "text": "17-06-2009. The record of the Fundamental Rights Application bearing No. SC FR",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      123.74,
+      317.03,
+      138.22
+    ],
+    "text": "445 / 2009 was produced marked P 8.",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      153.38,
+      543.86,
+      167.9
+    ],
+    "text": "(iii) The Respondent Attorney-at-Law did not appear for the Petitioner in Court to",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      175.1,
+      543.86,
+      189.58
+    ],
+    "text": "support the said application on 17-06-2009. However, he has arranged another",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      196.82,
+      543.86,
+      211.3
+    ],
+    "text": "Attorney-at-Law to appear for the Petitioner in Court and make an application on",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      218.66,
+      543.86,
+      233.14
+    ],
+    "text": "his behalf for a postponement. Upon the said application, the Court re fixed the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      240.38,
+      321.71,
+      254.86
+    ],
+    "text": "application for support for 20-07-2009.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      270.05,
+      543.86,
+      284.57
+    ],
+    "text": "(iv) The Respondent Attorney-at-Law failed to appear to support this application on",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      291.77,
+      543.86,
+      306.25
+    ],
+    "text": "20-07-2009. Therefore, on that date, the Supreme Court has dismissed the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      313.49,
+      543.86,
+      327.97
+    ],
+    "text": "application on the basis that the Petitioner was absent and unrepresented. The",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      335.21,
+      543.86,
+      349.69
+    ],
+    "text": "journal entry containing the order made by Court on 20-07-2009 has been",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      357.05,
+      249.09,
+      371.53
+    ],
+    "text": "produced marked P 8(a).",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      386.69,
+      543.86,
+      401.21
+    ],
+    "text": "(v) The Respondent Attorney-at-Law failed to file or support an application to have",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      408.41,
+      540.14,
+      422.89
+    ],
+    "text": "the said dismissed application re-listed and restored until he filed a motion on 19-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      430.15,
+      507.98,
+      444.63
+    ],
+    "text": "10-2009, which requested to list it for 10th or 11th or 12th November 2009.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      459.91,
+      543.86,
+      474.43
+    ],
+    "text": "(vi) The then Hon. Chief Justice who presided on the bench, which dismissed the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      481.63,
+      543.86,
+      496.11
+    ],
+    "text": "Complainant\u2019s application on 20-07-2009, had made order on the motion dated",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      503.35,
+      540.14,
+      517.83
+    ],
+    "text": "19-10-2009 filed by the Respondent Attorney-at-Law. The said order dated 27-10-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      525.07,
+      543.86,
+      539.55
+    ],
+    "text": "2009 stated, \u201cDo not list this\u201d. The relevant journal entry in the record of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      546.79,
+      543.86,
+      561.27
+    ],
+    "text": "Fundamental Rights application bearing No. SC FR 445 / 2009 has been produced",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      568.51,
+      195.93,
+      582.99
+    ],
+    "text": "marked P 2(a).",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      598.27,
+      543.86,
+      612.75
+    ],
+    "text": "I have already stated above that the Rule point to three main alleged questionable",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      620.02,
+      543.86,
+      634.5
+    ],
+    "text": "acts/conduct on the part of the Respondent Attorney-at-Law. As the second of the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      641.74,
+      543.86,
+      656.22
+    ],
+    "text": "three main alleged questionable acts/conduct of the Respondent Attorney-at-Law is a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      663.46,
+      466.58,
+      677.94
+    ],
+    "text": "quite straightforward complaint it would be opportune to consider it first.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "The said second questionable act/conduct alleged that the Respondent Attorney-at-Law",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "failed to appear (for the Complainant) in Court in the Fundamental Rights Application No.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      102.02,
+      543.86,
+      116.5
+    ],
+    "text": "SC FR 445 / 2009 when it came up for support initially on 17-06-2009 and subsequently",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      123.74,
+      543.86,
+      138.22
+    ],
+    "text": "on 20-07-2009 and the said failure resulted in the Supreme court dismissing the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      145.46,
+      543.86,
+      159.94
+    ],
+    "text": "application on the basis that the Petitioner had been absent and unrepresented in Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      167.18,
+      171.9,
+      181.66
+    ],
+    "text": "on the latter date.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      196.82,
+      543.86,
+      211.3
+    ],
+    "text": "Rule 16 of Supreme Court (Conduct of and Etiquette for Attorneys-at-Law) Rules 1988 is",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      218.66,
+      131.46,
+      233.14
+    ],
+    "text": "as follows,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      248.33,
+      547.86,
+      262.81
+    ],
+    "text": "\u201cWhere the services of an Attorney-at-Law have been retained in any proceedings in any",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      270.05,
+      547.86,
+      284.53
+    ],
+    "text": "Court, tribunal or other institution established for the administration of justice, it shall be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      291.77,
+      547.86,
+      306.25
+    ],
+    "text": "the duty of such Attorney-at-Law to appear at such proceedings, unless prevented by",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.2,
+      313.49,
+      263.89,
+      327.97
+    ],
+    "text": "circumstances beyond his control.\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      343.25,
+      543.86,
+      357.73
+    ],
+    "text": "The Respondent Attorney-at-Law gave evidence on his behalf in the course of the instant",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      364.97,
+      543.86,
+      379.45
+    ],
+    "text": "inquiry. He categorically admitted in his evidence that it was his responsibility to have",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      386.69,
+      543.86,
+      401.17
+    ],
+    "text": "made arrangements for an appearance of counsel on the date the Court had fixed the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      408.41,
+      165.3,
+      422.89
+    ],
+    "text": "case for support.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      438.19,
+      543.86,
+      452.67
+    ],
+    "text": "I would at this stage, digress to examine how this Court has previously viewed such",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      459.91,
+      543.86,
+      474.39
+    ],
+    "text": "absence of such Attorneys-at-Law, which had resulted in failures on their part to perform",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      481.63,
+      543.86,
+      496.11
+    ],
+    "text": "their duties on behalf of their clients. It would suffice to refer to the following two cases.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      511.39,
+      414.59,
+      525.87
+    ],
+    "text": "In the case of Daniel vs Chandradewa,3 the facts are as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      541.15,
+      543.86,
+      555.63
+    ],
+    "text": "In an action filed in the District Court of Colombo, the registered Attorney on record",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      562.87,
+      543.86,
+      577.35
+    ],
+    "text": "between 22-03-1988 and 06-08-1992 was Chandradewa who was the respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      584.59,
+      543.86,
+      599.07
+    ],
+    "text": "Attorney-at-Law in that case. One of the allegations against the said Attorney-at-Law was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      606.34,
+      543.86,
+      620.82
+    ],
+    "text": "her failure to appear in Court and or not having performed her duties on behalf of her",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      628.06,
+      383.15,
+      642.54
+    ],
+    "text": "client in the said pending action before the District Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      678.09,
+      219.05,
+      706.15
+    ],
+    "text": "3 1994 2 Sri LR 1",
+    "fonts": [
+      "Calibri",
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "The said District Court case was an action filed under Chapter 53 of the Civil Procedure",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "Code to recover a liquid claim through summary procedure. The defendant D E Daniel4",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      102.02,
+      436.82,
+      116.5
+    ],
+    "text": "made an application seeking the permission of Court to file answer.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      131.66,
+      543.86,
+      146.14
+    ],
+    "text": "The court ordered the Defendant to file written submissions on 04-05-1988 to enable",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      153.38,
+      543.86,
+      167.86
+    ],
+    "text": "Court to decide whether it should grant leave for the Defendant to defend the said action",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      175.1,
+      242.85,
+      189.58
+    ],
+    "text": "conditionally or unconditionally.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      204.86,
+      543.86,
+      219.34
+    ],
+    "text": "The Defendant\u2019s written submissions was not filed on 04-05-1988 as directed by Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      226.58,
+      543.86,
+      241.06
+    ],
+    "text": "His registered Attorney on record (the respondent Attorney-at-Law Chandradewa) was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      248.33,
+      543.86,
+      262.81
+    ],
+    "text": "absent on 04-05-1988. The Court reserved its order for 06-06-1988 on which date also",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      270.05,
+      543.86,
+      284.53
+    ],
+    "text": "the registered Attorney was absent. The Court issued notice for 27-06-1988. The",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      291.77,
+      543.86,
+      306.25
+    ],
+    "text": "registered Attorney was not present on 27-06-1988 but another Attorney \u2013at-Law Mr.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      313.49,
+      540.14,
+      327.97
+    ],
+    "text": "Welcome appeared on that day and moved for a postponement. The Court fixed 11-07-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      335.21,
+      543.86,
+      349.69
+    ],
+    "text": "1998 as the final date for the filing of written submissions. Mr. Welcome appeared for the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      357.05,
+      543.86,
+      371.53
+    ],
+    "text": "Defendant on 11-07-1988 but the registered Attorney was absent. As no written",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      378.77,
+      543.86,
+      393.25
+    ],
+    "text": "submissions was filed on 11-07-1988, Court directed to call the case on 19-08-1988 for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      400.49,
+      124.26,
+      414.97
+    ],
+    "text": "an order.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      430.15,
+      543.86,
+      444.63
+    ],
+    "text": "The respondent Attorney-at-Law took up the position that she was not present in Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      451.87,
+      540.02,
+      466.35
+    ],
+    "text": "on 19-08-1988 because on the previous date namely 11-07-1988 Mr. Welcome Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      473.59,
+      543.86,
+      488.07
+    ],
+    "text": "at-Law had appeared on her instructions and obtained the date. She therefore took up",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      495.43,
+      543.86,
+      509.91
+    ],
+    "text": "the position that she did not know that the date given was 19-08-1988 as she was not",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      517.15,
+      543.86,
+      531.63
+    ],
+    "text": "present herself in Court at the time the said date was fixed. She further took up a position",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      538.87,
+      543.86,
+      553.35
+    ],
+    "text": "that when a counsel appears and obtains a date it is a date convenient to that counsel",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      560.59,
+      543.86,
+      575.07
+    ],
+    "text": "and therefore the responsibility shifts to that counsel to keep a track of the case and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      582.31,
+      543.86,
+      596.79
+    ],
+    "text": "appear on the next date or prepare answer or written submissions or whatever document",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      604.06,
+      354.35,
+      618.54
+    ],
+    "text": "he had undertaken to prepare before the next date.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      633.82,
+      358.91,
+      648.3
+    ],
+    "text": "This Court rejecting that argument stated as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      692.0,
+      447.67,
+      720.07
+    ],
+    "text": "4 He is the complainant in the subsequently issued Rule against his Attorney-at-Law.",
+    "fonts": [
+      "Calibri",
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      303.29,
+      38.16,
+      311.33,
+      49.2
+    ],
+    "text": "9",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      58.56,
+      547.86,
+      73.04
+    ],
+    "text": "\u201c\u2026. While an Attorney who has been retained and instructed by a Registered Attorney to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      80.3,
+      547.86,
+      94.78
+    ],
+    "text": "appear as counsel for the purpose of conducting the case, and who in so acting, obtains",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      102.02,
+      547.86,
+      116.5
+    ],
+    "text": "a date to suit his convenience, could be reasonably expected to appear on that date to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      123.74,
+      547.86,
+      138.22
+    ],
+    "text": "conduct the case, Mr. Welcome had not been so retained and instructed. According to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      145.46,
+      547.86,
+      159.94
+    ],
+    "text": "the evidence of the respondent, she retained Mr. Welcome on each of the two occasions",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      167.18,
+      547.86,
+      181.66
+    ],
+    "text": "on which he appeared for the specific and limited purpose of obtaining postponements",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      188.9,
+      547.86,
+      203.38
+    ],
+    "text": "because the respondent was engaged in the business of another Court. There was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      210.62,
+      547.86,
+      225.1
+    ],
+    "text": "nothing to show that the date was suggested by Mr. Welcome to suit his convenience.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      232.34,
+      547.86,
+      246.82
+    ],
+    "text": "There was no reason for him to have asked for a particular date since he was not the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      254.09,
+      547.86,
+      268.57
+    ],
+    "text": "counsel in the case. The respondent knew the circumstances in which Mr. Welcome was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      275.81,
+      547.86,
+      290.29
+    ],
+    "text": "retained and she could not have reasonably assumed that Mr. Welcome would appear",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      297.53,
+      547.86,
+      312.01
+    ],
+    "text": "once again. There is certainly no duty as suggested by learned counsel for the respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      319.25,
+      547.86,
+      333.73
+    ],
+    "text": "that an Attorney who is merely instructed to appear for the purpose of requesting a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      340.97,
+      547.86,
+      355.45
+    ],
+    "text": "postponement, should, without being instructed to do so, appear again. Having asked",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      362.69,
+      547.86,
+      377.17
+    ],
+    "text": "Mr. Welcome to obtain a postponement, it was her duty to ascertain what the decision of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      384.41,
+      547.86,
+      398.89
+    ],
+    "text": "the Court was in response to his application. This, she should have ascertained form Mr.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      406.13,
+      547.86,
+      420.61
+    ],
+    "text": "Welcome, who, she claims, she retained, or by examining the journal entries from time",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      427.87,
+      547.86,
+      442.35
+    ],
+    "text": "to time, as a Registered Attorney should do, especially if he or she has not been in Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      449.59,
+      547.86,
+      464.07
+    ],
+    "text": "on account of his or her presence having being dispensed with by counsel. Having",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      471.43,
+      547.86,
+      485.91
+    ],
+    "text": "ascertained the next date, the respondent should have either instructed counsel to appear",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      493.15,
+      547.86,
+      507.63
+    ],
+    "text": "on that date or personally appeared for the client on that date. Ranaweera vs Jinadasa",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      514.87,
+      547.86,
+      529.35
+    ],
+    "text": "and Gunapala 5 does not assist the respondent. If a Registered Attorney has not",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      536.59,
+      547.86,
+      551.07
+    ],
+    "text": "appointed another Attorney to act as counsel, or having appointed counsel, he has not",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      558.31,
+      547.86,
+      572.79
+    ],
+    "text": "agreed with counsel that the attendance in Court of such Registered Attorney may be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      580.03,
+      547.86,
+      594.51
+    ],
+    "text": "dispensed with, then such Registered Attorney must personally keep a track of the dates",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      601.78,
+      547.86,
+      616.26
+    ],
+    "text": "of hearing, having regard to the usual way in which dates of hearing are fixed and notice",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      623.5,
+      547.86,
+      637.98
+    ],
+    "text": "is given in the Court or tribunal, and appear when the case comes on for hearing or other",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.2,
+      645.22,
+      547.86,
+      659.7
+    ],
+    "text": "purpose decided or ordered by the Court or tribunal. In the circumstances, the absence",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      692.0,
+      287.66,
+      720.07
+    ],
+    "text": "5 SC Appeal 41/1991 SC minutes of 27-03-1992.",
+    "fonts": [
+      "Calibri",
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "10",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      58.56,
+      547.86,
+      73.04
+    ],
+    "text": "of the respondent on the 19th of August 1998 was an inexcusable contravention of her",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      80.3,
+      316.71,
+      94.78
+    ],
+    "text": "obligation to appear for the Complainant. \u2026\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      109.94,
+      539.9,
+      124.42
+    ],
+    "text": "The second case I would refer to is the case of Piyadasa Vs Kurukulasuriya Attorney-at-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      131.66,
+      543.86,
+      146.14
+    ],
+    "text": "Law.6 It is also a case where this Court had to deal with an Attorney-at-Law who was in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      153.38,
+      543.86,
+      167.86
+    ],
+    "text": "default of his basic obligation to exercise due diligence in an application for leave to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      175.1,
+      305.01,
+      189.58
+    ],
+    "text": "appeal pending before the Court of Appeal.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      204.86,
+      543.86,
+      219.34
+    ],
+    "text": "In that case Piyadasa who was the Defendant in the District Court case No. 860/RE",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      226.58,
+      543.86,
+      241.06
+    ],
+    "text": "retained the respondent Attorney-at-Law in an application for leave to appeal against an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      248.33,
+      543.86,
+      262.81
+    ],
+    "text": "order made in favour of said Piyadasa pending before the Court of Appeal. The said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      270.05,
+      543.86,
+      284.53
+    ],
+    "text": "respondent Attorney-at-Law failed to enter his appearance, give his free dates and failed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      291.77,
+      543.86,
+      306.25
+    ],
+    "text": "to keep a track of the said application. Subsequently the Court of Appeal decided the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      313.49,
+      410.87,
+      327.97
+    ],
+    "text": "appeal against said Piyadasa who was unrepresented in Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      343.25,
+      543.86,
+      357.73
+    ],
+    "text": "Having examined the material and the arguments of the respective parties this Court",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      364.97,
+      167.82,
+      379.45
+    ],
+    "text": "stated as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      394.73,
+      547.86,
+      409.21
+    ],
+    "text": "\u201c\u2026. However had the Respondent entered his appearance and given his free dates, in all",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.19,
+      416.43,
+      547.87,
+      430.94
+    ],
+    "text": "probability the case would have been listed on a date suitable to him; and if it was not,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      438.19,
+      547.86,
+      452.67
+    ],
+    "text": "that would have been a sufficient ground for re-listing. There would have been no defaults",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      459.91,
+      547.86,
+      474.39
+    ],
+    "text": "on 13-11-90 04-09-91, 27-11-91, 18-09-92, 30-10-92 and 24-11-92. Despite avoidable",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      481.63,
+      547.86,
+      496.11
+    ],
+    "text": "lapses by the registry officials, it was thus the Respondent who was principally responsible",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      503.35,
+      544.26,
+      517.83
+    ],
+    "text": "for those defaults which resulted in adverse orders being made on 13-11-90 and 24-11-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      525.07,
+      547.86,
+      539.55
+    ],
+    "text": "92. His evidence indicated that he was waiting some intimation form the Court of Appeal,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      546.79,
+      547.86,
+      561.27
+    ],
+    "text": "but the practice of the Court clearly did not entitle a party or his Attorney-at-Law to any",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      568.51,
+      547.86,
+      582.99
+    ],
+    "text": "such notice. Nor can this Court treat his responsibility as any less simply because he",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.19,
+      590.21,
+      544.15,
+      604.72
+    ],
+    "text": "retained Attorney-at-Law Hirimuthugoda, for it is the respondent\u2019s position that Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      611.98,
+      547.86,
+      626.46
+    ],
+    "text": "at-Law Hirimuthugoda was only asked to appear on 11-10-90 and 03-12-90 and,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.2,
+      633.82,
+      547.86,
+      648.3
+    ],
+    "text": "thereafter, \u201cto have an eye on the appeal list\u201d not that he was retained to argue the case.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      691.88,
+      219.05,
+      719.95
+    ],
+    "text": "6 1997 2 Sri LR 410",
+    "fonts": [
+      "Calibri",
+      "Tahoma",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "11",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71.2,
+      58.56,
+      547.86,
+      73.04
+    ],
+    "text": "As the registered Attorney, it remained the respondent\u2019s responsibility to deal with the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71.2,
+      80.3,
+      286.57,
+      94.78
+    ],
+    "text": "case.(See Daniel Vs Chandradewa) \u2026 \u201c",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      109.94,
+      543.86,
+      124.42
+    ],
+    "text": "On the above basis this Court held that the said Respondent Attorney-at-Law was in",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      131.66,
+      543.86,
+      146.14
+    ],
+    "text": "default of his basic obligation to exercise due diligence, now expressly recognized in rules",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      153.38,
+      543.86,
+      167.86
+    ],
+    "text": "10 and 15 of the Supreme Court (Conduct of and Etiquette for Attorneys-at-Law) Rules",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      175.1,
+      109.38,
+      189.58
+    ],
+    "text": "1988.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      204.86,
+      543.86,
+      219.34
+    ],
+    "text": "Let me now come back to the instant case. As has already been mentioned above, the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      226.58,
+      543.86,
+      241.06
+    ],
+    "text": "Respondent Attorney-at-Law has categorically admitted that it was his responsibility to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      248.33,
+      543.86,
+      262.81
+    ],
+    "text": "have made arrangements for an appearance of counsel on the date the Court had fixed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      270.05,
+      543.86,
+      284.53
+    ],
+    "text": "the case for support. He has neither appeared nor made any such arrangement for an",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      291.77,
+      543.86,
+      306.25
+    ],
+    "text": "appearance by any other counsel. The Respondent Attorney-at-Law has admitted that",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      313.49,
+      286.29,
+      327.97
+    ],
+    "text": "the complainant has fully paid his fees.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      343.25,
+      540.14,
+      357.73
+    ],
+    "text": "The Fundamental Rights application of the complainant has been dismissed for non-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      364.97,
+      543.86,
+      379.45
+    ],
+    "text": "prosecution with due diligence since no Attorney-at-Law had appeared on that date.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      386.69,
+      543.86,
+      401.17
+    ],
+    "text": "When that was brought to his notice by his client and on repeated requests and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      408.41,
+      543.86,
+      422.89
+    ],
+    "text": "reminders, the Respondent Attorney-at-Law has undertaken to file necessary papers to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      430.15,
+      370.79,
+      444.63
+    ],
+    "text": "move Court to have the dismissed application re-listed.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      459.91,
+      543.86,
+      474.39
+    ],
+    "text": "The position taken up by the Respondent Attorney-at-Law in this regard is that he heard",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      481.63,
+      543.86,
+      496.11
+    ],
+    "text": "the next date of the case as 20-07-2009 when the Attorney-at-Law who appeared on his",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      503.35,
+      543.86,
+      517.83
+    ],
+    "text": "behalf in Court on 17-06-2009 telephoned him and conveyed the next date in the night",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      525.07,
+      543.86,
+      539.55
+    ],
+    "text": "of 17-06-2009 itself. However, under cross-examination the Respondent Attorney-at-Law",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      546.79,
+      150.18,
+      561.27
+    ],
+    "text": "had admitted;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      576.55,
+      540.26,
+      591.07
+    ],
+    "text": "(i) that the free dates he provided to the said Attorney-at-Law who appeared on 17-",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109.7,
+      598.25,
+      362.87,
+      612.76
+    ],
+    "text": "06-2009 were 20th, 21st and 22nd of July 2009;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.064000129699707,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      628.06,
+      543.86,
+      642.58
+    ],
+    "text": "(ii) that it was his responsibility to correctly ascertain the next date of the case and",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109.7,
+      649.78,
+      484.82,
+      664.26
+    ],
+    "text": "that the application got dismissed on 20-07-2009 because of his fault;",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      679.54,
+      543.86,
+      694.06
+    ],
+    "text": "(iii) that one of his friends conveyed the fact that this case was dismissed by Court in",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      109.7,
+      701.26,
+      344.27,
+      715.74
+    ],
+    "text": "the night of that date itself i.e. 20-07-2009.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "12",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "In addition, the evidence of the Complainant who was also in Court on 17-06-2009 is also",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "relevant in this regard. The Complainant, having noted the next date the Court re-fixed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      102.02,
+      540.02,
+      116.5
+    ],
+    "text": "the case for support as 20-07-2009, has subsequently informed the Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      123.74,
+      543.86,
+      138.22
+    ],
+    "text": "at-Law over the telephone that the case has been re-fixed for support for 20-07-2009.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      145.46,
+      543.86,
+      159.94
+    ],
+    "text": "The Respondent Attorney-at-Law has not challenged the said evidence of the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      167.18,
+      145.38,
+      181.66
+    ],
+    "text": "Complainant.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      196.82,
+      543.86,
+      211.3
+    ],
+    "text": "Thus, it is clearly established that the Respondent Attorney-at-Law was in default of his",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      218.66,
+      543.86,
+      233.14
+    ],
+    "text": "basic professional obligation towards his client. The said obligations are expressly",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      240.36,
+      543.86,
+      254.87
+    ],
+    "text": "recognized in rules 10 and 15 of the Supreme Court (Conduct of and Etiquette for",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      262.13,
+      236.97,
+      276.61
+    ],
+    "text": "Attorneys-at-Law) Rules 1988.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      291.77,
+      543.86,
+      306.25
+    ],
+    "text": "Therefore, I hold that the above-mentioned second main alleged questionable",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      313.49,
+      543.86,
+      327.97
+    ],
+    "text": "acts/conduct on the part of the Respondent Attorney-at-Law has been clearly established",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      335.21,
+      168.42,
+      349.69
+    ],
+    "text": "before this Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      364.97,
+      543.86,
+      379.45
+    ],
+    "text": "I would now proceed to consider the above-mentioned third main alleged questionable",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      386.69,
+      543.86,
+      401.17
+    ],
+    "text": "acts/conduct of the Respondent Attorney-at-Law. It is the fact that the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      408.41,
+      543.86,
+      422.89
+    ],
+    "text": "Attorney-at-Law failed to file or support an application to have the said dismissed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      430.15,
+      543.86,
+      444.63
+    ],
+    "text": "application re-listed and restored until he filed a motion on 19-10-2009, which was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      451.87,
+      332.87,
+      466.35
+    ],
+    "text": "rejected by the Supreme Court due to the delay.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      481.63,
+      543.86,
+      496.11
+    ],
+    "text": "It is to be noted that the Supreme Court has first dismissed the said Fundamental Rights",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      503.35,
+      543.86,
+      517.83
+    ],
+    "text": "Application of the Complainant on 20-07-2009. The Respondent Attorney-at-Law had",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      525.07,
+      543.86,
+      539.55
+    ],
+    "text": "thereafter filed a motion dated 19-10-2009 with a petition and an affidavit requesting",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      546.79,
+      543.86,
+      561.27
+    ],
+    "text": "Court to re-list the dismissed application. However, the then Hon. Chief Justice who",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      568.51,
+      543.86,
+      582.99
+    ],
+    "text": "presided on the bench, which dismissed the Complainant\u2019s application on 20-07-2009,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      590.21,
+      543.86,
+      604.72
+    ],
+    "text": "had made order on the above motion (dated 19-10-2009) stating \u201dDo not list this\u201d. The",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      611.98,
+      543.86,
+      626.46
+    ],
+    "text": "relevant journal entry in the record of the Fundamental Rights application bearing No. SC",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      633.82,
+      344.03,
+      648.3
+    ],
+    "text": "FR 445 / 2009 has been produced marked P 2(a).",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      663.46,
+      543.86,
+      677.94
+    ],
+    "text": "The Respondent Attorney-at-Law had thereafter filed another motion dated 13-01-2010",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      685.18,
+      543.86,
+      699.66
+    ],
+    "text": "to move Court to list the case on 25th or 27th or 28th January 2010 to enable him to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "13",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "support a re-listing application. However, the then Hon. Chief Justice as per P 9(a) had",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      80.3,
+      216.21,
+      94.78
+    ],
+    "text": "made the following order.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      109.94,
+      547.86,
+      124.42
+    ],
+    "text": "\u201cCounsel for the Petitioner has stated that he got relief after filing this application.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      131.66,
+      547.86,
+      146.14
+    ],
+    "text": "Therefore no need to list this again. Furthermore this application was dismissed on the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      153.38,
+      547.86,
+      167.86
+    ],
+    "text": "20th of July and he was informed of this on the 21st but he took two months time to file",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      175.1,
+      547.86,
+      189.58
+    ],
+    "text": "a motion to get it re-listed and that is the reason why re-listing was not permitted by me",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      196.82,
+      237.37,
+      211.3
+    ],
+    "text": "on 27/10. That order stands.\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      226.58,
+      543.86,
+      241.06
+    ],
+    "text": "The Respondent Attorney-at-Law giving evidence on his behalf in the course of the instant",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      248.33,
+      543.86,
+      262.81
+    ],
+    "text": "inquiry categorically admitted that it was his responsibility to have made arrangements",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      270.05,
+      543.86,
+      284.53
+    ],
+    "text": "for an appearance of counsel on the date the Court had fixed the case for support. He",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      291.77,
+      543.86,
+      306.25
+    ],
+    "text": "also has admitted that it was his responsibility to have moved Court in the proper manner",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      313.49,
+      540.14,
+      327.97
+    ],
+    "text": "to get the dismissed case re-listed within a reasonable time. The Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      335.21,
+      543.86,
+      349.69
+    ],
+    "text": "at-Law at a later stage of his evidence reluctantly admitted that he had failed in the above",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      357.05,
+      236.13,
+      371.53
+    ],
+    "text": "obligations towards his client.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      386.69,
+      543.86,
+      401.17
+    ],
+    "text": "Rule 15 of Supreme Court (Conduct of and Etiquette for Attorneys-at-Law) Rules 1988 is",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      408.41,
+      131.46,
+      422.89
+    ],
+    "text": "as follows,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      438.19,
+      547.86,
+      452.67
+    ],
+    "text": "\u201cOn accepting any professional matter from a client or on behalf of any client, it shall be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      459.91,
+      547.86,
+      474.39
+    ],
+    "text": "the duty of the Attorney-at-Law to exercise his skill with due diligence to the best of his",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      481.63,
+      547.86,
+      496.11
+    ],
+    "text": "ability and care in the best interests of his client in such matter as he may decide and he",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      503.35,
+      547.86,
+      517.83
+    ],
+    "text": "should do so without regard to any unpleasant consequences either to himself or to any",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      525.07,
+      547.86,
+      539.55
+    ],
+    "text": "other person. Furthermore he should at all times so act with due regard to his duty to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      546.79,
+      547.86,
+      561.27
+    ],
+    "text": "Court, tribunal or any institution established for the Administration of Justice before which",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.2,
+      568.51,
+      418.11,
+      582.99
+    ],
+    "text": "he appears and to his fellow Attorneys-at-Law opposed to him.\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      598.25,
+      543.86,
+      612.76
+    ],
+    "text": "The excuse offered by the Respondent Attorney-at-Law with regard to his failure to take",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      620.02,
+      543.86,
+      634.5
+    ],
+    "text": "immediate steps to tender and support a re-listing application is the receipt of letter dated",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      641.74,
+      543.86,
+      656.22
+    ],
+    "text": "29-06-2009 produced marked R 5 and sending of a letter of demand. Although the",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      663.46,
+      543.86,
+      677.94
+    ],
+    "text": "Respondent Attorney-at-Law has attempted to justify the said failure, giving that",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      685.18,
+      543.86,
+      699.66
+    ],
+    "text": "explanation in the face of further questioning, he was compelled to admit that such a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "14",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "move is not a substitute for the restoration of the dismissed case. Further, it must be",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "noted that the letter R 5 is dated 29-06-2-2009 while the date of dismissal is 20-07-2009.",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      102.02,
+      543.86,
+      116.5
+    ],
+    "text": "Therefore, the letter R 5 had been received before the Court dismissed the Fundamental",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      123.74,
+      173.82,
+      138.22
+    ],
+    "text": "Rights Application.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      153.38,
+      543.86,
+      167.86
+    ],
+    "text": "In addition, it is the evidence of the Complainant that he continuously reminded and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      175.1,
+      543.86,
+      189.58
+    ],
+    "text": "requested the Respondent Attorney-at-Law to take steps to file a re-listing application",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      196.82,
+      543.86,
+      211.3
+    ],
+    "text": "immediately. The Respondent Attorney-at-Law has not challenged the above evidence.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      218.66,
+      543.86,
+      233.14
+    ],
+    "text": "Moreover, the Respondent Attorney-at-Law was silent when he was questioned as to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      240.36,
+      543.86,
+      254.87
+    ],
+    "text": "whether he suggested the above position (excuse offered by him in his evidence) to the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      262.13,
+      398.63,
+      276.61
+    ],
+    "text": "Complainant when he was cross-examining the Complainant.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      291.77,
+      543.86,
+      306.25
+    ],
+    "text": "Another excuse the Respondent Attorney-at-Law had attempted to offer in that regard is",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      313.49,
+      543.86,
+      327.97
+    ],
+    "text": "the fact that the Complainant did not approve the motion produced marked P 1, which",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      335.21,
+      543.86,
+      349.69
+    ],
+    "text": "he had drafted to file in order to move Court to re-list the dismissed case. At this instance,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      357.05,
+      543.86,
+      371.53
+    ],
+    "text": "also he had attempted to state that it was necessary for him to file an affidavit from the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      378.77,
+      543.86,
+      393.25
+    ],
+    "text": "Complainant along with a re-listing application. Again, in the face of further questioning",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      400.49,
+      543.86,
+      414.97
+    ],
+    "text": "the Respondent Attorney-at-Law has finally admitted that such an affidavit (from the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      422.19,
+      543.86,
+      436.7
+    ],
+    "text": "Complainant) is not required in the said re-listing application. Moreover, the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      443.95,
+      543.86,
+      458.43
+    ],
+    "text": "Attorney-at-Law in the face of further questioning admitted with reluctance that it is not",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      465.67,
+      543.86,
+      480.15
+    ],
+    "text": "necessary for an Attorney-at-Law to obtain the approval of the draft motion from the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      487.39,
+      288.33,
+      501.87
+    ],
+    "text": "client before filing such motion in Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      517.15,
+      540.02,
+      531.63
+    ],
+    "text": "In any case, the motion marked P 1, is dated 01-09 2009. The Respondent Attorney-at-",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      538.87,
+      543.86,
+      553.35
+    ],
+    "text": "Law has admitted that it is a motion, which was never filed in Court. The original record",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      560.59,
+      543.86,
+      575.07
+    ],
+    "text": "of SC FR 445/2009 was produced in this inquiry marked P 8. The journal entries therein",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      582.31,
+      543.86,
+      596.79
+    ],
+    "text": "clearly show that the said motion P 1 has never been filed in Court. The Complainant in",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      604.06,
+      543.86,
+      618.54
+    ],
+    "text": "his evidence has stated that the Respondent Attorney-at-Law instructed him to send to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      625.78,
+      543.86,
+      640.26
+    ],
+    "text": "the respondents of the Fundamental Rights Application, copies of the said motion, giving",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      647.5,
+      543.86,
+      661.98
+    ],
+    "text": "him the impression that it was a motion filed in Court. The Complainant had complied",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      669.22,
+      543.86,
+      683.7
+    ],
+    "text": "with the said instruction. However, later, he had found out that, the said motion had",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      690.94,
+      543.86,
+      705.42
+    ],
+    "text": "never been filed in Court and that the Respondent Attorney-at-Law had misled him to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "15",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "believe the contrary. The explanation given by the Respondent Attorney-at-Law in this",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "regard in his evidence is that the Complainant took the said motion for his perusal and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      102.02,
+      543.86,
+      116.5
+    ],
+    "text": "approval. However, it could clearly be observed that the motion P 1 is not merely a draft",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      123.74,
+      543.86,
+      138.22
+    ],
+    "text": "but a completed motion signed by the Respondent Attorney-at-Law with his seal being",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      145.46,
+      543.86,
+      159.94
+    ],
+    "text": "stamped on it. Thus, I am of the view that the above explanation by the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      167.18,
+      543.86,
+      181.66
+    ],
+    "text": "Attorney-at-Law must be rejected and the evidence of the Complainant on this point must",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      188.9,
+      543.86,
+      203.38
+    ],
+    "text": "be accepted. This leads me to conclude that the Respondent Attorney-at-Law has",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      210.62,
+      543.86,
+      225.1
+    ],
+    "text": "deliberately deceived the Complainant to believe that he had filed the motion P 1 when",
+    "fonts": [
+      "Tahoma",
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      232.34,
+      282.33,
+      246.82
+    ],
+    "text": "he knew very well that it was not so.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      262.13,
+      543.86,
+      276.61
+    ],
+    "text": "On his own admission, the Respondent Attorney-at-Law has had nearly thirty years of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      283.85,
+      543.86,
+      298.33
+    ],
+    "text": "practice. Admittedly, he is also familiar with the method of filing re-listing applications. In",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      305.57,
+      543.86,
+      320.05
+    ],
+    "text": "the light of the above, the Respondent Attorney-at-Law had finally admitted that it was",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      327.29,
+      547.7,
+      341.77
+    ],
+    "text": "solely his responsibility to ensure taking steps to file a re-listing application without delay.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      357.05,
+      543.86,
+      371.53
+    ],
+    "text": "The Respondent Attorney-at-Law in his evidence reluctantly admitted at the last moment,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      378.77,
+      543.86,
+      393.25
+    ],
+    "text": "that he had failed in the above obligations to his client. Indeed, he has not offered any",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      400.49,
+      543.86,
+      414.97
+    ],
+    "text": "acceptable explanation in that regard. This is a yet another blatant defiance of his",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      422.19,
+      294.21,
+      436.7
+    ],
+    "text": "professional obligation towards his client.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      451.87,
+      543.86,
+      466.35
+    ],
+    "text": "Thus, I hold that the above-mentioned third main alleged questionable acts/conduct on",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      473.59,
+      488.78,
+      488.07
+    ],
+    "text": "the part of the Respondent Attorney-at-Law has also been clearly established.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      503.35,
+      543.86,
+      517.83
+    ],
+    "text": "Let me now turn to the first of the above-mentioned main alleged questionable",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      525.07,
+      543.86,
+      539.55
+    ],
+    "text": "acts/conduct of the Respondent Attorney-at-Law. It is the fact that the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      546.79,
+      543.86,
+      561.27
+    ],
+    "text": "Attorney-at-Law never informed the Complainant that the Fundamental Rights",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      568.51,
+      543.86,
+      582.99
+    ],
+    "text": "application, which was to be filed, would be time barred and that the Complainant would",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      590.21,
+      543.86,
+      604.72
+    ],
+    "text": "never have instructed the Respondent Attorney-at-Law to file such an application and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      611.98,
+      388.55,
+      626.46
+    ],
+    "text": "paid his fees if he had been appraised of the said time bar.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      641.74,
+      543.86,
+      656.22
+    ],
+    "text": "Following enumerated facts are revealed from the Complainant\u2019s (Randilisi Mudiyanselage",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      72.02,
+      663.46,
+      236.13,
+      677.94
+    ],
+    "text": "Karunaratne Banda) evidence.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "16",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      58.56,
+      543.86,
+      73.08
+    ],
+    "text": "I. He was working as a Management Assistant at the Department of Health Services",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      80.3,
+      236.37,
+      94.78
+    ],
+    "text": "of the Central Province.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      109.94,
+      543.86,
+      124.46
+    ],
+    "text": "II. Although he was promoted to the Supra Grade in the Management Assistant",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      131.66,
+      543.86,
+      146.14
+    ],
+    "text": "Service, the relevant authority had not assigned him any duty comparable with the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      153.38,
+      188.37,
+      167.86
+    ],
+    "text": "said new post.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      183.14,
+      543.86,
+      197.66
+    ],
+    "text": "III. Being aggrieved by the above situation he had tendered retirement papers and",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      204.86,
+      287.13,
+      219.34
+    ],
+    "text": "refrained from reporting to work.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      234.62,
+      543.86,
+      249.14
+    ],
+    "text": "IV. As the relevant authority also failed to process his retirement papers, he had",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      256.37,
+      395.15,
+      270.85
+    ],
+    "text": "lodged a compliant in the Human Rights Commission.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      286.13,
+      540.74,
+      300.65
+    ],
+    "text": "V. He has not agreed to the proposed settlement at the Human Rights Commission.",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      315.77,
+      543.86,
+      330.29
+    ],
+    "text": "VI. It was thereafter that he consulted, retained and gave instructions to the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      337.49,
+      543.86,
+      351.97
+    ],
+    "text": "Respondent Attorney-at-Law to file a Fundamental Rights Application in the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      359.21,
+      194.97,
+      373.69
+    ],
+    "text": "Supreme Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      388.97,
+      543.86,
+      403.49
+    ],
+    "text": "VII. He had paid Rs. 50,000/= as an advance payment of the full fee of Rs. 100,000/=",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      410.69,
+      360.71,
+      425.17
+    ],
+    "text": "requested by the Respondent Attorney-at-Law.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      440.47,
+      543.86,
+      454.99
+    ],
+    "text": "VIII. The Respondent Attorney-at-Law had delayed filing the said application in the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      462.19,
+      543.86,
+      476.67
+    ],
+    "text": "Supreme Court stating that it would be better to first obtain from the Human Rights",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      483.91,
+      543.86,
+      498.39
+    ],
+    "text": "Commission, an affirmative declaration that the Complainant\u2019s fundamental rights",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      505.63,
+      215.13,
+      520.11
+    ],
+    "text": "had been infringed.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      535.39,
+      543.86,
+      549.91
+    ],
+    "text": "IX. The Human Rights Commission in the meantime had considered the complaint of",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      557.11,
+      372.23,
+      571.59
+    ],
+    "text": "the Complainant on 20-01-2009 and 23-02-2009.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      586.87,
+      543.86,
+      601.39
+    ],
+    "text": "X. In the meantime the officials of the Department of Health had requested the",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      608.62,
+      543.86,
+      623.1
+    ],
+    "text": "Complainant to report to work and later transferred him to a position in a higher",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      630.34,
+      384.35,
+      644.82
+    ],
+    "text": "Grade but had failed to attend to his other matters.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      83.42,
+      659.98,
+      543.86,
+      674.5
+    ],
+    "text": "XI. It was in the above circumstances that the Complainant had met the Respondent",
+    "fonts": [
+      "ArialMT",
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      681.82,
+      543.86,
+      696.3
+    ],
+    "text": "Attorney-at-Law, paid him the balance Rs. 50,000/= and requested him to file the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      703.54,
+      451.94,
+      718.02
+    ],
+    "text": "promised Fundamental Rights Application in the Supreme Court.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "17",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "With regard to the above-mentioned complaint relating to the failure to inform the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "complainant of the time bar, the Respondent Attorney-at-Law appears to be taking up",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      102.02,
+      543.86,
+      116.5
+    ],
+    "text": "the position that the alleged infringement in the relevant Fundamental Rights application",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      123.74,
+      540.14,
+      138.22
+    ],
+    "text": "is a continuing infringement. When considering the evidence of the Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      145.46,
+      543.86,
+      159.94
+    ],
+    "text": "at-Law relating to the above position in the light of the fact that the Court has dismissed",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      167.18,
+      543.86,
+      181.66
+    ],
+    "text": "the application on the basis that the Petitioner was absent and unrepresented, I am",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      188.9,
+      543.86,
+      203.38
+    ],
+    "text": "inclined, in fairness to the Respondent Attorney-at-Law, to refrain from making any",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      210.62,
+      543.86,
+      225.1
+    ],
+    "text": "adjudication on the said first main alleged questionable acts/conduct by the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      232.34,
+      543.86,
+      246.82
+    ],
+    "text": "Attorney-at-Law. Moreover, the fact that there had been some proceedings before the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      254.09,
+      543.86,
+      268.57
+    ],
+    "text": "Human Rights Commission too supports taking this course of action. Thus, I would not",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      275.81,
+      543.86,
+      290.29
+    ],
+    "text": "proceed to determine and make a pronouncement on the first of the above-mentioned",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      297.53,
+      543.86,
+      312.01
+    ],
+    "text": "main alleged questionable acts/conduct of the Respondent Attorney-at-Law leaving the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      319.25,
+      484.1,
+      333.73
+    ],
+    "text": "Respondent Attorney-at-Law to enjoy the benefit of any doubt in this regard.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      349.01,
+      540.14,
+      363.49
+    ],
+    "text": "In the aforesaid circumstances, and for the foregoing reasons, I hold that the above-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      370.73,
+      540.14,
+      385.21
+    ],
+    "text": "mentioned acts namely second and third acts/misconduct by the Respondent Attorney-",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      392.45,
+      543.86,
+      406.93
+    ],
+    "text": "at-Law have been proved to the satisfaction of Court and that the said acts amount to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      414.15,
+      543.86,
+      428.66
+    ],
+    "text": "acts of deceit and/or malpractice in terms of section 42(2) of the Judicature Act.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      435.91,
+      543.86,
+      450.39
+    ],
+    "text": "Therefore, I find the Respondent Attorney-at-Law guilty of deceit and malpractices",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      457.63,
+      300.81,
+      472.11
+    ],
+    "text": "referred to above in paragraphs (a) to (e).",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      487.39,
+      543.86,
+      501.87
+    ],
+    "text": "The Respondent Attorney-at-Law has not been sincerely and truly repentant over the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      509.11,
+      543.86,
+      523.59
+    ],
+    "text": "above breaches for which he is clearly liable. Instead, he was determined to the last",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      530.83,
+      543.86,
+      545.31
+    ],
+    "text": "stages of the inquiry to contest the said allegations. He admitted his responsibility when",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      552.55,
+      543.86,
+      567.03
+    ],
+    "text": "he could no longer face the questioning. That necessarily indicates the absence of any",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      574.27,
+      386.75,
+      588.75
+    ],
+    "text": "remorse on his part in relation to the said acts of defiance.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      604.06,
+      543.86,
+      618.54
+    ],
+    "text": "Further, the Respondent Attorney-at-Law has not thought it important to ensure",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      625.78,
+      543.86,
+      640.26
+    ],
+    "text": "attendance at the preliminary inquiry into this incident, which was conducted by a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      647.5,
+      543.86,
+      661.98
+    ],
+    "text": "disciplinary committee of the Bar Association of Sri Lanka. When asked about the said",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      669.22,
+      543.86,
+      683.7
+    ],
+    "text": "default, he gave a reason, which he had offered for the first time in this Court. He has",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      72.02,
+      690.94,
+      543.86,
+      705.42
+    ],
+    "text": "had no interest to have the said reason communicated to the said disciplinary committee",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "18",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "within a reasonable time. This is despite the notice sent to him by the Registrar of",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      80.3,
+      543.86,
+      94.78
+    ],
+    "text": "Supreme Court. In my view, this is not the kind of conduct expected from the practitioners",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      102.02,
+      205.89,
+      116.5
+    ],
+    "text": "in this noble profession.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      131.66,
+      543.86,
+      146.14
+    ],
+    "text": "Rule 60 of the Supreme Court (Conduct of and Etiquette for Attorneys-at-Law) Rules 1988",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      153.38,
+      543.86,
+      167.86
+    ],
+    "text": "published in the Gazette Extraordinary of the Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      175.1,
+      321.59,
+      189.58
+    ],
+    "text": "No. 535/7 dated 07-12-1988 states as follows.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      71.2,
+      204.86,
+      547.86,
+      219.34
+    ],
+    "text": "\u201can Attorney-at-Law must not conduct himself in any manner which would be reasonably",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      71.2,
+      226.58,
+      547.86,
+      241.06
+    ],
+    "text": "regarded as disgraceful or dishonourable by Attorneys-at-Law of good repute and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      71.2,
+      248.33,
+      547.86,
+      262.81
+    ],
+    "text": "competency or which would render him unfit to remain an Attorney-at-Law or which is",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      71.2,
+      270.05,
+      522.9,
+      284.53
+    ],
+    "text": "inexcusable and such as to be regarded as deplorable by his fellows in profession.\u201d",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      299.81,
+      543.86,
+      314.29
+    ],
+    "text": "It is also relevant to note that while rule 61 states that an Attorney-at-Law shall not",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      321.53,
+      543.86,
+      336.01
+    ],
+    "text": "conduct himself in any manner unworthy of an Attorney-at-Law, rule 62 states that these",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      343.25,
+      210.33,
+      357.73
+    ],
+    "text": "rules are not exhaustive.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      373.01,
+      543.86,
+      387.49
+    ],
+    "text": "In terms of section 42 of the Judicature Act, the Supreme Court has been vested with the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      394.73,
+      543.86,
+      409.21
+    ],
+    "text": "power to suspend from practice or remove from office, any Attorney-at-Law who is found",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      416.43,
+      290.13,
+      430.94
+    ],
+    "text": "to be guilty of any deceit or malpractice.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      446.23,
+      543.86,
+      460.71
+    ],
+    "text": "It must be borne in mind that this Court admits and enrolls as Attorneys-at-Law in terms",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      467.95,
+      543.86,
+      482.43
+    ],
+    "text": "of section 40 of the Judicature Act, only persons of good repute and of competent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      489.67,
+      543.86,
+      504.15
+    ],
+    "text": "knowledge and ability. Such Attorneys-at-Law are entitled by law to assist and advise",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      511.39,
+      543.86,
+      525.87
+    ],
+    "text": "clients and to appear, plead or act in every Court or other institution established by law",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      533.11,
+      543.86,
+      547.59
+    ],
+    "text": "for the administration of justice. Thus, it is a reasonable expectation of public that the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      554.83,
+      543.86,
+      569.31
+    ],
+    "text": "Attorneys-at-Law they retain would fulfil their professional obligations towards them to",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      576.55,
+      538.22,
+      591.03
+    ],
+    "text": "the best of their ability. They would not expect the retained Attorneys to deceive them.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      606.34,
+      543.86,
+      620.82
+    ],
+    "text": "Section 42 has entrusted this Court with the responsibility of maintaining the aforesaid",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      628.06,
+      543.86,
+      642.54
+    ],
+    "text": "standards. Thus, this Court has a duty to take into consideration, the interests and",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      649.78,
+      543.86,
+      664.26
+    ],
+    "text": "aspirations of the general public, in particular litigants, the need to maintain the quality",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      72.02,
+      671.5,
+      543.86,
+      685.98
+    ],
+    "text": "of administration of justice, and the need to maintain the standards expected from the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      300.41,
+      38.16,
+      314.09,
+      49.2
+    ],
+    "text": "19",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      58.56,
+      543.86,
+      73.04
+    ],
+    "text": "members of the legal fraternity when deciding the course of action it should take in a",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      80.3,
+      177.66,
+      94.78
+    ],
+    "text": "case of this nature.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      109.94,
+      543.86,
+      124.42
+    ],
+    "text": "Having considered all those circumstances, I order that the Respondent Attorney-at-Law",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      131.66,
+      543.86,
+      146.14
+    ],
+    "text": "Mr. Wasantha Wijewardena be suspended from practice for 07 years with effect from the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      153.38,
+      189.33,
+      167.86
+    ],
+    "text": "date of this decision.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      183.14,
+      543.86,
+      197.62
+    ],
+    "text": "The Complainant had fully paid the fees of the Respondent Attorney-at-Law. He had also",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      204.86,
+      543.86,
+      219.34
+    ],
+    "text": "incurred other expenses due to the acts of deceit and malpractices by the Respondent",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      226.58,
+      543.86,
+      241.06
+    ],
+    "text": "Attorney-at-Law. In view of the above, I also order the Respondent Attorney-at-Law Mr.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      248.33,
+      543.86,
+      262.81
+    ],
+    "text": "Wasantha Wijewardena to deposit within one month from the date of this order, Rs.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      270.05,
+      543.86,
+      284.53
+    ],
+    "text": "300,000/= to be paid to Randilisi Mudiyanselage Karunaratne Banda who is the",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      291.77,
+      212.13,
+      306.25
+    ],
+    "text": "Complainant in this case.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      321.53,
+      543.86,
+      336.01
+    ],
+    "text": "I order the Registrar of this Court to take necessary incidental steps to enforce this order.",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      312.31,
+      410.69,
+      544.21,
+      427.64
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      473.83,
+      266.24,
+      490.78
+    ],
+    "text": "VIJITH K MALALGODA PC J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      507.19,
+      117.54,
+      521.67
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      312.31,
+      536.95,
+      544.21,
+      553.9
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      599.98,
+      219.68,
+      616.93
+    ],
+    "text": "S. THURAIRAJA PC J",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      72.02,
+      633.34,
+      261.57,
+      647.82
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Tahoma"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      312.31,
+      663.1,
+      544.21,
+      680.05
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Tahoma-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  }
+]
