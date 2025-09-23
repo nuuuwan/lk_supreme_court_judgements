@@ -1,0 +1,3381 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      54.72,
+      38.04,
+      569.61,
+      78.87
+    ],
+    "text": "1 IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Calibri",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.85,
+      81.83,
+      352.78,
+      97.37
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      139.1,
+      569.6,
+      218.54
+    ],
+    "text": "In the matter of an appeal to the Supreme Court in terms of section 09 of the High Court of the Provinces (Special Provisions) Act No. 90 of 1990 read with Article 128 of the Constitution of the Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      233.42,
+      540.05,
+      317.6
+    ],
+    "text": "Office-in-Charge, Police Station, Kollupitiya. Complainant SC Appeal 76/2018 Vs,",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      323.21,
+      542.81,
+      722.74
+    ],
+    "text": "SC/SPL/LA 55/2016 HC/MCA 140 /2013 Thusith Thilina Malagoda, MC Case No. 89640/11 No. 35, Ransive Lane, Colombo 06. Accused And Paleketiyage Samanthi Manohari Paleketiya, No. 49, Mahawa Road, Nikawaratiya. Appellant Vs, Office-in-Charge, Police Station, Kollupitiya. Complainant \u2013Respondent Thusith Thilina Malagoda, No. 35, Ransive Lane, Colombo 06.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Calibri,BoldItalic",
+      "Calibri,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      727.54,
+      541.85,
+      756.46
+    ],
+    "text": "Accused\u2013Respondent",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      62.52
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      65.28,
+      530.81,
+      144.62
+    ],
+    "text": "Attorney General, Attorney General\u2019s Department, Colombo 12. Respondent",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      150.41,
+      416.42,
+      240.14
+    ],
+    "text": "And now between Thusith Thilina Malagoda, No. 35, Ransive Lane, Colombo 06.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      244.94,
+      542.81,
+      577.03
+    ],
+    "text": "Accused-Respondent-Appellant Vs, Paleketiyage Samanthi Manohari Paleketiya, No. 49, Mahawa Road, Nikawaratiya. Appellant-Respondent Office-in-Charge, Police Station, Kollupitiya. Complainant \u2013Respondent-Respondent Attorney General, Attorney General\u2019s Department, Colombo 12. Respondent-Respondent",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold",
+      "Calibri,BoldItalic",
+      "Calibri,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      592.3,
+      367.32,
+      645.85
+    ],
+    "text": "Before: Hon. Justice Buwaneka Aluwihare PC Hon. Justice Vijith K. Malalgoda PC Hon. Justice Murdu N.B. Fernando PC",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      690.58,
+      503.93,
+      702.58
+    ],
+    "text": "Counsel: Anil Silva PC with Nandana Perera for the Accused-Respondent-Appellant",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      717.46,
+      513.77,
+      729.46
+    ],
+    "text": "Migara Doss with Ms. Lakmali Hemachandra for the Appellant- Respondent",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      744.22,
+      362.18,
+      756.22
+    ],
+    "text": "Malik Aziz, SC for the Hon. Attorney General",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      130.58
+    ],
+    "text": "3 Argued on: 12.12.2018 Decided on: 12.02.2019",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      148.25,
+      211.42,
+      162.29
+    ],
+    "text": "Vijith K. Malalgoda PC J",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      182.06,
+      569.37,
+      194.06
+    ],
+    "text": "The Accused-Respondent-Appellant (herein after referred to as the Appellant) namely Thusith Thilina",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      211.34,
+      569.22,
+      223.34
+    ],
+    "text": "Malagoda was charged before the Magistrate Fort on a charge under Section 345 of the Panel Code",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      240.74,
+      187.53,
+      252.74
+    ],
+    "text": "which reads as follows;",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      280.01,
+      569.59,
+      292.01
+    ],
+    "text": "\u201cOn or about 28.03.2011 at Mahanama Vidyalaya, R.A. de. Mel Mawatha, Colombo 03 within",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      309.29,
+      569.19,
+      321.29
+    ],
+    "text": "the jurisdiction of this court did entre the workplace of Samanthi Manohari Palaketiya of",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      338.57,
+      569.35,
+      350.57
+    ],
+    "text": "Mahawa Road, Nikaweratiya and kissed her face without her consent and with the intention",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      367.85,
+      569.52,
+      379.85
+    ],
+    "text": "of outraging the modesty, and thereby committed an offence punishable under section 345 of",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      397.25,
+      467.57,
+      409.25
+    ],
+    "text": "Penal Code as amended by Penal Code (amendment) Act No 22 of 1995.\u201d",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      436.51,
+      569.33,
+      448.51
+    ],
+    "text": "When the above charges were readout to the Appellant above named before the Learned",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      465.79,
+      569.78,
+      477.79
+    ],
+    "text": "Magistrate, the Appellant pleaded not guilty to the said charge and the trial against him proceeded",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      495.07,
+      531.77,
+      507.07
+    ],
+    "text": "before the said Magistrate\u2019s Court. During the trial, the prosecution relied on the evidence of;",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180.02,
+      563.71,
+      404.9,
+      575.71
+    ],
+    "text": "i) Palaketiyage Samanthi Manohari Palaketiya",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      602.98,
+      309.84,
+      614.98
+    ],
+    "text": "ii) Sadarathdura Cyril Silva",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      642.34,
+      349.34,
+      654.34
+    ],
+    "text": "iii) Chathura Ranjith Nissanka and",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      681.58,
+      314.4,
+      693.58
+    ],
+    "text": "iv) Yakupitiyage Nandapala",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      720.94,
+      569.24,
+      732.94
+    ],
+    "text": "When the learned Magistrate called for the defence, the Appellant gave evidence on oath and the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      750.22,
+      481.13,
+      762.22
+    ],
+    "text": "learned Magistrate on 27.06.2013 delivered the judgment acquitting the Appellant.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      38.04,
+      569.65,
+      77.28
+    ],
+    "text": "4 Being aggrieved by the said acquittal, the Complainant-Appellant-Respondent (hereinafter referred",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      94.58,
+      569.76,
+      106.58
+    ],
+    "text": "to as the Respondent) or the victim before the Magistrate\u2019s Court namely Palaketiyage Samantha",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      123.86,
+      569.34,
+      135.86
+    ],
+    "text": "Manohari Palaketiya preferred an appeal to the High Court of the Western Province, holden in",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      153.14,
+      569.58,
+      165.14
+    ],
+    "text": "Colombo with the sanction obtained from the Hon. Attorney General under the provisions of the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      182.42,
+      305.16,
+      194.42
+    ],
+    "text": "Code of Criminal Procedure Act No. 15 of 1979.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      221.78,
+      569.49,
+      233.78
+    ],
+    "text": "The leaned High Court Judge, by his judgment dated 18.03.2016 allowed the appeal preferred by the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      251.09,
+      569.38,
+      263.09
+    ],
+    "text": "Respondent and convicted the Appellant (accused before the Magistrate\u2019s Court) of the above",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      280.37,
+      521.57,
+      292.37
+    ],
+    "text": "charge and referred the case back to the Magistrate\u2019s Court for identification and sentence.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      319.73,
+      569.78,
+      331.73
+    ],
+    "text": "Being aggrieved by the said judgment of the learned High Court Judge, the Appellant had preferred a",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      349.01,
+      569.36,
+      361.01
+    ],
+    "text": "Special Leave to Appeal application before the Supreme Court and when this matter was supported",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      378.29,
+      569.5,
+      390.29
+    ],
+    "text": "before this court on 21.05.2018 for Special Leave, Court granted Special Leave on the following",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      407.57,
+      159.93,
+      419.57
+    ],
+    "text": "questions of Law.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      444.97,
+      534.29,
+      458.83
+    ],
+    "text": "a) Is the judgment contrary to Law and against the weight of evidence led at the trial?",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      474.37,
+      569.2,
+      488.23
+    ],
+    "text": "c) Did the learned High Court Judge fail to consider the propensity of the Complainant to",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      505.51,
+      569.29,
+      517.51
+    ],
+    "text": "make allegations of improper sexual conduct and that therefore it was likely that the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      534.79,
+      473.09,
+      546.79
+    ],
+    "text": "Complainant may have falsely fabricated a case against the Petitioner?",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      562.21,
+      569.54,
+      576.07
+    ],
+    "text": "d) Did the Learned High Court Judge fail to consider that the belatedness of making a",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      593.35,
+      569.32,
+      605.35
+    ],
+    "text": "complaint considering the circumstances of this case which matter was rightly considered",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      622.66,
+      410.06,
+      634.66
+    ],
+    "text": "by the learned Magistrate when acquitted the Petitioner?",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      662.02,
+      569.61,
+      674.02
+    ],
+    "text": "As observed by me, the Appellant whilst challenging the judgment of the learned High Court Judge",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      691.3,
+      492.65,
+      703.3
+    ],
+    "text": "had raised several grounds and some of those grounds can be summarized as follows;",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      728.68,
+      312.48,
+      742.54
+    ],
+    "text": "i. Belated statement made to police",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      62.52
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      63.42,
+      488.33,
+      77.28
+    ],
+    "text": "ii. Failure to complain the incident to the Principle of Mahanama College",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      92.72,
+      569.46,
+      106.58
+    ],
+    "text": "iii. Complainant\u2019s propensity to make false allegations of sexual harassment to absolve",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.02,
+      123.86,
+      315.6,
+      135.86
+    ],
+    "text": "herself from her own wrongdoings",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      151.28,
+      433.7,
+      165.14
+    ],
+    "text": "iv. The complainant never wanted an inquiry into the incident",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      180.56,
+      568.85,
+      194.42
+    ],
+    "text": "v. Can the Appellant be convicted based on sole unreliable testimony of the Complainant",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      221.78,
+      569.58,
+      233.78
+    ],
+    "text": "When considering the appeal before this court, it is important to note that the present appeal is",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      251.09,
+      569.18,
+      263.09
+    ],
+    "text": "lodged against the reversal of the findings of the trial Judge by the learned High Court Judge, and it is",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      280.37,
+      569.23,
+      292.37
+    ],
+    "text": "an accepted legal principle that the Appellate Courts are reluctant to interfere with the findings of",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      309.65,
+      567.29,
+      321.65
+    ],
+    "text": "the trial court unless the said decision is against the weight of the evidence led before the trial judge.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      349.01,
+      569.6,
+      361.01
+    ],
+    "text": "This position was considered by G.P.S. de. Silva (J) in the case of Alwis Vs. Piyasena Fernando (1993)",
+    "fonts": [
+      "Calibri",
+      "Calibri,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      378.29,
+      220.2,
+      390.29
+    ],
+    "text": "1 Sri LR 120 at 122 as follows;",
+    "fonts": [
+      "Calibri",
+      "Calibri,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      417.53,
+      569.28,
+      429.53
+    ],
+    "text": "\u201cIt is well established that findings of primary facts by a trial judge who hears and sees",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      446.83,
+      362.3,
+      458.83
+    ],
+    "text": "witnesses are not to be lightly disturbed on appeal\u201d",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      486.19,
+      569.24,
+      498.19
+    ],
+    "text": "The main reason as to why the Appellate Courts are reluctant to interfere with the findings of the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      515.47,
+      569.51,
+      527.47
+    ],
+    "text": "trial court, is the advantage of the Trial Judge of seeing the lay witnesses who testify before the trial",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      544.75,
+      569.7,
+      556.75
+    ],
+    "text": "court and the fact that the trial judge is possessed with the demeanor and deportment of the witness",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      574.03,
+      569.2,
+      586.03
+    ],
+    "text": "in deciding the trial before him. However as revealed before us, the learned Magistrate before whom",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      603.46,
+      569.23,
+      615.46
+    ],
+    "text": "the evidence for the prosecution case was led had been transferred and the case for the defence was",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      632.74,
+      513.05,
+      644.74
+    ],
+    "text": "taken up before the new Magistrate after adopting the evidence for the prosecution case.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      671.98,
+      569.81,
+      683.98
+    ],
+    "text": "In the said circumstances, the learned State Counsel who represented the Hon. Attorney General",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      701.26,
+      569.81,
+      713.26
+    ],
+    "text": "submitted that the learned Magistrate who delivered the judgment in the trial court was deprived",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      77.28
+    ],
+    "text": "6 with the demeanor and deportment of the prosecution witnesses including the main witness for the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      94.58,
+      522.65,
+      106.58
+    ],
+    "text": "prosecution, the Respondent before this court, Palaketiyage Samanthi Manohari Palaketiya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      133.82,
+      569.69,
+      145.82
+    ],
+    "text": "As observed by me, the learned High Court Judge was mindful of the above legal requirement and",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      163.22,
+      414.26,
+      175.22
+    ],
+    "text": "had referred to the role of an Appellate Judge in an appeal as follows;",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      202.32,
+      572.22,
+      217.04
+    ],
+    "text": "\u201cw,a\u00faia tosrsj mshfiak m%kdka\u00ff ^1993 ^1& Y%S ,xld kS;s jd\u00be:d 119& yd m%ldYhg m;a kvq",
+    "fonts": [
+      "A12Yasarath",
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      226.03,
+      572.29,
+      240.56
+    ],
+    "text": ";Ska\u00ff .kkdjla u.ska ;yjqre jQ ffk;sl ;;ajh k\u00ef isoa\u00eauh lreKq i\u00efnkaOfhka",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      247.75,
+      572.15,
+      262.28
+    ],
+    "text": ";SrKh lrkq jia wNshdpkd\u00ealrKhlg jvd uq,a wjia:d w\u00ealrKh jvd;a fhda.H",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      269.5,
+      572.29,
+      284.03
+    ],
+    "text": ";;ajhl is\u00e1k nj;a\" uq,a wjia:d w\u00ealrK ;Ska\u00ffjl isoa\u00eauh lreKq i\u00efnkaOfhka",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      291.22,
+      571.95,
+      305.75
+    ],
+    "text": "t<fUk ,o ;SrK wNshdpkfhaoS fjkia lrkq ,nkafka k\u00ef th b;d ie,ls,af,ka yd",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      312.94,
+      572.15,
+      327.47
+    ],
+    "text": "m%f\u00f5Yfuka l<hq;= nj;ah' tfia jqjo fuu wNshdpkhg wod, fldgqj ufyaia;%d;a",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      334.66,
+      571.97,
+      349.19
+    ],
+    "text": "w\u00ealrKfha 89640$11 ork kvqj i,ld ne,Sf\u00efoS\" tu kvqf\u00f5 me\u00f1Ks,af,a ish\u00bfu idCIs",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      356.38,
+      572.0,
+      370.91
+    ],
+    "text": "tla ufyaia;%d;ajrfhla bosrsfha o\" bka wk;=rej \u00fa;a;sfha kvqj muKla\" ;Ska\u00ffj",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      378.22,
+      572.29,
+      392.75
+    ],
+    "text": "m%ldYhg m;a lsrSug fh\u00ffk ufyaia;%d;ajrhd bosrsfha oS fufyhjd we;s ne\u00f5 fmkS hhs'",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      399.94,
+      571.99,
+      414.47
+    ],
+    "text": "ta wkqj ;Ska\u00ffj m%ldYhg m;a lsrSug fh\u00ffk ufyaia;%d;ajrhd yg me\u00f1Ks,af,a idCIs",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      421.66,
+      572.08,
+      436.19
+    ],
+    "text": "\u00ffka iajNdjh iy \u00fa,dYh ksrSCIKh lsrSf\u00ef wjldYhla ,e\u00ee fkdue;s w;r\" yqfola",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      443.4,
+      571.96,
+      457.93
+    ],
+    "text": "j\u00be;d .; igyka wkqj muKla tu ks.ukhg t<\u00f6 we;' ta wkqj i,ld n,k l,",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      465.12,
+      572.19,
+      479.65
+    ],
+    "text": "fuu w\u00ealrKhg jvd isoa\u00eauh lreKq i\u00efnkaOfhka jvd;a fydoska ;SrKh lsrSf\u00ef",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      486.84,
+      572.26,
+      501.37
+    ],
+    "text": ";;ajhla fuu kvqf\u00f5 ufyaia;%d;ajrhd fj; ;s\u00ee fkdue;s nj fmkS hhs' Bg hg;aj",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      510.72,
+      289.44,
+      525.25
+    ],
+    "text": "fuu kvqf\u00f5 lreK uu i,ld n,\u00f1 \u201d",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      546.31,
+      569.38,
+      558.31
+    ],
+    "text": "In the above circumstances, I can\u2019t find fault with the decision of the learned High Court Judge to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      575.59,
+      569.37,
+      587.59
+    ],
+    "text": "interfere with the findings of the learned Magistrate if he had observed that the impugned decision",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      605.02,
+      431.66,
+      617.02
+    ],
+    "text": "before the High Court was against the evidence led before the trial court.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      644.26,
+      569.44,
+      656.26
+    ],
+    "text": "In the said circumstance this court too has a duty to analyze the evidence and consider whether the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      673.54,
+      495.53,
+      685.54
+    ],
+    "text": "learned High Court Judge is correct in reversing the findings of the learned Magistrate.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      712.9,
+      569.78,
+      724.9
+    ],
+    "text": "As observed earlier in this judgment, the main grounds on which the Appellant challenged the High",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      742.18,
+      493.01,
+      754.18
+    ],
+    "text": "Court findings, also needs this court to analyze the evidence led before the trial court.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      77.28
+    ],
+    "text": "7 Therefore it is important to consider the evidence given by the Complainant before the Magistrate\u2019s",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      94.58,
+      569.69,
+      106.58
+    ],
+    "text": "Court proceedings, namely Palaketiyage Samanthi Manohari Palaketiya, before considering the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      123.86,
+      261.6,
+      135.86
+    ],
+    "text": "specific issues raised by the Appellant.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      163.22,
+      569.64,
+      175.22
+    ],
+    "text": "The Complainant who was a music teacher at Mahanama College, Colombo 03 had complained of an",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      192.5,
+      569.69,
+      204.5
+    ],
+    "text": "incident that took place during the school hours between 8.45-9.30 a.m. The Appellant too was a",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      221.78,
+      569.8,
+      233.78
+    ],
+    "text": "teacher at the same school. According to the Complainant, the Appellant had walked in to her class",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      251.09,
+      569.69,
+      263.09
+    ],
+    "text": "room when nobody was in and had made certain indecent proposals to which she did not agree and",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      280.37,
+      569.61,
+      292.37
+    ],
+    "text": "requested him to leave. The Appellant who left the class room on her request had come back to the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      309.65,
+      569.59,
+      321.65
+    ],
+    "text": "class room again and had kissed her face. He once again left the class room when the Respondent",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      338.93,
+      569.66,
+      350.93
+    ],
+    "text": "shouted at him. The Respondent immediately complained the said incident to one Cyril Silva who",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      368.33,
+      569.8,
+      380.33
+    ],
+    "text": "was the Master-in-Charge of discipline at Mahanama College, over the phone. Said Cyril Silva had",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      397.61,
+      569.81,
+      409.61
+    ],
+    "text": "requested the Respondent, not to complain the incident to anybody and to leave the school",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      426.91,
+      569.21,
+      438.91
+    ],
+    "text": "obtaining half days leave. He further undertook to look into the matter internally to avoid any",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      456.19,
+      226.8,
+      468.19
+    ],
+    "text": "adverse publicity to the school.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      492.88,
+      569.8,
+      507.43
+    ],
+    "text": "According to the Respondent, she had remained silent until 25th of April. The school holidays too had",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      522.28,
+      569.53,
+      536.83
+    ],
+    "text": "intervened during this period. Around the 25th an officer from the Kollupitiya Police Station visited",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      554.11,
+      569.81,
+      566.11
+    ],
+    "text": "the school on an anonymous complaint, questioned the Respondent about the incident that took",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      580.84,
+      569.61,
+      595.39
+    ],
+    "text": "place on 28th March. The Respondent did not make a complaint to the police even on that day but,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      610.15,
+      569.51,
+      624.7
+    ],
+    "text": "finally decided to lodge a complaint with police on 11th May 2011 when pressure was brought on her",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      641.98,
+      569.58,
+      653.98
+    ],
+    "text": "by several parties including the Old Boys Association and the Appellant himself, to settle the matter.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      671.26,
+      569.35,
+      683.26
+    ],
+    "text": "By this time an inquiry conducted by the Education Ministry, was also proceeding against the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      700.54,
+      124.89,
+      712.54
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      77.28
+    ],
+    "text": "8 The above position taken up by the Respondent was confirmed by witness Cyril Silva who received",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      92.03,
+      227.28,
+      106.58
+    ],
+    "text": "the complaint on 28th Morning.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      133.82,
+      569.32,
+      145.82
+    ],
+    "text": "As revealed before us, the learned Magistrate who considered the above evidence had given his",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      163.22,
+      569.75,
+      175.22
+    ],
+    "text": "mind to the delay in making the statement with the police and the failure by the Respondent to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      192.5,
+      412.94,
+      204.5
+    ],
+    "text": "complain the above incident to the Principle in the following manner.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      231.79,
+      572.28,
+      246.32
+    ],
+    "text": "\u201c;jo me\u00f1Ks,af,a idCIs wkqj fuu is\u00ff\u00f9u is\u00ff\u00f9 we;af;a 2011.03.28 jk oskfhaoSh'",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      255.34,
+      571.96,
+      269.87
+    ],
+    "text": "tfy;a me'id 01 iy me'id 04 idCIslrejkaf.a idCIsj,ska wkdjrKh jQfha \u00f3g",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      277.06,
+      571.98,
+      291.59
+    ],
+    "text": "wod, me\u00f1Ks,a, fmd,sia ia:dkh fj; lr we;af;a 2011'05'11 jk oskfhaoSh' tk\u00ef",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      298.78,
+      572.24,
+      313.31
+    ],
+    "text": "udi 02lg wdikak ld,hla .; \u00f9fuka miqjh' fujeks isoa\u00eahla is\u00ffjQfha k\u00ef ta",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      320.5,
+      572.11,
+      335.03
+    ],
+    "text": "ms<sn|j wm%udoj fmd,Sishg me\u00f1Ks,a,la lsrSug wiu;a jQfha wehso hk ielh",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      342.22,
+      572.27,
+      356.75
+    ],
+    "text": "u;=f\u00f5 ' me'id 01 idCIsldrsh m%ldY lr is\u00e1fha tu isoa\u00eah ;uka \u00faiska me'id 03",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      363.94,
+      572.26,
+      378.47
+    ],
+    "text": "idCIslreg tu oskfhau okajd is\u00e1 njhs' me'id 03 idCIslre o idCIs fo\u00f1ka tu",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      385.78,
+      572.03,
+      400.31
+    ],
+    "text": "lreKq ;yjqre lrk ,oS' tfy;a kvq \u00faNd.fhaoS wkdjrKh jQfha me'id 03",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      407.5,
+      572.32,
+      422.03
+    ],
+    "text": "idCIslre tosk ksjdvq oud ksjfia is\u00e1 ;eke;a;l= njhs' me'id 01 idCIsldrsh",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      429.24,
+      572.23,
+      443.77
+    ],
+    "text": "fuu w;jr isoa\u00eah\" ksjdvq ,nd ksjfia is\u00e1 me'id 03 idCIslreg is\u00ffjq oskfhau",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      450.96,
+      572.11,
+      465.49
+    ],
+    "text": "oekq\u00ef oSug l%shd l, o tu wjia:dj jk \u00fag mdif,a /oS is\u00e1 \u00fa\u00ffy,am;sjrhdg",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      472.68,
+      572.28,
+      487.21
+    ],
+    "text": "fyda fjk;a n,Odrshl= yg f\u00ef ms<sn|j me\u00f1Ks,a,la is\u00ff lr fkdue;' tu",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      494.4,
+      572.29,
+      508.93
+    ],
+    "text": "wjia:df\u00f5oS mdif,a fkdis\u00e1 mqoa.,hl=g tu oskfhau oekq\u00ef oSu is\u00ff lrkjdg jvd",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      516.12,
+      572.29,
+      530.65
+    ],
+    "text": "mdif,a is\u00e1 \u00fa\u00ffy,am;sjrhdg f\u00ef i\u00efnkaOfhka oekq\u00ef oSula l< yelsj ;snqKs'",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      540.0,
+      523.71,
+      554.53
+    ],
+    "text": "tfia fkdlsrSu ;=,ska o me\u00f1Ks,af,a kvqj flfrys h\u00ef ielhla we;sf\u00f5' \u201d",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      575.59,
+      569.58,
+      587.59
+    ],
+    "text": "However the above issues were put before the Respondent when she was giving evidence before the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      605.02,
+      399.86,
+      617.02
+    ],
+    "text": "Magistrate and she had explained them in her evidence as follows;",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      642.39,
+      572.29,
+      656.92
+    ],
+    "text": "\u201cfuu isoa\u00eafhka miafia uu mdif,ka jrejla ksjdvq od,d .shd' f\u00ef i\u00efnkaOfhka",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      664.23,
+      572.26,
+      678.76
+    ],
+    "text": "fmd,sishg me\u00f1Ks,a,la lf,a keye' isrs,a i\u00be ug ls\u00f5jd ksjdvq od,d hkak fjk",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      686.07,
+      572.29,
+      700.6
+    ],
+    "text": "lsis fohla lrkak tmd lsh,d' isrs,a i\u00be fmd,sishg hkak tmd lshmq ksid",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      707.79,
+      572.13,
+      722.32
+    ],
+    "text": "me\u00f1Ks,a,la lf,a keye''''''''''''''' fuu isoa\u00eah t,shg hkak fokak tmd uydkdu",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      729.51,
+      572.19,
+      744.04
+    ],
+    "text": "\u00fa\u00b5d,hg le,,la lsh,d' tfy;a fomd\u00beYjh w;r \u00fau\u00beYkhla is\u00fflf,a keye' Bg",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      62.52
+    ],
+    "text": "9",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      63.17,
+      571.96,
+      77.7
+    ],
+    "text": "miq wfm%a,a udifha ksjdvqfjka miafia tla oskhl fld,a,qms\u00e1h fmd,sisfhka",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      84.91,
+      572.15,
+      99.44
+    ],
+    "text": "mdi,g wdjd' ug isrs,a i\u00be we\u00fa,a,d ls\u00f5jd uu lsisfohla lrkak tmd lsh,;a",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      106.63,
+      572.29,
+      121.16
+    ],
+    "text": "wehs fmd,sishg me\u00f1Ks,s lr,d fkao weyqjd' uu ls\u00f5jd uu me\u00f1Ks,a,la lf,a",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      128.35,
+      572.08,
+      142.88
+    ],
+    "text": "keye lsh,d' fmd,sisfha ks,OdrSka \u00faiska udj fjka lrjdf.k uf.ka",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      150.07,
+      572.27,
+      164.6
+    ],
+    "text": "lgW;a;rhla .;a;d' ug \u00fa\u00ffyf,ka n,mE\u00ef wdjd fufyu isoa\u00eahla jqfka keye",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      171.79,
+      572.16,
+      186.32
+    ],
+    "text": "lsh,d fmd,sishg lshkak lsh,d'''''''''''''''''''''''''''''''''''''''' Tjqka wfm%a,a 26 jk osk",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      193.63,
+      572.3,
+      208.16
+    ],
+    "text": "uf.ka lgW;a;rhla .;a;d' uu ls\u00f5jdug wjYH jq\u00fag me\u00f1Ks,a,la lrkjd",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      215.35,
+      572.09,
+      229.88
+    ],
+    "text": "lsh,d' ta wkqj ug mdif,ka t,a, jq fpdaokdj,a j,g uqyqK fokak fkdyels",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      237.07,
+      572.29,
+      251.6
+    ],
+    "text": ";ek uu fmd,sishg .sys,a,d me\u00f1Ks,a,la l,d' ta 2011 uehs 11 fjksod' isoa\u00eah jQ",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      258.82,
+      572.26,
+      273.35
+    ],
+    "text": "fj,df\u00f5 me\u00f1Ks,a,la fkdlf,a mdif,a kug le,,la is\u00ffjkjd lsh,d b,a,Sula",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      282.7,
+      202.66,
+      297.23
+    ],
+    "text": "lrmq ksid''''''' \u201d",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      318.29,
+      212.88,
+      330.29
+    ],
+    "text": "Cross Examination (Page 48)",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      355.42,
+      572.17,
+      369.95
+    ],
+    "text": "m%( tu me\u00f1Ks,a, bosm;a lsrSug m<uqj ;uqkag rdcldrS lghq;= w;fr is\u00ff",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.02,
+      377.26,
+      572.32,
+      391.79
+    ],
+    "text": "jqkdh lshk fuu isoa\u00eah i\u00efnkaOfhka ;uka \u00fa\u00ffy,am;s;=udg me\u00f1Ks,a,la",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.02,
+      398.98,
+      257.96,
+      413.51
+    ],
+    "text": "bosm;a l,do keoao@",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      430.68,
+      329.24,
+      445.21
+    ],
+    "text": "W( \u00fa\u00ffy,am;s;=udg lsjq\u00f5 keye",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      464.59,
+      120.45,
+      476.59
+    ],
+    "text": "(Page 59)",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      501.72,
+      572.29,
+      516.25
+    ],
+    "text": "m%( ta wjia:dj jk \u00fag ;uka ta yd*a f\u00e2 .;af;a ;uka mqoa.,sl jYfhka .kak",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.02,
+      523.44,
+      323.84,
+      537.97
+    ],
+    "text": ";sfhk ksido@ fya;=jla ksido@",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      555.24,
+      384.48,
+      569.77
+    ],
+    "text": "W( \u00fakhNdr .=rejrhd isrs,a is,ajd lshmq ksid",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      586.92,
+      434.02,
+      601.45
+    ],
+    "text": "m%( isrs,a is,ajd lshmq ksid .shd lsh,d ;uhs lshkafka'",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      618.75,
+      545.91,
+      633.28
+    ],
+    "text": "idCIsldrsh f\u00ef is\u00ff\u00f9u i\u00efnkaOfhka \u00fa\u00ffy,am;sg oekq\u00efoSula lf,a keye",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      650.43,
+      166.49,
+      664.96
+    ],
+    "text": "W( T\u00f5",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      682.23,
+      428.5,
+      696.76
+    ],
+    "text": "m%( \u00fa\u00ffy,am;s iu\u00d5 ;uka h\u00eflsis wukdmhla ;snqKo@",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      713.91,
+      370.66,
+      728.44
+    ],
+    "text": "W( uf.a ;snqfka keye \u00fa\u00ffy,am;sf.a ;snqKd",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      745.59,
+      549.37,
+      760.12
+    ],
+    "text": "m%( \u00fa\u00ffy,am;sf.a wukdmhla ;snqK ksid ;uka lshkak bosrsm;a jqfka keye",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      62.52
+    ],
+    "text": "10",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      63.17,
+      166.49,
+      77.7
+    ],
+    "text": "W( T\u00f5",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      96.98,
+      198.93,
+      108.98
+    ],
+    "text": "Re Examination (Page 65)",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      136.39,
+      572.3,
+      150.92
+    ],
+    "text": "\u201c\u00fa;a;sfha kS;S{ uy;auhd yria m%Yak wik\u00fag uf.ka weyqjd tu isoa\u00eah is\u00ffjk",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      159.79,
+      572.29,
+      174.32
+    ],
+    "text": "wjia:df\u00fa me\u00f1Ks,a, lf,a \u00fakhNdr .=rejrhdg lshd' \u00fa\u00ffy,am;s;=udg me\u00f1Ks,a,la",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      181.51,
+      571.97,
+      196.04
+    ],
+    "text": "lf,a keoao lshd' \u00fa\u00ffy,am;s;=ud;a tjeks fhdackdjla f.kdjd' f\u00ef jf.a m%Yak",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      203.35,
+      572.04,
+      217.88
+    ],
+    "text": "fj,djg \u00fa\u00ffy,am;s;=ud;a .kafka ud,f.dv i\u00bef.a me;a; ksid \u00fa\u00ffy,am;s;=udg",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      227.23,
+      293.14,
+      241.76
+    ],
+    "text": "lshd lsisu wjYH ^jevla& keye\u201d",
+    "fonts": [
+      "Calibri",
+      "FMAbhaya"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      262.85,
+      569.22,
+      274.85
+    ],
+    "text": "Even though the learned Magistrate had failed to consider the above evidence, the learned High",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      292.13,
+      435.14,
+      304.13
+    ],
+    "text": "Court Judge had correctly considered the above evidence in his judgment.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      331.37,
+      569.78,
+      343.37
+    ],
+    "text": "In addition to the two main points referred to above, several other issues raised on behalf of the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      360.65,
+      569.46,
+      372.65
+    ],
+    "text": "Appellant including the Respondent\u2019s propensity to make a false allegation against the Appellant was",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      390.05,
+      569.59,
+      402.05
+    ],
+    "text": "well considered by the learned High Court Judge in his judgment. As further observed by the learned",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      419.33,
+      569.54,
+      431.33
+    ],
+    "text": "High Court Judge the Respondent was subject to severe cross examination on behalf of the Appellant",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      448.63,
+      510.41,
+      460.63
+    ],
+    "text": "but the Appellant had failed to establish any contradictions or omissions in her evidence.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      487.87,
+      569.41,
+      499.87
+    ],
+    "text": "Even though the learned President\u2019s Counsel who represented the Appellant had taken up the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      517.15,
+      569.38,
+      529.15
+    ],
+    "text": "position that the Respondent is not a credible witness mainly due to the delay in making the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      546.55,
+      569.16,
+      558.55
+    ],
+    "text": "statement to police, coloured with the other deficiencies and therefore it is unsafe to act on her",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      575.83,
+      569.81,
+      587.83
+    ],
+    "text": "evidence, I see no merit in the above argument and do agree with the findings of the learned High",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      605.14,
+      413.9,
+      617.14
+    ],
+    "text": "Court Judge that, it is safe to act on the testimony of the Respondent.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      644.38,
+      569.64,
+      656.38
+    ],
+    "text": "When considering the matters referred to above, I observe that the decision of the learned High",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      673.78,
+      569.75,
+      685.78
+    ],
+    "text": "Court Judge to interfere with the findings of the Magistrate by quashing the acquittal and convicting",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      703.06,
+      569.4,
+      715.06
+    ],
+    "text": "the Appellant was a well-considered decision since the evidence led before the learned Magistrate",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      38.04,
+      569.6,
+      77.28
+    ],
+    "text": "11 was contrary to the findings of the learned Magistrate. In the said circumstance I answer the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      94.58,
+      518.57,
+      106.58
+    ],
+    "text": "questions of law raised in the present appeal in negative and dismiss the appeal with costs.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      134.21,
+      525.03,
+      238.85
+    ],
+    "text": "Judge of the Supreme Court Justice Buwaneka Aluwihare PC I agree,",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      241.97,
+      525.03,
+      324.32
+    ],
+    "text": "Judge of the Supreme Court Justice Murdu N.B. Fernando PC I agree,",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      327.44,
+      525.03,
+      373.25
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  }
+]
