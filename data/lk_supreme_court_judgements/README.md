@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--23_15:43:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--23_16:16:48-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,546** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.2 GB**), from **2016-07-22** to **2025-09-19**, scraped from **[https://supremecourt.lk](https://supremecourt.lk)**
+- [**1,551** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.2 GB**), from **2016-07-22** to **2025-09-23**, scraped from **[https://supremecourt.lk](https://supremecourt.lk)**
 
 - In **JSON**, **PDF** (83%), **TXT** (83%) & **🤗 Hugging Face** (83%)
 
@@ -17,15 +17,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-09-19-SC-APPEAL-62-2025",
-    "num": "SC/APPEAL/62/2025",
-    "date_str": "2025-09-19",
-    "description": "Hon. K. Priyantha Fernando J - 1.The Officer-in-Charge Polic...",
+    "doc_id": "2025-09-23-SC-FR-214A-2018",
+    "num": "SC/FR/214A/2018",
+    "date_str": "2025-09-23",
+    "description": "Hon. Arjuna Obeyesekere J - E.G.K. Lakmali, 108/1/D, 6th ...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_62_2025.pdf",
-    "parties": "1.The Officer-in-Charge Police Station Pulmoddai 2. The Hon. Attorney General Attorney General\u2019s Department Colombo 12 Respondents - Respondents - Appellants V. Siyaptha Finance PLC, No. 110, Sir James Peiris Mawatha, Colombo 02. Claimant - Petitioner - Appellant - Respondent\n\nView More",
-    "judgement_by": "Hon. K. Priyantha Fernando J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_214A_2018.pdf",
+    "parties": "E.G.K. Lakmali, 108/1/D, 6th Lane, Maharagama Road, Piliyandala. PETITIONER - Vs - 1. Ceylon Petroleum Corporation. 2. W.S. Perera, Director, Ceylon Petroleum Corporation. 3. U.H.M.P. Dayaratne, Deputy Manager- Human Resources, Ceylon Petroleum Corporation. 4. R.A.T.I. Ranasinghe, Manager \u2013 Internal Audit, Ceylon Petroleum Corporation. 1st \u2013 4th Respondents at No. 609, Danister De Silva Mawatha, Colombo 9. 5. W.V.S.A. Fonseka, Chief Accountant, Ministry of Petroleum Resources Development, No. 80, Sir Earnest de Silva Mawatha, Colombo 7. 6. D.P.S. Wickramanayaka 7. N. Amarasinghe 8. C.W.H. Fonseka 9. A.A.S.C. Adikari 10. G.D.R.H. Pushpamala 11. N.G.A. Shanthi 6th to 11th Respondents at Ceylon Petroleum Corporation, No. 609, Danister De Silva Mawatha, Colombo 9. 12. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
 }
 ```
 
@@ -40,6 +40,9 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-09-23 | `SC/FR/214A/2018` | Hon. Arjuna Obeyesekere J - E.G.K. Lakmali, 108/1/D, 6th ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-FR-214A-2018)
+- 2025-09-23 | `SC/CONT/3/2025` | Hon. Yasantha Kodagoda PC J - 1. M.A. Sumanthiran, PC No. 3... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-CONT-3-2025)
+- 2025-09-23 | `SC/CHC APPEAL/15/2007` | Hon. Janak De Silva J - Orient Finance PLC (Formerly ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-CHC-APPEAL-15-2007)
 - 2025-09-19 | `SC/APPEAL/62/2025` | Hon. K. Priyantha Fernando J - 1.The Officer-in-Charge Polic... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-62-2025)
 - 2025-09-19 | `SC/APPEAL/17/2018` | Hon. Sobhitha Rajakaruna J - Saddatissa Athukorala No 349/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-17-2018)
 - 2025-09-19 | `SC/APPEAL/10/2016` | Hon. Sampath B. Abayakoon J - Simithra Arachchige Rohini Gu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-10-2016)
@@ -57,9 +60,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-11 | `SC/FR/402/2019 AND SC/FR/429/2015` | Hon. Sampath B. Abayakoon J - 1. N. Jayasena, No. 290/4, Ni... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-FR-402-2019-AND-SC-F-0b1269f2)
 - 2025-09-11 | `SC/APPEAL/86/2009` | Hon. Justice A.L. Shiran Gooneratne - Dilani Nima Nanayakkara, 150,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-APPEAL-86-2009)
 - 2025-09-11 | `SC/APPEAL/34/2021` | Hon. Menaka Wijesundera J - Karunasundera Devayalage Upul... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-APPEAL-34-2021)
-- 2025-09-11 | `SC/APPEAL/28/2023` | Hon. Justice Janak De Silva - 1. Dr. Asela Gunawardena, Dir... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-APPEAL-28-2023)
-- 2025-09-11 | `SC/APPEAL/153/2018` | Hon. Justice A.L. Shiran Gooneratne - Pathirana Arachchige Vipulasi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-APPEAL-153-2018)
-- 2025-09-10 | `SC/FR/282/2015` | Hon. S. Thurairaja PC J - 1. K. D. Chandrasekara, 2. K.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-10-SC-FR-282-2015)
 
 ---
 
