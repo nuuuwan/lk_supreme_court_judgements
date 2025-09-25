@@ -1,6 +1,18 @@
 [
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-09-25-SC-CHC-APPEAL-22-2013",
+    "num": "SC/CHC APPEAL/22/2013",
+    "date_str": "2025-09-25",
+    "description": "Hon. Arjuna Obeyesekere J - Megafeeder (Pvt) Ltd, Ebrahim...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_22_2013.pdf",
+    "parties": "Megafeeder (Pvt) Ltd, Ebrahim Building, West Wharf Road, Karachi, Pakistan. PLAINTIFF Vs. Ceyaki Shipping (Pvt) Limited, No. 1, Alfred House Avenue, Colombo 3. DEFENDANT And now between Ceyaki Shipping (Pvt) Limited, No. 1, Alfred House Avenue, Colombo 3. DEFENDANT \u2013 APPELLANT Vs. Megafeeder (Pvt) Ltd, Ebrahim Building, West Wharf Road, Karachi, Pakistan. PLAINTIFF \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2025-09-23-SC-FR-214A-2018",
     "num": "SC/FR/214A/2018",
     "date_str": "2025-09-23",
