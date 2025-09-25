@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--25_13:42:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--25_14:17:43-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,556** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.2 GB**), from **2016-07-22** to **2025-09-25**, scraped from **[https://supremecourt.lk](https://supremecourt.lk)**
+- [**1,558** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.2 GB**), from **2016-07-22** to **2025-09-25**, scraped from **[https://supremecourt.lk](https://supremecourt.lk)**
 
 - In **JSON**, **PDF** (86%), **TXT** (86%) & **🤗 Hugging Face** (86%)
 
@@ -41,6 +41,8 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ## 🆕 20 Latest documents
 
 - 2025-09-25 | `SC/CHC APPEAL/22/2013` | Hon. Arjuna Obeyesekere J - Megafeeder (Pvt) Ltd, Ebrahim... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-CHC-APPEAL-22-2013)
+- 2025-09-25 | `SC/APPEAL/18/2017` | Hon. M. Sampath K. B. Wijeratne J - 1.a Muruthen Rallage Nawarath... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-APPEAL-18-2017)
+- 2025-09-25 | `SC/APPEAL/151/2012` | Hon. Janak De Silva J - H.M.D. Ramlan, No. 143, Kandy... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-APPEAL-151-2012)
 - 2025-09-23 | `SC/FR/214A/2018` | Hon. Arjuna Obeyesekere J - E.G.K. Lakmali, 108/1/D, 6th ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-FR-214A-2018)
 - 2025-09-23 | `SC/CONT/3/2025` | Hon. Yasantha Kodagoda PC J - 1. M.A. Sumanthiran, PC No. 3... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-CONT-3-2025)
 - 2025-09-23 | `SC/CHC APPEAL/15/2007` | Hon. Janak De Silva J - Orient Finance PLC (Formerly ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-CHC-APPEAL-15-2007)
@@ -58,8 +60,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-12 | `SC/APPEAL/59/2024` | Hon. Justice Achala Wengappuli - China Great Wall Hospital Pri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-12-SC-APPEAL-59-2024)
 - 2025-09-12 | `SC/APPEAL/40/2015` | Hon. Justice Janak De Silva - Ihala Hewage Don Bonny Jayara... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-12-SC-APPEAL-40-2015)
 - 2025-09-11 | `SC/FR/403/2015 AND SC/FR/404/2015` | Hon. Justice A.L. Shiran Gooneratne - I.P.D.P. Kulasuriya, No. 53/2... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-FR-403-2015-AND-SC-F-6d6cc413)
-- 2025-09-11 | `SC/FR/402/2019 AND SC/FR/429/2015` | Hon. Sampath B. Abayakoon J - 1. N. Jayasena, No. 290/4, Ni... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-FR-402-2019-AND-SC-F-0b1269f2)
-- 2025-09-11 | `SC/APPEAL/86/2009` | Hon. Justice A.L. Shiran Gooneratne - Dilani Nima Nanayakkara, 150,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-11-SC-APPEAL-86-2009)
 
 ---
 

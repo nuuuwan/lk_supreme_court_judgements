@@ -1,0 +1,3446 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 1 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.46,
+      86.66,
+      529.59,
+      99.62
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      116.9,
+      373.92,
+      129.86
+    ],
+    "text": "H.M.D. Ramlan,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      144.86,
+      404.16,
+      157.82
+    ],
+    "text": "No. 143, Kandy Road,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      172.7,
+      343.08,
+      185.66
+    ],
+    "text": "Thihariya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      485.98,
+      200.54,
+      543.03,
+      213.5
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      230.78,
+      307.3,
+      243.74
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.01,
+      261.05,
+      383.04,
+      274.01
+    ],
+    "text": "K.A. Wimalasena,",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      291.29,
+      450.75,
+      304.25
+    ],
+    "text": "No. 260, Dandagamuwa Road,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      321.53,
+      412.32,
+      334.49
+    ],
+    "text": "Weyangoda, Thihariya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      473.62,
+      351.89,
+      543.03,
+      364.85
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      382.13,
+      315.6,
+      395.09
+    ],
+    "text": "AND",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      412.37,
+      373.92,
+      425.33
+    ],
+    "text": "H.M.D. Ramlan,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      440.23,
+      404.16,
+      453.19
+    ],
+    "text": "No. 143, Kandy Road,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      468.07,
+      343.08,
+      481.03
+    ],
+    "text": "Thihariya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      411.55,
+      498.31,
+      543.03,
+      511.27
+    ],
+    "text": "PLAINTIFF \u2013 APPELLANT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      528.55,
+      307.3,
+      541.51
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      558.79,
+      383.04,
+      571.75
+    ],
+    "text": "K.A. Wimalasena,",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      589.03,
+      450.75,
+      601.99
+    ],
+    "text": "No. 260, Dandagamuwa Road,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      619.42,
+      412.32,
+      632.38
+    ],
+    "text": "Weyangoda, Thihariya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      387.55,
+      649.66,
+      543.03,
+      662.62
+    ],
+    "text": "DEFENDANT \u2013 RESPONDENT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.72,
+      170.66,
+      197.98,
+      183.62
+    ],
+    "text": "S.C. Appeal No. 151/2012",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.72,
+      197.06,
+      181.27,
+      210.02
+    ],
+    "text": "WP/HCCA/LA 91/2012",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.72,
+      223.46,
+      192.34,
+      236.42
+    ],
+    "text": "WP/HCCA/GPH/47/07/F",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.72,
+      249.86,
+      234.0,
+      262.82
+    ],
+    "text": "D.C. Gampaha Case No. 37511/L",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 2 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      74.64,
+      403.8,
+      87.6
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      135.14,
+      373.92,
+      148.1
+    ],
+    "text": "H.M.D. Ramlan,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      163.1,
+      404.16,
+      176.06
+    ],
+    "text": "No. 143, Kandy Road,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      190.94,
+      343.08,
+      203.9
+    ],
+    "text": "Thihariya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      337.27,
+      221.18,
+      543.03,
+      234.14
+    ],
+    "text": "PLAINTIFF \u2013 APPELLANT \u2013 APPELLANT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      251.42,
+      307.3,
+      264.38
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      281.69,
+      383.04,
+      294.65
+    ],
+    "text": "K.A. Wimalasena,",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      311.93,
+      450.75,
+      324.89
+    ],
+    "text": "No. 260, Dandagamuwa Road,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      342.17,
+      412.32,
+      355.13
+    ],
+    "text": "Weyangoda, Thihariya.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.61,
+      372.41,
+      542.97,
+      385.37
+    ],
+    "text": "DEFENDANT \u2013 RESPONDENT \u2013 RESPONDENT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      443.62,
+      390.65,
+      543.03,
+      403.61
+    ],
+    "text": "(NOW DECEASED)",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      416.96,
+      435.72,
+      431.93
+    ],
+    "text": "A. K.A. Treleshiya Padmani",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      440.74,
+      466.11,
+      455.71
+    ],
+    "text": "B. K.A. Erandathi Pushpa Kumari",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      464.5,
+      411.24,
+      479.47
+    ],
+    "text": "C. K.A. Pomila Nishani",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      488.38,
+      417.84,
+      503.35
+    ],
+    "text": "D. K.A. Sujeewa Kumari",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      514.15,
+      493.8,
+      545.35
+    ],
+    "text": "All of No. 327, Dandagamuwa East,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      556.27,
+      438.87,
+      569.23
+    ],
+    "text": "Wewapara, Weyangoda.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      598.27,
+      534.87,
+      647.74
+    ],
+    "text": "SUBSTITUTED DEFENDANTS \u2013 RESPONDENTS \u2013 RESPONDENTS",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 3 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      74.64,
+      392.64,
+      87.6
+    ],
+    "text": "BEFORE : P. Padman Surasena, C.J.,",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      98.42,
+      394.44,
+      111.38
+    ],
+    "text": "A.L. Shiran Gooneratne, J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      252.05,
+      122.3,
+      345.12,
+      135.26
+    ],
+    "text": "Janak De Silva, J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.46,
+      174.38,
+      543.03,
+      187.34
+    ],
+    "text": "COUNSEL : P. Peramunugama with Ranga Peiris for the Plaintiff \u2013",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      252.05,
+      198.26,
+      366.96,
+      211.22
+    ],
+    "text": "Appellant - Appellant",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.46,
+      231.98,
+      542.72,
+      244.94
+    ],
+    "text": "H. Withanachchi with Shantha Karunadhara for the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      252.05,
+      255.89,
+      531.87,
+      268.85
+    ],
+    "text": "Substituted Defendant \u2013 Respondent \u2013 Respondents",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.46,
+      289.73,
+      539.67,
+      302.69
+    ],
+    "text": "WRITTEN SUBMISSIONS : On 16.10.2012 by the Plaintiff \u2013 Appellant \u2013 Appellant",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.46,
+      323.33,
+      543.03,
+      336.29
+    ],
+    "text": "On 10.04.2018 by the Defendant \u2013 Respondent \u2013",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      252.05,
+      347.33,
+      323.64,
+      360.29
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      380.93,
+      314.28,
+      446.35
+    ],
+    "text": "ARGUED ON : 02.11.2022 DECIDED ON : 25.09.2025",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      457.27,
+      164.83,
+      470.23
+    ],
+    "text": "Janak De Silva, J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      481.15,
+      540.11,
+      494.11
+    ],
+    "text": "Plaintiff-Appellant-Appellant (Appellant) instituted this action against the Defendant-",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      504.91,
+      417.36,
+      517.87
+    ],
+    "text": "Respondent-Respondent (Respondent) seeking declarations that:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      534.7,
+      542.5,
+      549.67
+    ],
+    "text": "(a) deed No. 7216 dated 29.03.1993 attested by G.S. Ranatunga, Notary Public is a",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      560.47,
+      293.02,
+      573.43
+    ],
+    "text": "fraudulent deed and null and void;",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      582.34,
+      416.64,
+      597.31
+    ],
+    "text": "(b) no right will pass to the Respondent by the said deed; and",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      606.1,
+      420.6,
+      621.07
+    ],
+    "text": "(c) the Plaintiff is the lawful owner of the corpus in the action.",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      639.94,
+      542.98,
+      652.9
+    ],
+    "text": "The Respondent filed answer claiming that the Appellant had sold the corpus by deed No.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      663.7,
+      542.96,
+      676.66
+    ],
+    "text": "7216 (P6) dated 29.03.1993 attested by G.S. Ranatunga, Notary Public and that he was",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      687.58,
+      542.55,
+      700.54
+    ],
+    "text": "the absolute owner of the corpus. He claimed to possess the corpus from the time of",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 4 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      74.64,
+      542.84,
+      87.6
+    ],
+    "text": "purchase, that is from 29.03.1993 to 13.02.1994. The Respondent moved for a dismissal",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      98.42,
+      542.71,
+      111.38
+    ],
+    "text": "of the action, a declaration that he was the owner of the corpus and an order of ejectment",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      122.3,
+      368.16,
+      135.26
+    ],
+    "text": "against the Appellant and all those claiming under him.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      154.1,
+      543.03,
+      167.06
+    ],
+    "text": "After trial, the learned District Judge dismissed the action of the Appellant and granted",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      177.86,
+      278.62,
+      190.82
+    ],
+    "text": "the relief claimed by the Respondent.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      209.66,
+      542.58,
+      222.62
+    ],
+    "text": "The Appellant appealed to the Provincial High Court of the Western Province (Civil",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      233.54,
+      355.08,
+      246.5
+    ],
+    "text": "Appellate) holden at Gampaha which was dismissed.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      265.37,
+      406.2,
+      278.33
+    ],
+    "text": "Leave to appeal was granted on the following questions of law:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      295.16,
+      542.63,
+      310.13
+    ],
+    "text": "(1) Did the Provincial High Court (Civil Appeals) of the Western Province (Holden at",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      320.93,
+      542.98,
+      333.89
+    ],
+    "text": "Gampaha) err in holding that the said Deed No. 7216 marked P6 is a properly",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      344.69,
+      542.55,
+      357.65
+    ],
+    "text": "executed Deed in terms of section 2 of the Prevention of Frauds Ordinance as set",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      368.57,
+      543.01,
+      381.53
+    ],
+    "text": "out in the case of Thiyagarasa v. Arunodayam [(1987) 2 Sri LR 184] without",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      392.33,
+      542.62,
+      405.29
+    ],
+    "text": "considering the evidence of the Defendant as to the place of the signing of the said",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      416.09,
+      542.71,
+      429.05
+    ],
+    "text": "Deed marked P6 and as to the signatures of the attesting witnesses (vide page 251",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      439.99,
+      542.73,
+      452.95
+    ],
+    "text": "of the brief marked X1) which contradicts the evidence of both the witnesses",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      463.75,
+      542.56,
+      476.71
+    ],
+    "text": "namely R.A.G.S. Ranatunga who executed the said deed No. 7216 in question and",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      487.51,
+      543.02,
+      500.47
+    ],
+    "text": "M.A.S. Hemantha who was one of the attesting witnesses to the said deed No. 7216",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      511.39,
+      303.46,
+      524.35
+    ],
+    "text": "called by the Defendant in this case?",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      533.14,
+      542.76,
+      548.11
+    ],
+    "text": "(2) Did the Honourable Judges of the Provincial High Court (Civil Appeals) of the",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      559.03,
+      543.03,
+      571.99
+    ],
+    "text": "Western Province (Holden at Gampaha) err in applying the ratio in the case of De",
+    "fonts": [
+      "Calibri",
+      "Calibri-BoldItalic",
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      582.79,
+      542.89,
+      595.75
+    ],
+    "text": "Silva and Others v. Seneviratne and Another [(1981) 2 Sri LR 7] on the facts and",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      606.55,
+      543.03,
+      619.51
+    ],
+    "text": "circumstances of this case, in deciding the credibility of witnesses in this case,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      630.46,
+      542.61,
+      643.42
+    ],
+    "text": "particularly because the evidence of all the witnesses including the Plaintiff, except",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      654.22,
+      542.77,
+      667.18
+    ],
+    "text": "further cross -examination of the Plaintiff\u2019s wife, the Notary and one M.A.S.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      677.98,
+      542.58,
+      690.94
+    ],
+    "text": "Hemantha, have been recorded previously and the learned District Judge who",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 5 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      74.64,
+      542.48,
+      87.6
+    ],
+    "text": "delivered this judgment did not have opportunity of seeing and listening to those",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      98.42,
+      344.52,
+      111.38
+    ],
+    "text": "witnesses including the Plaintiff in this case?",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      120.29,
+      542.76,
+      135.26
+    ],
+    "text": "(3) Did the Honourable Judges of the Provincial High Court (Civil Appeals) of the",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      146.06,
+      542.94,
+      159.02
+    ],
+    "text": "Western Province (Holden at Gampaha) err in not considering at all the documents",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      169.82,
+      542.8,
+      182.78
+    ],
+    "text": "marked P9, P10, P11 and P8 and out of these documents the document marked P9",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      193.7,
+      542.56,
+      206.66
+    ],
+    "text": "which is the most important document in analyzing the case before Court in this",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      217.46,
+      542.95,
+      230.42
+    ],
+    "text": "case, as the Defendant has admitted that he has issued the said document marked",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      241.34,
+      209.14,
+      254.3
+    ],
+    "text": "P9 on 27.11.1993?",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      263.12,
+      542.76,
+      278.09
+    ],
+    "text": "(4) Can the Plaintiff-Appellant-Petitioner raise the validity of the impugned deed",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      288.89,
+      501.51,
+      301.85
+    ],
+    "text": "marked (P6) on the ground that of due execution at this stage of the case?",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      320.69,
+      193.54,
+      333.65
+    ],
+    "text": "Question of Law No. 4",
+    "fonts": [
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      352.49,
+      543.02,
+      365.45
+    ],
+    "text": "Question of Law No. 1 is whether Deed No. 7216 (P6) was duly executed. Question of Law",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      376.37,
+      543.0,
+      389.33
+    ],
+    "text": "No. 4 challenges the ability of the Appellant to raise this question at this stage. Question",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      400.13,
+      542.85,
+      413.09
+    ],
+    "text": "of Law No. 1 will not arise for consideration should Question of Law No. 4 be answered in",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      423.89,
+      407.16,
+      436.85
+    ],
+    "text": "the negative. Hence, I will first examine Question of Law No. 4.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      455.71,
+      542.76,
+      468.67
+    ],
+    "text": "The Respondent submits that the issue of due execution of Deed No. 7216 (P6) was never",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      479.59,
+      542.89,
+      492.55
+    ],
+    "text": "part of the case of the Appellant. The cause of action pleaded by the Appellant was that",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      503.35,
+      543.02,
+      516.31
+    ],
+    "text": "Deed No. 7216 (P6) is a forgery. No issue was raised on the due execution of that deed. It",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      527.23,
+      543.02,
+      540.19
+    ],
+    "text": "was submitted that the facts and circumstances of Thiyagarasa (supra) are different as",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      550.99,
+      273.46,
+      563.95
+    ],
+    "text": "due execution was put in issue there.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      582.79,
+      542.56,
+      595.75
+    ],
+    "text": "The Appellant contends that his signature was obtained fraudulently to Deed No. 7216",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      606.55,
+      542.49,
+      619.51
+    ],
+    "text": "(P6), which is an absolute transfer, after misleading him that it was a conditional transfer.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      630.46,
+      542.81,
+      643.42
+    ],
+    "text": "He claims that he cannot read Sinhala. Moreover, it is submitted that Deed No. 7216 (P6)",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      654.22,
+      542.85,
+      667.18
+    ],
+    "text": "was signed by the parties at different places. The Appellant contends that in the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      677.98,
+      542.91,
+      690.94
+    ],
+    "text": "circumstances of the case, the burden of proving due execution was on the Respondent.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 6 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      74.64,
+      542.52,
+      87.6
+    ],
+    "text": "It was submitted that the Respondent failed to prove due execution in terms of Section 2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      98.42,
+      279.46,
+      111.38
+    ],
+    "text": "of the Prevention of Frauds Ordinance.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      130.22,
+      542.55,
+      143.18
+    ],
+    "text": "Explanation 2 to Section 150 of the Civil Procedure Code contains an important element",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      154.1,
+      543.03,
+      167.06
+    ],
+    "text": "of the rules of natural justice. It requires the case enunciated at the trial to be reasonably",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      177.86,
+      543.04,
+      190.82
+    ],
+    "text": "in accord with the party's pleading, i.e., plaint or answer, as the case may be. No party is",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      201.62,
+      542.48,
+      214.58
+    ],
+    "text": "allowed to make at the trial a case materially different from that which he has placed on",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      225.5,
+      543.01,
+      238.46
+    ],
+    "text": "record, and which his opponent is prepared to meet. The facts proposed to be established",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      249.26,
+      542.82,
+      262.22
+    ],
+    "text": "must in the whole amount to so much of the material part of his case as is not admitted",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      273.17,
+      221.86,
+      286.13
+    ],
+    "text": "in his opponent's pleadings.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      304.97,
+      542.71,
+      317.93
+    ],
+    "text": "A civil trial proceeds on the issues raised. The pleadings recede to the background. The",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      328.73,
+      542.89,
+      341.69
+    ],
+    "text": "Appellant did not raise any issue on the due execution of Deed No. 7216 (P6). Neither did",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      352.49,
+      542.64,
+      365.45
+    ],
+    "text": "the Respondent, possibly as the parties understood that the case revolves on whether",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      376.37,
+      244.06,
+      389.33
+    ],
+    "text": "Deed No. 7216 (P6) is a forgery.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      408.17,
+      542.93,
+      421.13
+    ],
+    "text": "In these circumstances, I am inclined to hold that due execution cannot be raised at this",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      431.95,
+      106.03,
+      444.91
+    ],
+    "text": "stage.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      463.75,
+      411.48,
+      476.71
+    ],
+    "text": "In any event, the position of the Appellant is not tenable in law.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      499.63,
+      542.95,
+      512.59
+    ],
+    "text": "In Multiform Chemicals (Private) Limited v. Adrian Machado [S.C. Appeal",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      523.39,
+      542.82,
+      536.35
+    ],
+    "text": "183/2011,S.C.M. 18.07.2024 at page 7], I examined Section 154 of the Civil Procedure",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      547.15,
+      542.66,
+      560.11
+    ],
+    "text": "Code which states that every document or writing which a party intends to use as",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      571.03,
+      542.71,
+      583.99
+    ],
+    "text": "evidence against his opponent must be formally tendered by him in the course of proving",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      594.79,
+      542.56,
+      607.75
+    ],
+    "text": "his case at the time when its contents or purport are first immediately spoken to by a",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      618.58,
+      542.69,
+      631.54
+    ],
+    "text": "witness. Accordingly, I held that if the opposing party does not, on the document being",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      642.46,
+      542.48,
+      655.42
+    ],
+    "text": "tendered in evidence, object to its being received, and if the document is not such as is",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      666.22,
+      542.93,
+      679.18
+    ],
+    "text": "forbidden by law to be received in evidence, the court should admit it. I went on to hold",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      689.98,
+      542.68,
+      702.94
+    ],
+    "text": "that where no objection is taken when the document is sought to be tendered in evidence,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 7 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      74.64,
+      542.65,
+      87.6
+    ],
+    "text": "and the document is not forbidden by law to be received in evidence, any objection to its",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      98.42,
+      543.0,
+      111.38
+    ],
+    "text": "receipt as evidence is deemed to have been waived. [See Kenakal v. Velapillai (2 NLR 80);",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      122.3,
+      543.03,
+      135.26
+    ],
+    "text": "Muttaiya Chetty v. Haramanis Appu (4 NLR 184); Silva v. Kindersley (18 NLR 85);",
+    "fonts": [
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      146.06,
+      261.7,
+      159.02
+    ],
+    "text": "Siyadoris v. Danoris (42 NLR 311)].",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      181.94,
+      542.62,
+      194.9
+    ],
+    "text": "Interestingly, Deed No. 7216 (P6) was tendered in evidence by the Appellant. It was not",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      205.7,
+      542.43,
+      218.66
+    ],
+    "text": "marked subject to proof of due execution. At the close of his case, the Appellant read",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      229.46,
+      246.82,
+      242.42
+    ],
+    "text": "Deed No. 7216 (P6) in evidence.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      265.37,
+      543.03,
+      278.33
+    ],
+    "text": "In Sri Lanka Ports Authority and Another v. Jugolinija-Boal East [(1981) 1 Sri LR 18 at 24]",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      289.13,
+      193.66,
+      302.09
+    ],
+    "text": "Samarakoon, C.J. held:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      325.01,
+      542.56,
+      337.97
+    ],
+    "text": "\u201cIf no objection is taken when at the close of a case documents are read in evidence",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      348.77,
+      542.56,
+      361.73
+    ],
+    "text": "they are evidence for all purposes of the law. This is the cursus curiae of the original",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      372.53,
+      182.95,
+      385.49
+    ],
+    "text": "Civil Courts.\u201d",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      404.33,
+      542.97,
+      417.29
+    ],
+    "text": "Moreover, Civil Procedure Code (Amendment) Act No. 17 of 2022 (Act) was certified on",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      428.09,
+      542.82,
+      441.05
+    ],
+    "text": "23.06.2022. Section 3 of the Act states that notwithstanding anything contained in section",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      451.99,
+      542.69,
+      464.95
+    ],
+    "text": "2 of the Act, and the provisions of the Evidence Ordinance, in any case or appeal pending",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      475.75,
+      542.84,
+      488.71
+    ],
+    "text": "on the date of coming into operation of the Act (a) (i) if the opposing party does not object",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      499.51,
+      542.45,
+      512.47
+    ],
+    "text": "or has not objected to it being received as evidence on the deed or document being",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      523.39,
+      542.88,
+      536.35
+    ],
+    "text": "tendered in evidence; or (ii) if the opposing party has objected to it being received as",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      547.15,
+      542.48,
+      560.11
+    ],
+    "text": "evidence on the deed or document being tendered in evidence but not objected at the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      571.03,
+      542.34,
+      583.99
+    ],
+    "text": "close of a case when such document is read in evidence, the court shall admit such deed",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      594.79,
+      542.85,
+      607.75
+    ],
+    "text": "or document as evidence without requiring further proof. This appeal was heard on",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      618.58,
+      542.99,
+      631.54
+    ],
+    "text": "02.11.2022 and as such was pending when the Act No. 17 of 2022 became law. Section 3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      642.46,
+      528.15,
+      655.42
+    ],
+    "text": "of that Act applies and accordingly Deed No. 7216 (P6) must be admitted in evidence.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      674.26,
+      542.67,
+      687.22
+    ],
+    "text": "For all the foregoing reasons, I answer Question of Law No. 4 in the negative. Accordingly,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      698.02,
+      367.8,
+      710.98
+    ],
+    "text": "Question of Law No. 1 does not arise for consideration.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 8 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      74.64,
+      193.54,
+      87.6
+    ],
+    "text": "Question of Law No. 3",
+    "fonts": [
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      106.46,
+      542.82,
+      119.42
+    ],
+    "text": "The Appellant submits that the Honourable Judges of the Provincial High Court (Civil",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      130.22,
+      542.69,
+      143.18
+    ],
+    "text": "Appeals) of the Western Province (Holden at Gampaha) erred in not considering at all the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      154.1,
+      290.62,
+      167.06
+    ],
+    "text": "documents marked P8, P9, P10 and P11.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      185.9,
+      542.98,
+      198.86
+    ],
+    "text": "According to the Appellant, he borrowed Rs. 60,000/= from the Respondent and Deed No.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      209.66,
+      542.43,
+      222.62
+    ],
+    "text": "7216 (P6) was executed as security for this loan but it was fraudulently prepared as an",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      233.54,
+      542.67,
+      246.5
+    ],
+    "text": "outright transfer. Documents marked P8, P9, P10 and P11 prove that the Appellant had",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      257.33,
+      303.7,
+      270.29
+    ],
+    "text": "paid certain sums of money from this loan.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      289.13,
+      542.66,
+      302.09
+    ],
+    "text": "Nevertheless, the Respondent has explained the circumstances leading to the issuance of",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      312.89,
+      542.56,
+      325.85
+    ],
+    "text": "P9, which is a receipt issued by the Respondent for Rs. 1800/=. The Appellant sought to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      336.77,
+      542.93,
+      349.73
+    ],
+    "text": "establish that this reflects part payment of the money borrowed on Deed No. 7216 (P6)",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      360.53,
+      542.6,
+      373.49
+    ],
+    "text": "because it is dated subsequent to the date of Deed No. 7216 (P6). However, the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      384.29,
+      542.69,
+      397.25
+    ],
+    "text": "Respondent testified that when he conveyed the corpus previously by Deed No. 7113",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      408.17,
+      542.98,
+      421.13
+    ],
+    "text": "(D8/P5), the Appellant gave him Rs. 18,000/= which was the consideration in that deed.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      431.95,
+      542.45,
+      444.91
+    ],
+    "text": "The Appellants wife had conveyed the property earlier by Deed No. 7076 (D7/P4) which",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      455.71,
+      542.88,
+      468.67
+    ],
+    "text": "was a conditional transfer for Rs. 18,000/=. The Respondent conveyed the corpus back to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      479.59,
+      543.0,
+      492.55
+    ],
+    "text": "the Appellant by Deed No. 7113 (D8/P5) for the very same amount and on that occasion",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      503.35,
+      542.56,
+      516.31
+    ],
+    "text": "the Appellant gave him an extra Rs. 1800/= which is one tenth of the consideration.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      527.23,
+      542.72,
+      540.19
+    ],
+    "text": "According to the Respondent, it was a gift for him for giving the corpus back for the same",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      550.99,
+      542.64,
+      563.95
+    ],
+    "text": "amount he lent. Much later and sometime before the institution of the action, the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      574.75,
+      520.83,
+      587.71
+    ],
+    "text": "Appellant asked for a receipt for that Rs. 1800/= which the Respondent readily gave.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      606.55,
+      542.64,
+      619.51
+    ],
+    "text": "Moreover, I observe that the learned District Judge has not given credence to the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      630.46,
+      543.0,
+      643.42
+    ],
+    "text": "credibility of the Appellant particularly to the allegation of fraud he made against G.S.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      654.22,
+      392.28,
+      667.18
+    ],
+    "text": "Ranatunga, Notary Public who attested Deed No. 7216 (P6).",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      729.22,
+      335.54,
+      755.86
+    ],
+    "text": "Page 9 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      74.64,
+      542.59,
+      87.6
+    ],
+    "text": "The evidence revealed that the same Notary Public had in fact attested four deeds in total",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      98.42,
+      542.72,
+      111.38
+    ],
+    "text": "between the parties which were marked as P3, P4, P5 and P6. The original of these deeds",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      122.3,
+      543.03,
+      135.26
+    ],
+    "text": "were marked by the Respondent as D10, D7, D8 and D9 respectively. Although the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      146.06,
+      542.67,
+      159.02
+    ],
+    "text": "Appellant claimed that he did not know Sinhala, all these deeds were executed in Sinhala.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      169.82,
+      487.35,
+      182.78
+    ],
+    "text": "Moreover, the wife of the Appellant testified that her husband knows Sinhala.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      201.62,
+      389.64,
+      214.58
+    ],
+    "text": "Accordingly, I answer Question of Law No. 3 in the negative.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      233.54,
+      462.51,
+      246.5
+    ],
+    "text": "In view of the answers given above, Question of Law No. 2 does not arise.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      265.37,
+      511.47,
+      278.33
+    ],
+    "text": "For all the foregoing reasons, I dismiss the appeal with costs fixed at Rs. 100,000/=.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      297.17,
+      172.75,
+      310.13
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      288.05,
+      363.17,
+      543.03,
+      394.37
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      411.65,
+      209.26,
+      424.61
+    ],
+    "text": "P. Padman Surasena, C.J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      439.99,
+      150.31,
+      452.95
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      349.63,
+      470.23,
+      481.35,
+      483.19
+    ],
+    "text": "CHIEF JUSTICE",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      500.47,
+      214.42,
+      513.43
+    ],
+    "text": "A.L. Shiran Gooneratne, J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      528.67,
+      150.31,
+      541.63
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      366.07,
+      559.03,
+      543.03,
+      571.99
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  }
+]
