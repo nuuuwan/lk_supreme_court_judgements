@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_11:42:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_12:19:58-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,561** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.2 GB**), from **2016-07-22** to **2025-09-25**, scraped from **[https://supremecourt.lk](https://supremecourt.lk)**
+- [**1,564** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.2 GB**), from **2016-07-22** to **2025-09-26**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
-- In **JSON**, **PDF** (86%), **TXT** (86%) & **🤗 Hugging Face** (86%)
+- In **JSON**, **PDF** (87%), **TXT** (87%) & **🤗 Hugging Face** (87%)
 
 - In **English**
 
@@ -17,15 +17,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-09-25-SC-CHC-APPEAL-22-2013",
-    "num": "SC/CHC APPEAL/22/2013",
-    "date_str": "2025-09-25",
-    "description": "Hon. Arjuna Obeyesekere J - Megafeeder (Pvt) Ltd, Ebrahim...",
+    "doc_id": "2025-09-26-SC-CHC-APPEAL-6-2019",
+    "num": "SC/CHC APPEAL/6/2019",
+    "date_str": "2025-09-26",
+    "description": "Hon. A.L. Shiran Gooneratne J - Hitisekara Mudiyanselage Wima...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_22_2013.pdf",
-    "parties": "Megafeeder (Pvt) Ltd, Ebrahim Building, West Wharf Road, Karachi, Pakistan. PLAINTIFF Vs. Ceyaki Shipping (Pvt) Limited, No. 1, Alfred House Avenue, Colombo 3. DEFENDANT And now between Ceyaki Shipping (Pvt) Limited, No. 1, Alfred House Avenue, Colombo 3. DEFENDANT \u2013 APPELLANT Vs. Megafeeder (Pvt) Ltd, Ebrahim Building, West Wharf Road, Karachi, Pakistan. PLAINTIFF \u2013 RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_6_2019.pdf",
+    "parties": "Hitisekara Mudiyanselage Wimalasiri, No. 201, Opposite School, Padiyathalawa. 3rd Defendant-Appellant AND NOW Commercial Leasing and Finance PLC, (former known and named as Commercial Leasing and Finance Limited) No. 68, Bauddhaloka Mawatha, Colombo 04. (New number of company - PQ 131/PB/PQ) And presently, LOLC Finance PLC, (Commercial Leasing and Finance PLC after having been amalgamated on 31st March 2022 with LOLC Finance PLC) No. 100/1, Sri Jayawardenapura Mawatha, Rajagiriya. (New number of company - PB244PQ) Plaintiff-Respondent 1. Herath Mudiyanselage Indika Sarathchandra Herath, No. 101/B, Palathuru Wella, Serankada, Padiyathalawa. 2. Ismailkhan Seiyadu Muhammathkhan, No. 433, Randenigala Road, Weheraganthota. Defendants-Respondents\n\nView More",
+    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
 }
 ```
 
@@ -40,6 +40,9 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-09-26 | `SC/CHC APPEAL/6/2019` | Hon. A.L. Shiran Gooneratne J - Hitisekara Mudiyanselage Wima... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-CHC-APPEAL-6-2019)
+- 2025-09-26 | `SC/APPEAL/187/2014` | Hon. S. Thurairaja PC J - Fonterra Brands Lanka (Privat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-APPEAL-187-2014)
+- 2025-09-26 | `SC/APPEAL/136/2010` | Hon. A.L. Shiran Gooneratne J - Indrani Swarnalatha Marie Pei... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-APPEAL-136-2010)
 - 2025-09-25 | `SC/CHC APPEAL/22/2013` | Hon. Arjuna Obeyesekere J - Megafeeder (Pvt) Ltd, Ebrahim... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-CHC-APPEAL-22-2013)
 - 2025-09-25 | `SC/APPEAL/18/2017` | Hon. M. Sampath K. B. Wijeratne J - 1.a Muruthen Rallage Nawarath... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-APPEAL-18-2017)
 - 2025-09-25 | `SC/APPEAL/151/2012` | Hon. Janak De Silva J - H.M.D. Ramlan, No. 143, Kandy... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-APPEAL-151-2012)
@@ -57,9 +60,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-18 | `SC/CHC APPEAL/9/2016` | Hon. Menaka Wijesundera J - 1. Jayawardana Mulge Susantha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-CHC-APPEAL-9-2016)
 - 2025-09-18 | `SC/APPEAL/48/2022` | Hon. Kumuduni Wickremasinghe J - 1. Thenudaya Nithil Demash Ko... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-APPEAL-48-2022)
 - 2025-09-18 | `SC/APPEAL/16/2022` | Hon. M. Sampath K. B. Wijeratne J - Elpitiya Plantation Company n... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-APPEAL-16-2022)
-- 2025-09-17 | `SC/FR/77/2018` | Hon. Justice K.Priyantha Fernando - 1. Atham Lebbe Mohamed Nawas ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-17-SC-FR-77-2018)
-- 2025-09-16 | `SC/FR/3/2009` | Hon. Justice Janak De Silva - 1. Sumith Aluthkorala. 42/C, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-16-SC-FR-3-2009)
-- 2025-09-12 | `SC/APPEAL/59/2024` | Hon. Justice Achala Wengappuli - China Great Wall Hospital Pri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-12-SC-APPEAL-59-2024)
 
 ---
 

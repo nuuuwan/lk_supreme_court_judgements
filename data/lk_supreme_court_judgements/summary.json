@@ -2,14 +2,16 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-09-26 11:41:59",
-  "n_docs": 1561,
-  "n_docs_with_pdfs": 1350,
-  "n_docs_with_text": 1350,
+  "time_updated": "2025-09-26 12:19:57",
+  "n_docs": 1564,
+  "n_docs_with_pdfs": 1353,
+  "n_docs_with_text": 1353,
   "date_str_min": "2016-07-22",
-  "date_str_max": "2025-09-25",
-  "dataset_size": 1244936990,
-  "url_source": "https://supremecourt.lk",
+  "date_str_max": "2025-09-26",
+  "dataset_size": 1246649609,
+  "url_source_list": [
+    "https://supremecourt.lk"
+  ],
   "url_data": "https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_supreme_court_judgements/refs/heads/data/data/lk_supreme_court_judgements/docs_by_year_and_lang.png",
   "langs": [
@@ -17,14 +19,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-09-25-SC-CHC-APPEAL-22-2013",
-    "num": "SC/CHC APPEAL/22/2013",
-    "date_str": "2025-09-25",
-    "description": "Hon. Arjuna Obeyesekere J - Megafeeder (Pvt) Ltd, Ebrahim...",
+    "doc_id": "2025-09-26-SC-CHC-APPEAL-6-2019",
+    "num": "SC/CHC APPEAL/6/2019",
+    "date_str": "2025-09-26",
+    "description": "Hon. A.L. Shiran Gooneratne J - Hitisekara Mudiyanselage Wima...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_22_2013.pdf",
-    "parties": "Megafeeder (Pvt) Ltd, Ebrahim Building, West Wharf Road, Karachi, Pakistan. PLAINTIFF Vs. Ceyaki Shipping (Pvt) Limited, No. 1, Alfred House Avenue, Colombo 3. DEFENDANT And now between Ceyaki Shipping (Pvt) Limited, No. 1, Alfred House Avenue, Colombo 3. DEFENDANT \u2013 APPELLANT Vs. Megafeeder (Pvt) Ltd, Ebrahim Building, West Wharf Road, Karachi, Pakistan. PLAINTIFF \u2013 RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_6_2019.pdf",
+    "parties": "Hitisekara Mudiyanselage Wimalasiri, No. 201, Opposite School, Padiyathalawa. 3rd Defendant-Appellant AND NOW Commercial Leasing and Finance PLC, (former known and named as Commercial Leasing and Finance Limited) No. 68, Bauddhaloka Mawatha, Colombo 04. (New number of company - PQ 131/PB/PQ) And presently, LOLC Finance PLC, (Commercial Leasing and Finance PLC after having been amalgamated on 31st March 2022 with LOLC Finance PLC) No. 100/1, Sri Jayawardenapura Mawatha, Rajagiriya. (New number of company - PB244PQ) Plaintiff-Respondent 1. Herath Mudiyanselage Indika Sarathchandra Herath, No. 101/B, Palathuru Wella, Serankada, Padiyathalawa. 2. Ismailkhan Seiyadu Muhammathkhan, No. 433, Randenigala Road, Weheraganthota. Defendants-Respondents\n\nView More",
+    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
   }
 }
