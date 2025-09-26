@@ -1,0 +1,4010 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.18,
+      176.48,
+      236.45,
+      305.15
+    ],
+    "text": "SC Appeal No.139/2014 SC (SPL) LA Application No.105/2014 CA Appeal No. CA21-22/2009 High Court Colombo Case No.861/2002",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      123.74,
+      85.18,
+      491.89,
+      99.22
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      102.22,
+      384.82,
+      133.18
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      136.18,
+      543.57,
+      269.17
+    ],
+    "text": "In the matter of an application for Special Leave to Appeal in terms of Article 127 read with Article 128 of the Constitution of the Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.63,
+      272.17,
+      543.51,
+      320.17
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.63,
+      323.17,
+      543.61,
+      405.13
+    ],
+    "text": "Complainant Vs. 1. Panangalage Don Nilanka",
+    "fonts": [
+      "ArialMT",
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.63,
+      408.13,
+      543.54,
+      473.19
+    ],
+    "text": "2. Kodituwakkulage Pradeep Samantha alias Fredie",
+    "fonts": [
+      "ArialMT",
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.63,
+      476.19,
+      543.61,
+      626.22
+    ],
+    "text": "Accused And Now 1. Panangalage Don Nilanka 2. Kodituwakkulage Pradeep Samantha alias Fredie",
+    "fonts": [
+      "ArialMT",
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      418.63,
+      629.1,
+      543.61,
+      643.14
+    ],
+    "text": "Accused-Appellants",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.63,
+      646.14,
+      543.61,
+      711.17
+    ],
+    "text": "Vs. The Hon. Attorney General,",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.63,
+      73.16,
+      532.45,
+      104.26
+    ],
+    "text": "Attorney General\u2019s Department, Colombo 12.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      107.14,
+      543.61,
+      359.17
+    ],
+    "text": "Respondent And Now Between Kodituwakkulage Pradeep Samantha alias Fredie Presently at Welikada Prison Baseline Road Borella.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      349.99,
+      362.17,
+      543.61,
+      376.21
+    ],
+    "text": "2nd Accused-Appellant-Petitioner",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      321.89,
+      379.09,
+      543.61,
+      529.11
+    ],
+    "text": "Vs. The Hon. Attorney General Attorney General\u2019s Department, Colombo 12. Complainant-Respondent-Respondent",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.3,
+      578.79,
+      192.77,
+      592.83
+    ],
+    "text": "Before:",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.49,
+      578.79,
+      418.18,
+      592.83
+    ],
+    "text": "Eva Wanasundera, PC, J",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.49,
+      601.02,
+      449.98,
+      615.06
+    ],
+    "text": "Buwaneka Aluwihare, PC, J &",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.49,
+      623.22,
+      425.14,
+      637.26
+    ],
+    "text": "Vijith K. Malalgoda, PC. J",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.7,
+      95.26,
+      552.36,
+      109.3
+    ],
+    "text": "Counsel: Amila Palliyage with Upul Dissanayake for the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      266.09,
+      117.34,
+      552.41,
+      131.38
+    ],
+    "text": "accused-Appellant-Petitioner instructed by",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      266.09,
+      139.54,
+      364.3,
+      153.58
+    ],
+    "text": "Eranda Sinharge",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      176.3,
+      183.94,
+      448.54,
+      227.5
+    ],
+    "text": "Thusith Mudalige, DSG for AG.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.5,
+      235.66,
+      211.64,
+      249.7
+    ],
+    "text": "Argued on:",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      266.09,
+      235.66,
+      338.12,
+      249.7
+    ],
+    "text": "21.07.2017",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.9,
+      279.97,
+      339.32,
+      294.01
+    ],
+    "text": "Decided on: 21.11.2018",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      368.65,
+      168.89,
+      382.69
+    ],
+    "text": "Aluwihare PC.J.,",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      413.05,
+      540.16,
+      427.09
+    ],
+    "text": "The 2nd Accused-Appellant-Appellant (hereinafter referred to as the accused-",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      435.15,
+      543.56,
+      449.19
+    ],
+    "text": "Appellant) was indicted along with another for the murder of one A. D. Dilrukshan",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      457.35,
+      546.77,
+      471.39
+    ],
+    "text": "Silva (hereinafter referred to as the deceased) before the High Court of Colombo.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      479.55,
+      543.53,
+      493.59
+    ],
+    "text": "At the conclusion of the trial, both the accused were convicted of the offence as",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      501.75,
+      543.37,
+      515.79
+    ],
+    "text": "indicted on the basis of joint liability under Section 32 of the Penal Code, (Common",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      523.83,
+      135.77,
+      537.87
+    ],
+    "text": "intention).",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      568.23,
+      543.58,
+      582.27
+    ],
+    "text": "The accused-appellant aggrieved by the judgment, appealed against the conviction",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      590.43,
+      543.55,
+      604.47
+    ],
+    "text": "and the sentence to the Court of Appeal. Their Lordships by their judgment of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      612.54,
+      543.55,
+      626.58
+    ],
+    "text": "30.05.2014 affirmed the conviction of both the accused. However, the sentence of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      634.74,
+      543.34,
+      648.78
+    ],
+    "text": "death imposed on the accused-appellant was substituted with a sentence of life",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      656.94,
+      543.6,
+      670.98
+    ],
+    "text": "imprisonment by invoking provisions of the Code of Criminal Procedure Act and",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      679.14,
+      328.64,
+      693.18
+    ],
+    "text": "the Penal Code, to which I shall advert later.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      73.04,
+      540.16,
+      87.08
+    ],
+    "text": "Aggrieved by the judgment of their Lordships of the Court of Appeal the accused-",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      95.26,
+      543.3,
+      109.3
+    ],
+    "text": "appellant sought special leave to appeal and special leave to appeal was granted",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      117.34,
+      269.6,
+      131.38
+    ],
+    "text": "on the following questions of law.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      159.63,
+      526.29,
+      175.78
+    ],
+    "text": "(1) Was the death sentence imposed by the learned trial judge contrary to",
+    "fonts": [
+      "ArialMT",
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      183.94,
+      526.22,
+      197.98
+    ],
+    "text": "the provisions of Section 281 of the Code of Criminal Procedure Act",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      206.02,
+      526.08,
+      220.06
+    ],
+    "text": "as amended by Act No.52 of 1980 read with Section 53 of the Penal",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      228.22,
+      161.81,
+      242.26
+    ],
+    "text": "Code.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      272.65,
+      533.54,
+      286.69
+    ],
+    "text": "(2) Can the Court of Appeal decide that the sentence is a life imprisonment in",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.66,
+      294.73,
+      533.49,
+      308.77
+    ],
+    "text": "terms of Section 281 of the Code of Criminal Procedure Act as amended",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.66,
+      316.93,
+      533.34,
+      330.97
+    ],
+    "text": "by Act no. 52 of 1980 read with Section 53 of the Penal Code, when",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.66,
+      339.13,
+      456.22,
+      353.17
+    ],
+    "text": "the discretion is vested with his Excellency the President.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      383.41,
+      543.47,
+      397.45
+    ],
+    "text": "In view of the nature of the questions of law on which special leave was granted, I",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      405.61,
+      543.39,
+      419.65
+    ],
+    "text": "do not see a necessity to address the facts of the case, but suffice it to state that the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      427.83,
+      543.29,
+      441.87
+    ],
+    "text": "accused-appellant was a boy of 16 years of age at the time the offence was",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      450.03,
+      139.85,
+      464.07
+    ],
+    "text": "committed.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      494.31,
+      543.53,
+      508.35
+    ],
+    "text": "It was the contention of the learned counsel for the accused-appellant that the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      516.51,
+      543.61,
+      530.55
+    ],
+    "text": "learned trial judge erred in imposing the death sentence, which was violative of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      538.71,
+      543.62,
+      552.75
+    ],
+    "text": "Section 281 of the Code of Criminal Procedure Act and Section 53 of the Penal",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      560.79,
+      543.41,
+      574.83
+    ],
+    "text": "Code. Section 281 of the Code of Criminal Procedure Act No.15 of 1979 as",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      582.99,
+      482.26,
+      597.03
+    ],
+    "text": "amended (hereinafter, the Code of Criminal Procedure) stipulates that-",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      627.42,
+      546.63,
+      641.46
+    ],
+    "text": "\u201cWhere any person convicted of an offence punishable with death, appears to the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      649.5,
+      546.83,
+      663.54
+    ],
+    "text": "court to be under the age of eighteen years, the court shall pronounce on that",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      671.7,
+      546.71,
+      685.74
+    ],
+    "text": "person in lieu of the sentence of death, the sentence provided by the Section 53 of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      693.89,
+      278.24,
+      707.93
+    ],
+    "text": "the Penal Code.\u201d (emphasis added)",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      73.04,
+      336.08,
+      87.08
+    ],
+    "text": "Section 53 of the Penal Code reads as follows:",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      117.34,
+      546.85,
+      131.38
+    ],
+    "text": "Sentence of death shall not be pronounced on or recorded against any person who,",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      139.54,
+      546.71,
+      153.58
+    ],
+    "text": "in the opinion of the court, is under the age of eighteen years; but in lieu of that",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      161.74,
+      546.56,
+      175.78
+    ],
+    "text": "punishment, the court shall sentence such person to be detained during the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      183.94,
+      296.36,
+      197.98
+    ],
+    "text": "President\u2019s pleasure. (emphasis added)",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      228.22,
+      540.16,
+      242.26
+    ],
+    "text": "In the context of the above provisions, it was argued on behalf of the accused-",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      250.45,
+      543.45,
+      264.49
+    ],
+    "text": "appellant that the power of sentencing is vested with the head of State and that the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      272.65,
+      543.61,
+      286.69
+    ],
+    "text": "court has no power to decide on the sentence when the offender was under 18",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      294.73,
+      146.69,
+      308.77
+    ],
+    "text": "years of age.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      339.13,
+      543.61,
+      353.17
+    ],
+    "text": "As far as the imposition of the sentence of death was concerned, the issue stands",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      361.33,
+      543.28,
+      375.37
+    ],
+    "text": "resolved; as their Lordships of the Court of Appeal have set aside the sentence of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      383.41,
+      543.62,
+      397.45
+    ],
+    "text": "death and in lieu of that, a sentence of life imprisonment had been imposed\u2014the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      405.61,
+      543.62,
+      419.65
+    ],
+    "text": "legality of which I shall advert to, in answering the second question of law on",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      427.83,
+      326.72,
+      441.87
+    ],
+    "text": "which special leave to appeal was granted.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      472.11,
+      543.34,
+      486.15
+    ],
+    "text": "Although, it may not be directly relevant to the issue, it would be pertinent to",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      494.31,
+      543.57,
+      508.35
+    ],
+    "text": "consider Sections 75 and Section 76 of the Penal Code which governs the capacity",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      516.51,
+      546.67,
+      530.55
+    ],
+    "text": "for criminal liability. According to these provisions (as they stood as at the date",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      538.71,
+      543.52,
+      552.75
+    ],
+    "text": "relevant to this case) a child under the age of 8 years has absolute protection from",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      560.79,
+      543.61,
+      574.83
+    ],
+    "text": "culpable liability (Section 75) while a child who is, between 8 and 12 years of age",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      582.99,
+      543.6,
+      597.03
+    ],
+    "text": "has qualified protection from criminal liability (Section 76). Thus, when the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      605.22,
+      543.41,
+      619.26
+    ],
+    "text": "capacity of criminal culpability of an accused is not disputed, all accused must be",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      627.42,
+      543.61,
+      641.46
+    ],
+    "text": "treated equally as far as criminal liability is concerned. The tender age, however,",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      649.5,
+      543.23,
+      663.54
+    ],
+    "text": "of an accused could be considered by the court as a mitigatory factor in deciding",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      671.7,
+      543.6,
+      685.74
+    ],
+    "text": "the appropriate sentence that is to be imposed. This, however, is only in instances",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      693.89,
+      543.61,
+      707.93
+    ],
+    "text": "where the penal sanction prescribed for the crime, vests the judge with a discretion",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      73.04,
+      543.56,
+      87.08
+    ],
+    "text": "and not in instances where the law has prescribed a sanction without vesting any",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      95.26,
+      543.6,
+      109.3
+    ],
+    "text": "discretion in the judge. The offence of murder is one such offence for which death",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      117.34,
+      543.6,
+      131.38
+    ],
+    "text": "is prescribed as the only punishment under the law. Hence once an accused is",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      139.54,
+      543.23,
+      153.58
+    ],
+    "text": "found guilty of the offence of murder, the court has no discretion other than",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      161.74,
+      237.92,
+      175.78
+    ],
+    "text": "imposing the death penalty.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      206.02,
+      480.22,
+      220.06
+    ],
+    "text": "The only exception to this requirement is Section 53 of the Penal Code.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      250.45,
+      543.37,
+      264.49
+    ],
+    "text": "In the present case, the accused-appellant was 23 years at the time the sentence",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      272.65,
+      543.46,
+      286.69
+    ],
+    "text": "was imposed, although he was 16 years and a few months when the offence was",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      294.73,
+      543.61,
+      308.77
+    ],
+    "text": "committed. It was the contention of the learned counsel for the accused -appellant",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      316.93,
+      543.46,
+      330.97
+    ],
+    "text": "that the reference made to the \u2018age of the person convicted\u2019 in Sections 281 of the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      339.13,
+      543.48,
+      353.17
+    ],
+    "text": "Criminal Procedure Code and Section 53 of the Penal Code, is the age of the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      361.33,
+      345.56,
+      375.37
+    ],
+    "text": "accused at the time the offence was committed.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      405.61,
+      543.54,
+      419.65
+    ],
+    "text": "The learned Deputy Solicitor general on the other hand, argued that the provisions",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      427.83,
+      543.53,
+      441.87
+    ],
+    "text": "are without any ambiguity whatsoever and that, what is material with regard to",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      450.03,
+      543.42,
+      464.07
+    ],
+    "text": "the application of the statutory provisions aforesaid is the age of the accused at the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      472.11,
+      543.24,
+      486.15
+    ],
+    "text": "point of imposition of the sentence and not the age of the accused at the time",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      494.31,
+      214.4,
+      508.35
+    ],
+    "text": "offence was committed.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      538.71,
+      543.61,
+      552.75
+    ],
+    "text": "Section 53 of the penal Code to my mind is without any ambiguity as it clearly",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      560.79,
+      543.61,
+      574.83
+    ],
+    "text": "states that: sentence of death shall not be pronounced on any person who is under",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      582.99,
+      543.41,
+      597.03
+    ],
+    "text": "18 years of age, thus what is relevant is the age of the offender at the point of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      605.22,
+      534.01,
+      619.26
+    ],
+    "text": "imposition of the sentence and not at the point of the commission of the offence.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      637.38,
+      543.61,
+      651.42
+    ],
+    "text": "As such, I see no impediment for the learned High Court Judge to have imposed",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      659.58,
+      543.56,
+      673.62
+    ],
+    "text": "the death sentence and in that context the learned High Court Judge cannot be said",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      681.65,
+      154.61,
+      695.69
+    ],
+    "text": "to have erred.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      73.04,
+      543.5,
+      87.08
+    ],
+    "text": "On the other hand, in the absence of any ambiguity, this court cannot go beyond",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      95.26,
+      543.45,
+      109.3
+    ],
+    "text": "the literal construction of the statutory provision, which is the primary rule of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      117.34,
+      543.21,
+      131.38
+    ],
+    "text": "interpretation. If there is nothing to modify, alter or qualify the language which",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      139.54,
+      543.3,
+      153.58
+    ],
+    "text": "the statute contains, it must be construed in the ordinary and on natural meaning",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      161.74,
+      543.61,
+      175.78
+    ],
+    "text": "of the words and sentences. (Per Lord Fitzgerald in the case of Bradlaugh v. Clerk",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      183.94,
+      546.75,
+      197.98
+    ],
+    "text": "1883 8 App. cases 354.) The rule of construction is \u201cto intend, the legislature to",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      206.02,
+      543.59,
+      220.06
+    ],
+    "text": "have meant what they have actually expressed.\u201d R v. Banbury (Inhabitants) 1834",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      228.22,
+      216.68,
+      242.26
+    ],
+    "text": "1A and E 136 per Park J.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      272.65,
+      543.56,
+      286.69
+    ],
+    "text": "What Section 53 of the Penal Code prohibits is the pronouncement of death on any",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      294.73,
+      543.62,
+      308.77
+    ],
+    "text": "person who is under 16 years. In the present case, as referred to earlier, the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      316.93,
+      543.41,
+      330.97
+    ],
+    "text": "appellant was 23 years at the time the death sentence was pronounced on him and",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      339.13,
+      543.3,
+      353.17
+    ],
+    "text": "as such I see no illegality in the order made by the learned High Court Judge in",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      361.33,
+      231.2,
+      375.37
+    ],
+    "text": "passing the death sentence.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      383.41,
+      543.58,
+      397.45
+    ],
+    "text": "On the other hand, recourse to Section 53 of the Penal Code must be had, in terms",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      405.61,
+      543.55,
+      419.65
+    ],
+    "text": "of section 281 of the Criminal Procedure Code, when a person is convicted with",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      427.83,
+      543.53,
+      441.87
+    ],
+    "text": "an offence punishable with death. Here again the emphasis is, the point of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      450.03,
+      451.78,
+      464.07
+    ],
+    "text": "conviction and not the point at which the offence was committed.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      494.31,
+      543.36,
+      508.35
+    ],
+    "text": "Considering the above, I see no merit in the argument of the learned counsel for",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      516.51,
+      531.13,
+      530.55
+    ],
+    "text": "the Appellant as to the first question of law on which special leave was granted.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      560.79,
+      543.61,
+      574.83
+    ],
+    "text": "With regard to the 2nd question of law on which special leave was granted, the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      582.99,
+      543.61,
+      597.03
+    ],
+    "text": "learned counsel for the appellant contended that the Court of Appeal erred, when",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      605.22,
+      543.61,
+      619.26
+    ],
+    "text": "their lordships substituted the death sentence imposed by the learned High Court",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      627.42,
+      334.52,
+      641.46
+    ],
+    "text": "Judge with a sentence of life imprisonment.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      73.04,
+      543.25,
+      87.08
+    ],
+    "text": "The learned counsel contended that in terms of Section 53 of the Penal Code, it is",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      95.26,
+      543.5,
+      109.3
+    ],
+    "text": "the prerogative of the Head of the State to decide on the period of detention under",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      117.34,
+      543.61,
+      131.38
+    ],
+    "text": "Section 53 of the Penal Code and the court has no jurisdiction to impose a sentence.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      161.74,
+      543.61,
+      175.78
+    ],
+    "text": "The learned counsel relied on the wording of Section 53 of the Penal Code, which",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      183.94,
+      543.41,
+      197.98
+    ],
+    "text": "reads; \u201cThe court shall sentence such person to be detained during the President\u2019s",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      206.02,
+      140.45,
+      220.06
+    ],
+    "text": "pleasure...\u201d",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      250.45,
+      543.52,
+      264.49
+    ],
+    "text": "By the use of words \u201cthe court shall sentence\u201d in that section, the power of the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      272.65,
+      543.62,
+      286.69
+    ],
+    "text": "court for sentencing has not been taken away; the issue, however, is the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      294.73,
+      308.6,
+      308.77
+    ],
+    "text": "determination of the period of detention.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      339.13,
+      543.54,
+      353.17
+    ],
+    "text": "The origins of the phrase \u201cat her majesty\u2019s pleasure\u201d could be traced back to United",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      361.33,
+      543.29,
+      375.37
+    ],
+    "text": "Kingdom where it was based on the concept that all legitimate authority for the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      383.41,
+      543.55,
+      397.45
+    ],
+    "text": "government comes from the Crown. The phrase was used throughout the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      405.61,
+      540.28,
+      419.65
+    ],
+    "text": "Commonwealth realms where the monarch was represented by, Governor-",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      427.83,
+      543.55,
+      441.87
+    ],
+    "text": "General, Governor or Administrator and was modified to read as \u201cGovernor\u2019s",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      450.03,
+      543.55,
+      464.07
+    ],
+    "text": "pleasure\u201d as the Monarch\u2019s representative in the British colonies. The words",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      472.11,
+      543.42,
+      486.15
+    ],
+    "text": "\u201cgovernor\u2019s pleasure\u201d is found in the original Penal Code, Ordinance No.2 of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      494.31,
+      513.85,
+      508.35
+    ],
+    "text": "1883, an Ordinance to provide a general Penal Code for the Island (Ceylon).",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      538.71,
+      543.41,
+      552.75
+    ],
+    "text": "According to William Blackstone, the term is used to describe detention in prison",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      560.79,
+      543.52,
+      574.83
+    ],
+    "text": "for an indefinite length of time (Blackstone, William (1836) Commentaries on the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      582.99,
+      243.92,
+      597.03
+    ],
+    "text": "Laws of England \u2013 Volume 2)",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      627.42,
+      543.3,
+      641.46
+    ],
+    "text": "This position is reflected in Section 53 of the Penal Code, as the section stipulates",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      649.5,
+      543.61,
+      663.54
+    ],
+    "text": "\u201cthe court shall sentence such person to be detained during the Governor\u2019s",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      671.7,
+      543.51,
+      685.74
+    ],
+    "text": "pleasure, which was modified to read as Governor-General upon Ceylon ceasing",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "9",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      73.04,
+      543.6,
+      87.08
+    ],
+    "text": "to be a British colony in 1948 and subsequently to be read as \u201cthe President\u201d with",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      95.26,
+      356.86,
+      109.3
+    ],
+    "text": "the promulgation of the Republican Constitution.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      139.54,
+      543.54,
+      153.58
+    ],
+    "text": "A similar provision (to that of section 53) is found in the \u201cPowers of Criminal",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      161.74,
+      543.46,
+      175.78
+    ],
+    "text": "Courts (Sentencing) Act 2000 (United Kingdom). Section 90 of the said Act lays",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      183.94,
+      137.21,
+      197.98
+    ],
+    "text": "down that:",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100.34,
+      228.22,
+      501.27,
+      242.26
+    ],
+    "text": "\u201cWhere a person convicted of murder appears to court to have been",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100.34,
+      250.45,
+      501.27,
+      264.49
+    ],
+    "text": "aged 18 at the time the offence was committed, the court shall",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100.34,
+      272.65,
+      498.13,
+      286.69
+    ],
+    "text": "sentence him to be detained during Her Majesty\u2019s pleasure. (Emphasis",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100.34,
+      294.73,
+      143.33,
+      308.77
+    ],
+    "text": "added)",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      339.13,
+      543.37,
+      353.17
+    ],
+    "text": "It is interesting to note the contradistinction of the statutory provision referred to",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      361.33,
+      543.62,
+      375.37
+    ],
+    "text": "above vis a vis Section 53 of our Penal Code. The U.K. statute makes explicit",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      383.41,
+      543.59,
+      397.45
+    ],
+    "text": "reference to the age of the person at the time the offence was committed; (\u201caged",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      405.61,
+      543.57,
+      419.65
+    ],
+    "text": "18 at the time the offence was committed\u201d) whereas Section 53 in our Penal Code",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      427.83,
+      543.35,
+      441.87
+    ],
+    "text": "refers to the prohibition of pronouncing of the death sentence on a person under",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      450.03,
+      187.13,
+      464.07
+    ],
+    "text": "the age of eighteen.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      494.31,
+      543.19,
+      508.35
+    ],
+    "text": "As such the jurisprudence developed in the United Kingdom on this issue is not",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      516.51,
+      328.76,
+      530.55
+    ],
+    "text": "helpful to resolve the issue before this court.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      560.79,
+      543.61,
+      574.83
+    ],
+    "text": "I wish to express the view that, this is a matter for the legislature to consider,",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      582.99,
+      543.45,
+      597.03
+    ],
+    "text": "particularly in view of the directive principles of State policy embodied in chapter",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      605.22,
+      543.25,
+      619.26
+    ],
+    "text": "VI of the constitution, in particular sub article 13 of Article 27 which expresses",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      627.42,
+      294.8,
+      641.46
+    ],
+    "text": "the state policy in the following terms;",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "10",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      100.34,
+      73.04,
+      508.31,
+      87.08
+    ],
+    "text": "\u201cthe state shall promote with special care the interest of children and",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      100.34,
+      95.26,
+      508.18,
+      109.3
+    ],
+    "text": "youth, so as to ensure their full development, physical, mental, moral",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      100.34,
+      117.34,
+      506.16,
+      131.38
+    ],
+    "text": "and social, and to protect them from exploitation and discrimination\u201d",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      161.74,
+      540.67,
+      175.78
+    ],
+    "text": "The state also has an international obligation in view of the UN Convention on the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      183.94,
+      540.4,
+      197.98
+    ],
+    "text": "Rights of the Child, General Comment No. 10 by the Committee on the rights of",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      206.02,
+      540.37,
+      220.06
+    ],
+    "text": "the Child, on \u201cChildren\u2019s rights in juvenile justice\u201d (2007), United Nations",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      228.22,
+      540.37,
+      242.26
+    ],
+    "text": "Standard Minimum Rules for the Administration of Juvenile Justice (\u2018Beijing",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      250.45,
+      540.73,
+      264.49
+    ],
+    "text": "Rules\u2019) (1985) and Administration of Juvenile Justice (\u2018Vienna Guidelines\u2019)",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      272.65,
+      540.41,
+      286.69
+    ],
+    "text": "(1997) to treat child offenders in a manner consistent with the promotion of the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      294.73,
+      540.34,
+      308.77
+    ],
+    "text": "child's sense of dignity and worth, which takes into account the child's age and",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      316.93,
+      446.74,
+      330.97
+    ],
+    "text": "the desirability of promoting the child's reintegration in society.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      353.17,
+      543.23,
+      367.21
+    ],
+    "text": "In the United States, the constitutionality of executing persons for crimes",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      375.25,
+      543.45,
+      389.29
+    ],
+    "text": "committed when they were under the age of 18 is an issue that the Supreme Court",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      397.45,
+      518.29,
+      411.49
+    ],
+    "text": "has evaluated in several cases since the death penalty was reinstated in 1976.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      433.59,
+      543.61,
+      447.63
+    ],
+    "text": "In the case of Thompson v. Oklahoma 487 U.S. 815 (1988) , the Supreme Court",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      455.79,
+      543.22,
+      469.83
+    ],
+    "text": "of the United States recognized that the age of the offender was an important",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      477.99,
+      543.29,
+      492.03
+    ],
+    "text": "consideration when trying to determine how the individual should be punished.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      500.19,
+      543.58,
+      514.23
+    ],
+    "text": "The Court endorsed the proposition that less culpability should be attached to a",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      522.27,
+      543.61,
+      536.31
+    ],
+    "text": "crime committed by a juvenile than to a comparable crime committed by an adult:",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      558.51,
+      546.63,
+      572.55
+    ],
+    "text": "The Court held \u201cTheir inexperience, less education, and less intelligence make the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      580.71,
+      546.51,
+      594.75
+    ],
+    "text": "teenager less able to evaluate the consequences of his or her conduct while at the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      602.82,
+      546.63,
+      616.86
+    ],
+    "text": "same time he or she is much more apt to be motivated by mere emotion or peer",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      625.02,
+      546.48,
+      639.06
+    ],
+    "text": "pressure than is an adult. The reasons why juveniles are not trusted with the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      647.22,
+      546.55,
+      661.26
+    ],
+    "text": "privileges and responsibilities of an adult also explain why their irresponsible",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      669.42,
+      421.18,
+      683.46
+    ],
+    "text": "conduct is not as morally reprehensible as that of an adult\u201d.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "11",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      73.04,
+      543.56,
+      87.08
+    ],
+    "text": "As referred to earlier this court, however, is required to give effect to the legislative",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      95.26,
+      543.43,
+      109.3
+    ],
+    "text": "provision and I quote with approval Henry Cecil (The English Judge, Hamlyn",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      117.34,
+      390.22,
+      131.38
+    ],
+    "text": "Lectures, 1970, pg. 125), who expressed the view that,",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100.34,
+      153.58,
+      500.99,
+      167.62
+    ],
+    "text": "\"The object of every court must be to do justice within the law.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100.34,
+      175.78,
+      501.21,
+      189.82
+    ],
+    "text": "Admittedly the law sometimes forces an unjust decision. If there is no",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100.34,
+      197.86,
+      501.13,
+      211.9
+    ],
+    "text": "way about it, it is for Parliament to alter the law if the injustice merits",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      100.34,
+      220.06,
+      187.84,
+      234.1
+    ],
+    "text": "an alteration.\"",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.74,
+      257.05,
+      542.9,
+      271.09
+    ],
+    "text": "In the case of Attorney-General and Others v Sumathipala 2006 2 SLR 126 Her",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.74,
+      279.25,
+      542.8,
+      293.29
+    ],
+    "text": "ladyship Justice Dr. Shirani Bandaranayke (as she then was), in considering the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.74,
+      301.33,
+      542.58,
+      315.37
+    ],
+    "text": "impact of Section 47 (1) of the Immigrants and Emigrants Act on the liberty and",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.74,
+      323.53,
+      276.08,
+      337.57
+    ],
+    "text": "freedom of an individual held that;",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.42,
+      370.09,
+      501.07,
+      384.13
+    ],
+    "text": "\u201cHowever, it is to be noted that although the liberty and freedom of",
+    "fonts": [
+      "ArialMT",
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      9.960000038146973,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.42,
+      392.29,
+      501.08,
+      406.33
+    ],
+    "text": "an individual is thus restricted in terms of the provisions of section",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.42,
+      414.49,
+      501.18,
+      428.53
+    ],
+    "text": "47 (1) of the Immigrants and Emigrants Act, that injustice cannot be",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.42,
+      436.59,
+      501.3,
+      450.63
+    ],
+    "text": "cured by this Court as it is for the legislature, viz., the Parliament to",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.42,
+      458.79,
+      501.02,
+      472.83
+    ],
+    "text": "make necessary amendments if there is a conflict between the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.42,
+      480.99,
+      350.83,
+      495.03
+    ],
+    "text": "specific provisions and individual liberty.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      525.27,
+      540.65,
+      539.31
+    ],
+    "text": "As expressed in the American case of Thompson V. Oklahoma (supra), it may be",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      547.47,
+      540.64,
+      561.51
+    ],
+    "text": "desirable to visit, offences committed by persons below the age of 18, with a lessor",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      569.67,
+      540.69,
+      583.71
+    ],
+    "text": "culpability; the applicable statutory provisions in force, however, leave no room",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      591.87,
+      125.09,
+      605.91
+    ],
+    "text": "for that.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      636.18,
+      543.46,
+      650.22
+    ],
+    "text": "Considering the above, I see no merit in the argument of the learned counsel with",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      658.38,
+      543.38,
+      672.42
+    ],
+    "text": "regard to the second question of law on which special leave was granted and I",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      680.58,
+      543.6,
+      694.62
+    ],
+    "text": "answer the second question on which special leave was granted also in the",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      702.65,
+      130.49,
+      716.69
+    ],
+    "text": "negative.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      731.38,
+      542.6,
+      755.86
+    ],
+    "text": "12",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      95.26,
+      543.33,
+      109.3
+    ],
+    "text": "I do not, however, wish to disturb the commutation of the death penalty imposed",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      117.34,
+      543.55,
+      131.38
+    ],
+    "text": "on the Appellant to one of life imprisonment by the Court of Appeal, although I",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      139.54,
+      533.17,
+      153.58
+    ],
+    "text": "have expressed the view that the learned Judge of the High Court had not erred.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      183.94,
+      182.92,
+      197.98
+    ],
+    "text": "Appeal Dismissed.",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      378.07,
+      272.65,
+      543.85,
+      286.69
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      361.45,
+      278.36,
+      375.49
+    ],
+    "text": "Justice Eva Wanasundera P.C",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      378.37,
+      193.01,
+      477.39
+    ],
+    "text": "I Agree",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      480.39,
+      540.37,
+      562.47
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      565.35,
+      285.44,
+      664.38
+    ],
+    "text": "Justice Vijith K. Malalgoda P.C I Agree",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      667.38,
+      540.37,
+      715.37
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "FootlightMTLight"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  }
+]
