@@ -1,18 +1,18 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**1** datasets, with **1,561** documents (**1.2 GB**).
+**1** datasets, with **1,564** documents (**1.2 GB**).
 
 ## 001 ⚖️ Supreme Court Judgements
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_11:41:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--26_12:19:57-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,561** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.2 GB**), from **2016-07-22** to **2025-09-25**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**1,564** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.2 GB**), from **2016-07-22** to **2025-09-26**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
-- In **JSON**, **PDF** (86%), **TXT** (86%) & **🤗 Hugging Face** (86%)
+- In **JSON**, **PDF** (87%), **TXT** (87%) & **🤗 Hugging Face** (87%)
 
 - In **English**
 
