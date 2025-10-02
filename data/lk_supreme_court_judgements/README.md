@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_15:13:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--02_16:38:37-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,571** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-09-26**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**1,572** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-02**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (89%), **TXT** (89%) & **🤗 Hugging Face** (89%)
 
@@ -17,15 +17,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-09-26-SC-CHC-APPEAL-6-2019",
-    "num": "SC/CHC APPEAL/6/2019",
-    "date_str": "2025-09-26",
-    "description": "Hon. A.L. Shiran Gooneratne J - Hitisekara Mudiyanselage Wima...",
+    "doc_id": "2025-10-02-SC-FR-2-2015",
+    "num": "SC/FR/2/2015",
+    "date_str": "2025-10-02",
+    "description": "Hon. K. Priyantha Fernando J - Naotunna Badalge Sagarika Jay...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_6_2019.pdf",
-    "parties": "Hitisekara Mudiyanselage Wimalasiri, No. 201, Opposite School, Padiyathalawa. 3rd Defendant-Appellant AND NOW Commercial Leasing and Finance PLC, (former known and named as Commercial Leasing and Finance Limited) No. 68, Bauddhaloka Mawatha, Colombo 04. (New number of company - PQ 131/PB/PQ) And presently, LOLC Finance PLC, (Commercial Leasing and Finance PLC after having been amalgamated on 31st March 2022 with LOLC Finance PLC) No. 100/1, Sri Jayawardenapura Mawatha, Rajagiriya. (New number of company - PB244PQ) Plaintiff-Respondent 1. Herath Mudiyanselage Indika Sarathchandra Herath, No. 101/B, Palathuru Wella, Serankada, Padiyathalawa. 2. Ismailkhan Seiyadu Muhammathkhan, No. 433, Randenigala Road, Weheraganthota. Defendants-Respondents\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_2_2015.pdf",
+    "parties": "Naotunna Badalge Sagarika Jayamali, No. 14/5, Temple Road, Galwadugoda, Galle. Petitioner V. 1. Divisional Secretary, Divisional Secretariat, Four Gravets, Galle. 2. Deepal Geeganage, Development Officer, Divisional Secretariat, Four Gravets, Galle. 3. Galle Municipal Council, Town Hall, Colombo Road, Kaluwella, Galle. 4. Municipal Commissioner, Galle Municipal Council, Town Hall, Colombo Road, Kaluwella, Galle. 5. Municipal Engineer, Galle Municipal Council, Town Hall, Colombo Road, Kaluwella, Galle. 6. Urban Development Authority, 6th and 7th Floors, Sethsiripaya, Battaramulla. 7. Director General, National Building Research Organization, No. 99/1, Jawatta Road, Colombo 05. 8. Officer in Charge, Police Station, Galle. 9. K.S. Geethanjalee, No 49/1, First Lane, Kandewaththa, Galle. 10. Hon. Attorney General Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
 }
 ```
 
@@ -40,6 +40,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-02 | `SC/FR/2/2015` | Hon. K. Priyantha Fernando J - Naotunna Badalge Sagarika Jay... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-02-SC-FR-2-2015)
 - 2025-09-26 | `SC/CHC APPEAL/6/2019` | Hon. A.L. Shiran Gooneratne J - Hitisekara Mudiyanselage Wima... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-CHC-APPEAL-6-2019)
 - 2025-09-26 | `SC/APPEAL/248/2017` | Hon. K. Kumudini Wickremasinghe J - 01.Senanayaka Amarasinghe Moh... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-APPEAL-248-2017)
 - 2025-09-26 | `SC/APPEAL/187/2014` | Hon. S. Thurairaja PC J - Fonterra Brands Lanka (Privat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-APPEAL-187-2014)
@@ -59,7 +60,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-18 | `SC/FR/313/2020` | Hon. Menaka Wijesundera J - Sriramachandran Thanikumar At... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-313-2020)
 - 2025-09-18 | `SC/FR/233/2020` | Hon. Janak De Silva J - Attanayakage Don Susil Attana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-233-2020)
 - 2025-09-18 | `SC/CHC APPEAL/9/2016` | Hon. Menaka Wijesundera J - 1. Jayawardana Mulge Susantha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-CHC-APPEAL-9-2016)
-- 2025-09-18 | `SC/APPEAL/48/2022` | Hon. Kumuduni Wickremasinghe J - 1. Thenudaya Nithil Demash Ko... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-APPEAL-48-2022)
 
 ---
 
