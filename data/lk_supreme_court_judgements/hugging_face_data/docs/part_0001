@@ -14929,6 +14929,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2024-08-02-SC-SPL-LA-192-2024",
+    "num": "SC/SPL LA/192/2024",
+    "date_str": "2024-08-02",
+    "description": "Hon. A.H.M.D. Nawaz J - Kannake Arachchige Asantha Sa...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_spl_la_192_2024.pdf",
+    "parties": "Kannake Arachchige Asantha Sanjaya Rukmal Wimaladasa, \u201cWimal Engineering\u201d Pvt Ltd, Negombo Road, Dunagaha. RESPONDENT \u2013 APPELLANT \u2013 PETITIONER -Vs- Rajasekera Waduge Sarika Sugandini Rajasekera, Godigamuwa Road, Dunagaha. APPLICANT \u2013 RESPONDENT \u2013 RESPONDENT",
+    "judgement_by": "Hon. A.H.M.D. Nawaz J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2024-08-05-SC-APPEAL-119-2014",
     "num": "SC/APPEAL/119/2014",
     "date_str": "2024-08-05",
@@ -17353,6 +17365,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-05-20-SC-FR-248-2019",
+    "num": "SC/FR/248/2019",
+    "date_str": "2025-05-20",
+    "description": "Hon. A.H.M.D. Nawaz J - Madapathage Tilak Jayantha Pe...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_248_2019.pdf",
+    "parties": "Madapathage Tilak Jayantha Perera, No. 1395/5, Hokandara Road, Pannipitiya. PETITIONER VS. 1. State Printing Corporation, Panaluwa, Padukka. 2. Sendanayake Arachchige Binara Jayawardena, The Chairman, State Printing Corporation, Panaluwa, Padukka. 3. R.M. Nilantha Monarawila, General Manager, State Printing Corporation, Panaluwa, Padukka. 4. Hon. Attorney General, Attorney General\u2019s Department, Hulftsdorp, Colombo 12.",
+    "judgement_by": "Hon. A.H.M.D. Nawaz J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2025-05-21-SC-APPEAL-198-2018",
     "num": "SC/APPEAL/198/2018",
     "date_str": "2025-05-21",
@@ -18862,5 +18886,17 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_2_2015.pdf",
     "parties": "Naotunna Badalge Sagarika Jayamali, No. 14/5, Temple Road, Galwadugoda, Galle. Petitioner V. 1. Divisional Secretary, Divisional Secretariat, Four Gravets, Galle. 2. Deepal Geeganage, Development Officer, Divisional Secretariat, Four Gravets, Galle. 3. Galle Municipal Council, Town Hall, Colombo Road, Kaluwella, Galle. 4. Municipal Commissioner, Galle Municipal Council, Town Hall, Colombo Road, Kaluwella, Galle. 5. Municipal Engineer, Galle Municipal Council, Town Hall, Colombo Road, Kaluwella, Galle. 6. Urban Development Authority, 6th and 7th Floors, Sethsiripaya, Battaramulla. 7. Director General, National Building Research Organization, No. 99/1, Jawatta Road, Colombo 05. 8. Officer in Charge, Police Station, Galle. 9. K.S. Geethanjalee, No 49/1, First Lane, Kandewaththa, Galle. 10. Hon. Attorney General Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
     "judgement_by": "Hon. K. Priyantha Fernando J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-10-03-SC-CHC-APPEAL-17-2014",
+    "num": "SC/CHC APPEAL/17/2014",
+    "date_str": "2025-10-03",
+    "description": "Hon. Janak De Silva J - Anthony Saliya Godwin Ranasin...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_17_2014.pdf",
+    "parties": "Anthony Saliya Godwin Ranasinghe, \u201cRose Villa\u201d, No. 79/7, Hettiyawatte, Elpitiwala, Ragama. 2nd Defendant \u2013 Appellant Vs. Warnasirige Sinharage Paul Jayantha De Silva, No. 155/24, Dolalanda Gardens, Thalawathugoda. 1st Defendant \u2013 Respondent Commercial Bank of Ceylon PLC., No. 21, Sir Razik Fareed Mawatha, Colombo 01. And having a Branch Office and/or a Place of Business called and known as the \u201cThalawathugoda Branch\u201d at No. 07, Suramya Building, Kottawa Road, Thalawathugoda. Plaintiff \u2013 Respondent\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
   }
 ]
