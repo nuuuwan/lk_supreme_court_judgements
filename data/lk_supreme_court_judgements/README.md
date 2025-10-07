@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_16:26:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_16:51:16-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,575** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**1,576** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-07**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (89%), **TXT** (89%) & **🤗 Hugging Face** (89%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-03-SC-CHC-APPEAL-17-2014",
-    "num": "SC/CHC APPEAL/17/2014",
-    "date_str": "2025-10-03",
-    "description": "Hon. Janak De Silva J - Anthony Saliya Godwin Ranasin...",
+    "doc_id": "2025-10-07-SC-CHC-APPEAL-31-2009",
+    "num": "SC/CHC APPEAL/31/2009",
+    "date_str": "2025-10-07",
+    "description": "Hon. K. Kumudini Wickremasinghe J - Distilleries Company of Sri L...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_17_2014.pdf",
-    "parties": "Anthony Saliya Godwin Ranasinghe, \u201cRose Villa\u201d, No. 79/7, Hettiyawatte, Elpitiwala, Ragama. 2nd Defendant \u2013 Appellant Vs. Warnasirige Sinharage Paul Jayantha De Silva, No. 155/24, Dolalanda Gardens, Thalawathugoda. 1st Defendant \u2013 Respondent Commercial Bank of Ceylon PLC., No. 21, Sir Razik Fareed Mawatha, Colombo 01. And having a Branch Office and/or a Place of Business called and known as the \u201cThalawathugoda Branch\u201d at No. 07, Suramya Building, Kottawa Road, Thalawathugoda. Plaintiff \u2013 Respondent\n\nView More",
-    "judgement_by": "Hon. Janak De Silva J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_31_2009.pdf",
+    "parties": "Distilleries Company of Sri Lanka PLC P.O. Box 1756, No.110, Norris Canal Road, Colombo 10 Defendant- Appellant Vs. Censtar International (Pvt) Ltd, No 320A, Dehiwala Road, Bellanwilla. Plaintiff- Respondent\n\nView More",
+    "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-07 | `SC/CHC APPEAL/31/2009` | Hon. K. Kumudini Wickremasinghe J - Distilleries Company of Sri L... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-07-SC-CHC-APPEAL-31-2009)
 - 2025-10-03 | `SC/CHC APPEAL/17/2014` | Hon. Janak De Silva J - Anthony Saliya Godwin Ranasin... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-03-SC-CHC-APPEAL-17-2014)
 - 2025-10-02 | `SC/FR/2/2015` | Hon. K. Priyantha Fernando J - Naotunna Badalge Sagarika Jay... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-02-SC-FR-2-2015)
 - 2025-09-26 | `SC/CHC APPEAL/6/2019` | Hon. A.L. Shiran Gooneratne J - Hitisekara Mudiyanselage Wima... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-CHC-APPEAL-6-2019)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-19 | `SC/APPEAL/10/2016` | Hon. Sampath B. Abayakoon J - Simithra Arachchige Rohini Gu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-10-2016)
 - 2025-09-18 | `SC/FR/524/2012` | Hon. M. Sampath K. B. Wijeratne J - H.D.S. Wimalarathna No. 209, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-524-2012)
 - 2025-09-18 | `SC/FR/313/2020` | Hon. Menaka Wijesundera J - Sriramachandran Thanikumar At... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-313-2020)
-- 2025-09-18 | `SC/FR/233/2020` | Hon. Janak De Silva J - Attanayakage Don Susil Attana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-18-SC-FR-233-2020)
 
 ---
 

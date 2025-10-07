@@ -2,13 +2,13 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-07 16:25:59",
-  "n_docs": 1575,
-  "n_docs_with_pdfs": 1399,
-  "n_docs_with_text": 1399,
+  "time_updated": "2025-10-07 16:51:14",
+  "n_docs": 1576,
+  "n_docs_with_pdfs": 1400,
+  "n_docs_with_text": 1400,
   "date_str_min": "2016-07-22",
-  "date_str_max": "2025-10-03",
-  "dataset_size": 1280272054,
+  "date_str_max": "2025-10-07",
+  "dataset_size": 1280813064,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -19,14 +19,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-03-SC-CHC-APPEAL-17-2014",
-    "num": "SC/CHC APPEAL/17/2014",
-    "date_str": "2025-10-03",
-    "description": "Hon. Janak De Silva J - Anthony Saliya Godwin Ranasin...",
+    "doc_id": "2025-10-07-SC-CHC-APPEAL-31-2009",
+    "num": "SC/CHC APPEAL/31/2009",
+    "date_str": "2025-10-07",
+    "description": "Hon. K. Kumudini Wickremasinghe J - Distilleries Company of Sri L...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_17_2014.pdf",
-    "parties": "Anthony Saliya Godwin Ranasinghe, \u201cRose Villa\u201d, No. 79/7, Hettiyawatte, Elpitiwala, Ragama. 2nd Defendant \u2013 Appellant Vs. Warnasirige Sinharage Paul Jayantha De Silva, No. 155/24, Dolalanda Gardens, Thalawathugoda. 1st Defendant \u2013 Respondent Commercial Bank of Ceylon PLC., No. 21, Sir Razik Fareed Mawatha, Colombo 01. And having a Branch Office and/or a Place of Business called and known as the \u201cThalawathugoda Branch\u201d at No. 07, Suramya Building, Kottawa Road, Thalawathugoda. Plaintiff \u2013 Respondent\n\nView More",
-    "judgement_by": "Hon. Janak De Silva J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_31_2009.pdf",
+    "parties": "Distilleries Company of Sri Lanka PLC P.O. Box 1756, No.110, Norris Canal Road, Colombo 10 Defendant- Appellant Vs. Censtar International (Pvt) Ltd, No 320A, Dehiwala Road, Bellanwilla. Plaintiff- Respondent\n\nView More",
+    "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
   }
 }
