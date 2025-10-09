@@ -17821,6 +17821,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-07-17-SC-APPEAL-33-2025",
+    "num": "SC/APPEAL/33/2025",
+    "date_str": "2025-07-17",
+    "description": "Hon. Yasantha Kodagoda PC J - 1. The Secretary, Ministry of...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_33_-2025-1.pdf",
+    "parties": "1. The Secretary, Ministry of Health, Suwasiripaya, No. 385, Rev. Baddegama Wimalawansa Thero Mawatha, Colombo 10. And 2 Others Respondents Appellants Vs. 1. Geethani Hemamala Kotikawatte No. 196, Srimath Bandaranaike Mawatha, Colombo 12. And 2 Others Petitioners Respondents 1. Hon. Dinesh Gunawardena Prime Minister and Minister of Public Administration, Home Affairs, Provincial Councils and Local Government, Independence Square, Colombo 7. And 20 Others Respondents Respondents",
+    "judgement_by": "Hon. Yasantha Kodagoda PC J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2025-07-17-SC-FR-388-2016",
     "num": "SC/FR/388/2016",
     "date_str": "2025-07-17",
@@ -18910,5 +18922,17 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_31_2009.pdf",
     "parties": "Distilleries Company of Sri Lanka PLC P.O. Box 1756, No.110, Norris Canal Road, Colombo 10 Defendant- Appellant Vs. Censtar International (Pvt) Ltd, No 320A, Dehiwala Road, Bellanwilla. Plaintiff- Respondent\n\nView More",
     "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-10-08-SC-APPEAL-49-2017",
+    "num": "SC/APPEAL/49/2017",
+    "date_str": "2025-10-08",
+    "description": "Hon. Janak De Silva J - Dedigama Group Private Limite...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_49_2017.pdf",
+    "parties": "Dedigama Group Private Limited, Head Office, No. 12, Dehiwala Road, Maharagama. PLAINTIFF \u2013 APPELLANT \u2013 PETITIONER Vs. 1. Nagoda Manalage Piyasena, 2. Panawalage Hemawathie, Both of No. 522, Minnana, Getaheththa. DEFENDANTS \u2013 RESPONDENTS \u2013 RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
   }
 ]
