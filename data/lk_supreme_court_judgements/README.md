@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_10:51:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_11:24:39-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,582** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-09**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**1,583** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (89%), **TXT** (89%) & **🤗 Hugging Face** (89%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-09-SC-APPEAL-172-2010",
-    "num": "SC/APPEAL/172/2010",
-    "date_str": "2025-10-09",
-    "description": "Hon. Sobhitha Rajakaruna J - Thellamurege Don Yasapala Pad...",
+    "doc_id": "2025-10-10-SC-APPEAL-37-2023",
+    "num": "SC/APPEAL/37/2023",
+    "date_str": "2025-10-10",
+    "description": "Hon. Arjuna Obeyesekere J - N.W.D.T. Nanayakkara, No. 390...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_172_2010.pdf",
-    "parties": "Thellamurege Don Yasapala Padmasiri Samaranayake (deceased), No. 13, Weerasinghe Lane, Panadura. DEFENDANT-APPELLANT-APPELLANT Thellamurege Don Pubudu Mangala Samaranayake (Substituted), No. 13, Weerasinghe Lane, Galle Road, Panadura. SUBSTITUTED DEFENDANT-APPELLANT- APPELLANT Vs. Freddy Kuruppu Nanayakkara (deceased), No.15, Weerasinghe Lane, Panadura. and presently, No. 160/2, Central Avenue, Laverton, Victoria, Australia. PLAINTIFF- RESPONDENT-RESPONDENT 1. Priyanthi Kuruppu Nanayakkara, 2. Indra Lakshman Kuruppu Nanayakkara, 3. Ashanka Dananjaya Kuruppu Nanayakkara, All of No. 160/2, Central Avenue, Laverton, Victoria, Australia. SUBSTITUTED PLAINTIFF- RESPONDENT-RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Sobhitha Rajakaruna J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_37_2023.pdf",
+    "parties": "N.W.D.T. Nanayakkara, No. 390/2, Harischandra Mawatha, New Town, Anuradhapura. APPLICANT \u2013 APPELLANT \u2013 APPELLANT Vs. North Central Provincial Road Passenger Transport Authority, Provincial Council of the North Central Province, Secretariat Building, Anuradhapura. RESPONDENT \u2013 RESPONDENT \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-10 | `SC/APPEAL/37/2023` | Hon. Arjuna Obeyesekere J - N.W.D.T. Nanayakkara, No. 390... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-APPEAL-37-2023)
 - 2025-10-09 | `SC/APPEAL/172/2010` | Hon. Sobhitha Rajakaruna J - Thellamurege Don Yasapala Pad... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-09-SC-APPEAL-172-2010)
 - 2025-10-08 | `SC/APPEAL/49/2017` | Hon. Janak De Silva J - Dedigama Group Private Limite... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-08-SC-APPEAL-49-2017)
 - 2025-10-07 | `SC/CHC APPEAL/31/2009` | Hon. K. Kumudini Wickremasinghe J - Distilleries Company of Sri L... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-07-SC-CHC-APPEAL-31-2009)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-23 | `SC/CHC APPEAL/15/2007` | Hon. Janak De Silva J - Orient Finance PLC (Formerly ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-CHC-APPEAL-15-2007)
 - 2025-09-19 | `SC/APPEAL/62/2025` | Hon. K. Priyantha Fernando J - 1.The Officer-in-Charge Polic... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-62-2025)
 - 2025-09-19 | `SC/APPEAL/17/2018` | Hon. Sobhitha Rajakaruna J - Saddatissa Athukorala No 349/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-17-2018)
-- 2025-09-19 | `SC/APPEAL/10/2016` | Hon. Sampath B. Abayakoon J - Simithra Arachchige Rohini Gu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-10-2016)
 
 ---
 
