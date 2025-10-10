@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_11:24:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_11:52:16-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,583** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**1,585** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (89%), **TXT** (89%) & **🤗 Hugging Face** (89%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-10-SC-APPEAL-37-2023",
-    "num": "SC/APPEAL/37/2023",
+    "doc_id": "2025-10-10-SC-RULE-12-2023",
+    "num": "SC/RULE/12/2023",
     "date_str": "2025-10-10",
-    "description": "Hon. Arjuna Obeyesekere J - N.W.D.T. Nanayakkara, No. 390...",
+    "description": "Hon. A.L. Shiran Gooneratne J - Major W. W. M. L. S. Palipana...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_37_2023.pdf",
-    "parties": "N.W.D.T. Nanayakkara, No. 390/2, Harischandra Mawatha, New Town, Anuradhapura. APPLICANT \u2013 APPELLANT \u2013 APPELLANT Vs. North Central Provincial Road Passenger Transport Authority, Provincial Council of the North Central Province, Secretariat Building, Anuradhapura. RESPONDENT \u2013 RESPONDENT \u2013 RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_rule_12_2023.pdf",
+    "parties": "Major W. W. M. L. S. Palipana, No. 36, Nuwarathanna Road, Wathegama. Complainant Vs. Wasantha Wijewardane, Attorney-at-Law, No. 03, Colombo Street, Kandy. Respondent\n\nView More",
+    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
 }
 ```
 
@@ -42,6 +42,8 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-10 | `SC/RULE/12/2023` | Hon. A.L. Shiran Gooneratne J - Major W. W. M. L. S. Palipana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-RULE-12-2023)
+- 2025-10-10 | `SC/FR/259/2016` | Hon. Menaka Wijesundera J - Vithanage Sunil, No.850/1, Ru... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-FR-259-2016)
 - 2025-10-10 | `SC/APPEAL/37/2023` | Hon. Arjuna Obeyesekere J - N.W.D.T. Nanayakkara, No. 390... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-APPEAL-37-2023)
 - 2025-10-09 | `SC/APPEAL/172/2010` | Hon. Sobhitha Rajakaruna J - Thellamurege Don Yasapala Pad... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-09-SC-APPEAL-172-2010)
 - 2025-10-08 | `SC/APPEAL/49/2017` | Hon. Janak De Silva J - Dedigama Group Private Limite... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-08-SC-APPEAL-49-2017)
@@ -60,8 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-23 | `SC/FR/214A/2018` | Hon. Arjuna Obeyesekere J - E.G.K. Lakmali, 108/1/D, 6th ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-FR-214A-2018)
 - 2025-09-23 | `SC/CONT/3/2025` | Hon. Yasantha Kodagoda PC J - 1. M.A. Sumanthiran, PC No. 3... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-CONT-3-2025)
 - 2025-09-23 | `SC/CHC APPEAL/15/2007` | Hon. Janak De Silva J - Orient Finance PLC (Formerly ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-23-SC-CHC-APPEAL-15-2007)
-- 2025-09-19 | `SC/APPEAL/62/2025` | Hon. K. Priyantha Fernando J - 1.The Officer-in-Charge Polic... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-62-2025)
-- 2025-09-19 | `SC/APPEAL/17/2018` | Hon. Sobhitha Rajakaruna J - Saddatissa Athukorala No 349/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-19-SC-APPEAL-17-2018)
 
 ---
 

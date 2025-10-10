@@ -2,13 +2,13 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-10 11:24:38",
-  "n_docs": 1583,
-  "n_docs_with_pdfs": 1404,
-  "n_docs_with_text": 1404,
+  "time_updated": "2025-10-10 11:52:15",
+  "n_docs": 1585,
+  "n_docs_with_pdfs": 1406,
+  "n_docs_with_text": 1406,
   "date_str_min": "2016-07-22",
   "date_str_max": "2025-10-10",
-  "dataset_size": 1284509693,
+  "dataset_size": 1286100986,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -19,14 +19,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-10-SC-APPEAL-37-2023",
-    "num": "SC/APPEAL/37/2023",
+    "doc_id": "2025-10-10-SC-RULE-12-2023",
+    "num": "SC/RULE/12/2023",
     "date_str": "2025-10-10",
-    "description": "Hon. Arjuna Obeyesekere J - N.W.D.T. Nanayakkara, No. 390...",
+    "description": "Hon. A.L. Shiran Gooneratne J - Major W. W. M. L. S. Palipana...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_37_2023.pdf",
-    "parties": "N.W.D.T. Nanayakkara, No. 390/2, Harischandra Mawatha, New Town, Anuradhapura. APPLICANT \u2013 APPELLANT \u2013 APPELLANT Vs. North Central Provincial Road Passenger Transport Authority, Provincial Council of the North Central Province, Secretariat Building, Anuradhapura. RESPONDENT \u2013 RESPONDENT \u2013 RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_rule_12_2023.pdf",
+    "parties": "Major W. W. M. L. S. Palipana, No. 36, Nuwarathanna Road, Wathegama. Complainant Vs. Wasantha Wijewardane, Attorney-at-Law, No. 03, Colombo Street, Kandy. Respondent\n\nView More",
+    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
   }
 }
