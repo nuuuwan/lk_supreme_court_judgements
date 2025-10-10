@@ -1,0 +1,2447 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      101.33,
+      84.05,
+      514.92,
+      99.15
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      219.22,
+      106.88,
+      397.43,
+      121.98
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.52,
+      153.87,
+      472.99,
+      167.87
+    ],
+    "text": "Abdul Cader Sabura Umma,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.52,
+      174.99,
+      396.14,
+      188.99
+    ],
+    "text": "No. 9/2 (10/4),",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.52,
+      196.13,
+      387.26,
+      210.13
+    ],
+    "text": "Central Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.52,
+      217.25,
+      369.26,
+      231.25
+    ],
+    "text": "Batticaloa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.52,
+      238.37,
+      473.23,
+      252.37
+    ],
+    "text": "Plaintiff-Appellant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      259.49,
+      306.6,
+      273.47
+    ],
+    "text": "SC/APPEAL/112/2014",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      280.64,
+      237.22,
+      294.62
+    ],
+    "text": "EP/HCCA/BC/06/2007",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      301.76,
+      254.02,
+      315.74
+    ],
+    "text": "DC BATTICALOA 4413/96",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.52,
+      322.88,
+      324.84,
+      336.88
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.12,
+      365.14,
+      482.59,
+      379.14
+    ],
+    "text": "1. Puvenesweri Krishnamoorthie,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.12,
+      386.26,
+      363.26,
+      400.26
+    ],
+    "text": "(deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.12,
+      407.38,
+      451.61,
+      421.38
+    ],
+    "text": "2. Prishla Krishnamoorthie,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.12,
+      428.52,
+      458.81,
+      442.52
+    ],
+    "text": "3. Manjula Krishnamoorthie,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.12,
+      449.64,
+      452.09,
+      463.64
+    ],
+    "text": "4. Geetha Krishnamoorthie,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.12,
+      470.76,
+      364.22,
+      484.76
+    ],
+    "text": "(deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.12,
+      491.88,
+      464.35,
+      505.88
+    ],
+    "text": "All of No. 92, Central Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.12,
+      513.03,
+      366.86,
+      527.03
+    ],
+    "text": "Batticaloa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.12,
+      534.15,
+      461.21,
+      548.15
+    ],
+    "text": "2nd Defendant-Respondent-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.920000076293945,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.12,
+      555.27,
+      373.34,
+      569.27
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      597.77,
+      328.68,
+      611.77
+    ],
+    "text": "Before: Hon. Justice Janak De Silva",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.47,
+      618.89,
+      404.57,
+      632.89
+    ],
+    "text": "Hon. Justice Mahinda Samayawardhena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.47,
+      640.01,
+      361.82,
+      654.01
+    ],
+    "text": "Hon. Justice Arjuna Obeyesekere",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      667.16,
+      381.5,
+      681.16
+    ],
+    "text": "Counsel: Thushani Machado for the Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.47,
+      688.27,
+      404.57,
+      702.28
+    ],
+    "text": "K.V.S. Ganesharajan for the Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      35.94,
+      319.97,
+      62.72
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      367.34,
+      34.5,
+      525.27,
+      47.38
+    ],
+    "text": "SC/APPEAL/112/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      72.0,
+      233.86,
+      86.0
+    ],
+    "text": "Written submissions on:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      99.12,
+      349.58,
+      113.12
+    ],
+    "text": "By the Appellant on 09.07.2025",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      126.27,
+      363.02,
+      140.27
+    ],
+    "text": "By the Respondent on 21.07.2025",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      153.39,
+      229.3,
+      167.39
+    ],
+    "text": "Argued on: 09.06.2025",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      180.51,
+      230.5,
+      194.51
+    ],
+    "text": "Decided on: 10.10.2025",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      213.65,
+      218.5,
+      227.65
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      246.77,
+      529.63,
+      260.77
+    ],
+    "text": "The plaintiff instituted this action in the District Court of Batticaloa against",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      267.92,
+      529.44,
+      281.92
+    ],
+    "text": "the defendants seeking a declaration that they are the tenants of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      289.04,
+      529.54,
+      303.04
+    ],
+    "text": "plaintiff and ejectment of them from the premises in suit on the grounds of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      310.16,
+      529.56,
+      324.16
+    ],
+    "text": "reasonable requirement and arrears of rent. In their answer, the defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      331.28,
+      529.31,
+      345.28
+    ],
+    "text": "admitted that they were tenants but denied that the premises were",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      352.42,
+      529.66,
+      366.42
+    ],
+    "text": "reasonably required by the plaintiff or that arrears of rent were outstanding.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      385.54,
+      529.31,
+      399.54
+    ],
+    "text": "In paragraph 12 of the plaint, the plaintiff averred that she had given one",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      406.66,
+      529.34,
+      420.66
+    ],
+    "text": "month\u2019s notice terminating the tenancy. In paragraph 11 of the answer,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      428.04,
+      529.36,
+      442.04
+    ],
+    "text": "however, the defendants specifically pleaded that, as tenants within the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      449.16,
+      529.52,
+      463.16
+    ],
+    "text": "meaning of the Rent Act No. 7 of 1972, such one month\u2019s notice was invalid",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      470.28,
+      529.62,
+      484.28
+    ],
+    "text": "in law, and therefore the action could not be maintained. This matter was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      491.4,
+      529.34,
+      505.4
+    ],
+    "text": "put in issue at the trial. It is significant that at no stage did the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      512.55,
+      477.07,
+      526.55
+    ],
+    "text": "contend that the premises were outside the ambit of the Rent Act.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      545.67,
+      529.33,
+      559.67
+    ],
+    "text": "After trial, the District Court dismissed the plaintiff\u2019s action on the ground",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      566.79,
+      529.42,
+      580.79
+    ],
+    "text": "that the notice to quit was not valid in law, holding that under section 22(6)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      587.93,
+      475.63,
+      601.93
+    ],
+    "text": "of the Rent Act the plaintiff was required to give one year\u2019s notice.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      621.05,
+      529.33,
+      635.05
+    ],
+    "text": "On appeal, the High Court of Civil Appeal of Batticaloa affirmed the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      642.17,
+      529.34,
+      656.17
+    ],
+    "text": "judgment of the District Court and dismissed the appeal. The present",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      663.32,
+      529.28,
+      677.32
+    ],
+    "text": "appeal, filed with leave of this Court, is against the judgment of the High",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      684.43,
+      529.51,
+      698.44
+    ],
+    "text": "Court. A previous bench of this Court granted leave to appeal on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      705.55,
+      244.66,
+      719.56
+    ],
+    "text": "following questions of law:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      35.94,
+      319.97,
+      62.72
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      367.34,
+      34.5,
+      525.27,
+      47.38
+    ],
+    "text": "SC/APPEAL/112/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.45,
+      72.0,
+      529.11,
+      86.06
+    ],
+    "text": "(a) Did the High Court of Civil Appeal misdirect itself in holding that the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      93.12,
+      529.13,
+      107.18
+    ],
+    "text": "respondents were tenants, in view of their denial of the appellant\u2019s",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      114.27,
+      153.89,
+      128.33
+    ],
+    "text": "title?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.45,
+      135.39,
+      529.08,
+      149.45
+    ],
+    "text": "(b) In any event, was the notice to quit valid in the circumstances of the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      156.51,
+      158.71,
+      170.57
+    ],
+    "text": "case?",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      189.65,
+      529.34,
+      203.65
+    ],
+    "text": "The first question suggests that the defendants denied the plaintiff\u2019s title.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      210.77,
+      529.33,
+      224.77
+    ],
+    "text": "Even assuming that the defendants denied the plaintiff\u2019s title, they did not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      231.89,
+      529.32,
+      245.89
+    ],
+    "text": "deny that they were tenants under the plaintiff. For the continuance of a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      253.01,
+      529.36,
+      267.01
+    ],
+    "text": "landlord\u2013tenant relationship, it is not necessary that the landlord be the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      274.16,
+      529.45,
+      288.16
+    ],
+    "text": "owner of the premises. A valid tenancy agreement may come into existence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      295.28,
+      529.33,
+      309.28
+    ],
+    "text": "even between a trespasser and another, though such an agreement would",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      316.4,
+      237.46,
+      330.4
+    ],
+    "text": "not bind the true owner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      349.54,
+      529.33,
+      363.54
+    ],
+    "text": "There had also been a previous litigation (Case No. 3510/L) between the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      370.66,
+      529.34,
+      384.66
+    ],
+    "text": "predecessors of the present parties. The plaintiff contends that in that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      392.02,
+      529.31,
+      406.02
+    ],
+    "text": "action the defendants claimed ownership of the premises, which was not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      413.14,
+      529.52,
+      427.14
+    ],
+    "text": "accepted by Court, and that the plaintiff\u2019s ownership was upheld. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      434.28,
+      529.36,
+      448.28
+    ],
+    "text": "plaintiff now argues that the defendants cannot approbate and reprobate",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      455.4,
+      533.74,
+      469.4
+    ],
+    "text": "by asserting ownership in the earlier case and tenancy in the present action.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      488.52,
+      529.4,
+      502.52
+    ],
+    "text": "If that was indeed the plaintiff\u2019s position, the proper course would have been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      509.67,
+      529.46,
+      523.67
+    ],
+    "text": "to seek ejectment of the defendants in the earlier action itself. In this regard,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      530.79,
+      422.33,
+      544.79
+    ],
+    "text": "section 34 of the Civil Procedure Code becomes relevant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      563.91,
+      529.12,
+      577.97
+    ],
+    "text": "34(1) Every action shall include the whole of the claim which the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      585.05,
+      529.35,
+      599.11
+    ],
+    "text": "plaintiff is entitled to make in respect of the cause of action; but a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      606.17,
+      529.11,
+      620.23
+    ],
+    "text": "plaintiff may relinquish any portion of his claim in order to bring the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      627.29,
+      364.94,
+      641.35
+    ],
+    "text": "action within the jurisdiction of any court.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      660.44,
+      529.11,
+      674.5
+    ],
+    "text": "(2) If a plaintiff omits to sue in respect of, or intentionally relinquishes",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      681.55,
+      529.05,
+      695.62
+    ],
+    "text": "any portion of, his claim, he shall not afterwards sue in respect of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.45,
+      702.67,
+      529.07,
+      716.74
+    ],
+    "text": "portion so omitted or relinquished. A person entitled to more than one",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      35.94,
+      319.97,
+      62.72
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      367.34,
+      34.5,
+      525.27,
+      47.38
+    ],
+    "text": "SC/APPEAL/112/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.45,
+      72.0,
+      529.24,
+      86.06
+    ],
+    "text": "remedy in respect of the same cause of action may sue for all or any of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.45,
+      93.12,
+      529.21,
+      107.18
+    ],
+    "text": "his remedies; but if he omits (except with the leave of the court obtained",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.45,
+      114.27,
+      529.11,
+      128.33
+    ],
+    "text": "before the hearing) to sue for any of such remedies, he shall not",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.45,
+      135.39,
+      367.82,
+      149.45
+    ],
+    "text": "afterwards sue for the remedy so omitted.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.45,
+      168.51,
+      529.09,
+      182.57
+    ],
+    "text": "(3) For the purpose of this section, an obligation and a collateral",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.45,
+      189.65,
+      529.25,
+      203.71
+    ],
+    "text": "security for its performance shall be deemed to constitute but one cause",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.45,
+      210.77,
+      178.39,
+      224.83
+    ],
+    "text": "of action.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      243.89,
+      529.46,
+      257.89
+    ],
+    "text": "The premises had been transferred by the predecessor of the plaintiff to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      265.04,
+      529.54,
+      279.04
+    ],
+    "text": "predecessor of the defendants by a deed, which the plaintiff stated was not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      286.16,
+      529.58,
+      300.16
+    ],
+    "text": "an outright transfer but security for a loan. In the previous case, the Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      307.28,
+      529.31,
+      321.28
+    ],
+    "text": "held that the defendants held the premises in trust for the plaintiff, and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      328.4,
+      529.45,
+      342.4
+    ],
+    "text": "directed the plaintiff to pay the sum borrowed from the defendants, together",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      349.54,
+      529.59,
+      363.54
+    ],
+    "text": "with interest, in order for the defendants to retransfer the premises to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      370.66,
+      529.52,
+      384.66
+    ],
+    "text": "plaintiff. According to the plaint in the present action, the plaintiff has not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      392.02,
+      529.46,
+      406.02
+    ],
+    "text": "made that payment. Without discharging that obligation, the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      413.14,
+      529.33,
+      427.14
+    ],
+    "text": "instituted the instant action to eject the defendants on the basis of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      434.28,
+      529.49,
+      448.28
+    ],
+    "text": "termination of tenancy. Such conduct is wholly unacceptable, as it amounts",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      455.4,
+      529.45,
+      469.4
+    ],
+    "text": "to an abuse of the judicial process and an attempt to harass the defendants",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      476.52,
+      255.94,
+      490.52
+    ],
+    "text": "through vexatious litigation.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      509.67,
+      529.25,
+      523.67
+    ],
+    "text": "Be that as it may, as I have already observed, the plaintiff instituted this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      530.79,
+      529.33,
+      544.79
+    ],
+    "text": "action treating the defendants as tenants, seeking their ejectment on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      551.91,
+      529.36,
+      565.91
+    ],
+    "text": "grounds of reasonable requirement and arrears of rent. The defendants,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      573.03,
+      529.46,
+      587.03
+    ],
+    "text": "while admitting their status as tenants, sought dismissal of the action on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      594.17,
+      529.33,
+      608.17
+    ],
+    "text": "the ground that the notice of termination was invalid. When the plaintiff",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      615.29,
+      529.33,
+      629.29
+    ],
+    "text": "herself filed this action on the footing that the defendants were tenants,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      636.41,
+      529.63,
+      650.41
+    ],
+    "text": "could she then have expected the defendants to deny tenancy and assert",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      657.56,
+      529.49,
+      671.56
+    ],
+    "text": "ownership, as she now contends, particularly in view of the previous",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      678.68,
+      529.44,
+      692.68
+    ],
+    "text": "litigation? Such a position is untenable and only serves to highlight the lack",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      699.79,
+      529.21,
+      713.8
+    ],
+    "text": "of clarity on the part of the plaintiff as to the very basis of her action. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      35.94,
+      319.97,
+      62.72
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      367.34,
+      34.5,
+      525.27,
+      47.38
+    ],
+    "text": "SC/APPEAL/112/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      72.0,
+      529.33,
+      86.0
+    ],
+    "text": "allegation that the defendants are approbating and reprobating is wholly",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      93.12,
+      529.32,
+      107.12
+    ],
+    "text": "misplaced; on the contrary, it is the plaintiff who is guilty of approbating",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      114.27,
+      259.3,
+      128.27
+    ],
+    "text": "and reprobating in this case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      147.39,
+      529.46,
+      161.39
+    ],
+    "text": "At the time material to this action, section 22(6) of the Rent Act provided as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      168.51,
+      134.21,
+      182.51
+    ],
+    "text": "follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.45,
+      201.65,
+      529.14,
+      215.71
+    ],
+    "text": "Notwithstanding anything in any other law, the landlord of any",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.45,
+      222.77,
+      529.12,
+      236.83
+    ],
+    "text": "premises referred to in subsection (1) or subsection (2) shall not be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.45,
+      243.89,
+      529.12,
+      257.95
+    ],
+    "text": "entitled to institute any action or proceedings for the ejectment of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.45,
+      265.04,
+      529.37,
+      279.1
+    ],
+    "text": "tenant of such premises on the ground that such premises are required",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.45,
+      286.16,
+      529.11,
+      300.22
+    ],
+    "text": "for occupation as a residence for himself or any member of his family,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.45,
+      307.28,
+      529.12,
+      321.34
+    ],
+    "text": "or for the purposes of his trade, business, profession, vocation or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.45,
+      328.4,
+      529.06,
+      342.46
+    ],
+    "text": "employment, if the landlord has not given to the tenant of such",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.45,
+      349.54,
+      529.42,
+      363.6
+    ],
+    "text": "premises one year\u2019s notice in writing of the termination of the tenancy.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      382.66,
+      529.32,
+      396.66
+    ],
+    "text": "As the law presently stands, following the Rent (Amendment) Act No. 26 of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      404.02,
+      498.43,
+      418.02
+    ],
+    "text": "2002, the period of one year\u2019s notice has been reduced to six months.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      437.16,
+      529.27,
+      451.16
+    ],
+    "text": "The plaintiff expressly admitted that she gave only one month\u2019s notice of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      458.28,
+      529.43,
+      472.28
+    ],
+    "text": "termination. As rightly decided by both Courts below, the plaintiff did not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      479.4,
+      529.33,
+      493.4
+    ],
+    "text": "give one year\u2019s notice of termination before she filed the action on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      500.55,
+      529.43,
+      514.55
+    ],
+    "text": "reasonable requirement. It is well settled that the notice of termination",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      521.67,
+      529.34,
+      535.67
+    ],
+    "text": "stipulated under the Rent Act constitutes a condition precedent to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      542.79,
+      529.66,
+      556.79
+    ],
+    "text": "institution of an action, and failure to give the requisite notice is fatal to its",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      563.91,
+      529.62,
+      577.91
+    ],
+    "text": "maintainability. On the unique facts and circumstances of this case, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      585.05,
+      319.56,
+      599.05
+    ],
+    "text": "plaintiff cannot succeed in this action.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      618.17,
+      529.61,
+      632.17
+    ],
+    "text": "I answer both questions of law in the negative and dismiss the appeal with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      639.29,
+      124.13,
+      653.29
+    ],
+    "text": "costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      359.42,
+      693.55,
+      529.66,
+      707.56
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      35.94,
+      319.97,
+      62.72
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      367.34,
+      34.5,
+      525.27,
+      47.38
+    ],
+    "text": "SC/APPEAL/112/2014",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      72.0,
+      197.35,
+      86.0
+    ],
+    "text": "Janak De Silva, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      93.12,
+      133.25,
+      107.12
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      359.42,
+      114.27,
+      529.66,
+      128.27
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      156.51,
+      226.66,
+      170.51
+    ],
+    "text": "Arjuna Obeyesekere, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      177.63,
+      133.25,
+      191.63
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      359.42,
+      198.77,
+      529.66,
+      212.77
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
