@@ -157,6 +157,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2017-01-17-SC-APPEAL-58-2014",
+    "num": "SC/APPEAL/58/2014",
+    "date_str": "2017-01-17",
+    "description": "Hon. Sisira J De Abrew J - 1.GalgamuwaKankanamlage Malan...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_58_2014-1.pdf",
+    "parties": "1.GalgamuwaKankanamlage Malani 2. GalgamuwaKankanamlage Sarath Dharmasiri both of No. 201, Pamunugama, Alubomulla. Defendants-Appellants-Appellants -Vs- Habaragamuwage Dickson PeirisThilakapala of No. 201, Pamunugama, Alubomulla. Plaintiff-Respondent-Respondent",
+    "judgement_by": "Hon. Sisira J De Abrew J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2017-01-17-SC-APPEAL-87-16",
     "num": "SC/APPEAL/87/16",
     "date_str": "2017-01-17",
@@ -286,6 +298,30 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_27_2014.pdf",
     "parties": "Loku Yaddehige Ruwan Kulunuguna, Of No. 244/1, Jaya Mawatha, Makola. Plaintiff Vs. Scanwell Customs Brokers (Pvt.) Ltd., Of No. 3/2, No. 15, Galle Face Terrace, Colombo 03. Defendant IN THE HIGH COURT Scanwell Customs Brokers (Pvt.) Ltd., Of No. 3/2, No. 15, Galle Face Terrace, Colombo 03. Defendant-Appellant Vs. Loku Yaddehige Ruwan Kulunuguna, Of No. 244/1, Jaya Mawatha, Makola. Plaintiff-Respondent AND NOW BETWEEN IN THE SUPREME COURT Loku Yaddehige Ruwan Kulunuguna, Of No. 244/1, Jaya Mawatha, Makola. Plaintiff-Respondent-Petitioner Vs. Scanwell Customs Brokers (Pvt.) Ltd., Of No. 3/2, No. 15, Galle Face Terrace, Colombo 03. But presently at: Scanwell Customs Brokers Pvt. Ltd., No. 67/1, Hudson Road, Colombo 03. Defendant-Appellant-Respondent ---- Loku Yaddehige Ruwan Kulunuguna, Of No. 244/1, Jaya Mawatha, Makola. Plaintiff-Respondent-Appellant Vs. Scanwell Customs Brokers (Pvt.) Ltd., Of No. 3/2, No. 15, Galle Face Terrace, Colombo 03. Defendant-Appellant-Respondent",
     "judgement_by": "Hon. Sisira J. De Abrew, J. / HON. CHITRASIRI, J."
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2017-01-25-SC-APPEAL-27-2014-PART-I",
+    "num": "SC/APPEAL/27/2014 PART I",
+    "date_str": "2017-01-25",
+    "description": "Hon. Sisira J De Abrew J - Loku Yaddehige Ruwan Kulunugu...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_27_2014-part-I.pdf",
+    "parties": "Loku Yaddehige Ruwan Kulunuguna, Of No. 244/1, Jaya Mawatha, Makola. Plaintiff Respondent Appellant Vs. Scanwell Customs Brokers (Pvt.) Ltd., Of No. 3/2, No. 15, Galle Face Terrace, Colombo 03. Defendant Appella nt Respondent",
+    "judgement_by": "Hon. Sisira J De Abrew J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2017-01-25-SC-APPEAL-27-2014-PART-II",
+    "num": "SC/APPEAL/27/2014 PART II",
+    "date_str": "2017-01-25",
+    "description": "Hon. K.T. Chitrasiri J - Loku Yaddehige Ruwan Kulunugu...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_27_2014-part-II.pdf",
+    "parties": "Loku Yaddehige Ruwan Kulunuguna No.244/1, Jaya Mawatha, Makola Plaintiff-Respondent-Appellant Vs Scanwell Customs Brokers (Pvt) Ltd. No.3/2, No.15, Galle Face Terrace. Colombo.03 Defendant-Appellant-Respondent",
+    "judgement_by": "Hon. K.T. Chitrasiri J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
