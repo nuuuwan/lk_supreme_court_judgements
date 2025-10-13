@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_11:51:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--13_12:31:47-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**1,588** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**1,589** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.3 GB**), from **2016-07-22** to **2025-10-13**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (89%), **TXT** (89%) & **🤗 Hugging Face** (89%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-10-SC-RULE-12-2023",
-    "num": "SC/RULE/12/2023",
-    "date_str": "2025-10-10",
-    "description": "Hon. A.L. Shiran Gooneratne J - Major W. W. M. L. S. Palipana...",
+    "doc_id": "2025-10-13-SC-FR-169-2024",
+    "num": "SC/FR/169/2024",
+    "date_str": "2025-10-13",
+    "description": "Hon. Menaka Wijesundera J - S. Malavipathirana No.37A, Ru...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_rule_12_2023.pdf",
-    "parties": "Major W. W. M. L. S. Palipana, No. 36, Nuwarathanna Road, Wathegama. Complainant Vs. Wasantha Wijewardane, Attorney-at-Law, No. 03, Colombo Street, Kandy. Respondent\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_169_2024.pdf",
+    "parties": "S. Malavipathirana No.37A, Rupasiri Mawatha, Mirihana, Nugegoda. Petitioner Vs. 1. Sabaragamuwa University of Sri Lanka, PO Box 02, Belihul Oya. And 27 Others Respondents\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-13 | `SC/FR/169/2024` | Hon. Menaka Wijesundera J - S. Malavipathirana No.37A, Ru... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-13-SC-FR-169-2024)
 - 2025-10-10 | `SC/RULE/12/2023` | Hon. A.L. Shiran Gooneratne J - Major W. W. M. L. S. Palipana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-RULE-12-2023)
 - 2025-10-10 | `SC/FR/259/2016` | Hon. Menaka Wijesundera J - Vithanage Sunil, No.850/1, Ru... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-FR-259-2016)
 - 2025-10-10 | `SC/APPEAL/65/2025` | Hon. Mahinda Samayawardhena J - W.T. S. Nilantha Fernando, 59... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-APPEAL-65-2025)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-25 | `SC/APPEAL/18/2017` | Hon. M. Sampath K. B. Wijeratne J - 1.a Muruthen Rallage Nawarath... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-APPEAL-18-2017)
 - 2025-09-25 | `SC/APPEAL/151/2012` | Hon. Janak De Silva J - H.M.D. Ramlan, No. 143, Kandy... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-APPEAL-151-2012)
 - 2025-09-25 | `SC/APPEAL/125/2012` | Hon. Sampath B. Abayakoon J - S.M. Ashoka Lalith Subasinghe... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-25-SC-APPEAL-125-2012)
-- 2025-09-24 | `SC/APPEAL/94/2017` | Hon. Sampath B. Abayakoon J - B.R.W.M.R. Kuda Bandara Thora... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-24-SC-APPEAL-94-2017)
 
 ---
 

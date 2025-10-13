@@ -2,13 +2,13 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-13 11:51:52",
-  "n_docs": 1588,
-  "n_docs_with_pdfs": 1409,
-  "n_docs_with_text": 1409,
+  "time_updated": "2025-10-13 12:31:46",
+  "n_docs": 1589,
+  "n_docs_with_pdfs": 1412,
+  "n_docs_with_text": 1412,
   "date_str_min": "2016-07-22",
-  "date_str_max": "2025-10-10",
-  "dataset_size": 1289465499,
+  "date_str_max": "2025-10-13",
+  "dataset_size": 1291033668,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -19,14 +19,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-10-SC-RULE-12-2023",
-    "num": "SC/RULE/12/2023",
-    "date_str": "2025-10-10",
-    "description": "Hon. A.L. Shiran Gooneratne J - Major W. W. M. L. S. Palipana...",
+    "doc_id": "2025-10-13-SC-FR-169-2024",
+    "num": "SC/FR/169/2024",
+    "date_str": "2025-10-13",
+    "description": "Hon. Menaka Wijesundera J - S. Malavipathirana No.37A, Ru...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_rule_12_2023.pdf",
-    "parties": "Major W. W. M. L. S. Palipana, No. 36, Nuwarathanna Road, Wathegama. Complainant Vs. Wasantha Wijewardane, Attorney-at-Law, No. 03, Colombo Street, Kandy. Respondent\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_169_2024.pdf",
+    "parties": "S. Malavipathirana No.37A, Rupasiri Mawatha, Mirihana, Nugegoda. Petitioner Vs. 1. Sabaragamuwa University of Sri Lanka, PO Box 02, Belihul Oya. And 27 Others Respondents\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
   }
 }
