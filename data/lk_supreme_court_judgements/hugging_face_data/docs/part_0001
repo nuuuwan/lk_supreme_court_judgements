@@ -10357,6 +10357,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2023-01-11-SC-APPEAL-29-2022-WITH--209e82d0",
+    "num": "SC/APPEAL/29/2022 WITH SC/APPEAL/29A/2022",
+    "date_str": "2023-01-11",
+    "description": "Hon. P. Padman Surasena J - 1. Jagath Balapatabendi, Chai...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_29_29a_2022.pdf",
+    "parties": "1. Jagath Balapatabendi, Chairman - Public Service Commission, No.1200/9, Rajamalwatta Road, Battaramulla. 8. Dilith Jayaweera Member - Public Service Commission, No.1200/9, Rajamalwatta Road, Battaramulla 1ST & 8TH RESPONDENT-APPELLANTS 11. Secretary to the Ministry of Justice, Ministry of Justice, Colombo 12. 12. Sanjaya Rajaratnam Esqr, Hon. Attorney General, No.14/11, Auburn Side, Dehiwala. 11TH & 12TH RESPONDENT-APPELLANTS Vs A. P. Dilrukshi Dias Wickramasinghe No.377/2, Thalawathugoda Road, Hokandara South PETITIONER-RESPONDENT 1. Indrani Sugathadasa, Member - Public Service Commission, No.1200/9, Rajamalwatta Road, Battaramulla 2. V. Sivagnanasothi, Member - Public Service Commission, No.1200/9, Rajamalwatta Road, Battaramulla 3. C.R.C. Ruberu, Member - Public Service Commission, No.1200/9, Rajamalwatta Road, Battaramulla 4. A.L.M. Saleem, Member - Public Service Commission, No.1200/9, Rajamalwatta Road, Battaramulla 5. Leelasena Liyanagama, Member - Public Service Commission, No.1200/9, Rajamalwatta R",
+    "judgement_by": "Hon. P. Padman Surasena J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2023-01-11-SC-APPEAL-85A-2009",
     "num": "SC/APPEAL/85A/2009",
     "date_str": "2023-01-11",
@@ -10641,6 +10653,18 @@
     "lang": "en",
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_46_2018.pdf",
     "parties": "",
+    "judgement_by": "Hon. Justice Buwaneka Aluwihare, PC"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2023-03-23-SC-RULE-3-2021",
+    "num": "SC/RULE/3/2021",
+    "date_str": "2023-03-23",
+    "description": "Hon. Justice Buwaneka Aluwihare, PC - Edward Megarry 2nd Secretary-...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_rule_3_2021-1.pdf",
+    "parties": "Edward Megarry 2nd Secretary-Migration British High Commission 389, Bauddhaloka Mawatha Colombo 7 Complainant Alwapillai Gangatharan No.361, Dam Streem, Colombo -12. Respondent",
     "judgement_by": "Hon. Justice Buwaneka Aluwihare, PC"
   },
   {
