@@ -1,0 +1,1980 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.58,
+      72.0,
+      533.54,
+      85.98
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.29,
+      88.44,
+      357.91,
+      102.42
+    ],
+    "text": "OF SRI LANKA.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      136.92,
+      532.9,
+      235.52
+    ],
+    "text": "In the matter of an application in terms of Articles 17 and 126 of the Constitution of the Democratic Socialist Republic of Sri Lanka in respect of violation of Articles 12(1) and 14(1)(g) of the constitution.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      265.71,
+      271.25,
+      279.71
+    ],
+    "text": "S.C. (FR) No. 507/2019",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.05,
+      287.79,
+      523.63,
+      301.79
+    ],
+    "text": "1. Heenatigala Kanaththage Indika",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      304.11,
+      507.07,
+      334.43
+    ],
+    "text": "Prasanna, No, 477/8A, Kotte Road, Pitakotte",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.05,
+      336.75,
+      494.35,
+      367.07
+    ],
+    "text": "2. Wendakoon Mudiyanselage",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      369.39,
+      530.35,
+      415.91
+    ],
+    "text": "Shamira Thilakarathne, No. 141/1, Church Road, Pahala Mawila, Nattandiya",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.05,
+      418.25,
+      504.91,
+      448.57
+    ],
+    "text": "3. Indika Kenath Fernando, No.",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      450.89,
+      469.63,
+      481.21
+    ],
+    "text": "254/24, Welaboda Rd, Katunayake.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.05,
+      483.53,
+      436.03,
+      513.85
+    ],
+    "text": "4. Subhanu Janaka",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      516.17,
+      514.54,
+      562.81
+    ],
+    "text": "Hiddallaarachchi, No.13, 11th Lane, Palathota Watta, Duwa Temple Road, Kalutara South.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.05,
+      565.13,
+      537.79,
+      595.48
+    ],
+    "text": "5. Galgamuge Somil Chandima Silva,",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      597.8,
+      510.19,
+      628.12
+    ],
+    "text": "No. 72/A, Udugampala Road, Kotugoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.05,
+      630.44,
+      512.35,
+      660.76
+    ],
+    "text": "6. Balasuriya Lekamalage Gayan",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.07,
+      663.08,
+      503.23,
+      709.72
+    ],
+    "text": "Prasanna Balasuriya 19/A, Nagawanarama Road, Nedagamuwa, Kotugoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      72.0,
+      481.18,
+      102.32
+    ],
+    "text": "7. Thiyunuwan Senadheera",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      104.64,
+      509.02,
+      118.64
+    ],
+    "text": "No.34, Marapola, Veyangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      120.96,
+      515.95,
+      151.28
+    ],
+    "text": "8. Sathika Sanjeewanie Liyanage,",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      153.72,
+      524.38,
+      167.72
+    ],
+    "text": "No.06 A, Malwattha, Bemmulla.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      202.2,
+      527.98,
+      216.2
+    ],
+    "text": "9. Angodage Don Mahesh Indrajith.",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      218.52,
+      502.99,
+      248.87
+    ],
+    "text": "No.536/2, Batagama South, Kandana.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      251.19,
+      485.23,
+      281.51
+    ],
+    "text": "10. Warnakulasuriya Malith",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      283.83,
+      524.11,
+      330.47
+    ],
+    "text": "Sudarsha Lowe No 82, Convert Rd.,Bolawalana, Negombo.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      332.79,
+      474.19,
+      363.11
+    ],
+    "text": "11. Suranga Jayawardana",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      365.43,
+      526.99,
+      412.07
+    ],
+    "text": "Wickramasinghe No.474/16,Kamburagalla watta, Ruggahawila.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      414.41,
+      539.23,
+      444.73
+    ],
+    "text": "12. Kodagoda Ranasinghege Dinusha",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      447.05,
+      531.31,
+      493.69
+    ],
+    "text": "Manoj Ranasinghe, 46/2, Wijayamangalarama Road, Kohuwala",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      496.01,
+      521.47,
+      526.33
+    ],
+    "text": "13. Asmagoda Pathiranage Saman",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      528.53,
+      508.27,
+      591.52
+    ],
+    "text": "Pushpa Kumara, No 2/23, Big city, Pellawatte, Minuwangoda.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      593.84,
+      541.9,
+      624.16
+    ],
+    "text": "14. Nanayakkara Pathiranage Lakmal",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      626.48,
+      496.99,
+      656.8
+    ],
+    "text": "Suranga, Thalahenawattta, Dadagamuwa, Veyangoda",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.05,
+      659.12,
+      540.46,
+      689.44
+    ],
+    "text": "15. Herath Pathiranage Amila Eranga",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.07,
+      691.75,
+      381.31,
+      705.76
+    ],
+    "text": "Herath,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.07,
+      72.0,
+      513.79,
+      102.32
+    ],
+    "text": "Ketawala Gedara, Wewagama, Kuliyapitiya",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      315.05,
+      104.64,
+      501.79,
+      134.96
+    ],
+    "text": "16. Disanayake Mudiyanselage",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.07,
+      137.28,
+      500.35,
+      183.92
+    ],
+    "text": "Amitha Ruwan Disanayake, Ambagaswewa,Hathagama, Riddibedi Ella, Maho.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      315.05,
+      186.24,
+      517.63,
+      216.56
+    ],
+    "text": "17. Gamaralalage Nilantha Aruna",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      218.88,
+      473.5,
+      298.19
+    ],
+    "text": "Bandara Kanmeewala. Parabewila, Pothuhera, PC 60330.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      315.05,
+      300.51,
+      516.67,
+      330.83
+    ],
+    "text": "18. Rajapaksha Pathirennehelage",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.07,
+      333.03,
+      510.46,
+      347.03
+    ],
+    "text": "Upul Jayarathne Edirisinghe",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      338.35,
+      349.35,
+      539.98,
+      379.67
+    ],
+    "text": "No. 101, Dambutuwa, Debahera.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      292.61,
+      381.99,
+      613.06,
+      444.95
+    ],
+    "text": "Petitioners VS.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      338.35,
+      447.29,
+      530.83,
+      477.61
+    ],
+    "text": "1. Airport and Aviation Services",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      338.35,
+      479.93,
+      525.79,
+      559.21
+    ],
+    "text": "(SriLanka) (Private) Limited, Bandaranaike International Airport, Katunayake. 2. Major General (Retired) G. A",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      338.35,
+      561.53,
+      500.62,
+      657.16
+    ],
+    "text": "Chandrasiri Chairman, 2A Athula Galketiya. Chairman, 3. R. Sooriyarachchi, Vice",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      356.35,
+      659.48,
+      426.67,
+      689.8
+    ],
+    "text": "Chairman.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.38,
+      603.44,
+      288.29,
+      617.44
+    ],
+    "text": "Party sought to be added/substituted",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338.35,
+      72.0,
+      529.15,
+      183.92
+    ],
+    "text": "3A Dr. Ajith MendisVice Chairman. 3B Awanthi Senarathne Vice Chairman. 4. A. S.C: Warushahennadige,:",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338.35,
+      186.24,
+      484.54,
+      232.88
+    ],
+    "text": "Executive Director, 5. S. N. Sumanasekara,",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338.35,
+      235.23,
+      453.82,
+      281.87
+    ],
+    "text": "Director, 6. T. Weerasinghe,",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      284.19,
+      415.39,
+      314.51
+    ],
+    "text": "Director,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338.35,
+      316.83,
+      532.51,
+      379.67
+    ],
+    "text": "6(A) Capt. Milinda Ratnayake Director, 7. U. Manchanayake, Director,",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338.35,
+      381.99,
+      497.5,
+      461.29
+    ],
+    "text": "7(A) G U K Algewattage Director, 8. C. Vitharane, Director,",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338.35,
+      463.61,
+      539.95,
+      526.57
+    ],
+    "text": "8(A) Sunil De Silva, Director, 9. D.A De Livera, Director, 9(A) G",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      528.89,
+      523.06,
+      591.88
+    ],
+    "text": "A A Priyantha Director, 10. S.D Karunaratne, Director",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      356.35,
+      594.2,
+      535.63,
+      689.8
+    ],
+    "text": "10A. R.A.P Wijerathnasekara, Director, 10B. R.M.A Ratnayake, Director,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.02,
+      122.76,
+      290.93,
+      136.76
+    ],
+    "text": "Party sought to be added/substituted",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      338.35,
+      72.0,
+      540.19,
+      379.67
+    ],
+    "text": "10C Amith Wijesuriya Director, 10D Amal A Randeniya Director All of at: Airport and Aviation Services (Sri Lanka) (Private) Limited, Bandaranaike International Airport, Katunayake. 2nd to 10D Respondents, being members of the Board of Directors of Airport and Aviation Services (Sri Lanka) (Private) Limited. 11. M.C.G Mahipala, Head of",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      338.35,
+      381.99,
+      540.43,
+      640.84
+    ],
+    "text": "Human Resources and Secretary to the Board of Directors, Airport and Aviation Services (Sri Lanka) (Private) Limited,Bandaranaike International Airport, Katunayake. 11A K.A. Ruwan Kodikara, Head of Human Resources Airport and Aviation Services (Sri Lanka) (Private) Limited, Bandaranaike International Airport, Katunayake. . 12. Hon. Attorney General,",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      293.33,
+      643.16,
+      511.9,
+      689.8
+    ],
+    "text": "Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      459.7,
+      689.83,
+      544.18,
+      717.97
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      72.0,
+      417.91,
+      134.6
+    ],
+    "text": "Before : P. Padman Surasena, J. Menaka Wijesundera, J. Sampath K. B. Wijeratne, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      143.4,
+      528.82,
+      157.4
+    ],
+    "text": "Counsel : Harsha Fernando, PC, with Yohan Cooray and Chamith",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      165.48,
+      528.34,
+      179.48
+    ],
+    "text": "Senanayake instructed by Jagath Talgaswattage for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      187.56,
+      265.01,
+      201.56
+    ],
+    "text": "Petitioners.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      209.64,
+      442.63,
+      223.64
+    ],
+    "text": "Rajitha Perera, DSG for the Respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      253.83,
+      119.54,
+      267.83
+    ],
+    "text": "Written",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      275.91,
+      512.5,
+      289.91
+    ],
+    "text": "Submissions : Written submissions on behalf of the petitioners filed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      297.99,
+      326.83,
+      311.99
+    ],
+    "text": "on 29th March, 2023.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      320.07,
+      542.86,
+      334.07
+    ],
+    "text": "Written submissions on behalf of the 2nd respondent filed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      342.15,
+      336.43,
+      356.15
+    ],
+    "text": "on 02nd January, 2023",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      386.43,
+      269.09,
+      400.43
+    ],
+    "text": "Argued on : 26.03.2025",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      410.69,
+      268.85,
+      424.69
+    ],
+    "text": "Decided on : 30.05.2025",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      456.41,
+      245.81,
+      470.39
+    ],
+    "text": "MENAKA WIJESUNDERA J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      480.53,
+      539.35,
+      527.17
+    ],
+    "text": "The petitioners in the instant matter have been serving as employees of Airport and Aviation services ltd. and currently serving as engineers, senior technical officers and technical officers.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      537.41,
+      540.98,
+      584.2
+    ],
+    "text": "Appointments to these posts are given by the Minister of Tourism and Aviation. The petitioners have joined service as junior officers and subsequent to the promotions in 2017, they had been absorbed to the current positions.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      594.44,
+      532.18,
+      673.84
+    ],
+    "text": "The basic qualification required to join the service has been stated in paragraph 9 of the petition. However, they are at liberty to pursue post graduate education and they have done so in Business Administration, which they claim is highly relevant to their service and most of the petitioners have obtained Masters degrees in Business studies.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      72.0,
+      539.38,
+      118.76
+    ],
+    "text": "The petitioners further state that the salary structure of the petitioner\u2019s service includes, the basic salary, salary adjustments, cost of living allowance and other allowances, which includes professional allowance.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      129.0,
+      518.66,
+      208.28
+    ],
+    "text": "The petitioners allege that this professional allowance has been revised and that the petitioners were not included in that scheme but qualifications required to be included in that scheme are to be, head of a division and possess an MBA or any other post graduate qualification in any Financing subject or a post graduate qualification in Business Management.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      218.52,
+      529.78,
+      248.99
+    ],
+    "text": "Similarly, Engineers also have been included in this category, if they hold the position of an Engineer or have registered with the Engineering charter.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      259.23,
+      533.3,
+      305.99
+    ],
+    "text": "The petitioners further allege that they pursued their post graduate education in Business Management with the legitimate expectation of being eligible for the professional allowance before it was revised.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      316.11,
+      541.06,
+      346.55
+    ],
+    "text": "Therefore, the petitioners have alleged that the revision in 2017, by way of P18, has violated their fundamental rights under Article 12(1) of the Constitution.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      356.79,
+      542.45,
+      387.23
+    ],
+    "text": "Upon the support of this application, this Court has granted leave under article 12 (1) of the Constitution.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      397.35,
+      530.95,
+      460.45
+    ],
+    "text": "The respondents in their written submissions have stated that the petitioners are in the field of Engineering and therefore do not fall under a general category, which makes their studies in Business administration and other Commercial aspect studies being redundant and not being relevant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      470.69,
+      542.42,
+      533.77
+    ],
+    "text": "The respondents have further averred that the petitioners have been paid for their training in professional studies since 2011 but this does not qualify them to receive the professional allowance because they fall short of the \u201cEngineering category\u201d.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      544.01,
+      532.58,
+      590.68
+    ],
+    "text": "The respondents have further averred that the petitioners were paid the professional allowance for a short period until the ambiguities in the payment scheme for the Engineering category were ironed out.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      600.92,
+      531.62,
+      664.0
+    ],
+    "text": "The respondents have averred that the petitioners were adequately warned of the futility in them pursuing the MBA courses by way of P8 and P15 and they also state that most of the petitioners have enrolled in their studies after the warning has been issued.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      674.24,
+      539.57,
+      704.56
+    ],
+    "text": "Furthermore, the petitioners also have taken up the objection of the time bar which they substantiate by saying that the revision was made and informed on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      72.0,
+      521.02,
+      102.44
+    ],
+    "text": "the 11th of September, 2017 but the petitioners have prayed for relief on the 22nd of June 2018, which is well over one month.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      112.68,
+      541.54,
+      175.76
+    ],
+    "text": "Therefore, upon considering the facts stated by the petitioners and the respondents, it is very clear to this Court that the petitioners were involved in an employment in the Engineering field but minus the professional qualification which has deprived them of the professional allowance from 2017.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      185.88,
+      521.38,
+      216.32
+    ],
+    "text": "Until 2017 the professional allowance had been paid to the general category due to the rules governing the payment not being clearly set out.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      226.56,
+      533.81,
+      257.03
+    ],
+    "text": "But by September, 2017, it has been set right and P18 has been issued which had clearly indicated who can be paid the professional allowance.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      267.15,
+      525.7,
+      313.91
+    ],
+    "text": "The petitioners had arduously argued that their legitimate expectations were unfulfilled by the actions of the respondents and that their rights had been violated under article 12(1) of the Constitution.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      324.15,
+      543.46,
+      419.95
+    ],
+    "text": "Article 12(1) of the constitution stipulates an equal protection under the law, and in page 81 of the book titled \u201cFundamental rights in Sri Lanka\u201d by Justice S. Sharvananda, where he states that \u201cEquality before the law means that among equals the law should be equal and should be equally administered and that the like should be treated alike\u201d. He further asserts, \u201cthe rule is that the like should be treated alike and not, that unlike should treated alike\u201d.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      430.13,
+      536.95,
+      460.57
+    ],
+    "text": "At this point I also draw my attention to the case of Pathumma and others vs The State of Kerala A.I.R 1978 S.C. 771 at 786 where it was held that,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      470.69,
+      543.17,
+      550.15
+    ],
+    "text": "\u201cBefore a person can claim to be discriminated against another, he must show that all the other persons are similarly situate or equally circumstanced\u2026... Discrimination violative of Article 14 can only take effect if there is discrimination between equals and not where unequals are being differently treated.\u201d",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      560.33,
+      542.21,
+      656.08
+    ],
+    "text": "In the instant matter, it is noteworthy to keep in mind that the petitioners never obtained a professional qualification as engineers although they were paid the professional allowance along with the engineers before the revision. Hence, it has to be stated with regret that the petitioners cannot be placed in the category of equals with the engineers in view of the above mentioned Indian judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      666.2,
+      535.78,
+      696.64
+    ],
+    "text": "It also has to be noted that if relief is sought under Article 12(1), the petitioner must come before this Court within one month of the infringement.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      729.22,
+      542.81,
+      755.88
+    ],
+    "text": "9",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      72.0,
+      527.59,
+      102.44
+    ],
+    "text": "But as pointed out by the respondents, they had come to Court well over one month. This delay, which is substantial, makes this application time barred.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      112.68,
+      541.54,
+      208.28
+    ],
+    "text": "Therefore, on considering the material stated above by the petitioners, it is clear with certainty that the petitioners\u2019 employment did not fall within the category specified in P18. The petitioners had been duly informed, by way of P8 and P15, that the studies they were pursuing was not relevant for the classification they were trying to obtain when the state policy has been revised by P18.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      218.52,
+      531.19,
+      265.31
+    ],
+    "text": "Upon considering the material submitted by the petitioners, it appears to this Court that they were trying to pursue a rainbow in the sky, which was definitely out of their reach, when they had been well warned and educated.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      275.55,
+      540.29,
+      322.31
+    ],
+    "text": "Therefore, I am of the opinion that the material submitted by the petitioners do not establish any infringement of a right under Article 12(1) of the Constitution, with the requisite degree of certainty.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      332.55,
+      429.67,
+      346.55
+    ],
+    "text": "As such, the instant application is dismissed without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      327.43,
+      429.89,
+      543.94,
+      443.89
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      502.73,
+      222.29,
+      532.93
+    ],
+    "text": "P. Padman Surasena, J. I agree.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      327.43,
+      559.49,
+      544.18,
+      573.47
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      632.48,
+      249.65,
+      646.46
+    ],
+    "text": "Sampath K. B. Wijeratne, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      656.72,
+      118.82,
+      670.72
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      327.43,
+      697.27,
+      543.94,
+      711.28
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
