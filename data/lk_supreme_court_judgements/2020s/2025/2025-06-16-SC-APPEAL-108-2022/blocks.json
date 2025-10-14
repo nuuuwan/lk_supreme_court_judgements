@@ -1,0 +1,4603 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      35.87,
+      366.66,
+      64.27
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.79,
+      72.59,
+      480.51,
+      85.87
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      222.14,
+      93.23,
+      376.16,
+      106.51
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.04,
+      155.39,
+      212.06,
+      168.67
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.04,
+      188.03,
+      189.02,
+      201.31
+    ],
+    "text": "Civil Appeal Case No:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.04,
+      208.67,
+      212.7,
+      221.95
+    ],
+    "text": "UVA/HCCA/BDL/42/19(f)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.04,
+      241.55,
+      250.0,
+      254.83
+    ],
+    "text": "DC Bandarawela Case No.: L 1866",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.4,
+      155.39,
+      449.03,
+      168.67
+    ],
+    "text": "W.M. Bandara Menika,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.4,
+      176.03,
+      511.01,
+      189.31
+    ],
+    "text": "Buthsaranawatte, Kumbalwela, Ella.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.4,
+      217.55,
+      400.07,
+      230.83
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.04,
+      274.19,
+      367.73,
+      287.47
+    ],
+    "text": "- VS -",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.4,
+      315.3,
+      470.38,
+      328.75
+    ],
+    "text": "1. T.M. Wini Thennakoon,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.4,
+      336.35,
+      462.71,
+      349.63
+    ],
+    "text": "No. 137, Kotiyawatta,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.4,
+      356.99,
+      493.01,
+      370.27
+    ],
+    "text": "Andiambalama, Katunayaka.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.4,
+      398.1,
+      433.37,
+      411.55
+    ],
+    "text": "2. H.W. Amarasiri,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.4,
+      439.62,
+      467.04,
+      453.07
+    ],
+    "text": "3. Pushpani Perera, (H.W.",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.4,
+      460.43,
+      447.37,
+      473.71
+    ],
+    "text": "Amarasirik\u2019s wife)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.4,
+      501.95,
+      394.39,
+      515.23
+    ],
+    "text": "Both are",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.4,
+      522.59,
+      518.02,
+      535.87
+    ],
+    "text": "Medawatta, Udukumbulwela, Ella",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.4,
+      563.87,
+      434.75,
+      577.15
+    ],
+    "text": "DEFENDANTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      311.04,
+      605.39,
+      403.72,
+      618.67
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.04,
+      646.67,
+      449.03,
+      659.95
+    ],
+    "text": "W.M. Bandara Menika,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.4,
+      667.55,
+      488.68,
+      680.83
+    ],
+    "text": "Buthsaranawatte, Kumbalwela,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.4,
+      688.19,
+      357.72,
+      701.47
+    ],
+    "text": "Ella.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      350.4,
+      729.47,
+      502.74,
+      742.75
+    ],
+    "text": "PLAINTIFF \u2013 APPELLANT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "2",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      93.23,
+      364.73,
+      106.51
+    ],
+    "text": "- VS -",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      134.58,
+      470.38,
+      148.03
+    ],
+    "text": "1. T.M. Wini Thennakoon,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.4,
+      155.39,
+      462.71,
+      168.67
+    ],
+    "text": "No. 137, Kotiyawatta,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.4,
+      176.03,
+      493.01,
+      189.31
+    ],
+    "text": "Andiambalama, Katunayaka.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      217.38,
+      433.37,
+      230.83
+    ],
+    "text": "2. H.W. Amarasiri,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      258.66,
+      467.04,
+      272.11
+    ],
+    "text": "3. Pushpani Perera, (H.W.",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.4,
+      279.47,
+      447.37,
+      292.75
+    ],
+    "text": "Amarasirik\u2019s wife)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.4,
+      320.99,
+      394.39,
+      334.27
+    ],
+    "text": "Both are",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.4,
+      341.63,
+      518.02,
+      354.91
+    ],
+    "text": "Medawatta, Udukumbulwela, Ella",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      383.15,
+      510.76,
+      396.43
+    ],
+    "text": "DEFENDANT \u2013 RESPONDENTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.04,
+      424.43,
+      444.16,
+      437.71
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      465.78,
+      433.37,
+      479.23
+    ],
+    "text": "2. H.W. Amarasiri,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      507.06,
+      467.04,
+      520.51
+    ],
+    "text": "3. Pushpani Perera, (H.W.",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.4,
+      527.87,
+      447.37,
+      541.15
+    ],
+    "text": "Amarasirik\u2019s wife)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.4,
+      569.39,
+      394.39,
+      582.67
+    ],
+    "text": "Both are",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.4,
+      590.03,
+      518.02,
+      603.31
+    ],
+    "text": "Medawatta, Udukumbulwela, Ella",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      631.55,
+      513.09,
+      644.83
+    ],
+    "text": "DEFENDANT \u2013 RESPONDENT \u2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      652.19,
+      417.75,
+      665.47
+    ],
+    "text": "APPELLANTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      684.83,
+      369.74,
+      698.11
+    ],
+    "text": "- VS \u2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      726.35,
+      449.03,
+      739.63
+    ],
+    "text": "W.M. Bandara Menika,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      746.99,
+      488.68,
+      760.27
+    ],
+    "text": "Buthsaranawatte, Kumbalwela,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "3",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      72.59,
+      417.68,
+      85.87
+    ],
+    "text": "Ella. (Deceased)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      113.7,
+      512.71,
+      127.15
+    ],
+    "text": "1. Edirisinghe Mudiyansalage Sudu",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      134.75,
+      390.06,
+      148.03
+    ],
+    "text": "Manike",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      155.39,
+      481.02,
+      168.67
+    ],
+    "text": "Dodanwatta, Diyathalawa.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      196.5,
+      510.04,
+      209.95
+    ],
+    "text": "2. Edirisinghe Mudiyansalage Podi",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      217.55,
+      393.06,
+      230.83
+    ],
+    "text": "Manike,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      238.19,
+      505.01,
+      251.47
+    ],
+    "text": "288, Gediyaroda, Bandarawela.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      279.3,
+      518.69,
+      292.75
+    ],
+    "text": "3. Edirisinghe Mudiyansalage Sarath",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      300.35,
+      396.38,
+      313.63
+    ],
+    "text": "Bandara,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      320.99,
+      440.7,
+      334.27
+    ],
+    "text": "Darshana Niwasa,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      341.63,
+      458.04,
+      354.91
+    ],
+    "text": "Udukumbalwela, Ella",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      382.98,
+      520.5,
+      396.43
+    ],
+    "text": "4. Edirisinghe Mudiyanselage",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      403.79,
+      441.71,
+      417.07
+    ],
+    "text": "Madduma Manike",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      424.43,
+      518.97,
+      437.71
+    ],
+    "text": "\u201cRasika Wee Mola\u201d, Weherayaya,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      445.07,
+      415.39,
+      458.35
+    ],
+    "text": "Athiliwewa,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      486.42,
+      520.5,
+      499.87
+    ],
+    "text": "5. Edirisinghe Mudiyansalage",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      507.23,
+      417.69,
+      520.51
+    ],
+    "text": "Wijebandara,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      527.87,
+      520.5,
+      541.15
+    ],
+    "text": "Buthsarana Watta,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      548.75,
+      458.04,
+      562.03
+    ],
+    "text": "Udukumbalwela, Ella",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      590.03,
+      520.5,
+      603.31
+    ],
+    "text": "SUBSTITUTED \u2013 PLAINTIFF \u2013",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      610.67,
+      502.09,
+      623.95
+    ],
+    "text": "APPELLANT \u2013 RESPONDENT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      332.4,
+      652.02,
+      470.38,
+      665.47
+    ],
+    "text": "1. T.M. Wini Thennakoon,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      672.83,
+      459.71,
+      686.11
+    ],
+    "text": "No. 137, Kotiyawatta,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      350.4,
+      693.47,
+      493.01,
+      706.75
+    ],
+    "text": "Andiambalama, Katunayaka.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      332.4,
+      72.14,
+      520.5,
+      85.87
+    ],
+    "text": "1st DEFENDANT \u2013 RESPONDENT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      332.4,
+      93.23,
+      426.41,
+      106.51
+    ],
+    "text": "\u2013 RESPONDENT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.28,
+      155.39,
+      284.24,
+      168.67
+    ],
+    "text": "Before : P. Padman Surasena, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.92,
+      176.03,
+      309.55,
+      189.31
+    ],
+    "text": "E. A. G. R. Amarasekara, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.92,
+      196.67,
+      319.87,
+      209.95
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.28,
+      238.19,
+      474.54,
+      251.47
+    ],
+    "text": "Counsel : S.N. Vijithsingh for the Defendant \u2013 Respondent \u2013 Appellants.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.92,
+      279.02,
+      522.97,
+      292.75
+    ],
+    "text": "H. Withanachchi with Shantha Karunadhara for the 1st \u2013 5th Substituted",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      169.92,
+      300.35,
+      347.9,
+      313.63
+    ],
+    "text": "Plaintiff \u2013 Appellant \u2013 Respondents.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.28,
+      341.63,
+      226.92,
+      354.91
+    ],
+    "text": "Argued on : 20.06.2024",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.28,
+      383.15,
+      226.92,
+      396.43
+    ],
+    "text": "Decided on : 16.06.2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      445.07,
+      209.65,
+      458.35
+    ],
+    "text": "E.A.G.R. Amarasekara, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      486.14,
+      526.3,
+      499.87
+    ],
+    "text": "This Appeal is made to this Court by the 2nd and 3rd Defendant \u2013 Respondent \u2013 Appellants",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      506.78,
+      526.3,
+      520.51
+    ],
+    "text": "(Hereinafter referred to as the \u201c2nd and 3rd Defendant\u201d or \u201cAppellants\u201d) against the Judgment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      527.87,
+      526.3,
+      541.15
+    ],
+    "text": "of the Civil Appellate High Court in Case No. UVA/HCCA/BDL/42/19(f), dated 18.11.2020.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      548.75,
+      526.3,
+      562.03
+    ],
+    "text": "The said Judgment was made in the appeal made to it by the original Plaintiff, W. M. Bandara",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      568.94,
+      526.3,
+      582.67
+    ],
+    "text": "Menike who is the mother of the 1st \u2013 5th Substituted Plaintiff \u2013 Appellant \u2013 Respondents",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      590.03,
+      526.3,
+      603.31
+    ],
+    "text": "(Hereinafter referred to as the \u201cPlaintiff\u201d or \u201cRespondents\u201d) against the Judgement of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      610.67,
+      529.3,
+      623.95
+    ],
+    "text": "District Court of Bandarawela in Case No. L 1866, dated 26.03.2019 that dismissed the Plaint",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      631.55,
+      526.3,
+      644.83
+    ],
+    "text": "of the Plaintiff and the Claim in Reconvention of the Defendants. The learned High Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      652.19,
+      526.29,
+      665.47
+    ],
+    "text": "Judges set aside the Judgment of the District Court and directed to enter Judgment in favour of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      672.83,
+      526.29,
+      686.11
+    ],
+    "text": "the Plaintiff as prayed for by the Plaintiff except for the variation made to the payment of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      693.47,
+      122.98,
+      706.75
+    ],
+    "text": "damages.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      734.99,
+      526.28,
+      748.27
+    ],
+    "text": "The basis for the learned High Court Judges\u2019 Judgment is that the Learned District Court Judge",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      755.63,
+      526.31,
+      768.91
+    ],
+    "text": "misdirected himself as to the nature of the action filed before him by considering it as a rei",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      72.59,
+      526.3,
+      85.87
+    ],
+    "text": "vindicatio action when it was based on the contractual relationship of the parties as licensor",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      93.23,
+      457.55,
+      106.51
+    ],
+    "text": "and licensee. The learned High Court Judges have made their observations that;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.12,
+      113.22,
+      526.3,
+      127.92
+    ],
+    "text": "\u2022 No cross appeal had been made against the finding of the learned District judge that",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.0,
+      135.02,
+      345.26,
+      148.75
+    ],
+    "text": "the 1st Defendant is the licensee of the Plaintiff,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.12,
+      155.7,
+      526.3,
+      170.4
+    ],
+    "text": "\u2022 On a plain reading of the Plaint, it is apparat that the base for the cause of action as",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.0,
+      177.26,
+      526.29,
+      190.99
+    ],
+    "text": "alleged by the Plaintiff is that 1st Defendant who entered the property with leave and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.0,
+      198.59,
+      504.9,
+      211.87
+    ],
+    "text": "license of the Plaintiff, later acted in a manner impinging on the Plaintiff\u2019s rights,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.12,
+      218.58,
+      526.3,
+      233.28
+    ],
+    "text": "\u2022 The learned District Judge had come to the conclusion that the action is a rei vindicatio",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.0,
+      240.83,
+      526.3,
+      254.11
+    ],
+    "text": "action solely on the ground that the Plaint contain a prayer for declaration of title.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.0,
+      261.47,
+      526.29,
+      274.75
+    ],
+    "text": "Nevertheless, in the Plaint, the Plaintiff had clearly averred the contractual nexus as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.0,
+      282.11,
+      219.96,
+      295.39
+    ],
+    "text": "licensor and licensee.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      323.63,
+      526.29,
+      336.91
+    ],
+    "text": "Based on the above observations the learned High Court Judges had identified the issue before",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      344.27,
+      526.3,
+      357.55
+    ],
+    "text": "them as one whether the action is, in fact, a rei vindicatio action in which strict proof of title is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      364.91,
+      526.29,
+      378.19
+    ],
+    "text": "require or one of mere declaration of title where the licensee is precluded from denying the title",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      385.55,
+      526.3,
+      398.83
+    ],
+    "text": "of licensor. The learned High Court Judges also had focused on the question whether the mere",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      406.43,
+      526.3,
+      419.71
+    ],
+    "text": "inclusion of a prayer for declaration of title make an action automatically a rei vindicatio action.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      447.71,
+      526.3,
+      460.99
+    ],
+    "text": "In this regard learned High Court Judges had quoted Pathirana V Jayasundara 58 N L R 169",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      468.35,
+      130.33,
+      481.63
+    ],
+    "text": "as follows;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      489.23,
+      526.3,
+      502.51
+    ],
+    "text": "\u201cI have no doubt that it is open to a lessor in an action for ejectment to ask for a declaration",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      509.87,
+      526.29,
+      523.15
+    ],
+    "text": "of title, but the question of difficulty which arises is whether the action thereby becomes a rei",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      530.51,
+      526.3,
+      543.79
+    ],
+    "text": "vindicatio for which strict proof of the Plaintiff\u2019s title would be required, or else is merely one",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      551.15,
+      526.28,
+      564.43
+    ],
+    "text": "for a declaration (without strict proof) of a title which the tenant is by law precluded from",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      572.03,
+      526.3,
+      585.31
+    ],
+    "text": "denying. If the essential element of a rei vindicatio is that the right of ownership must be",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      592.67,
+      526.29,
+      605.95
+    ],
+    "text": "strictly proved, it is difficult to accept the proposition that an action in which the Plaintiff",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      613.31,
+      526.3,
+      626.59
+    ],
+    "text": "can automatically obtain a declaration of title through the operation of a rule of estoppel",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      633.95,
+      500.63,
+      647.23
+    ],
+    "text": "should be regarded as a vindicatory action.\u201d (Emphasized in the High Court Judgment)",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      675.47,
+      456.87,
+      688.75
+    ],
+    "text": "Referring to the above case law, the learned high Court Judges have stated that;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.0,
+      695.46,
+      526.3,
+      710.16
+    ],
+    "text": "\u2022 A decree for declaration of title may be obtained as an additional relief either in a rei",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      717.71,
+      396.9,
+      730.99
+    ],
+    "text": "vindicatio action or in a licensor\u2019s action against a licensee,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "6",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      71.94,
+      526.29,
+      86.64
+    ],
+    "text": "\u2022 Mere reason of including a prayer for declaration of title would not automatically",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      94.19,
+      526.3,
+      107.47
+    ],
+    "text": "change the fundamental nature of the action which is based upon a contractual",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      114.83,
+      170.65,
+      128.11
+    ],
+    "text": "relationship.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      156.35,
+      460.55,
+      169.63
+    ],
+    "text": "The learned High Court Judges have further observed and concluded as follows;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      176.34,
+      526.3,
+      191.04
+    ],
+    "text": "\u2022 The instant case presented by the Plaintiff is leave and license case and especially issues",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      198.59,
+      430.57,
+      211.87
+    ],
+    "text": "No. 7,8 and 9 were raised before the District Court in that relation,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      218.58,
+      526.3,
+      233.28
+    ],
+    "text": "\u2022 The Plaintiff in her evidence had described how the 1st Defendant, her son in law came",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      240.38,
+      526.3,
+      254.11
+    ],
+    "text": "into the land and the 1st Defendant also in evidence had admitted that his wife\u2019s Parents",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      261.47,
+      396.62,
+      274.75
+    ],
+    "text": "(Plaintiff is the mother of his wife) gave permission to him.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      281.46,
+      526.3,
+      296.16
+    ],
+    "text": "\u2022 As per evidence, as the 1st Defendant was not given any document on title, has obtained",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      303.26,
+      526.3,
+      316.99
+    ],
+    "text": "a title from a 3rd Party through deed No, 40 and to defeat the attempts of the Plaintiff",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      323.9,
+      526.3,
+      337.63
+    ],
+    "text": "and her husband to reclaim the property, the 1st Defendant had let the 2nd and 3rd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      344.78,
+      526.3,
+      358.51
+    ],
+    "text": "Defendants to occupy the premises and later had conveyed the same to the 3rd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      365.87,
+      280.62,
+      379.15
+    ],
+    "text": "Defendant through deed No.15261.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      385.86,
+      526.3,
+      400.56
+    ],
+    "text": "\u2022 The learned District Judge correctly held that the 1st Defendant is a licensee, and",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      408.11,
+      432.55,
+      421.39
+    ],
+    "text": "therefore the claim of prescriptive title of the Defendants must fail.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      428.1,
+      526.3,
+      442.8
+    ],
+    "text": "\u2022 Through the affirmative answers to issues No.7 and 8 the learned District Judge had",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      449.9,
+      526.3,
+      463.63
+    ],
+    "text": "accepted the position that the 1st Defendant came to the land as a licensee but the answer",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      470.99,
+      526.29,
+      484.27
+    ],
+    "text": "to issue 9 in the negative which indicates that after the demise of his wife left the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      491.63,
+      526.29,
+      504.91
+    ],
+    "text": "premises is inconsistent with judgment itself as nowhere in the judgment of the Learned",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      512.51,
+      526.3,
+      525.79
+    ],
+    "text": "District Judge it is stated that the said license came to an end after the demise of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      532.7,
+      270.94,
+      546.43
+    ],
+    "text": "death of the 1st Defendant\u2019s wife.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.0,
+      553.14,
+      526.29,
+      567.84
+    ],
+    "text": "\u2022 The contractual nexus between the 1st Defendant and the Plaintiff has been proven and",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      575.39,
+      526.3,
+      588.67
+    ],
+    "text": "even the learned District Judge had accepted it. There is no cross appeal against that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      596.03,
+      526.29,
+      609.31
+    ],
+    "text": "finding of the learned District Judge. Hence, Section 116 of the evidence Ordinance",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      616.67,
+      526.29,
+      629.95
+    ],
+    "text": "comes into operation which says: \"No person who came upon any immovable property",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      637.55,
+      526.29,
+      650.83
+    ],
+    "text": "by the the licence of the person in possession thereof shall be permitted to deny that",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      658.19,
+      516.28,
+      671.47
+    ],
+    "text": "such person had a title to such possession at the time when such licence was given.\u201d",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      699.47,
+      526.3,
+      712.75
+    ],
+    "text": "With regard the relevancy of said Section 116, the learned High Court Judges has referred to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      720.35,
+      526.29,
+      733.63
+    ],
+    "text": "Ruberru v Wijesooriya (1998) 1 Sri L R 58 which held: \"It is an inflexible rule of law that",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      740.99,
+      526.28,
+      754.27
+    ],
+    "text": "no lessee or licensee will ever be permitted either to question the title of the person who gave",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "7",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      72.59,
+      526.29,
+      85.87
+    ],
+    "text": "him the leave or the license or the permission to occupy or possess the land or setup of title in",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      93.23,
+      526.3,
+      106.51
+    ],
+    "text": "that person.\" To indicate that a lessee or licensee or tenant who entered into possession is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      113.87,
+      526.3,
+      127.15
+    ],
+    "text": "precluded from disputing lessor\u2019s or licensor\u2019s title without first restoring, surrendering or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      134.75,
+      526.3,
+      148.03
+    ],
+    "text": "giving up the property to his licensor or lessor, the High Court judges have cited Majibudeen",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      155.39,
+      526.3,
+      168.67
+    ],
+    "text": "V. Simon Perera (2003) 2 Sri L.R 341, Alvar Pillai V. Karuppan (1899) 4 N.L.R 321, and",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      176.03,
+      309.31,
+      189.31
+    ],
+    "text": "Visvalingam v Gajaweera (1954) 56 NLR 111.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      217.55,
+      526.3,
+      230.83
+    ],
+    "text": "If one looks at the Learned District Judges Judgment, it is clear that the learned District Judge",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      238.19,
+      526.3,
+      251.47
+    ],
+    "text": "considered the action filed before him as an action that can be recognized as re vindicatio",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      258.83,
+      526.3,
+      272.11
+    ],
+    "text": "proper. On that basis the learned District Judge had cited a plethora of case laws to say that in",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      279.47,
+      526.3,
+      292.75
+    ],
+    "text": "a rei vindicatio action, the burden in proving the dominium and the identity of the corpus as",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      300.35,
+      526.3,
+      313.63
+    ],
+    "text": "well as the Defendant has the possession of the corpus is with the Plaintiff, and until such proof,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      320.99,
+      526.3,
+      334.27
+    ],
+    "text": "the Defendant has no burden of proving even his title. Some of the case laws he had referred",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      341.63,
+      526.3,
+      354.91
+    ],
+    "text": "in this regard include Jamaldeen Abdul Latheef and Another v. Abdul Majeed Mohamed",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      362.27,
+      526.3,
+      375.55
+    ],
+    "text": "Mansoor and Another (2011) 2 Sri L.R. 33, Leisa and Another v. Simon and Another",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      383.15,
+      473.03,
+      396.43
+    ],
+    "text": "(2002) 1 Sri L.R. 148 at 151, Wanigaratne v Juwanis Appuhamy 65 N L R167.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      424.43,
+      526.3,
+      437.71
+    ],
+    "text": "The propositions of law that have been discussed in both Judgments are correct in law but the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      445.07,
+      526.29,
+      458.35
+    ],
+    "text": "issue is with their application and the understanding of the nature of the action filed in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      465.95,
+      150.33,
+      479.23
+    ],
+    "text": "District Court.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      507.23,
+      526.3,
+      520.51
+    ],
+    "text": "When one looks at the Plaint filed in the District Court, it can be observed that other than the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      527.87,
+      526.3,
+      541.15
+    ],
+    "text": "reference to paper title and prescriptive title of the Plaintiff it had been clearly averred in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      548.75,
+      526.3,
+      562.03
+    ],
+    "text": "paragraph 4 to 7 how the licensor and licensee relationship came into existence and how cause",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      568.94,
+      526.3,
+      582.67
+    ],
+    "text": "of action arose. There it is explained how the 1st Defendant became the licensee and he brought",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      589.58,
+      526.29,
+      603.31
+    ],
+    "text": "the 2nd and 3rd Defendants in to the land. In fact, the cause of action has been described as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      610.67,
+      526.3,
+      623.95
+    ],
+    "text": "arisen when requested to hand over the possession, the Defendants failed to hand over the same.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      631.55,
+      526.3,
+      644.83
+    ],
+    "text": "If the action was a purely a rei vindicatio, there is no need to aver such relationship since the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      652.19,
+      526.3,
+      665.47
+    ],
+    "text": "rei vindicatio action is based on title of the Plaintiff and the possession of the Defendant against",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      672.83,
+      526.3,
+      686.11
+    ],
+    "text": "such title. The Plaintiff further has raised issues with regard to the said relationship which were",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      693.47,
+      526.3,
+      706.75
+    ],
+    "text": "clearly indicative of the fact that the Plaintiff was relying on the Licensor Licencee relationship",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      714.35,
+      208.96,
+      727.63
+    ],
+    "text": "that existed between them.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "8",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      72.59,
+      526.3,
+      85.87
+    ],
+    "text": "In Pathirana v Jayasundare (1955) 58 N.L.R. 169 at 172and 173 it is stated: \u201cI agree. In a",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      93.23,
+      526.3,
+      106.51
+    ],
+    "text": "rei vindicatio action proper the owner of immovable property is entitled, on proof of his title,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      113.87,
+      526.29,
+      127.15
+    ],
+    "text": "to a decree in his favour for the recovery of the property and for the ejectment of the person in",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      134.75,
+      526.3,
+      148.03
+    ],
+    "text": "wrongful occupation. \u201cThe plaintiff\u2019s ownership of the thing is of the very essence of the",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      155.39,
+      331.7,
+      168.67
+    ],
+    "text": "action\u201d. Maasdorp\u2019s Institutes (7th Ed.) Vol. 2, 96.\u201d",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      196.67,
+      526.3,
+      209.95
+    ],
+    "text": "\u201cThe scope of an action by a lessor against an overholding lessee for restoration and ejectment,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      217.55,
+      526.3,
+      230.83
+    ],
+    "text": "however, is different. Privity of contract (whether it be by original agreement or by attornment)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      238.19,
+      526.29,
+      251.47
+    ],
+    "text": "is the foundation of the right to relief and issues as to title are irrelevant to the proceedings.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      258.83,
+      526.29,
+      272.11
+    ],
+    "text": "Indeed, a lessee who has entered into occupation is precluded from disputing his lessor\u2019s title",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      279.47,
+      526.29,
+      292.75
+    ],
+    "text": "until he has first restored the property in fulfilment of his contractual obligation. \u201cThe lessee",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      300.35,
+      526.3,
+      313.63
+    ],
+    "text": "(conductor) cannot plead the exceptio dominii, although he may be able easily to prove his",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      320.99,
+      526.3,
+      334.27
+    ],
+    "text": "own ownership, but he must by all means first surrender his possession and then litigate as to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      341.63,
+      252.35,
+      354.91
+    ],
+    "text": "proprietorship . . . . \u201d Voet 19.2.32.\u201d",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      383.15,
+      526.29,
+      396.43
+    ],
+    "text": "\u201cA decree for a declaration of title may, of course, be obtained by way of additional relief",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      403.79,
+      526.3,
+      417.07
+    ],
+    "text": "either in a rei vindicalio action proper (which is in truth an action in rem) or in a lessor\u2019s",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      424.43,
+      526.3,
+      437.71
+    ],
+    "text": "action against his overholding tenant (which is an action in personam). But in the former case,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      445.07,
+      526.29,
+      458.35
+    ],
+    "text": "the declaration is based on proof of ownership; in the latter, on proof of the contractual",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      465.95,
+      409.99,
+      479.23
+    ],
+    "text": "relationship which forbids a denial that the lessor is the true owner.\u201d",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      507.23,
+      526.3,
+      520.51
+    ],
+    "text": "What has been discussed above indicate the deference between the re vidicatio action and an",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      527.87,
+      526.3,
+      541.15
+    ],
+    "text": "acton against an overholding lessee or licensee. Mere presence of a prayer for a declaration of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      548.75,
+      526.29,
+      562.03
+    ],
+    "text": "title cannot make the action a re vidicatio action. In both type of cases, one may include a",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      569.39,
+      526.3,
+      582.67
+    ],
+    "text": "prayer for declaration of title. On the other hand, in B.R. Chandrasena v A.M. Lokubanda",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      590.03,
+      460.01,
+      603.31
+    ],
+    "text": "SC Appeal No. 20/2010, SC minuets dated 18.12.2020 it was held as follows:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      631.55,
+      526.3,
+      644.83
+    ],
+    "text": "\u201cHowever, the statement of law made in the said Attanayake v. Aladin (supra), that when a",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      652.19,
+      526.28,
+      665.47
+    ],
+    "text": "declaratory remedy is not sought for the consequential relief for ejectment shall fail, does not",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      672.83,
+      526.28,
+      686.11
+    ],
+    "text": "seem to present the correct position of Law. It has not considered the decision of the same",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      693.47,
+      526.3,
+      706.75
+    ],
+    "text": "court made in T.B. Jayasinghe v. Kiriwanegedara Tikiri Banda (1988) II CALR 24 in coming",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      714.35,
+      526.28,
+      727.63
+    ],
+    "text": "to the said conclusion which clearly held where title to the property is proved, mere failure to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      734.99,
+      526.28,
+      748.27
+    ],
+    "text": "ask for a declaration of title to the property will not prevent one from claiming relief of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      755.63,
+      526.3,
+      768.91
+    ],
+    "text": "ejectment. Even Dharmasiri v. Wickramatunga (2002) 2 Sri LR 218 has held that the absence",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      791.63,
+      303.72,
+      806.35
+    ],
+    "text": "9",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      72.59,
+      526.28,
+      85.87
+    ],
+    "text": "in the prayer for a declaration of title cause no prejudice, if in the body of the plaint, the title",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      93.23,
+      526.3,
+      106.51
+    ],
+    "text": "is pleaded and issues were framed and accepted by court on the title so pleaded. Thus, it is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      113.87,
+      526.29,
+      127.15
+    ],
+    "text": "clear even in a rei vindicatio or a declaration of title action, if the issues are raised as to the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      134.75,
+      526.3,
+      148.03
+    ],
+    "text": "title and it is proved, even though there is no prayer for declaration of title, the prayer for",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      155.39,
+      526.3,
+      168.67
+    ],
+    "text": "ejectment can remain as a standalone valid relief.\u201d Also see Abeydeera Arachchige",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      176.03,
+      526.3,
+      189.31
+    ],
+    "text": "Charlotte Kamalawathie v Walpola Arachchige Premaratne SC/Appeal/No. 118/18, SC",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      196.67,
+      207.98,
+      209.95
+    ],
+    "text": "minutes dated 02.06.2021.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      217.55,
+      526.3,
+      230.83
+    ],
+    "text": "Thus, what is necessary in a re indicatio action is the proof of title of the Plaintiff against the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      238.19,
+      470.24,
+      251.47
+    ],
+    "text": "Defendant who is violating the rights of the Plaintiff as the owner of the property.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      279.47,
+      526.29,
+      292.75
+    ],
+    "text": "Hence, the learned District Judge erred in deciding that the action filed before the District Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      300.35,
+      526.28,
+      313.63
+    ],
+    "text": "was a re vindicatio action disregarding averments in the Plaint as to the license given and issues",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      320.99,
+      423.19,
+      334.27
+    ],
+    "text": "raised in that regard based on the prayer containing a declaration of title.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      362.27,
+      526.3,
+      375.55
+    ],
+    "text": "Even though, it is not directly relevant to the questions of law raised in this appeal, the learned",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      383.15,
+      526.3,
+      396.43
+    ],
+    "text": "District Judge failed to observe that the Plaintiff\u2019s position in the Plaint as well as in issues",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      403.79,
+      526.3,
+      417.07
+    ],
+    "text": "raised was that her predecessor\u2019s title was through inheritance (vide issue No.1) and it is so",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      424.43,
+      526.3,
+      437.71
+    ],
+    "text": "stated in the Deed No.28644, marked P2. Merely because the Plaintiff, who was 80 years of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      445.07,
+      526.3,
+      458.35
+    ],
+    "text": "age at the time of giving evidence, had stated that her husband\u2019s father had given the property",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      465.95,
+      526.29,
+      479.23
+    ],
+    "text": "as a gift or through a Deed, the learned District Judge had ignored what is stated in the Deed",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      486.59,
+      390.92,
+      499.87
+    ],
+    "text": "by the predecessor in title as to the mode he got title to the land.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      527.42,
+      526.29,
+      541.15
+    ],
+    "text": "Anyhow, the learned District Judge has found that the 1st Defendant came into the land as a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      548.3,
+      526.3,
+      562.03
+    ],
+    "text": "licensee of the Plaintiff and the evidence is that he brought in the 2nd and 3rd Defendants to the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      568.94,
+      526.3,
+      582.67
+    ],
+    "text": "land. The learned District Judge also refused to accept the title claimed by the 3rd Defendant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      589.58,
+      526.3,
+      603.31
+    ],
+    "text": "through certain Deeds originating from one Karunawathie and through the 1st Defendant. These",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      610.67,
+      526.3,
+      623.95
+    ],
+    "text": "findings were not challenged by the Defendants through a cross appeal as observed by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      631.55,
+      526.29,
+      644.83
+    ],
+    "text": "learned High Court Judge. Thus, the action filed was an action to evict the licensee and who",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      651.74,
+      526.3,
+      665.47
+    ],
+    "text": "came to the land through him, and the facts proved indicated that the 1st Defendant was a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      672.83,
+      122.64,
+      686.11
+    ],
+    "text": "licensee.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      714.35,
+      526.3,
+      727.63
+    ],
+    "text": "When Leave to Appeal was sought from this Court on 14.09.2022, Leave to Appeal was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      734.99,
+      278.3,
+      748.27
+    ],
+    "text": "granted on the following questions of law:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      231.64,
+      35.87,
+      366.66,
+      49.15
+    ],
+    "text": "SC.APPEAL.No. 108/2022",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      791.63,
+      306.6,
+      806.35
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      72.59,
+      526.29,
+      85.87
+    ],
+    "text": "1. Did the learned High Court Judges err, in the circumstances of the case, by holding",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      93.23,
+      526.29,
+      106.51
+    ],
+    "text": "that the Plaintiff \u2013 Appellant \u2013 Respondent is entitled to the relief by virtue of section 116 of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      113.87,
+      192.28,
+      127.15
+    ],
+    "text": "the evidence ordinance?",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      155.39,
+      526.29,
+      168.67
+    ],
+    "text": "2. Whether, the inclusion of a prayer for a declaration of title, in addition to a prayer for",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      176.03,
+      526.28,
+      189.31
+    ],
+    "text": "ejection on privity of contract between the parties would make the action a rei vindicatio",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      196.67,
+      113.67,
+      209.95
+    ],
+    "text": "proper?",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      238.19,
+      499.55,
+      251.47
+    ],
+    "text": "As per the reasons discussed above both questions have to be answered in the Negative.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      279.47,
+      316.64,
+      292.75
+    ],
+    "text": "Hence this Appeal has to be dismissed with Costs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.28,
+      320.99,
+      304.44,
+      334.27
+    ],
+    "text": "Appeal Dismissed.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      301.44,
+      424.43,
+      520.44,
+      437.71
+    ],
+    "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      342.12,
+      457.07,
+      479.76,
+      470.35
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.28,
+      477.95,
+      191.6,
+      491.23
+    ],
+    "text": "P. Padman Surasena, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.28,
+      519.23,
+      146.25,
+      532.51
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.28,
+      539.87,
+      520.44,
+      553.15
+    ],
+    "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      342.12,
+      572.75,
+      479.76,
+      586.03
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.28,
+      593.39,
+      227.23,
+      606.67
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.28,
+      634.67,
+      146.25,
+      647.95
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      301.44,
+      696.83,
+      520.44,
+      710.11
+    ],
+    "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      342.12,
+      729.47,
+      479.76,
+      742.75
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
