@@ -2,14 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-15 10:53:14",
-  "n_docs": 2167,
-  "n_docs_with_pdfs": 1474,
-  "n_docs_with_text": 1474,
+  "time_updated": "2025-10-15 17:53:22",
+  "n_docs": 2168,
+  "n_docs_with_pdfs": 1475,
+  "n_docs_with_text": 1475,
   "n_docs_with_excel": 0,
+  "n_docs_with_tabular": 327,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-10-13",
-  "dataset_size": 1349072176,
+  "date_str_max": "2025-10-15",
+  "dataset_size": 1359346856,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -20,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-13-SC-FR-169-2024",
-    "num": "SC/FR/169/2024",
-    "date_str": "2025-10-13",
-    "description": "Hon. Menaka Wijesundera J - S. Malavipathirana No.37A, Ru...",
+    "doc_id": "2025-10-15-SC-APPEAL-74-2025",
+    "num": "SC/APPEAL/74/2025",
+    "date_str": "2025-10-15",
+    "description": "Hon. M. Sampath K.B. Wijeratne J - Siriwardhana Kasee Brahmana R...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_169_2024.pdf",
-    "parties": "S. Malavipathirana No.37A, Rupasiri Mawatha, Mirihana, Nugegoda. Petitioner Vs. 1. Sabaragamuwa University of Sri Lanka, PO Box 02, Belihul Oya. And 27 Others Respondents\n\nView More",
-    "judgement_by": "Hon. Menaka Wijesundera J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_74_2025.pdf",
+    "parties": "Siriwardhana Kasee Brahmana Ralalage Lalitha Kumari, Kumbukulawa, Polpithigama. DEFENDANT-RESPONDENT\u2013PETITIONER- APPELLANT vs Rathnayake Mudiyanselage Sunil Rathnayake Kumbukulawa, Polpithigama. PLAINTIFF- APPELLANT \u2013 RESPONDENT - RESPONDENT\n\nView More",
+    "judgement_by": "Hon. M. Sampath K.B. Wijeratne J"
   }
 }
