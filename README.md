@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Supreme Court Judgements
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_05:23:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_05:53:24-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
@@ -12,7 +12,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 - [**2,168** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-15**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
-- In **JSON**, **PDF** (68%), **TXT** (68%), **Tables** (27%) & **🤗 Hugging Face** (68%)
+- In **JSON**, **PDF** (68%), **TXT** (68%), **Tables** (28%) & **🤗 Hugging Face** (68%)
 
 - In **English**
 
