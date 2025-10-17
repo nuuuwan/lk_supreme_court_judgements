@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_10:52:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_11:25:48-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,177** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-16**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,179** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-17**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-16-SC-FR-359-2016",
-    "num": "SC/FR/359/2016",
-    "date_str": "2025-10-16",
-    "description": "Hon. Sobhitha Rajakaruna J - D. K. Surangika Nalani 1/3, V...",
+    "doc_id": "2025-10-17-SC-APPEAL-9-2020",
+    "num": "SC/APPEAL/9/2020",
+    "date_str": "2025-10-17",
+    "description": "Hon. A. L. Shiran Gooneratne J - Harischandra Senarathne Bulat...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_359_2016.pdf",
-    "parties": "D. K. Surangika Nalani 1/3, Vavulugala Baddegama. PETITIONER Vs. 1. Piyasiri Manawadu Acting Officer in Charge Terrorism Investigation Division Boosa Unit Boosa. 2. Nalaka De Silva Deputy Inspector General Terrorism Investigation Division New Secretariat Building Colombo 01. 3. Jagath Vishantha Assistant Superintendent of Police Acting Director Terrorism Investigation Division New Secretariat Building Colombo 01. 4. K. N. O. Perera Chief Inspector, Officer in Charge Terrorism Investigation Division New Secretariat Building Colombo 01. 5. Pujitha Jayasundara Inspector General of Police Police Headquarters Colombo 01. 5(A) C. D. Wickramaratne Inspector General of Police (ceased to hold office). 5(B) Deshabandu Tennakoon Inspector General of Police (ceased to hold office). 6. The Hon. Attorney General Attorney General\u2019s Department Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Sobhitha Rajakaruna J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_9_2020.pdf",
+    "parties": "Harischandra Senarathne Bulathsinhala, No. 311, \u201cSiri Medura\u201d, Kotte Road, Nugegoda. Plaintiff-Petitioner- Respondent-Appellant Vs. Piyasena Hapuarachchi (Deceased), No. 82, Rahula Road, Mulleriyawa New Town, Angoda. 4th Respondent-Petitioner-Respondent Dinuka Malith Hapuarachchi, No. 92/A, Rahula Road, Mulleriyawa New Town, Angoda. Substituted 4th Respondent - Petitioner-Respondent 1. Anthony Didacus Baldsing, No. 57, Kiththanpahuwa, Wellampitiya. Defendant-Respondent- Respondent 2. Duruwaththage Swarnalatha Perera Baldsing, No. 34/3, N.P. Perera Mawatha, Mulleriyawa New Town, Angoda. 3. Patabendige Sriani Nelumkanthi Mohandiram, No. 120, Pansala Road, Mahabuthgamuwa, Angoda. 2nd & 3rd Respondents- Respondents-Respondents\n\nView More",
+    "judgement_by": "Hon. A. L. Shiran Gooneratne J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-17 | `SC/APPEAL/9/2020` | Hon. A. L. Shiran Gooneratne J - Harischandra Senarathne Bulat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-9-2020)
 - 2025-10-16 | `SC/FR/359/2016` | Hon. Sobhitha Rajakaruna J - D. K. Surangika Nalani 1/3, V... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-FR-359-2016)
 - 2025-10-16 | `SC/FR/130/2016` | Hon. Janak De Silva J - Ayumi Kalpana Manawadu, 27/1,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-FR-130-2016)
 - 2025-10-16 | `SC/APPEAL/205/2017` | Hon. Sampath B. Abayakoon J - Hapugastenna Plantations PLC,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-APPEAL-205-2017)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-09-26 | `SC/CHC APPEAL/6/2019` | Hon. A.L. Shiran Gooneratne J - Hitisekara Mudiyanselage Wima... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-CHC-APPEAL-6-2019)
 - 2025-09-26 | `SC/APPEAL/248/2017` | Hon. K. Kumudini Wickremasinghe J - 01.Senanayaka Amarasinghe Moh... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-APPEAL-248-2017)
 - 2025-09-26 | `SC/APPEAL/187/2014` | Hon. S. Thurairaja PC J - Fonterra Brands Lanka (Privat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-APPEAL-187-2014)
-- 2025-09-26 | `SC/APPEAL/136/2010` | Hon. A.L. Shiran Gooneratne J - Indrani Swarnalatha Marie Pei... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-APPEAL-136-2010)
 
 ---
 
