@@ -8017,6 +8017,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2017-08-04-SC-SPL-4-2014",
+    "num": "SC/SPL/4/2014",
+    "date_str": "2017-08-04",
+    "description": "HON. B.P.ALUWIHARE, PC, J, - Ms. P. Thavarajanie, Nursing ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_spl_4_2014.pdf",
+    "parties": "Ms. P. Thavarajanie, Nursing Tutor \u2013 Grade 1, No.154, Thambimuthu Road, Thambiluvil \u2013 2, Thirukkovil. Petitioner Vs. 1. Kanaganayagam Acting Principal College of Nursing Ampara. 2. Sriwardena (Mrs.) Director, Nursing Education, Ministry of Health, \u201cSuwasiripaya\u201d Colombo 10. 3. Indranee (Mrs.) Acting Warden, College of Nursing, Ampara. 4. Anil. (Mr.) Management Assistant College of Nursing, Ampara. 5. Anjan (Mr.) College of Nursing, Ampara 6. Honourable Attorney General, Attorney General\u2019s Chambers, Colombo 12. Respondents",
+    "judgement_by": "HON. B.P.ALUWIHARE, PC, J,"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2017-08-04-SC-Special-04-2014",
     "num": "SC/Special/04/2014",
     "date_str": "2017-08-04",
