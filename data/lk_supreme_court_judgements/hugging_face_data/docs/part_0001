@@ -8557,6 +8557,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2017-12-04-SC-APPEAL-185-2015",
+    "num": "SC/APPEAL/185/2015",
+    "date_str": "2017-12-04",
+    "description": "HON. B.P.ALUWIHARE, PC. J, - Watagodagedara Mallika Chandr...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_185_2015.pdf",
+    "parties": "Watagodagedara Mallika Chandralatha 88A, Ihagama, Madawala Harispattuwa Plaintiff Vs. 1. Hearath Mudiyanselage Punchi Banda Doranegama Road, Medawela Harispattuwa 2. Watagode Gedara Dhammika Ranjith Watagodage 26, Ihagama Medawela, Harispattuwa Defendants And Watagodagedara Mallika Chandralatha 88A, Ihagama, Medawela Harispattuwa Plaintiff-Appellant Vs 1. Hearath Mudiyanselage Punchi Banda Doranegama Road, Medawela Harispattuwa 2. Watagodgedara Dhammika Ranjith Watagodage 26, Ihagama Medawela, Defendants-Respondents And now between Watagodagedara Mallika Chandralatha 88A, Ihagama, Madawala Harispattuwa Plaintiff-Appellant-Petitioner Vs. 1. Hearath Mudiyanselage Punchi Banda Doranegama Road, Medawela, Harispattuwa 2. Watagode Gedara Dhammika Ranjith Watagodage 26, Ihagama Medawela, Harispattuwa Defendants-Respondents-Respondents",
+    "judgement_by": "HON. B.P.ALUWIHARE, PC. J,"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2017-12-05-SC-APPEAL-101-2016",
     "num": "SC/APPEAL/101/2016",
     "date_str": "2017-12-05",
