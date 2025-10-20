@@ -2,7 +2,7 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-20 22:52:50",
+  "time_updated": "2025-10-20 23:24:57",
   "n_docs": 2187,
   "n_docs_with_pdfs": 1481,
   "n_docs_with_text": 1481,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
   "date_str_max": "2025-10-17",
-  "dataset_size": 1354433375,
+  "dataset_size": 1354433374,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
