@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_13:53:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--22_14:30:46-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,187** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-17**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,190** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-22**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-17-SC-APPEAL-9-2020",
-    "num": "SC/APPEAL/9/2020",
-    "date_str": "2025-10-17",
-    "description": "Hon. A. L. Shiran Gooneratne J - Harischandra Senarathne Bulat...",
+    "doc_id": "2025-10-22-SC-FR-90-2021",
+    "num": "SC/FR/90/2021",
+    "date_str": "2025-10-22",
+    "description": "Hon. K. Priyantha Fernando J - Thilina Rajapaksha, No. 109/1...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_9_2020.pdf",
-    "parties": "Harischandra Senarathne Bulathsinhala, No. 311, \u201cSiri Medura\u201d, Kotte Road, Nugegoda. Plaintiff-Petitioner- Respondent-Appellant Vs. Piyasena Hapuarachchi (Deceased), No. 82, Rahula Road, Mulleriyawa New Town, Angoda. 4th Respondent-Petitioner-Respondent Dinuka Malith Hapuarachchi, No. 92/A, Rahula Road, Mulleriyawa New Town, Angoda. Substituted 4th Respondent - Petitioner-Respondent 1. Anthony Didacus Baldsing, No. 57, Kiththanpahuwa, Wellampitiya. Defendant-Respondent- Respondent 2. Duruwaththage Swarnalatha Perera Baldsing, No. 34/3, N.P. Perera Mawatha, Mulleriyawa New Town, Angoda. 3. Patabendige Sriani Nelumkanthi Mohandiram, No. 120, Pansala Road, Mahabuthgamuwa, Angoda. 2nd & 3rd Respondents- Respondents-Respondents\n\nView More",
-    "judgement_by": "Hon. A. L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_90_2021.pdf",
+    "parties": "Thilina Rajapaksha, No. 109/10/1B, Amarasinghe Mawatha, Naramminiya Road, Kelaniya. Petitioner V. 1.\u2060 K.G. Ravindra Kumara, Police Sergeant (34971), Police Station, Alawwa. 2. B.M.S.S. Wijebandara, Police Sergeant (30472), Police Station, Alawwa. 3. Police Officer 87445, (Police Constable Jayasundera), Police Station, Alawwa. 4. M.M.H. Jayatillake, Chief Inspector of Police, Officer-in-Charge, Police Station, Alawwa. 5. Chandrasena Bandara, Assistant Superintendent of Police, ASP\u2019s Office, Kurunegala. 6. C.D. Wickremaratne, Former Inspector General of Police, C/o Inspector General of Police, Police Headquarters, Colombo 01. 6A. Deshabandu Tennekoon, Former Inspector General of Police, C/o Inspector General of Police, Police Headquarters, Colombo 01. 6B. Priyantha Weerasuriya, Inspector General of Police, Police Headquarters, Colombo 01. 7. Samanthi Mihindukula, Former Secretary of the National Police Commission, C/o Secretary, National Police Commission, Block No. 9, BMICH Premises, Bauddhaloka Mawatha, Colombo 07. 7A. Thamara D. Perera, Former Secretary of the National Police Commission, C/o Secretary, National Police Commission, Block No. 9, BMICH Premises, Bauddhaloka Mawatha, Colombo 07. 7B. Thanuja N. Fernando, Secretary, National Police Commission, Block No.9, BMICH Premises, Bauddhaloka Mawatha, Colombo 07. 8. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
 }
 ```
 
@@ -42,6 +42,9 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-22 | `SC/FR/90/2021` | Hon. K. Priyantha Fernando J - Thilina Rajapaksha, No. 109/1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-FR-90-2021)
+- 2025-10-22 | `SC/CHC/APPEAL/2/2017` | Hon. M. Sampath K. B. Wijeratne J - Arunesh Seelanathakuruppu 450... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-CHC-APPEAL-2-2017)
+- 2025-10-22 | `SC/APPEAL/138/2015` | Hon. Mahinda Samayawardhena J - Murugesu Sunderalingam, Valak... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-APPEAL-138-2015)
 - 2025-10-17 | `SC/APPEAL/9/2020` | Hon. A. L. Shiran Gooneratne J - Harischandra Senarathne Bulat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-9-2020)
 - 2025-10-17 | `SC/APPEAL/38/2016` | Hon. Sampath B. Abayakoon J - 1. Warnakulasooriya Stanley J... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-38-2016)
 - 2025-10-17 | `SC/APPEAL/155/2022` | Hon. K. Priyantha Fernando J - Gallage Anil Chandradasa No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-155-2022)
@@ -59,9 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-09 | `SC/APPEAL/172/2010` | Hon. Sobhitha Rajakaruna J - Thellamurege Don Yasapala Pad... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-09-SC-APPEAL-172-2010)
 - 2025-10-08 | `SC/APPEAL/49/2017` | Hon. Janak De Silva J - Dedigama Group Private Limite... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-08-SC-APPEAL-49-2017)
 - 2025-10-07 | `SC/CHC APPEAL/31/2009` | Hon. K. Kumudini Wickremasinghe J - Distilleries Company of Sri L... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-07-SC-CHC-APPEAL-31-2009)
-- 2025-10-03 | `SC/CHC APPEAL/17/2014` | Hon. Janak De Silva J - Anthony Saliya Godwin Ranasin... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-03-SC-CHC-APPEAL-17-2014)
-- 2025-10-02 | `SC/FR/2/2015` | Hon. K. Priyantha Fernando J - Naotunna Badalge Sagarika Jay... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-02-SC-FR-2-2015)
-- 2025-09-26 | `SC/CHC APPEAL/6/2019` | Hon. A.L. Shiran Gooneratne J - Hitisekara Mudiyanselage Wima... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-09-26-SC-CHC-APPEAL-6-2019)
 
 ---
 
