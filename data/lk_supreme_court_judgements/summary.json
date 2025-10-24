@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-24 10:52:41",
-  "n_docs": 2195,
-  "n_docs_with_pdfs": 1486,
-  "n_docs_with_text": 1486,
+  "time_updated": "2025-10-24 11:26:05",
+  "n_docs": 2196,
+  "n_docs_with_pdfs": 1487,
+  "n_docs_with_text": 1487,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-10-23",
-  "dataset_size": 1358230319,
+  "date_str_max": "2025-10-24",
+  "dataset_size": 1358520215,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-23-SC-APPEAL-67-2019",
-    "num": "SC/APPEAL/67/2019",
-    "date_str": "2025-10-23",
-    "description": "Hon. Arjuna Obeyesekere J - Ranabahu Mudiyanselage Senara...",
+    "doc_id": "2025-10-24-SC-APPEAL-36-2020",
+    "num": "SC/APPEAL/36/2020",
+    "date_str": "2025-10-24",
+    "description": "Hon. Menaka Wijesundera J - 1. Wanniarachchige Ranga Samp...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_67_2019.pdf",
-    "parties": "Ranabahu Mudiyanselage Senarath Bandara Ranabahu, Metiyanagama, Karambe, Maho SUBSTITUTED PLAINTIFF \u2013 RESPONDENT \u2013 APPELLANT - Vs - Ranabahu Mudiyanselage Ranjith Jaya\udbc0\udd9fssa, Metiyanagama, Karambe, Maho SUBSTITUTED DEFENDANT \u2013 APPELLANT \u2013 RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_36_2020.pdf",
+    "parties": "1. Wanniarachchige Ranga Sampath Fonseka Presently at: Welikada (Male Unit). Accused-Appellant-Petitioner Vs. The Attorney General, The Attorney General\u2019s Department, Colombo 12. Complainant-Respondent-Respondent\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
   }
 }

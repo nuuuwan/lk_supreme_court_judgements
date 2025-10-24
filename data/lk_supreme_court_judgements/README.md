@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_10:52:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_11:26:06-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,195** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-23**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,196** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-24**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-23-SC-APPEAL-67-2019",
-    "num": "SC/APPEAL/67/2019",
-    "date_str": "2025-10-23",
-    "description": "Hon. Arjuna Obeyesekere J - Ranabahu Mudiyanselage Senara...",
+    "doc_id": "2025-10-24-SC-APPEAL-36-2020",
+    "num": "SC/APPEAL/36/2020",
+    "date_str": "2025-10-24",
+    "description": "Hon. Menaka Wijesundera J - 1. Wanniarachchige Ranga Samp...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_67_2019.pdf",
-    "parties": "Ranabahu Mudiyanselage Senarath Bandara Ranabahu, Metiyanagama, Karambe, Maho SUBSTITUTED PLAINTIFF \u2013 RESPONDENT \u2013 APPELLANT - Vs - Ranabahu Mudiyanselage Ranjith Jaya\udbc0\udd9fssa, Metiyanagama, Karambe, Maho SUBSTITUTED DEFENDANT \u2013 APPELLANT \u2013 RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_36_2020.pdf",
+    "parties": "1. Wanniarachchige Ranga Sampath Fonseka Presently at: Welikada (Male Unit). Accused-Appellant-Petitioner Vs. The Attorney General, The Attorney General\u2019s Department, Colombo 12. Complainant-Respondent-Respondent\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `SC/APPEAL/36/2020` | Hon. Menaka Wijesundera J - 1. Wanniarachchige Ranga Samp... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-24-SC-APPEAL-36-2020)
 - 2025-10-23 | `SC/APPEAL/67/2019` | Hon. Arjuna Obeyesekere J - Ranabahu Mudiyanselage Senara... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-23-SC-APPEAL-67-2019)
 - 2025-10-22 | `SC/FR/90/2021` | Hon. K. Priyantha Fernando J - Thilina Rajapaksha, No. 109/1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-FR-90-2021)
 - 2025-10-22 | `SC/CHC/APPEAL/2/2017` | Hon. M. Sampath K. B. Wijeratne J - Arunesh Seelanathakuruppu 450... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-CHC-APPEAL-2-2017)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-10 | `SC/APPEAL/174/2015` | Hon. Mahinda Samayawardhena J - Gunasiri Kithsiri Hemal Dias,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-APPEAL-174-2015)
 - 2025-10-10 | `SC/APPEAL/112/2014` | Hon. Mahinda Samayawardhena J - Abdul Cader Sabura Umma, No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-APPEAL-112-2014)
 - 2025-10-09 | `SC/APPEAL/172/2010` | Hon. Sobhitha Rajakaruna J - Thellamurege Don Yasapala Pad... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-09-SC-APPEAL-172-2010)
-- 2025-10-08 | `SC/APPEAL/49/2017` | Hon. Janak De Silva J - Dedigama Group Private Limite... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-08-SC-APPEAL-49-2017)
 
 ---
 
