@@ -5125,6 +5125,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2016-07-05-SC-APPEAL-74-2012",
+    "num": "SC/APPEAL/74/2012",
+    "date_str": "2016-07-05",
+    "description": "HON. S. EVA WANASUNDERA, PCJ. - Galkadu Dewage Nandasena, No....",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_74_2012.pdf",
+    "parties": "Galkadu Dewage Nandasena, No. 379, Uggalboda West, Gampaha. Plaintiff- Respondent- Appellant Vs 1. Walimuni Senadheerage Malini Rupasinghe 2. HandungeSaranapala Both of No. 433, Galwetiya Road, Uggalboda, Gampaha. Defendant-Appellant-Respondents",
+    "judgement_by": "HON. S. EVA WANASUNDERA, PCJ."
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2016-07-11-SC-FR-19-2015",
     "num": "SC/FR/19/2015",
     "date_str": "2016-07-11",
@@ -5158,6 +5170,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_192_2014.pdf",
     "parties": "Wewita Hettige Upul Premalal Perera, No. 209A, Mahawatta, Alubomulla. Petitioner Vs. Kiriwanawattegedara Beatrice Sandya Kumari, Udahawatta, Siyambalagoda, Danture Kandy. Respondent And between Kiriwanawattegedara Beatrice Sandya Kumari, Udahawatta, Siyambalagoda, Danture, Kandy. Respondent-Appellant Vs. Wewita Hettige Upul Premalal Perera, No. 209A, Mahawatta, Alubomulla. Petitioner-Respondent And now between Wewita Hettige Upul Premalal Perera, No. 209A, Mahawatta, Alubomulla. Petitioner-Respondent-Petitioner Vs. Kiriwanawattegedara Beatrice Sandya Kumari, Udahawatta, Siyambalagoda, Danture, Kandy. Respondent-Appellant-Respondent",
     "judgement_by": "Hon. Buwaneka Aluwihare P.C J."
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2016-07-14-SC-FR-123-2015",
+    "num": "SC/FR/123/2015",
+    "date_str": "2016-07-14",
+    "description": "HON. UPALY ABEYRATHNE, J. - Mohammed Mukthar Aisha, No 23...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_123_2015-1.pdf",
+    "parties": "Mohammed Mukthar Aisha, No 230, Kumaratunga Mawatha, Matara. Petitioner Vs. 1. W.B. Piyatissa, The Principal, (Chairman of the Interview Board) St. Thomas Boys College, Matara. 2. Hon. Akila Viraj Kariyawasam, Minister of Education, Ministry of Education, Isurupaya, Battaramulla. 3. Upali Marasinghe, The Secretary, Ministry of Education, Isurupaya, Battaramulla. 4. The Chairman of the Appeal Board Grade 1 Admission Year 2015, St. Thomas Boys College, Matara. 5. Hon Attorney General, Attorney General\u2019s Department, Colombo 12. Respondents",
+    "judgement_by": "HON. UPALY ABEYRATHNE, J."
   },
   {
     "doc_type": "lk_supreme_court_judgements",
