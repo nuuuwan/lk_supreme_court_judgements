@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-24 14:29:19",
-  "n_docs": 2198,
-  "n_docs_with_pdfs": 1487,
-  "n_docs_with_text": 1487,
+  "time_updated": "2025-10-24 14:53:13",
+  "n_docs": 2199,
+  "n_docs_with_pdfs": 1488,
+  "n_docs_with_text": 1488,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
   "date_str_max": "2025-10-24",
-  "dataset_size": 1358744902,
+  "dataset_size": 1359007216,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-24-SC-APPEAL-36-2020",
-    "num": "SC/APPEAL/36/2020",
+    "doc_id": "2025-10-24-SC-FR-293-2020",
+    "num": "SC/FR/293/2020",
     "date_str": "2025-10-24",
-    "description": "Hon. Menaka Wijesundera J - 1. Wanniarachchige Ranga Samp...",
+    "description": "Hon. K. Priyantha Fernando J - Vindani Priyadarshika Sooriya...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_36_2020.pdf",
-    "parties": "1. Wanniarachchige Ranga Sampath Fonseka Presently at: Welikada (Male Unit). Accused-Appellant-Petitioner Vs. The Attorney General, The Attorney General\u2019s Department, Colombo 12. Complainant-Respondent-Respondent\n\nView More",
-    "judgement_by": "Hon. Menaka Wijesundera J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_293_2020.pdf",
+    "parties": "Vindani Priyadarshika Sooriyarachchi No. 75/09, Ferguson Road, Colombo 14 Petitioner V. 1.\u2060 \u2060Mangala Dehideniya Superintendent of Police Office of the Superintendent of the Police, Colombo-North Police Division, Colombo 14 2.\u2060 \u2060Caldera Officer in Charge Grandpass Police Station, Colombo 14 3.\u2060 \u2060Rajarathna Sub-Inspector of Police Grandpass Police Station, Colombo 14 4.\u2060 \u2060Inspector General of Police Sri Lanka Police Head Quarters, Colombo 1 5.\u2060 \u2060Hon. Attorney General Attorney General\\'s Department, Colombo 12 Respondents\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
   }
 }
