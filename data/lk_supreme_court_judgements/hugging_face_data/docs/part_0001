@@ -3517,6 +3517,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2015-03-23-SC-APPEAL-141-2011-PART-I",
+    "num": "SC/APPEAL/141/2011 PART I",
+    "date_str": "2015-03-23",
+    "description": "Hon. S. Eva Wanasundera, PC.J - Prins Gunasekera, No. 26, Flo...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_141_2011_part_I.pdf",
+    "parties": "Prins Gunasekera, No. 26, Flodden Road, London, SE5 9LH. Plaintiff Vs. Associated Newspapers of Ceylon Limited, No. 35, D.R. Wijewardena Mawatha, Colombo 10. Defendant And Between Prins Gunasekera, No. 26, Flodden Road, London, SE5 9LH. Plaintiff-Appellant Vs. Associated Newspapers of Ceylon Limited, No. 35, D.R. Wijewardena Mawatha, Colombo 10. Defendant-Respondent And Now Between Associated Newspapers of Ceylon Limited, No. 35, D.R. Wijewardena Mawatha, Colombo 10. Defendant-Respondent-Appellant Vs. Prins Gunasekera, No. 26, Flodden Road, London, SE5 9LH. Plaintiff-Appellant-Respondent",
+    "judgement_by": "Hon. S. Eva Wanasundera, PC.J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2015-03-23-SC-FR-39-2013",
     "num": "SC/FR/39/2013",
     "date_str": "2015-03-23",
