@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-28 09:34:37",
-  "n_docs": 2201,
-  "n_docs_with_pdfs": 1489,
-  "n_docs_with_text": 1489,
+  "time_updated": "2025-10-28 10:27:43",
+  "n_docs": 2202,
+  "n_docs_with_pdfs": 1490,
+  "n_docs_with_text": 1490,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-10-24",
-  "dataset_size": 1359818071,
+  "date_str_max": "2025-10-27",
+  "dataset_size": 1360243214,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-24-SC-FR-293-2020",
-    "num": "SC/FR/293/2020",
-    "date_str": "2025-10-24",
-    "description": "Hon. K. Priyantha Fernando J - Vindani Priyadarshika Sooriya...",
+    "doc_id": "2025-10-27-SC-APPEAL-27-2012",
+    "num": "SC/APPEAL/27/2012",
+    "date_str": "2025-10-27",
+    "description": "Hon. Sampath B. Abayakoon J - Dassanayake Mudiyanselage Ant...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_293_2020.pdf",
-    "parties": "Vindani Priyadarshika Sooriyarachchi No. 75/09, Ferguson Road, Colombo 14 Petitioner V. 1.\u2060 \u2060Mangala Dehideniya Superintendent of Police Office of the Superintendent of the Police, Colombo-North Police Division, Colombo 14 2.\u2060 \u2060Caldera Officer in Charge Grandpass Police Station, Colombo 14 3.\u2060 \u2060Rajarathna Sub-Inspector of Police Grandpass Police Station, Colombo 14 4.\u2060 \u2060Inspector General of Police Sri Lanka Police Head Quarters, Colombo 1 5.\u2060 \u2060Hon. Attorney General Attorney General\\'s Department, Colombo 12 Respondents\n\nView More",
-    "judgement_by": "Hon. K. Priyantha Fernando J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_27_2012.pdf",
+    "parties": "Dassanayake Mudiyanselage Antony of \u201cSupervision\u201d, Super Market Complex, Mawathagama. RESPONDENT-RESPONDENT- RESPONDENT-APPELLANT Vs. Mohamed Saheed Mahomed Abdulla No. 20, Kandy Road, Mawathagama (Now Deceased) APPLICANT-PETITIONER- APPELLANT-RESPONDENT 1A. Abdul Wahab Sithy Suraiha 1B. Mohammed Abdullah Fathima Mufriha 1C. Mohammed Abdullah Fathima Munfiha 1D. Mohamed Abdullah Mohamed Murasil 1E. Mohammed Abdullah Fathima Musliha 1F. Mohammed Abdullah Fathima Mufsiha All of No. 06, Church Road, Mawathagama. SUBSTITUTED 1A-1F APPLICANT-PETITIONER- APPELLANT-RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
   }
 }
