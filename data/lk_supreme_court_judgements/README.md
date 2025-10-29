@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_11:52:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--29_12:33:17-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,207** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-27**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,208** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-29**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-27-SC-APPEAL-27-2012",
-    "num": "SC/APPEAL/27/2012",
-    "date_str": "2025-10-27",
-    "description": "Hon. Sampath B. Abayakoon J - Dassanayake Mudiyanselage Ant...",
+    "doc_id": "2025-10-29-SC-APPEAL-150-2015",
+    "num": "SC/APPEAL/150/2015",
+    "date_str": "2025-10-29",
+    "description": "Hon. Sampath K. B. Wijeratne J - 6. (sic) Budagoda Arachchige ...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_27_2012.pdf",
-    "parties": "Dassanayake Mudiyanselage Antony of \u201cSupervision\u201d, Super Market Complex, Mawathagama. RESPONDENT-RESPONDENT- RESPONDENT-APPELLANT Vs. Mohamed Saheed Mahomed Abdulla No. 20, Kandy Road, Mawathagama (Now Deceased) APPLICANT-PETITIONER- APPELLANT-RESPONDENT 1A. Abdul Wahab Sithy Suraiha 1B. Mohammed Abdullah Fathima Mufriha 1C. Mohammed Abdullah Fathima Munfiha 1D. Mohamed Abdullah Mohamed Murasil 1E. Mohammed Abdullah Fathima Musliha 1F. Mohammed Abdullah Fathima Mufsiha All of No. 06, Church Road, Mawathagama. SUBSTITUTED 1A-1F APPLICANT-PETITIONER- APPELLANT-RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Sampath B. Abayakoon J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_150_2015.pdf",
+    "parties": "6. (sic) Budagoda Arachchige Don Sri Lal Wijewardhana, \u2018Shamila Stores\u2019, Bandarawela Road, Hali Ela. SUBSTITUTED 5th \u2013 DEFENDANT \u2013 RESPONDENT - PETITIONER vs A. Budagoda Arachchige Don Deepthi Chandrawansha Wijewardhana, No. 98/6, Lake Road, Wickramasinghepura, Battaramulla. B. Budagoda Arachchige Dona Yamuna Chandini Wijewardhana, Etampitiya Estate, Etampitiya. (Deceased) B/1- Dharamakula Raja Randeniya B/2 \u2013 Achini Sharmila Randeniya B/3 \u2013 Charit Anjana Randeniya Etampitiya Estate, Etampitiya C. Budagoda Arachchige Dona Manjula Kanthimani Wijewardhana, St. Jame\u2019s Estate, Hali Ela. SUBSTITUTED RESPONDENTS- PLAINTIFFS \u2013 APPELLANTS - RESPONDENTS 1. Budagoda Arachchige Don Cyril Wijewardhana, No. 7, Bandarawela Road, Hali Ela, 2. Budagoda Arachchige Don Alfred Wijewardhana, No. 98/6, Ketawala Road, Hali Ela. 3. Themmadura Lalani Shanthi De Silva, Bandarawela Road, Hali Ela, 4. Thilini Sachira Wijewardhana, Bandarawela Road, Hali Ela, DEFENDANTS -RESPONDENTS- RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sampath K. B. Wijeratne J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-29 | `SC/APPEAL/150/2015` | Hon. Sampath K. B. Wijeratne J - 6. (sic) Budagoda Arachchige ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-29-SC-APPEAL-150-2015)
 - 2025-10-27 | `SC/APPEAL/27/2012` | Hon. Sampath B. Abayakoon J - Dassanayake Mudiyanselage Ant... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-27-SC-APPEAL-27-2012)
 - 2025-10-24 | `SC/FR/293/2020` | Hon. K. Priyantha Fernando J - Vindani Priyadarshika Sooriya... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-24-SC-FR-293-2020)
 - 2025-10-24 | `SC/APPEAL/36/2020` | Hon. Menaka Wijesundera J - 1. Wanniarachchige Ranga Samp... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-24-SC-APPEAL-36-2020)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-10 | `SC/RULE/12/2023` | Hon. A.L. Shiran Gooneratne J - Major W. W. M. L. S. Palipana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-RULE-12-2023)
 - 2025-10-10 | `SC/FR/259/2016` | Hon. Menaka Wijesundera J - Vithanage Sunil, No.850/1, Ru... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-FR-259-2016)
 - 2025-10-10 | `SC/APPEAL/65/2025` | Hon. Mahinda Samayawardhena J - W.T. S. Nilantha Fernando, 59... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-APPEAL-65-2025)
-- 2025-10-10 | `SC/APPEAL/37/2023` | Hon. Arjuna Obeyesekere J - N.W.D.T. Nanayakkara, No. 390... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-APPEAL-37-2023)
 
 ---
 
