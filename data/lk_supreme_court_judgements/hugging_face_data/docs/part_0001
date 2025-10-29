@@ -2545,6 +2545,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2014-02-18-SC-APPEAL-51-2011--SC-A-b1c2ab2c",
+    "num": "SC/APPEAL/51/2011, SC/APPEAL/52/2011",
+    "date_str": "2014-02-18",
+    "description": "Hon. Tilakawardane, J - Nurun Anberiya Hanifa, No. 10...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_51_52_2011.pdf",
+    "parties": "Nurun Anberiya Hanifa, No. 10, 4th Lane, Rajagiriya. Plaintiff Vs. 1. Mahapatunage Thilak Perera, No. 45/12, Swarna Road, Colombo 6. 2. Weliweriya Tholka Mudalige Kulasiri [deceased], No. 1173, 3rd Maradana, Borella, Colombo 8. 2A. Muttettuwage Violet Perera, No. 24/4, Janatha Mawatha, Mirihana, Kotte. Defendants",
+    "judgement_by": "Hon. Tilakawardane, J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2014-02-18-SC-FR-555-2009",
     "num": "SC/FR/555/2009",
     "date_str": "2014-02-18",
