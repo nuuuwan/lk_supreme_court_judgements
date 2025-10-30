@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_15:53:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_16:28:21-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,217** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-30**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,220** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-30**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-30-SC-APPEAL-27-2020",
-    "num": "SC/APPEAL/27/2020",
+    "doc_id": "2025-10-30-SC-APPEAL-62-2014",
+    "num": "SC/APPEAL/62/2014",
     "date_str": "2025-10-30",
-    "description": "Hon. M. Sampath K. B. Wijeratne J - R.M. Kamal Kumara Gokarella. ...",
+    "description": "Hon. Janak De Silva J - Weerasinghe Kankanamge Weeras...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_27_2020.pdf",
-    "parties": "R.M. Kamal Kumara Gokarella. \u201cThushara\u201d Galagamuwa, Gokarella. (Appearing by his Power of Attoreny holder Gonaduwage Thushitha Jeewani Deepthika of \u201cThushara\u201d Galagamuwa, Gokarella.) PLAINTIFF \u2013 APPELLANT - PETITIONER vs R.M. Bhadra Kumari Gokarella, Dambulla Road, Gokarella. DEFENDANT -RESPONDENT- RESPONDENT\n\nView More",
-    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_62_2014.pdf",
+    "parties": "Weerasinghe Kankanamge Weerasinghe, Pelwatta Road, Galahitiya, Godakawela. PLAINTIFF \u2013 RESPONDENT \u2013 APPELLANT Vs. P.G. Ratnasiri, Pelwatta Road, Galahitiya, Godakawela. 1ST DEFENDANT \u2013 APPELLANT \u2013 RESPONDENT K.G. Sandya Kumari, Pelwatta Road, Galahitiya, Godakawela. 2nd DEFENDANT \u2013 APPELLANT\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `SC/APPEAL/62/2014` | Hon. Janak De Silva J - Weerasinghe Kankanamge Weeras... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-30-SC-APPEAL-62-2014)
 - 2025-10-30 | `SC/APPEAL/27/2020` | Hon. M. Sampath K. B. Wijeratne J - R.M. Kamal Kumara Gokarella. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-30-SC-APPEAL-27-2020)
 - 2025-10-29 | `SC/APPEAL/150/2015` | Hon. Sampath K. B. Wijeratne J - 6. (sic) Budagoda Arachchige ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-29-SC-APPEAL-150-2015)
 - 2025-10-27 | `SC/APPEAL/27/2012` | Hon. Sampath B. Abayakoon J - Dassanayake Mudiyanselage Ant... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-27-SC-APPEAL-27-2012)
@@ -59,9 +60,8 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-16 | `SC/FR/130/2016` | Hon. Janak De Silva J - Ayumi Kalpana Manawadu, 27/1,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-FR-130-2016)
 - 2025-10-16 | `SC/APPEAL/205/2017` | Hon. Sampath B. Abayakoon J - Hapugastenna Plantations PLC,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-APPEAL-205-2017)
 - 2025-10-15 | `SC/APPEAL/74/2025` | Hon. M. Sampath K.B. Wijeratne J - Siriwardhana Kasee Brahmana R... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-15-SC-APPEAL-74-2025)
+- 2025-10-14 | `SC/APPEAL/43/2020` | Hon. Janak De Silva J - Puvaneswari widow of Pasupath... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-14-SC-APPEAL-43-2020)
 - 2025-10-13 | `SC/FR/169/2024` | Hon. Menaka Wijesundera J - S. Malavipathirana No.37A, Ru... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-13-SC-FR-169-2024)
-- 2025-10-10 | `SC/RULE/12/2023` | Hon. A.L. Shiran Gooneratne J - Major W. W. M. L. S. Palipana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-RULE-12-2023)
-- 2025-10-10 | `SC/FR/259/2016` | Hon. Menaka Wijesundera J - Vithanage Sunil, No.850/1, Ru... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-10-SC-FR-259-2016)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-10-30 15:53:29",
-  "n_docs": 2217,
-  "n_docs_with_pdfs": 1492,
-  "n_docs_with_text": 1492,
+  "time_updated": "2025-10-30 16:28:20",
+  "n_docs": 2220,
+  "n_docs_with_pdfs": 1494,
+  "n_docs_with_text": 1494,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
   "date_str_max": "2025-10-30",
-  "dataset_size": 1362237496,
+  "dataset_size": 1363326501,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-30-SC-APPEAL-27-2020",
-    "num": "SC/APPEAL/27/2020",
+    "doc_id": "2025-10-30-SC-APPEAL-62-2014",
+    "num": "SC/APPEAL/62/2014",
     "date_str": "2025-10-30",
-    "description": "Hon. M. Sampath K. B. Wijeratne J - R.M. Kamal Kumara Gokarella. ...",
+    "description": "Hon. Janak De Silva J - Weerasinghe Kankanamge Weeras...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_27_2020.pdf",
-    "parties": "R.M. Kamal Kumara Gokarella. \u201cThushara\u201d Galagamuwa, Gokarella. (Appearing by his Power of Attoreny holder Gonaduwage Thushitha Jeewani Deepthika of \u201cThushara\u201d Galagamuwa, Gokarella.) PLAINTIFF \u2013 APPELLANT - PETITIONER vs R.M. Bhadra Kumari Gokarella, Dambulla Road, Gokarella. DEFENDANT -RESPONDENT- RESPONDENT\n\nView More",
-    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_62_2014.pdf",
+    "parties": "Weerasinghe Kankanamge Weerasinghe, Pelwatta Road, Galahitiya, Godakawela. PLAINTIFF \u2013 RESPONDENT \u2013 APPELLANT Vs. P.G. Ratnasiri, Pelwatta Road, Galahitiya, Godakawela. 1ST DEFENDANT \u2013 APPELLANT \u2013 RESPONDENT K.G. Sandya Kumari, Pelwatta Road, Galahitiya, Godakawela. 2nd DEFENDANT \u2013 APPELLANT\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
   }
 }

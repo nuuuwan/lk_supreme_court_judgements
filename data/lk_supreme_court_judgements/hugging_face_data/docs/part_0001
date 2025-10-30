@@ -3109,6 +3109,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2014-09-11-SC-APPEAL-150-2012",
+    "num": "SC/APPEAL/150/2012",
+    "date_str": "2014-09-11",
+    "description": "Hon. Eva Wanasundera PC J - Wanakkuwatta Waduge Nirosh Pr...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_150_2012-1.pdf",
+    "parties": "Wanakkuwatta Waduge Nirosh Priyasad Fernando. \u201cSwarna\u201d, Swarnajothi Mawatha, Thanthirimulla, Panadura. Plaintiff-Respondent- Petitioner Vs. 1. Subramaniam Indrajith, No. 26, Thissa Mawatha, Horethuduwa, Panadura. 2. H. Jagath Jayalal Fernando, 37/30, Edward Benadict Mw, Horethuduwa, Panadura. Defendant-Appellant- Respondents.",
+    "judgement_by": "Hon. Eva Wanasundera PC J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2014-09-11-SC-FR-261-2013",
     "num": "SC/FR/261/2013",
     "date_str": "2014-09-11",
@@ -26401,6 +26413,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-10-14-SC-APPEAL-43-2020",
+    "num": "SC/APPEAL/43/2020",
+    "date_str": "2025-10-14",
+    "description": "Hon. Janak De Silva J - Puvaneswari widow of Pasupath...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_43_2020.pdf",
+    "parties": "Puvaneswari widow of Pasupathi, Yuvasakthi Lane, Sudumalai South, Manipay. PLAINTIFF-RESPONDENT-APPELLANT Vs. Sinnathamby Thangarasa, Yuvasakthi Lane, Sudumalai South, Manipay. DEFENDANT-APPELLANT-RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2025-10-15-SC-APPEAL-74-2025",
     "num": "SC/APPEAL/74/2025",
     "date_str": "2025-10-15",
@@ -26602,5 +26626,17 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_27_2020.pdf",
     "parties": "R.M. Kamal Kumara Gokarella. \u201cThushara\u201d Galagamuwa, Gokarella. (Appearing by his Power of Attoreny holder Gonaduwage Thushitha Jeewani Deepthika of \u201cThushara\u201d Galagamuwa, Gokarella.) PLAINTIFF \u2013 APPELLANT - PETITIONER vs R.M. Bhadra Kumari Gokarella, Dambulla Road, Gokarella. DEFENDANT -RESPONDENT- RESPONDENT\n\nView More",
     "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-10-30-SC-APPEAL-62-2014",
+    "num": "SC/APPEAL/62/2014",
+    "date_str": "2025-10-30",
+    "description": "Hon. Janak De Silva J - Weerasinghe Kankanamge Weeras...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_62_2014.pdf",
+    "parties": "Weerasinghe Kankanamge Weerasinghe, Pelwatta Road, Galahitiya, Godakawela. PLAINTIFF \u2013 RESPONDENT \u2013 APPELLANT Vs. P.G. Ratnasiri, Pelwatta Road, Galahitiya, Godakawela. 1ST DEFENDANT \u2013 APPELLANT \u2013 RESPONDENT K.G. Sandya Kumari, Pelwatta Road, Galahitiya, Godakawela. 2nd DEFENDANT \u2013 APPELLANT\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
   }
 ]
