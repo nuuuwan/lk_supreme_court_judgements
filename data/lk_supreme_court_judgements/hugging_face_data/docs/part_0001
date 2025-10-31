@@ -1825,6 +1825,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2013-02-05-SC-APPEAL-119-2010",
+    "num": "SC/APPEAL/119/2010",
+    "date_str": "2013-02-05",
+    "description": "Hon. Eva Wanasundera, PC.J - Wimala Herath Rajawila, Hingu...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_119_2010.pdf",
+    "parties": "Wimala Herath Rajawila, Hingurakgoda. Plaintiff Vs. 1. M.D.G. Kamalawathie, No. 27/5, Flower Lane, Pepiliyana Road, Nugegoda. 2. S.A. Piyasena, Trackmo Institute, Wickramasinghe Road, Hingurakgoda. Defendants. And Between 1. M.D.G. Kamalawathie, No. 27/5, Flower Lane, Pepiliyana Road, Nugegoda. 2. S.A. Piyasena, Trackmo Institute, Wickramasinghe Road, Hingurakgoda. Defendant-Appellants Vs. Wimala Herath (Deceased) 1. Sarathchandra Rajapakshe. 2. Ananda Kumara Rajapakshe 3. Wasantha Kumara Rajapakshe All are of: Rajawila, Hingurakgoda. Plaintiff-Respondents. And Now Between Wimala Herath (Deceased) 1. Sarathchandra Rajapakshe. 2. Ananda Kumara Rajapakshe 3. Wasantha Kumara Rajapakshe All are of: Rajawila, Hingurakgoda. Plaintiff-Respondent-Appellants Vs. 1. M.D.G. Kamalawathie, No. 27/5, Flower Lane, Pepiliyana Road, Nugegoda. 2. S.A. Piyasena, Trackmo Institute, Wickramasinghe Road, Hingurakgoda. Defendant-Appellant-Respondents",
+    "judgement_by": "Hon. Eva Wanasundera, PC.J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2013-02-06-SC-APPEAL-119-2010",
     "num": "SC/APPEAL/119/2010",
     "date_str": "2013-02-06",
