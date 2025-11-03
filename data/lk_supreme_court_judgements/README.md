@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_14:31:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_14:53:16-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,248** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,249** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-03-SC-APPEAL-135-2023",
-    "num": "SC/APPEAL/135/2023",
+    "doc_id": "2025-11-03-SC-WRIT-3-2025",
+    "num": "SC/WRIT/3/2025",
     "date_str": "2025-11-03",
-    "description": "Hon. Sampath B. Abayakoon J - Kuruppu Arachchilage Thilakar...",
+    "description": "Hon. Janak De Silva J - 1. Kusum Priyadharshini Epa W...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_135_2023.pdf",
-    "parties": "Kuruppu Arachchilage Thilakarathne, Nelundeniya, Maampita. DEFENDANT-APPELLANT- APPELLANT Vs. Brahmana Arachchilage Dingiri Amma alias Sumanawathi Nelundeniya, Maampita. PLAINTIFF-RESPONDENT- RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Sampath B. Abayakoon J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_writ_3_2025.pdf",
+    "parties": "1. Kusum Priyadharshini Epa Weihana, 51/4, Pushpadana Mawatha, Kandy. [Petitioner in S.C. (Writ) 03/2025] 2. Isuru Pulasthi Bandara Polgasdeniya, No. 4/1, Mandakini Glow, Greenlands Lane, Colombo 05. [Petitioner in S.C. (Writ) 04/2025] 3. Chandula Ramali Rambukwella, No. 51/4, Pushpadana Mawatha, Kandy. [Petitioner in S.C. (Writ) 05/2025] Petitioners Vs. 1. Judge of the High Court, High Court No.1, Colombo 12. 2. Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 3. Director General, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 4. Mr. R Sumendra, Assistant Superintendent of Police, Assistant Director (Investigation 2), Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 5. Justice W.M.N.P. Iddawala, Chairman, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 6. Mr. K.B.Rajapakse, Commissioner, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 7. Mr. Chethiya Goonasekera, Commissioner, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 8. Officer-In-Charge, Investigation Officer, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. Respondents\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `SC/WRIT/3/2025` | Hon. Janak De Silva J - 1. Kusum Priyadharshini Epa W... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-03-SC-WRIT-3-2025)
 - 2025-11-03 | `SC/APPEAL/135/2023` | Hon. Sampath B. Abayakoon J - Kuruppu Arachchilage Thilakar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-03-SC-APPEAL-135-2023)
 - 2025-10-31 | `SC/APPEAL/123/2019` | Hon. A.L. Shiran Gooneratne J - Siril Jayawardena Karunaratne... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-31-SC-APPEAL-123-2019)
 - 2025-10-30 | `SC/APPEAL/62/2014` | Hon. Janak De Silva J - Weerasinghe Kankanamge Weeras... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-30-SC-APPEAL-62-2014)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-17 | `SC/APPEAL/155/2022` | Hon. K. Priyantha Fernando J - Gallage Anil Chandradasa No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-155-2022)
 - 2025-10-16 | `SC/FR/359/2016` | Hon. Sobhitha Rajakaruna J - D. K. Surangika Nalani 1/3, V... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-FR-359-2016)
 - 2025-10-16 | `SC/FR/130/2016` | Hon. Janak De Silva J - Ayumi Kalpana Manawadu, 27/1,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-FR-130-2016)
-- 2025-10-16 | `SC/APPEAL/205/2017` | Hon. Sampath B. Abayakoon J - Hapugastenna Plantations PLC,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-APPEAL-205-2017)
 
 ---
 

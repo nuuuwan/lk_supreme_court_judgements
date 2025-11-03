@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-11-03 14:31:48",
-  "n_docs": 2248,
-  "n_docs_with_pdfs": 1497,
-  "n_docs_with_text": 1497,
+  "time_updated": "2025-11-03 14:53:14",
+  "n_docs": 2249,
+  "n_docs_with_pdfs": 1498,
+  "n_docs_with_text": 1498,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
   "date_str_max": "2025-11-03",
-  "dataset_size": 1365462188,
+  "dataset_size": 1366458569,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-03-SC-APPEAL-135-2023",
-    "num": "SC/APPEAL/135/2023",
+    "doc_id": "2025-11-03-SC-WRIT-3-2025",
+    "num": "SC/WRIT/3/2025",
     "date_str": "2025-11-03",
-    "description": "Hon. Sampath B. Abayakoon J - Kuruppu Arachchilage Thilakar...",
+    "description": "Hon. Janak De Silva J - 1. Kusum Priyadharshini Epa W...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_135_2023.pdf",
-    "parties": "Kuruppu Arachchilage Thilakarathne, Nelundeniya, Maampita. DEFENDANT-APPELLANT- APPELLANT Vs. Brahmana Arachchilage Dingiri Amma alias Sumanawathi Nelundeniya, Maampita. PLAINTIFF-RESPONDENT- RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Sampath B. Abayakoon J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_writ_3_2025.pdf",
+    "parties": "1. Kusum Priyadharshini Epa Weihana, 51/4, Pushpadana Mawatha, Kandy. [Petitioner in S.C. (Writ) 03/2025] 2. Isuru Pulasthi Bandara Polgasdeniya, No. 4/1, Mandakini Glow, Greenlands Lane, Colombo 05. [Petitioner in S.C. (Writ) 04/2025] 3. Chandula Ramali Rambukwella, No. 51/4, Pushpadana Mawatha, Kandy. [Petitioner in S.C. (Writ) 05/2025] Petitioners Vs. 1. Judge of the High Court, High Court No.1, Colombo 12. 2. Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 3. Director General, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 4. Mr. R Sumendra, Assistant Superintendent of Police, Assistant Director (Investigation 2), Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 5. Justice W.M.N.P. Iddawala, Chairman, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 6. Mr. K.B.Rajapakse, Commissioner, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 7. Mr. Chethiya Goonasekera, Commissioner, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 8. Officer-In-Charge, Investigation Officer, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. Respondents\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
   }
 }
