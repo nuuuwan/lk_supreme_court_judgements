@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_13:53:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_14:31:49-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,247** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-10-31**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,248** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-10-31-SC-APPEAL-123-2019",
-    "num": "SC/APPEAL/123/2019",
-    "date_str": "2025-10-31",
-    "description": "Hon. A.L. Shiran Gooneratne J - Siril Jayawardena Karunaratne...",
+    "doc_id": "2025-11-03-SC-APPEAL-135-2023",
+    "num": "SC/APPEAL/135/2023",
+    "date_str": "2025-11-03",
+    "description": "Hon. Sampath B. Abayakoon J - Kuruppu Arachchilage Thilakar...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_123_2019.pdf",
-    "parties": "Siril Jayawardena Karunaratne No. 49 A, Wattaranthanna Lane, Kandy. DEFENDANT-RESPONDENT-APPELLANT Vs. Nisha Kanthi Peiris No. 49, Wattaranthanna Lane, Kandy. PLAINTIFF-APPELLANT-RESPONDENT\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_135_2023.pdf",
+    "parties": "Kuruppu Arachchilage Thilakarathne, Nelundeniya, Maampita. DEFENDANT-APPELLANT- APPELLANT Vs. Brahmana Arachchilage Dingiri Amma alias Sumanawathi Nelundeniya, Maampita. PLAINTIFF-RESPONDENT- RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `SC/APPEAL/135/2023` | Hon. Sampath B. Abayakoon J - Kuruppu Arachchilage Thilakar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-03-SC-APPEAL-135-2023)
 - 2025-10-31 | `SC/APPEAL/123/2019` | Hon. A.L. Shiran Gooneratne J - Siril Jayawardena Karunaratne... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-31-SC-APPEAL-123-2019)
 - 2025-10-30 | `SC/APPEAL/62/2014` | Hon. Janak De Silva J - Weerasinghe Kankanamge Weeras... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-30-SC-APPEAL-62-2014)
 - 2025-10-30 | `SC/APPEAL/27/2020` | Hon. M. Sampath K. B. Wijeratne J - R.M. Kamal Kumara Gokarella. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-30-SC-APPEAL-27-2020)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-16 | `SC/FR/359/2016` | Hon. Sobhitha Rajakaruna J - D. K. Surangika Nalani 1/3, V... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-FR-359-2016)
 - 2025-10-16 | `SC/FR/130/2016` | Hon. Janak De Silva J - Ayumi Kalpana Manawadu, 27/1,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-FR-130-2016)
 - 2025-10-16 | `SC/APPEAL/205/2017` | Hon. Sampath B. Abayakoon J - Hapugastenna Plantations PLC,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-16-SC-APPEAL-205-2017)
-- 2025-10-15 | `SC/APPEAL/74/2025` | Hon. M. Sampath K.B. Wijeratne J - Siriwardhana Kasee Brahmana R... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-15-SC-APPEAL-74-2025)
 
 ---
 
