@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-11-04 11:52:57",
-  "n_docs": 2249,
-  "n_docs_with_pdfs": 1498,
-  "n_docs_with_text": 1498,
+  "time_updated": "2025-11-04 12:33:08",
+  "n_docs": 2250,
+  "n_docs_with_pdfs": 1499,
+  "n_docs_with_text": 1499,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-11-03",
-  "dataset_size": 1366971251,
+  "date_str_max": "2025-11-04",
+  "dataset_size": 1367282124,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-03-SC-WRIT-3-2025",
-    "num": "SC/WRIT/3/2025",
-    "date_str": "2025-11-03",
-    "description": "Hon. Janak De Silva J - 1. Kusum Priyadharshini Epa W...",
+    "doc_id": "2025-11-04-SC-FR-166-2021",
+    "num": "SC/FR/166/2021",
+    "date_str": "2025-11-04",
+    "description": "Hon. Menaka Wijesundera J - Cader Mohamed Thowfeek, No.11...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_writ_3_2025.pdf",
-    "parties": "1. Kusum Priyadharshini Epa Weihana, 51/4, Pushpadana Mawatha, Kandy. [Petitioner in S.C. (Writ) 03/2025] 2. Isuru Pulasthi Bandara Polgasdeniya, No. 4/1, Mandakini Glow, Greenlands Lane, Colombo 05. [Petitioner in S.C. (Writ) 04/2025] 3. Chandula Ramali Rambukwella, No. 51/4, Pushpadana Mawatha, Kandy. [Petitioner in S.C. (Writ) 05/2025] Petitioners Vs. 1. Judge of the High Court, High Court No.1, Colombo 12. 2. Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 3. Director General, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 4. Mr. R Sumendra, Assistant Superintendent of Police, Assistant Director (Investigation 2), Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 5. Justice W.M.N.P. Iddawala, Chairman, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 6. Mr. K.B.Rajapakse, Commissioner, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 7. Mr. Chethiya Goonasekera, Commissioner, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. 8. Officer-In-Charge, Investigation Officer, Commission to Investigate Allegations of Bribery or Corruption, 36, Malasekara Mawatha, Colombo 07. Respondents\n\nView More",
-    "judgement_by": "Hon. Janak De Silva J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_166_2021.pdf",
+    "parties": "Cader Mohamed Thowfeek, No.112, Main Street, Sammanthurai. Petitioner Vs. 1. South Eastern University of Sri Lanka, University Park, Oluvil. 2. Prof. M.M.M. Najim, Vice-Chancellor, South Eastern University of Sri Lanka, University Park, Oluvil. 2A.Dr. U.L. Abdul Majeed, Acting Vice Chancellor, South Eastern University, Oluvil, Sri Lanka. 3. Mr. H. Abdul Saththar, Registrar, South Eastern University of Sri Lanka, University Park, Oluvil. 3A.Mr.M.I. Nawfer, Registrar, South Eastern University, Oluvil, Sri Lanka. 4. Mr. A.M.G.B. Abeysinghe, Registrar, Rajarata University of Sri Lanka. 5. Dr. A.W.S. Chandana, Senior Lecturer (Gr. II), Sabaragamuwa University of Sri Lanka. 6. Dr. Anver M. Mustapha 7. Prof. A. Rameez, Dean Faculty of Arts and Culture, South Eastern University of Sri Lanka. 8. Dr. U.L.A Majeed, Dean Faculty of Technology, South Eastern University of Sri Lanka. (2nd to 8th Respondents are the members of the selection committee for the appointment of post of Director/Physical Education of the South Eastern University of Sri Lanka of which 3rd Respondent is the secretary) All of members of selection committee, South Eastern University of Sri Lanka, University Park, Oluvil. 9. University Grant Commission, No. 20, Ward Place, Colombo 07. 10. Prof. Sampath Amaratuga, Chairman, University Grant Commission, No. 20, Ward Place, Colombo 07. 10A. Senior Professor Kapila Seneviratne, Chairman, University Grant Commission, No. 20, Ward Place, Colombo 07. 11. S. Uthayanan, Puliyadi Market Lane, Manippay, Jaffna. 12. I. Lakshman, Sangarathai, Vaddukoddai, Jaffna. 13. Hon. Attorney General, Attorney General\\'s Department, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
   }
 }
