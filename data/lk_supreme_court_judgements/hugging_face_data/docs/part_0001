@@ -2149,6 +2149,54 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-10-04-SC-APPEAL-79-2002",
+    "num": "SC/APPEAL/79/2002",
+    "date_str": "2012-10-04",
+    "description": "Hon. Dr. Shirani A. Bandaranayake, CJ - Ceylon Quartz Industries (Pri...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_79_2002.pdf",
+    "parties": "Ceylon Quartz Industries (Private) Limited, \u201cBartleet House\u201d, 65, Braybrooke Place, Colombo 2. Petitioner-Appellant Vs. 1. The Director General of Customs Customs House, Bristol Street, Colombo 1. 2. H.M.H.B. Seneviratne, Assistant Director of Customs, Customs House, Bristol Street, Colombo 01. 3. Hon. The Attorney General, Attorney General\u2019s Department, Hulftsdorp Street, Colombo 12. Respondents-Respondents",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake, CJ"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-10-04-SC-CHC-APPEAL-24-2004",
+    "num": "SC/CHC APPEAL/24/2004",
+    "date_str": "2012-10-04",
+    "description": "Hon. K. Sripavan J - K. Dharmasiriwardena No. 119,...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_24_2004.pdf",
+    "parties": "K. Dharmasiriwardena No. 119, Thalangama North, Thalangama. Plaintiff Vs. Pure Beverages Company Ltd. No. 149A, Vaxuall Street, Colombo 02. Defendant AND Between Pure Beverages Company Ltd. No. 149A, Vaxuall Street, Colombo 02. Defendant-Appellant Vs. K. Dharmasiriwardena No. 119, Thalangama North, Thalangama. Plaintiff-Respondent",
+    "judgement_by": "Hon. K. Sripavan J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-10-04-SC-HC-CALA-137-2010",
+    "num": "SC/HC CALA/137/2010",
+    "date_str": "2012-10-04",
+    "description": "Hon. Saleem Marsoof PC J - Karunawathie Wickramasinghe S...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_hc_cala_137_2010.pdf",
+    "parties": "Karunawathie Wickramasinghe Samaranayake, No. 1, Lady Mc Callum Drive, Nuwara Eliya. Plaintiff Vs Ranjani Warnakulasuriya, No. 2, Lady Mc Callum Drive, Nuwara Eliya. Defendant",
+    "judgement_by": "Hon. Saleem Marsoof PC J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-10-05-SC-CHC-APPEAL-30-2003",
+    "num": "SC/CHC APPEAL/30/2003",
+    "date_str": "2012-10-05",
+    "description": "Hon. Shiranee Tilakawardane J - Associated Newspapers of Ceyl...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_30_2003.pdf",
+    "parties": "Associated Newspapers of Ceylon Ltd, No. 35, D.R. Wijewardena Mawatha, Colombo 10. Defendant-Appellant Vs. Pituwana Liyanage Shantha Chandraguptha Amarasinghe, 320/C/2, Jothikarama Mawatha, Thalawathugoda. Plaintiff-Respondent",
+    "judgement_by": "Hon. Shiranee Tilakawardane J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2012-10-12-SC-FR-492-2011",
     "num": "SC/FR/492/2011",
     "date_str": "2012-10-12",
@@ -2158,6 +2206,78 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_492_2011.pdf",
     "parties": "Ravidu Viduranga Lokuge appearing by his next friend Haputhanthrige Geethanjali Prasadhika, Both of No. 265/N/98, Torrington Flats, Housing Scheme, Torrington Avenue, Colombo 05. Petitioner -Vs.- 1. Upali Gunasekera Principal, Royal College, Colombo 07. 2. Wimal Gunaratne, Former Principal of Thurstan College, Chairman, Objections Panel of the Royal College Year one admissions for the year 2011, Royal College, Colombo 7. 3. H. M. Gunasekara Secretary, Ministry of Education, \u201cIsurupaya\u201d, Battaramulla. 4. Attorney General The Attorney General\\'s Department, Colombo 12. Respondents",
     "judgement_by": "Hon. S.I. Imam J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-10-31-SC-SPL-LA-122-123-2011",
+    "num": "SC/SPL LA/122-123/2011",
+    "date_str": "2012-10-31",
+    "description": "Hon. Saleem Marsoof PC J - 1. The Municipal Council of M...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_spl_la_122_123_2011.pdf",
+    "parties": "1. The Municipal Council of Moratuwa, 2. His Worship Lord Mayor Moratuwa, 3. The Municipal Commissioner, All are of Moratuwa Municipal Council, Galle Road, Moratuwa. Respondent \u2013 Petitioners Vs. Weerahennadige Shian Hiresh Fernando, No. 04, De Vos Avenue, Colombo 04. Petitioner \u2013 Respondent",
+    "judgement_by": "Hon. Saleem Marsoof PC J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-11-15-SC-APPEAL-166-2010",
+    "num": "SC/APPEAL/166/2010",
+    "date_str": "2012-11-15",
+    "description": "Hon. Dr. Shirani A. Bandaranayake, CJ - Mapalagamage Leelawathie, Olu...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_166_2010.pdf",
+    "parties": "Mapalagamage Leelawathie, Olukarada, Kekirawa. Plaintiff-Respondent-Appellant Vs. P.P.R.A.S. Perera, Illukbadayagama, Kekirawa Defendant-Appellant-Respondent",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake, CJ"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-11-15-SC-APPEAL192-2011",
+    "num": "SC/APPEAL192/2011",
+    "date_str": "2012-11-15",
+    "description": "Hon. Dr. Shirani A. Bandaranayake, CJ - Arachchilage Gedara Anulawath...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_192_2011.pdf",
+    "parties": "Arachchilage Gedara Anulawathi, Paththampitiya, Netiyapana. Defendant-Appellant-Appellant Vs. Wadiyaralalage Weerasinghe Bandara, \u201cAraliya Wilana\u201d, Paththampitiya, Netiyapana Plaintiff-Respondent-Respondent",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake, CJ"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-12-07-SC-APPEAL-126-2010",
+    "num": "SC/APPEAL/126/2010",
+    "date_str": "2012-12-07",
+    "description": "Hon. Shiranee Tilakawardane J - Pelana Pathiranalage Rahula A...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_126_2010.pdf",
+    "parties": "Pelana Pathiranalage Rahula Ananda Senasinghe Perera Of Ilukbadagama, Kekirawa. Defendant-Appellant- Petitioner-Appellant -Vs.- Dissanayake Mudiyanselage Kithsiri Bandara Dissanayake Of \u201cPeak View Rest\u201d, Purijjala, Matale. Plaintiff-Respondent Respondent-Respondent",
+    "judgement_by": "Hon. Shiranee Tilakawardane J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-12-07-SC-APPEAL-8A-2010",
+    "num": "SC/APPEAL/8A/2010",
+    "date_str": "2012-12-07",
+    "description": "Hon. Shiranee Tilakawardane J - Mohamed Haniffa Sithy Zulfika...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_8a_2010.pdf",
+    "parties": "Mohamed Haniffa Sithy Zulfika, No. 33, Hill Street, Gampola. Defendant-Appellant-Petitioner Vs. Chandrani Seelavangsha, No. 63, Nuwara Eliya Road, Gampola. And presently of, No. 156/A, \\'Thilaka Nivasa\\', Kirinda, Hodiyadeniya, Gampola. Plaintiff-Respondent-Respondent",
+    "judgement_by": "Hon. Shiranee Tilakawardane J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-12-07-SC-APPEAL-93-2009",
+    "num": "SC/APPEAL/93/2009",
+    "date_str": "2012-12-07",
+    "description": "Hon. Shiranee Tilakawardane J - Noor Nazima alias Noorul Naxi...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_93_2009.pdf",
+    "parties": "Noor Nazima alias Noorul Naxima Hussain of the No. 81/1, Katugastota Road, Kandy. Plaintiff-Respondent-Petitioner -Vs.- Shantha Wimalasuriya Tilakaratne, Wevala, Harankahawa. 2nd Defendant-Appellant-Respondent 1. Noorul Parshana Hussain of No. 81/1, Katugastota Road, Kandy. 3. Sitti Sifaya Mohideen of No. 85, Katugastota Road, Kandy. 1st and 3rd Defendant-Respondents Respondents",
+    "judgement_by": "Hon. Shiranee Tilakawardane J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
@@ -27394,5 +27514,17 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_17_2016.pdf",
     "parties": "Sooriyapperumalage Ashoka Abeysiri, No. 116, Ya\udbc0\udd9fyana, Ni\udbc0\udda9ambuwa. PETITIONER Vs. 1. The Chairman, Lanka Phosphate Limited. 1A. Anil Ranasinghe, Chairman, Lanka Phosphate Limited. 1AA. Sujeewa Indrajith Karunasinghe, Chairman, Lanka Phosphate Limited. 2. H.R.U.D. Bandara, General Manager, Lanka Phosphate Limited. 3. D.G.U. Chamara, Finance Manager, Lanka Phosphate Limited. 4. S.D. Rupasinghe, Deputy Finance Manager, Lanka Phosphate Limited. 5. Lanka Phosphate Limited. 1st \u2013 5th Respondents at No. 73/1/1, New Kelani Bridge Road, Colombo 14. 6. R.M. Madduma Bandara, Supplies Officer, Lanka Phosphate Limited, Eppawela. 7. Hon. A\udbc0\udda9orney General, A\udbc0\udda9orney General\u2019s Department, Colombo 12. 8. The Secretary, Ministry of Finance, Colombo 01. 9. The Secretary, Ministry of Agriculture, Ba\udbc0\udda9aramulla. RESPONDENTS\n\nView More",
     "judgement_by": "Hon. Arjuna Obeyesekere J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-11-07-SC-APPEAL-56-2023",
+    "num": "SC/APPEAL/56/2023",
+    "date_str": "2025-11-07",
+    "description": "Hon. K. Priyantha Fernando J - Kumudu Chanda Amaradasa, No.4...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_56_2023.pdf",
+    "parties": "Kumudu Chanda Amaradasa, No.455/27, Waragodawaththa, Kelaniya. Presently at, No. 125, Uplands Road (Woodford Green, Essex IG8 8JP, United Kingdom) Appearing by his Power of Attorney Leela Amaradasa, No. 455/27, Waragodawaththa, Kelaniya. Substituted Defendant \u2013 Appellant - Petitioner V. 1.Minatul Fakariya Kalid 2. Najmul Ashara Sherif 3. Mumthas Asgari Shais 4. (a) Ummu Sashila Kuddus Narmila Apsari Jerin (Power of Attorney holder) 4. (b) Pinas Kuddus 4. (c) Saima Kuddus 4. (d) Raifana Kuddus (minor) 4. (e) Karim Matheen Kalid 5. Fatima Farshana Sheeb 6. (a) Ushana Kuddus 6. (b) Ibrahim Kuddus 6. (c) Yusuf Kuddus 6. (d)Munisan Kuddus 6. (e) Karim Mathin Khalid 7. Ayisha Sherin Sherif All of No. 28, Clifford Place, Colombo 04 Plaintiffs \u2013 Respondent - Respondents\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
   }
 ]

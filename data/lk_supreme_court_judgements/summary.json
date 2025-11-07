@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-11-07 13:52:52",
-  "n_docs": 2283,
-  "n_docs_with_pdfs": 1503,
-  "n_docs_with_text": 1503,
+  "time_updated": "2025-11-07 14:30:04",
+  "n_docs": 2294,
+  "n_docs_with_pdfs": 1504,
+  "n_docs_with_text": 1504,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-11-06",
-  "dataset_size": 1371306521,
+  "date_str_max": "2025-11-07",
+  "dataset_size": 1371563803,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-06-SC-FR-17-2016",
-    "num": "SC/FR/17/2016",
-    "date_str": "2025-11-06",
-    "description": "Hon. Arjuna Obeyesekere J - Sooriyapperumalage Ashoka Abe...",
+    "doc_id": "2025-11-07-SC-APPEAL-56-2023",
+    "num": "SC/APPEAL/56/2023",
+    "date_str": "2025-11-07",
+    "description": "Hon. K. Priyantha Fernando J - Kumudu Chanda Amaradasa, No.4...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_17_2016.pdf",
-    "parties": "Sooriyapperumalage Ashoka Abeysiri, No. 116, Ya\udbc0\udd9fyana, Ni\udbc0\udda9ambuwa. PETITIONER Vs. 1. The Chairman, Lanka Phosphate Limited. 1A. Anil Ranasinghe, Chairman, Lanka Phosphate Limited. 1AA. Sujeewa Indrajith Karunasinghe, Chairman, Lanka Phosphate Limited. 2. H.R.U.D. Bandara, General Manager, Lanka Phosphate Limited. 3. D.G.U. Chamara, Finance Manager, Lanka Phosphate Limited. 4. S.D. Rupasinghe, Deputy Finance Manager, Lanka Phosphate Limited. 5. Lanka Phosphate Limited. 1st \u2013 5th Respondents at No. 73/1/1, New Kelani Bridge Road, Colombo 14. 6. R.M. Madduma Bandara, Supplies Officer, Lanka Phosphate Limited, Eppawela. 7. Hon. A\udbc0\udda9orney General, A\udbc0\udda9orney General\u2019s Department, Colombo 12. 8. The Secretary, Ministry of Finance, Colombo 01. 9. The Secretary, Ministry of Agriculture, Ba\udbc0\udda9aramulla. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_56_2023.pdf",
+    "parties": "Kumudu Chanda Amaradasa, No.455/27, Waragodawaththa, Kelaniya. Presently at, No. 125, Uplands Road (Woodford Green, Essex IG8 8JP, United Kingdom) Appearing by his Power of Attorney Leela Amaradasa, No. 455/27, Waragodawaththa, Kelaniya. Substituted Defendant \u2013 Appellant - Petitioner V. 1.Minatul Fakariya Kalid 2. Najmul Ashara Sherif 3. Mumthas Asgari Shais 4. (a) Ummu Sashila Kuddus Narmila Apsari Jerin (Power of Attorney holder) 4. (b) Pinas Kuddus 4. (c) Saima Kuddus 4. (d) Raifana Kuddus (minor) 4. (e) Karim Matheen Kalid 5. Fatima Farshana Sheeb 6. (a) Ushana Kuddus 6. (b) Ibrahim Kuddus 6. (c) Yusuf Kuddus 6. (d)Munisan Kuddus 6. (e) Karim Mathin Khalid 7. Ayisha Sherin Sherif All of No. 28, Clifford Place, Colombo 04 Plaintiffs \u2013 Respondent - Respondents\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
   }
 }

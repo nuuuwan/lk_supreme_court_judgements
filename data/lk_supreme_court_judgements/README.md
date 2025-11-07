@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_13:52:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_14:30:06-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,283** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-06**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,294** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-07**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-06-SC-FR-17-2016",
-    "num": "SC/FR/17/2016",
-    "date_str": "2025-11-06",
-    "description": "Hon. Arjuna Obeyesekere J - Sooriyapperumalage Ashoka Abe...",
+    "doc_id": "2025-11-07-SC-APPEAL-56-2023",
+    "num": "SC/APPEAL/56/2023",
+    "date_str": "2025-11-07",
+    "description": "Hon. K. Priyantha Fernando J - Kumudu Chanda Amaradasa, No.4...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_17_2016.pdf",
-    "parties": "Sooriyapperumalage Ashoka Abeysiri, No. 116, Ya\udbc0\udd9fyana, Ni\udbc0\udda9ambuwa. PETITIONER Vs. 1. The Chairman, Lanka Phosphate Limited. 1A. Anil Ranasinghe, Chairman, Lanka Phosphate Limited. 1AA. Sujeewa Indrajith Karunasinghe, Chairman, Lanka Phosphate Limited. 2. H.R.U.D. Bandara, General Manager, Lanka Phosphate Limited. 3. D.G.U. Chamara, Finance Manager, Lanka Phosphate Limited. 4. S.D. Rupasinghe, Deputy Finance Manager, Lanka Phosphate Limited. 5. Lanka Phosphate Limited. 1st \u2013 5th Respondents at No. 73/1/1, New Kelani Bridge Road, Colombo 14. 6. R.M. Madduma Bandara, Supplies Officer, Lanka Phosphate Limited, Eppawela. 7. Hon. A\udbc0\udda9orney General, A\udbc0\udda9orney General\u2019s Department, Colombo 12. 8. The Secretary, Ministry of Finance, Colombo 01. 9. The Secretary, Ministry of Agriculture, Ba\udbc0\udda9aramulla. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_56_2023.pdf",
+    "parties": "Kumudu Chanda Amaradasa, No.455/27, Waragodawaththa, Kelaniya. Presently at, No. 125, Uplands Road (Woodford Green, Essex IG8 8JP, United Kingdom) Appearing by his Power of Attorney Leela Amaradasa, No. 455/27, Waragodawaththa, Kelaniya. Substituted Defendant \u2013 Appellant - Petitioner V. 1.Minatul Fakariya Kalid 2. Najmul Ashara Sherif 3. Mumthas Asgari Shais 4. (a) Ummu Sashila Kuddus Narmila Apsari Jerin (Power of Attorney holder) 4. (b) Pinas Kuddus 4. (c) Saima Kuddus 4. (d) Raifana Kuddus (minor) 4. (e) Karim Matheen Kalid 5. Fatima Farshana Sheeb 6. (a) Ushana Kuddus 6. (b) Ibrahim Kuddus 6. (c) Yusuf Kuddus 6. (d)Munisan Kuddus 6. (e) Karim Mathin Khalid 7. Ayisha Sherin Sherif All of No. 28, Clifford Place, Colombo 04 Plaintiffs \u2013 Respondent - Respondents\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-11-07 | `SC/APPEAL/56/2023` | Hon. K. Priyantha Fernando J - Kumudu Chanda Amaradasa, No.4... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-56-2023)
 - 2025-11-06 | `SC/FR/17/2016` | Hon. Arjuna Obeyesekere J - Sooriyapperumalage Ashoka Abe... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-06-SC-FR-17-2016)
 - 2025-11-06 | `SC/APPEAL/10/2020` | Hon. Mahinda Samayawardhena J - H.M.A. Ruwan Ravindranath, No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-06-SC-APPEAL-10-2020)
 - 2025-11-04 | `SC/FR/166/2021` | Hon. Menaka Wijesundera J - Cader Mohamed Thowfeek, No.11... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-04-SC-FR-166-2021)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-22 | `SC/CHC/APPEAL/2/2017` | Hon. M. Sampath K. B. Wijeratne J - Arunesh Seelanathakuruppu 450... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-CHC-APPEAL-2-2017)
 - 2025-10-22 | `SC/APPEAL/138/2015` | Hon. Mahinda Samayawardhena J - Murugesu Sunderalingam, Valak... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-APPEAL-138-2015)
 - 2025-10-21 | `SC/HCLA/101/2024` | Hon. Yasantha Kodagoda PC J - Sooriyage Sujith Chaminda Kum... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-21-SC-HCLA-101-2024)
-- 2025-10-17 | `SC/FR/379/2018` | Hon. Janak De Silva J - P.A. Costa No. 263/10, Makumb... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-FR-379-2018)
 
 ---
 
