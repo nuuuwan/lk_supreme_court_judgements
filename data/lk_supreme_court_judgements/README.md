@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_09:16:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_09:53:17-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,252** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-06**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,253** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-06**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -60,8 +60,8 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-22 | `SC/CHC/APPEAL/2/2017` | Hon. M. Sampath K. B. Wijeratne J - Arunesh Seelanathakuruppu 450... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-CHC-APPEAL-2-2017)
 - 2025-10-22 | `SC/APPEAL/138/2015` | Hon. Mahinda Samayawardhena J - Murugesu Sunderalingam, Valak... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-APPEAL-138-2015)
 - 2025-10-21 | `SC/HCLA/101/2024` | Hon. Yasantha Kodagoda PC J - Sooriyage Sujith Chaminda Kum... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-21-SC-HCLA-101-2024)
+- 2025-10-17 | `SC/FR/379/2018` | Hon. Janak De Silva J - P.A. Costa No. 263/10, Makumb... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-FR-379-2018)
 - 2025-10-17 | `SC/APPEAL/9/2020` | Hon. A. L. Shiran Gooneratne J - Harischandra Senarathne Bulat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-9-2020)
-- 2025-10-17 | `SC/APPEAL/38/2016` | Hon. Sampath B. Abayakoon J - 1. Warnakulasooriya Stanley J... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-38-2016)
 
 ---
 
