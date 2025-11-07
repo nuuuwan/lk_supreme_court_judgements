@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_08:04:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_08:49:33-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,251** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-04**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,252** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-06**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-04-SC-FR-166-2021",
-    "num": "SC/FR/166/2021",
-    "date_str": "2025-11-04",
-    "description": "Hon. Menaka Wijesundera J - Cader Mohamed Thowfeek, No.11...",
+    "doc_id": "2025-11-06-SC-APPEAL-10-2020",
+    "num": "SC/APPEAL/10/2020",
+    "date_str": "2025-11-06",
+    "description": "Hon. Mahinda Samayawardhena J - H.M.A. Ruwan Ravindranath, No...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_166_2021.pdf",
-    "parties": "Cader Mohamed Thowfeek, No.112, Main Street, Sammanthurai. Petitioner Vs. 1. South Eastern University of Sri Lanka, University Park, Oluvil. 2. Prof. M.M.M. Najim, Vice-Chancellor, South Eastern University of Sri Lanka, University Park, Oluvil. 2A.Dr. U.L. Abdul Majeed, Acting Vice Chancellor, South Eastern University, Oluvil, Sri Lanka. 3. Mr. H. Abdul Saththar, Registrar, South Eastern University of Sri Lanka, University Park, Oluvil. 3A.Mr.M.I. Nawfer, Registrar, South Eastern University, Oluvil, Sri Lanka. 4. Mr. A.M.G.B. Abeysinghe, Registrar, Rajarata University of Sri Lanka. 5. Dr. A.W.S. Chandana, Senior Lecturer (Gr. II), Sabaragamuwa University of Sri Lanka. 6. Dr. Anver M. Mustapha 7. Prof. A. Rameez, Dean Faculty of Arts and Culture, South Eastern University of Sri Lanka. 8. Dr. U.L.A Majeed, Dean Faculty of Technology, South Eastern University of Sri Lanka. (2nd to 8th Respondents are the members of the selection committee for the appointment of post of Director/Physical Education of the South Eastern University of Sri Lanka of which 3rd Respondent is the secretary) All of members of selection committee, South Eastern University of Sri Lanka, University Park, Oluvil. 9. University Grant Commission, No. 20, Ward Place, Colombo 07. 10. Prof. Sampath Amaratuga, Chairman, University Grant Commission, No. 20, Ward Place, Colombo 07. 10A. Senior Professor Kapila Seneviratne, Chairman, University Grant Commission, No. 20, Ward Place, Colombo 07. 11. S. Uthayanan, Puliyadi Market Lane, Manippay, Jaffna. 12. I. Lakshman, Sangarathai, Vaddukoddai, Jaffna. 13. Hon. Attorney General, Attorney General\\'s Department, Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. Menaka Wijesundera J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_10_2020.pdf",
+    "parties": "H.M.A. Ruwan Ravindranath, No. 13/16, Ariyawansa Mawatha, Kanthale. Defendant-Respondent-Appellant Vs. R. Prageeth Indrarathna Rupasinghe, No. 17, Wan-Ela, Kanthale. Plaintiff-Appellant-Respondent\n\nView More",
+    "judgement_by": "Hon. Mahinda Samayawardhena J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-11-06 | `SC/APPEAL/10/2020` | Hon. Mahinda Samayawardhena J - H.M.A. Ruwan Ravindranath, No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-06-SC-APPEAL-10-2020)
 - 2025-11-04 | `SC/FR/166/2021` | Hon. Menaka Wijesundera J - Cader Mohamed Thowfeek, No.11... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-04-SC-FR-166-2021)
 - 2025-11-04 | `SC/APPEAL/3/2016` | Hon. K. Priyantha Fernando J - Samaranayake Rajapaksha Mudal... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-04-SC-APPEAL-3-2016)
 - 2025-11-03 | `SC/WRIT/3/2025` | Hon. Janak De Silva J - 1. Kusum Priyadharshini Epa W... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-03-SC-WRIT-3-2025)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-21 | `SC/HCLA/101/2024` | Hon. Yasantha Kodagoda PC J - Sooriyage Sujith Chaminda Kum... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-21-SC-HCLA-101-2024)
 - 2025-10-17 | `SC/APPEAL/9/2020` | Hon. A. L. Shiran Gooneratne J - Harischandra Senarathne Bulat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-9-2020)
 - 2025-10-17 | `SC/APPEAL/38/2016` | Hon. Sampath B. Abayakoon J - 1. Warnakulasooriya Stanley J... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-38-2016)
-- 2025-10-17 | `SC/APPEAL/155/2022` | Hon. K. Priyantha Fernando J - Gallage Anil Chandradasa No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-17-SC-APPEAL-155-2022)
 
 ---
 
