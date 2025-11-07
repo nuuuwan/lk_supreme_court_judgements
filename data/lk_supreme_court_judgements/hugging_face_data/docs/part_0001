@@ -1333,6 +1333,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2012-01-31-SC-FR-73-2007--SC-FR-37-cc85f9c7",
+    "num": "SC/FR/73/2007, SC/FR/371/2009, SC/FR/413/2009",
+    "date_str": "2012-01-31",
+    "description": "Hon. Saleem Marsoof, P.C., J - 01. Prof. Hapugahange Ranjith...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_73_2007_371_413_2009.pdf",
+    "parties": "01. Prof. Hapugahange Ranjith Wimalanath Dharmaratne, No. 35, Sri Thapodarama Road, Kandy. 02. Dr. Maharalalage Gamini Seneviratne, No. 22, Vajirarama Mawatha, Primrose Gardens, Kandy. PETITIONERS SC FR Application No. 73/2007 Institute of Fundamental Studies, 70-1/1, Hantana Road, Kandy. And 12 Others RESPONDENTS Ms. S. M. S. D. Ramayanayeke, No. 210/6, Kandy Road, Gelioya. PETITIONER SC FR Application No. 371/2009 Institute of Fundamental Studies, 70-1/1, Hantana Road, Kandy. And 19 Others RESPONDENTS Prof. K. Tennakone, No. 24, Tapodarama Road, Kandy. PETITIONER SC FR Application No. 413/2009 Institute of Fundamental Studies, 70-1/1, Hantana Road, Kandy. And 12 Others RESPONDENTS",
+    "judgement_by": "Hon. Saleem Marsoof, P.C., J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2012-02-04-SC-APPEAL-155-2010",
     "num": "SC/APPEAL/155/2010",
     "date_str": "2012-02-04",
@@ -27034,5 +27046,17 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_10_2020.pdf",
     "parties": "H.M.A. Ruwan Ravindranath, No. 13/16, Ariyawansa Mawatha, Kanthale. Defendant-Respondent-Appellant Vs. R. Prageeth Indrarathna Rupasinghe, No. 17, Wan-Ela, Kanthale. Plaintiff-Appellant-Respondent\n\nView More",
     "judgement_by": "Hon. Mahinda Samayawardhena J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-11-06-SC-FR-17-2016",
+    "num": "SC/FR/17/2016",
+    "date_str": "2025-11-06",
+    "description": "Hon. Arjuna Obeyesekere J - Sooriyapperumalage Ashoka Abe...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_17_2016.pdf",
+    "parties": "Sooriyapperumalage Ashoka Abeysiri, No. 116, Ya\udbc0\udd9fyana, Ni\udbc0\udda9ambuwa. PETITIONER Vs. 1. The Chairman, Lanka Phosphate Limited. 1A. Anil Ranasinghe, Chairman, Lanka Phosphate Limited. 1AA. Sujeewa Indrajith Karunasinghe, Chairman, Lanka Phosphate Limited. 2. H.R.U.D. Bandara, General Manager, Lanka Phosphate Limited. 3. D.G.U. Chamara, Finance Manager, Lanka Phosphate Limited. 4. S.D. Rupasinghe, Deputy Finance Manager, Lanka Phosphate Limited. 5. Lanka Phosphate Limited. 1st \u2013 5th Respondents at No. 73/1/1, New Kelani Bridge Road, Colombo 14. 6. R.M. Madduma Bandara, Supplies Officer, Lanka Phosphate Limited, Eppawela. 7. Hon. A\udbc0\udda9orney General, A\udbc0\udda9orney General\u2019s Department, Colombo 12. 8. The Secretary, Ministry of Finance, Colombo 01. 9. The Secretary, Ministry of Agriculture, Ba\udbc0\udda9aramulla. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
   }
 ]
