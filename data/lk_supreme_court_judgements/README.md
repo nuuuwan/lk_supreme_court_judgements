@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_12:33:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--10_13:25:09-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,300** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,301** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
 
@@ -45,6 +45,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-11-10 | `SC/APPEAL/68/2022` | Hon. S. Thurairaja PC Acting CJ - Sri Lanka Transport Board No.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-10-SC-APPEAL-68-2022)
 - 2025-11-10 | `SC/APPEAL/245/2016` | Hon. S. Thurairaja PC Acting CJ - Narandeniye Deepananda Thero,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-10-SC-APPEAL-245-2016)
 - 2025-11-07 | `SC/APPEAL/56/2023` | Hon. K. Priyantha Fernando J - Kumudu Chanda Amaradasa, No.4... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-56-2023)
+- 2025-11-07 | `SC/APPEAL/31/2017` | Hon. Achala Wengappuli J - National Development Bank Lim... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-31-2017)
 - 2025-11-07 | `SC/APPEAL/105/2012` | Hon. Janak De Silva J - 01.Hitihamy Mudiyanselage Til... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-105-2012)
 - 2025-11-06 | `SC/FR/17/2016` | Hon. Arjuna Obeyesekere J - Sooriyapperumalage Ashoka Abe... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-06-SC-FR-17-2016)
 - 2025-11-06 | `SC/APPEAL/10/2020` | Hon. Mahinda Samayawardhena J - H.M.A. Ruwan Ravindranath, No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-06-SC-APPEAL-10-2020)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-24 | `SC/APPEAL/36/2020` | Hon. Menaka Wijesundera J - 1. Wanniarachchige Ranga Samp... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-24-SC-APPEAL-36-2020)
 - 2025-10-24 | `SC/APPEAL/189/2015` | Hon. Sobhitha Rajakaruna J - Kariyawasam Majuwanage Prabat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-24-SC-APPEAL-189-2015)
 - 2025-10-23 | `SC/APPEAL/67/2019` | Hon. Arjuna Obeyesekere J - Ranabahu Mudiyanselage Senara... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-23-SC-APPEAL-67-2019)
-- 2025-10-22 | `SC/FR/90/2021` | Hon. K. Priyantha Fernando J - Thilina Rajapaksha, No. 109/1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-22-SC-FR-90-2021)
 
 ---
 
