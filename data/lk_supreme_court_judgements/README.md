@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_13:25:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_13:53:10-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,304** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-12**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,305** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-13**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-12-SC-FR-15-2024",
-    "num": "SC/FR/15/2024",
-    "date_str": "2025-11-12",
-    "description": "Hon. Menaka Wijesundera J - Selladurai Yesuraja, Coombewo...",
+    "doc_id": "2025-11-13-SC-APPEAL-51-2024",
+    "num": "SC/APPEAL/51/2024",
+    "date_str": "2025-11-13",
+    "description": "Hon. M. Sampath K. B. Wijeratne J - Abdul Gaffoor Lebbe Mohamadu ...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_15_2024.pdf",
-    "parties": "Selladurai Yesuraja, Coombewood Estate, Thalawakelle. (In respect of the infringement of the fundamental rights of his wife Rajami Rajakumari who is now deceased) Petitioner Vs. 1. The Officer in Charge Welikada Police Station, Welikada. 2. Senior Deputy Inspector General of Police Western Province, Senior Deputy Inspector General Office, Sub floor, Sri Lanka Police Headquarters, Colombo 01. 3. Inspector General of Police Police Headquarters, Colombo 01. 4. Valimuni Dewage Anura Ajith Kumara Sub Inspector of Police, 120/11, pliyatiyane, Dewalapola, Minuwangoda. 5. Basnayake Mudiyanselage Premachandra Basnayake, Police sergeant -25883 Kirindigalla, Ibbagamuwa. 6. Herath Mudiyanselage Maalan Jayawardena, Police constable- 87918 Thuspitiyawe, Thanthirimale, Anuradhapura. 7. Jayasinghe Mudiyanselage Gamini Jayasinghe, Police sergeant -32847 D/3, Kawudulle, Hingurathgoda. 8. Thaanemaya Gedhara Rathnayake Mudhiyanselage Apsara Samarakoon 273, Muwagama, Pahale para, Rathnapura. 9. Herath Mudiyanselage Nilanka Prasadheni Herath, 60/B, Unit 19, Akbopura. 10. Hon. Attorney General Attorney General\u2019s Department Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. Menaka Wijesundera J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_51_2024.pdf",
+    "parties": "Abdul Gaffoor Lebbe Mohamadu Ali (Deceased) Debahera, Nittambuwa, PLAINTIFF- RESPONDENT-PETITIONER Mohamed Ali Mohamed Mufassal No. 247/1, Debahera, Nittambuwa. SUBSTITUTED PLAINTIFF-RESPONDENT - APPELLANT vs 4. Mohamed Faiz Malkaduwawa, Kurunegala 5. Siththy Nazeera (Deceased) 5a. Lafir Madhani Rahmathun Nizara No. 395/2, Dunuela, Thihariya 4th and 5th DEFENDANTS \u2013 PETITIONERS -RESPONDENTS 6. Mohamed Muzni (Deceased) Bulugahawatta, Thihariya. 6a. Abdullah Subaida Umma 6b. Mohamed Mijad 6c. Safeek Ahamed 6d. Mohamed Muzni Fathima Nasra All of No.395/02/A, Dunuela, Thihariya, Nittambuwa. ADDED 6th DEFENDANTS \u2013 PETITIONERS- RESPONDENTS 1. Inul Yunisa (Deceased) and Others.\n\nView More",
+    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-11-13 | `SC/APPEAL/51/2024` | Hon. M. Sampath K. B. Wijeratne J - Abdul Gaffoor Lebbe Mohamadu ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-13-SC-APPEAL-51-2024)
 - 2025-11-12 | `SC/FR/15/2024` | Hon. Menaka Wijesundera J - Selladurai Yesuraja, Coombewo... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-12-SC-FR-15-2024)
 - 2025-11-12 | `SC/APPEAL/48/2020` | Hon. A.L. Shiran Gooneratne J - Central Finance Co. PLC. No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-12-SC-APPEAL-48-2020)
 - 2025-11-12 | `SC/APPEAL/27/2023` | Hon. M. Sampath K. B. Wijeratne J - 1. Pallemulla Ralalage Malind... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-12-SC-APPEAL-27-2023)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-30 | `SC/APPEAL/27/2020` | Hon. M. Sampath K. B. Wijeratne J - R.M. Kamal Kumara Gokarella. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-30-SC-APPEAL-27-2020)
 - 2025-10-29 | `SC/APPEAL/150/2015` | Hon. Sampath K. B. Wijeratne J - 6. (sic) Budagoda Arachchige ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-29-SC-APPEAL-150-2015)
 - 2025-10-27 | `SC/APPEAL/27/2012` | Hon. Sampath B. Abayakoon J - Dassanayake Mudiyanselage Ant... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-27-SC-APPEAL-27-2012)
-- 2025-10-24 | `SC/FR/293/2020` | Hon. K. Priyantha Fernando J - Vindani Priyadarshika Sooriya... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-24-SC-FR-293-2020)
 
 ---
 
