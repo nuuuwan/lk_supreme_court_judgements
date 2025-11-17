@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-11-17 14:53:43",
-  "n_docs": 2307,
-  "n_docs_with_pdfs": 1514,
-  "n_docs_with_text": 1514,
+  "time_updated": "2025-11-17 15:28:43",
+  "n_docs": 2308,
+  "n_docs_with_pdfs": 1515,
+  "n_docs_with_text": 1515,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-11-13",
-  "dataset_size": 1380548000,
+  "date_str_max": "2025-11-17",
+  "dataset_size": 1380923248,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-13-SC-APPEAL-51-2024",
-    "num": "SC/APPEAL/51/2024",
-    "date_str": "2025-11-13",
-    "description": "Hon. M. Sampath K. B. Wijeratne J - Abdul Gaffoor Lebbe Mohamadu ...",
+    "doc_id": "2025-11-17-SC-FR-79-2019",
+    "num": "SC/FR/79/2019",
+    "date_str": "2025-11-17",
+    "description": "Hon. Sampath B. Abayakoon J - 1. Meringnage Sugandi Dinesha...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_51_2024.pdf",
-    "parties": "Abdul Gaffoor Lebbe Mohamadu Ali (Deceased) Debahera, Nittambuwa, PLAINTIFF- RESPONDENT-PETITIONER Mohamed Ali Mohamed Mufassal No. 247/1, Debahera, Nittambuwa. SUBSTITUTED PLAINTIFF-RESPONDENT - APPELLANT vs 4. Mohamed Faiz Malkaduwawa, Kurunegala 5. Siththy Nazeera (Deceased) 5a. Lafir Madhani Rahmathun Nizara No. 395/2, Dunuela, Thihariya 4th and 5th DEFENDANTS \u2013 PETITIONERS -RESPONDENTS 6. Mohamed Muzni (Deceased) Bulugahawatta, Thihariya. 6a. Abdullah Subaida Umma 6b. Mohamed Mijad 6c. Safeek Ahamed 6d. Mohamed Muzni Fathima Nasra All of No.395/02/A, Dunuela, Thihariya, Nittambuwa. ADDED 6th DEFENDANTS \u2013 PETITIONERS- RESPONDENTS 1. Inul Yunisa (Deceased) and Others.\n\nView More",
-    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_79_2019.pdf",
+    "parties": "1. Meringnage Sugandi Dinesha Priyangani Fernando. 2. Meringnage Mangala Pushpakumara Fernando. Both of No. 618, Athgala, Gampola West. ORIGINAL PETITIONERS Loku Kumarage Janidu Wathsara, No. 618, Athgala, Gampola West. PETITIONER Vs. 1. S. Akbar, Sub Inspector of Police, Officer-in-Charge, Police Post, Athgala, Gampola. 2. Jayantha Gunawardane, Headquarters Inspector, Police Station, Gampola. 3. W.G. Ginige, Superintendent of Police, Office of Superintendent of Police, Mahara, Gampola. 4. Pujitha Jayasundara, Inspector General of Police, Police Headquarters, Colombo. 5. Government Analyst, Government Analyst Department, Colombo. 6. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
   }
 }

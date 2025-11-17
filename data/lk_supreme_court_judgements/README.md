@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_14:53:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_15:28:44-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,307** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-13**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,308** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-17**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-13-SC-APPEAL-51-2024",
-    "num": "SC/APPEAL/51/2024",
-    "date_str": "2025-11-13",
-    "description": "Hon. M. Sampath K. B. Wijeratne J - Abdul Gaffoor Lebbe Mohamadu ...",
+    "doc_id": "2025-11-17-SC-FR-79-2019",
+    "num": "SC/FR/79/2019",
+    "date_str": "2025-11-17",
+    "description": "Hon. Sampath B. Abayakoon J - 1. Meringnage Sugandi Dinesha...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_51_2024.pdf",
-    "parties": "Abdul Gaffoor Lebbe Mohamadu Ali (Deceased) Debahera, Nittambuwa, PLAINTIFF- RESPONDENT-PETITIONER Mohamed Ali Mohamed Mufassal No. 247/1, Debahera, Nittambuwa. SUBSTITUTED PLAINTIFF-RESPONDENT - APPELLANT vs 4. Mohamed Faiz Malkaduwawa, Kurunegala 5. Siththy Nazeera (Deceased) 5a. Lafir Madhani Rahmathun Nizara No. 395/2, Dunuela, Thihariya 4th and 5th DEFENDANTS \u2013 PETITIONERS -RESPONDENTS 6. Mohamed Muzni (Deceased) Bulugahawatta, Thihariya. 6a. Abdullah Subaida Umma 6b. Mohamed Mijad 6c. Safeek Ahamed 6d. Mohamed Muzni Fathima Nasra All of No.395/02/A, Dunuela, Thihariya, Nittambuwa. ADDED 6th DEFENDANTS \u2013 PETITIONERS- RESPONDENTS 1. Inul Yunisa (Deceased) and Others.\n\nView More",
-    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_79_2019.pdf",
+    "parties": "1. Meringnage Sugandi Dinesha Priyangani Fernando. 2. Meringnage Mangala Pushpakumara Fernando. Both of No. 618, Athgala, Gampola West. ORIGINAL PETITIONERS Loku Kumarage Janidu Wathsara, No. 618, Athgala, Gampola West. PETITIONER Vs. 1. S. Akbar, Sub Inspector of Police, Officer-in-Charge, Police Post, Athgala, Gampola. 2. Jayantha Gunawardane, Headquarters Inspector, Police Station, Gampola. 3. W.G. Ginige, Superintendent of Police, Office of Superintendent of Police, Mahara, Gampola. 4. Pujitha Jayasundara, Inspector General of Police, Police Headquarters, Colombo. 5. Government Analyst, Government Analyst Department, Colombo. 6. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `SC/FR/79/2019` | Hon. Sampath B. Abayakoon J - 1. Meringnage Sugandi Dinesha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-17-SC-FR-79-2019)
 - 2025-11-13 | `SC/APPEAL/51/2024` | Hon. M. Sampath K. B. Wijeratne J - Abdul Gaffoor Lebbe Mohamadu ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-13-SC-APPEAL-51-2024)
 - 2025-11-13 | `SC/APPEAL/24/2022` | Hon. Janak De Silva J - 1. Savithri Rajakaruna, 2. Vi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-13-SC-APPEAL-24-2022)
 - 2025-11-12 | `SC/FR/15/2024` | Hon. Menaka Wijesundera J - Selladurai Yesuraja, Coombewo... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-12-SC-FR-15-2024)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-10-31 | `SC/APPEAL/123/2019` | Hon. A.L. Shiran Gooneratne J - Siril Jayawardena Karunaratne... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-31-SC-APPEAL-123-2019)
 - 2025-10-30 | `SC/APPEAL/62/2014` | Hon. Janak De Silva J - Weerasinghe Kankanamge Weeras... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-30-SC-APPEAL-62-2014)
 - 2025-10-30 | `SC/APPEAL/27/2020` | Hon. M. Sampath K. B. Wijeratne J - R.M. Kamal Kumara Gokarella. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-30-SC-APPEAL-27-2020)
-- 2025-10-29 | `SC/APPEAL/150/2015` | Hon. Sampath K. B. Wijeratne J - 6. (sic) Budagoda Arachchige ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-29-SC-APPEAL-150-2015)
 
 ---
 
