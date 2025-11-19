@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_15:52:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_16:29:17-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
