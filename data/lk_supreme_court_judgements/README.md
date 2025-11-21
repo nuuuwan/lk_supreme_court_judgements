@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_12:33:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_13:25:25-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,310** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-19**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,312** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-11-21**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-11-19-SC-CHC-APPEAL-104-2018",
-    "num": "SC/CHC APPEAL/104/2018",
-    "date_str": "2025-11-19",
-    "description": "Hon. Arjuna Obeyesekere J - 1. S.C.B. Jayasinghe 2. S.T.B...",
+    "doc_id": "2025-11-21-SC-APPEAL-49-2024",
+    "num": "SC/APPEAL/49/2024",
+    "date_str": "2025-11-21",
+    "description": "Hon. Sampath B. Abayakoon J - AND NOW BETWEEN Rajakaruna Mu...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_104_2018.pdf",
-    "parties": "1. S.C.B. Jayasinghe 2. S.T.B. Jayasinghe 3. M.V. Jayasinghe Carrying on business in partnership under the name and style of C.A & Co., 134, Havelock Road, Colombo 5. PLAINTIFFS \u2013 APPELLANTS Vs. 1. Kajima Corporation, 2-7, Motoakasaka 1 \u2013 Chome, Minato \u2013 ku, Tokyo, 107-8388, Japan. 2. Kumagai Gumi Co Ltd, 2-1, Tsukodo-cho, Shinjuku-ku, Tokyo, 162-8557, Japan. 3. Hazama Corporation, 5-8, Kita-aoyama 2 \u2013 Chome, Minato \u2013 ku, Tokyo, 107-8658, Japan. Carrying on business in partnership under the name and style Kajima Kumagai Hazama Joint Venture, 77A, Ward Place, Colombo 7. 4. Ceylon Electricity Board, Chittampalam A Gardiner Mawatha, Colombo 2. DEFENDANTS \u2013 RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_49_2024.pdf",
+    "parties": "AND NOW BETWEEN Rajakaruna Mudiyanselage Leelawathi, Mudungoda, Kiralogama. PETITIONER-APPELLANT Vs. 1. Director General, Mahaweli Authority, No. 500, T.B. Jaya Mawatha, Colombo 10. 2. Resident Project Manager (Land), Resident of RPM (Land), Thambuththegama. 3. Commissioner of Lands, Land Commissioner\u2019s Department, Colombo 07. 4. Registrar of Lands, Land Registry, Anuradhapura. 5. Rajakaruna Mudiyanselage Padmawathi, Mudungoda, Kiralogama. 6. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS-RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
 }
 ```
 
@@ -42,6 +42,8 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-11-21 | `SC/APPEAL/49/2024` | Hon. Sampath B. Abayakoon J - AND NOW BETWEEN Rajakaruna Mu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-21-SC-APPEAL-49-2024)
+- 2025-11-21 | `SC/APPEAL/48/2024` | Hon. Sampath B. Abayakoon J - AND NOW BETWEEN Rajakaruna Mu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-21-SC-APPEAL-48-2024)
 - 2025-11-19 | `SC/CHC APPEAL/104/2018` | Hon. Arjuna Obeyesekere J - 1. S.C.B. Jayasinghe 2. S.T.B... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-19-SC-CHC-APPEAL-104-2018)
 - 2025-11-19 | `SC/APPEAL/153/2016` | Hon. Sampath B. Abayakoon J - Bogoda Arachchige Manortne, N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-19-SC-APPEAL-153-2016)
 - 2025-11-17 | `SC/FR/79/2019` | Hon. Sampath B. Abayakoon J - 1. Meringnage Sugandi Dinesha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-17-SC-FR-79-2019)
@@ -60,8 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-11-04 | `SC/FR/166/2021` | Hon. Menaka Wijesundera J - Cader Mohamed Thowfeek, No.11... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-04-SC-FR-166-2021)
 - 2025-11-04 | `SC/APPEAL/3/2016` | Hon. K. Priyantha Fernando J - Samaranayake Rajapaksha Mudal... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-04-SC-APPEAL-3-2016)
 - 2025-11-03 | `SC/WRIT/3/2025` | Hon. Janak De Silva J - 1. Kusum Priyadharshini Epa W... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-03-SC-WRIT-3-2025)
-- 2025-11-03 | `SC/APPEAL/135/2023` | Hon. Sampath B. Abayakoon J - Kuruppu Arachchilage Thilakar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-03-SC-APPEAL-135-2023)
-- 2025-10-31 | `SC/APPEAL/123/2019` | Hon. A.L. Shiran Gooneratne J - Siril Jayawardena Karunaratne... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-10-31-SC-APPEAL-123-2019)
 
 ---
 
