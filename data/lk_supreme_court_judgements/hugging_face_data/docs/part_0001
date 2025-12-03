@@ -1093,6 +1093,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-03-31-SC-FR-457-2008",
+    "num": "SC/FR/457/2008",
+    "date_str": "2011-03-31",
+    "description": "Hon. Amaratunga J - Poddiwela Hewage Thelma Kumar...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_457_2008.pdf",
+    "parties": "Poddiwela Hewage Thelma Kumari Hemachandra, No. 507/1, Depot Road, Elpitiya. Petitioner Vs. 1 Elpitiya Pradeshiya Sabha, Elpitiya. 2 Ranjith Jayasinghe, The Chairman, Elpitiya Pradeshiya Sabha, Elpitiya. 3 D. Nilantha Jayaruk Panditha, Acting Secretary, Elpitiya Pradeshiya Sabha, Elpitiya. 4 Provincial Commissioner of Local Government, Southern Province, 6th Floor, District Secretariat, Galle. 5 Attorney General, Department of Attorney General, Colombo 12. Respondents",
+    "judgement_by": "Hon. Amaratunga J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-04-01-SC-FR-457-2008",
     "num": "SC/FR/457/2008",
     "date_str": "2011-04-01",
@@ -1102,6 +1114,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_457_2008.pdf",
     "parties": "Poddiwela Hewage Thelma Kumari Hemachandra Vs. 1 Elpitiya Pradeshiya Sabha, Elpitiya, 2 Ranjith Jayasinghe, The Chairman & 3 others",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-05-05-SC-APPEAL-12A-2009",
+    "num": "SC/APPEAL/12A/2009",
+    "date_str": "2011-05-05",
+    "description": "Hon. Ms. S. TILAKAWARDANE J - Upali Indrathilake Amadoru. V...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_12a_2009.pdf",
+    "parties": "Upali Indrathilake Amadoru. Vs. Officer-in-Charge, Special Criminal Investigation Unit, Police Station, Wennappuwa & Hon Attorney General",
+    "judgement_by": "Hon. Ms. S. TILAKAWARDANE J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
@@ -1126,6 +1150,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_12a_2009_sc_spl_la_332_2008.pdf",
     "parties": "Upali Indrathilake Amadoru Vs. Officer-in-Charge, Special Criminal Investigation Unit, Police Station, Wennappuwa & Hon. Attorney General",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-05-06-SC-CHC-APPEAL-4-2001",
+    "num": "SC/CHC APPEAL/4/2001",
+    "date_str": "2011-05-06",
+    "description": "Hon. R.K.S. Suresh Chandra J - J.D.FERNANDO of Nedimala Vs. ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_4_2001.pdf",
+    "parties": "J.D.FERNANDO of Nedimala Vs. Wasath Chandrasiri Gamlath",
+    "judgement_by": "Hon. R.K.S. Suresh Chandra J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
@@ -1165,6 +1201,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-05-10-SC-FR-276-2009",
+    "num": "SC/FR/276/2009",
+    "date_str": "2011-05-10",
+    "description": "Hon. R.K.S. Suresh Chandra J - Rajaratnampillai Seyon Vs. Ai...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_276_2009.pdf",
+    "parties": "Rajaratnampillai Seyon Vs. Airport and Aviation Service (Sri Lanka) Limited., Prasanna Wickramasooriya, Chairman, Airport and Aviation Services (Sri Lanka) Limited & 8 others",
+    "judgement_by": "Hon. R.K.S. Suresh Chandra J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-05-11-SC-FR-276-2009",
     "num": "SC/FR/276/2009",
     "date_str": "2011-05-11",
@@ -1174,6 +1222,30 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_276_2009.pdf",
     "parties": "Rajaratnampillai Seyon Vs. Airport and Aviation Service (Sri Lanka) Limited., Prasanna Wickramasooriya, Chairman, Airport and Aviation Services (Sri Lanka) Limited & 8 others",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-05-12-SC-APPEAL-154-2010",
+    "num": "SC/APPEAL/154/2010",
+    "date_str": "2011-05-12",
+    "description": "Hon. R.K.S. Suresh Chandra J - The State Complainant Vs. Dev...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_154_2010-1.pdf",
+    "parties": "The State Complainant Vs. Devunderage Nihal",
+    "judgement_by": "Hon. R.K.S. Suresh Chandra J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-05-12-SC-APPEAL-89A-2009",
+    "num": "SC/APPEAL/89A/2009",
+    "date_str": "2011-05-12",
+    "description": "Hon. Amaratunga J - Marmba Liyanage Rohana alias ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_89a_2009.pdf",
+    "parties": "Marmba Liyanage Rohana alias Loku Vs. The Hon Attorney General",
+    "judgement_by": "Hon. Amaratunga J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
@@ -1225,6 +1297,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-05-16-SC-APPEAL-36-2010",
+    "num": "SC/APPEAL/36/2010",
+    "date_str": "2011-05-16",
+    "description": "Hon. S.I. Imam J - Maharaja Investment Ltd. (Pre...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_36_2010.pdf",
+    "parties": "Maharaja Investment Ltd. (Previously) Union Trust and Investment Vs. Cross World (Pvt.) Ltd., Surendra Ediriweera & another",
+    "judgement_by": "Hon. S.I. Imam J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-05-17-SC-APPEAL-36-10--SC-HC--8abe8a36",
     "num": "SC/APPEAL/36/10, SC/HC CALA/86/2010",
     "date_str": "2011-05-17",
@@ -1234,6 +1318,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_36_10_sc_hc_cala_86_2010.pdf",
     "parties": "Maharaja Investment Ltd. (Previously) Union Trust and Investment Vs. Cross World (Pvt.) Ltd., Surendra Ediriweera & another",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-06-02-SC-CHC-APPEAL-34-2008",
+    "num": "SC/CHC APPEAL/34/2008",
+    "date_str": "2011-06-02",
+    "description": "Hon. Sripavan J - City Properties (Pvt) Ltd.., ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_34_2008.pdf",
+    "parties": "City Properties (Pvt) Ltd.., No. 111, Negombo Road, Peliyagoda. - Defendant Petitioner - Vs. Jayasiri Edirisinghe, E and S Land Sales and Property Developments, No. 627, Maradana Road, Colombo 10. - Plaintiff Respondent -",
+    "judgement_by": "Hon. Sripavan J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
@@ -1249,6 +1345,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-06-08-SC-APPEAL-99A-2009",
+    "num": "SC/APPEAL/99A/2009",
+    "date_str": "2011-06-08",
+    "description": "Hon. Suresh Chandra J - Hatton National Bank Limited ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_99a_2009.pdf",
+    "parties": "Hatton National Bank Limited having its registered office at No.481, T.B.Jaya Mawatha, Colombo 10. And having its branch office at No.16, Janadhipathi Mawatha, Colombo 1. Plaintiff-Appellant Vs 1. Rumeco Industries Limited No.99,Cotta Road, Borella. 2. Shirani Jasintha Thirunvakarasu, No.15, Melbourne Avenue, Colombo 4 and No.99, Cotta Road, Borella. 3. Kangasabapathy Thirunavukarasu, No.15, Melbourne Avenue, Colombo 4. And No,99, Cotta Road, Borella. Defendants-Respondents Hatton National Bank Limited having its registered office at No.481, T.B.Jaya Mawatha, Colombo 10. And having its branch office at No.16, Janadhipathi Mawatha, Colombo 1. Plaintiff-Appellant-Appellant Vs 1. Rumeco Industries Limited No.99,Cotta Road, Borella. 2. Shirani Jasintha Thirunvakarasu, No.15, Melbourne Avenue, Colombo 4 and No.99, cotta road, Borella. 3. Kangasabapathy Thirunavukarasu, No.15, Melbourne Avenue, Colombo 4. And No,99, Cotta Road, Borella. Defendants-Respondents- Respondents",
+    "judgement_by": "Hon. Suresh Chandra J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-06-09-SC-APPEAL-99A-2009",
     "num": "SC/APPEAL/99A/2009",
     "date_str": "2011-06-09",
@@ -1261,6 +1369,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-06-10-SC-FR-342-2009",
+    "num": "SC/FR/342/2009",
+    "date_str": "2011-06-10",
+    "description": "HON. TILAKAWARDANE J - H. Dilanka Wijesekera, Sanjee...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_342_2009.pdf",
+    "parties": "H. Dilanka Wijesekera, Sanjeewa Jayasinghe & 14 others Vs Gamini Kulawansa Lokuge Minister of Sports and Public Recreation & 20 others",
+    "judgement_by": "HON. TILAKAWARDANE J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-06-11-SC-FR-342-2009",
     "num": "SC/FR/342/2009",
     "date_str": "2011-06-11",
@@ -1270,6 +1390,42 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_342_2009.pdf",
     "parties": "H. Dilanka Wijesekera, Sanjeewa Jayasinghe & 14 others Vs Gamini Kulawansa Lokuge Minister of Sports and Public Recreation & 20 others",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-06-28-SC-APPEAL-134A-2009",
+    "num": "SC/APPEAL/134A/2009",
+    "date_str": "2011-06-28",
+    "description": "Hon. Suresh Chandra J - Hatton National Bank Limited,...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_134a_2009.pdf",
+    "parties": "Hatton National Bank Limited, No.481, T.B.Jayah Mawatha, Colombo 10. And now having a branch office and a place of Business at No.149-151, Main Street, Colombo 11. SUBSTITUTED PLAINTIFF- PETITIONER-APPELLANT Vs M.S.Hebtulabhoy & Co. Limited, No.257, Grandpass Road, Colombo 14. DEFENDANT-RESPONDENT- RESPONDENT Habib Bank AG Zurich, Weinbergstrasse, 8006, Zurich, Switzerland. ORIGINAL PLAINTIFF RESPONDENT - RESPONDENT",
+    "judgement_by": "Hon. Suresh Chandra J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-06-28-SC-APPEAL-50-2008",
+    "num": "SC/APPEAL/50/2008",
+    "date_str": "2011-06-28",
+    "description": "Hon. Suresh Chandra J - L.H.G.Elias, No.27, Volverton...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_50_2008.pdf",
+    "parties": "L.H.G.Elias, No.27, Volverton Drive, Victoria, Australia. (By his Attorney B.V.A.Dekker of Of No.56, Asiri Mawatha, Kalubowila, Dehiwela) Plaintiff-Respondent-Appellant Vs Anton Gajasinghe, No.34-A1, Edirigoda Road, Nugegoda. 2nd Defendant-Petitioner- Respondent Mujahid A.Cader, No.15B, Sunandarama Road, Kalubowila, Dehiwela. 1st Defendant-Respondent Respondent",
+    "judgement_by": "Hon. Suresh Chandra J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-06-28-SC-APPEAL-82-2009",
+    "num": "SC/APPEAL/82/2009",
+    "date_str": "2011-06-28",
+    "description": "Hon. Dr. Shirani A. Bandaranayake CJ - Dheerasingha Arachchige Saroj...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_82_2009.pdf",
+    "parties": "Dheerasingha Arachchige Saroja Nisansala Vs. John Laurence Rose Aberfoyle",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake CJ"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
