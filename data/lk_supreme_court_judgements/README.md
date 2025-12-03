@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_12:34:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_13:26:14-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,316** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,317** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-03-SC-FR-326-2021--SC-FR-327-2021",
-    "num": "SC/FR/326/2021, SC/FR/327/2021",
+    "doc_id": "2025-12-03-SC-FR-81-2025",
+    "num": "SC/FR/81/2025",
     "date_str": "2025-12-03",
-    "description": "Hon. Menaka Wijesundera J - 1. Kanagalingam Wijayadojini,...",
+    "description": "Hon. Sampath B. Abayakoon J - R.K. Janaka Sathyajith Rajapa...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_326_327_2021.pdf",
-    "parties": "1. Kanagalingam Wijayadojini, No. 442, Durkai Amman Kovil Street, Ambalkulam, Kilinochchi. 2. Joseph Peter Queens Rosary, Unionkulam, Kudyirruppu, Konavil, Kilinochchi. Petitioners Vs. 1. Officer in Charge, Police Station, Kilinochchi. 2. I.P. Bandara, Terrorist Investigation Unit, Terrorist Investigation Division, Colombo 01. 3. Director, Terrorist Investigation Division, Colombo 01. 4. Inspector General of Police, Police Headquarters Colombo 12. 5. The Hon. Attorney General, Attorney General\u2019s Department Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. Menaka Wijesundera J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_81_2025.pdf",
+    "parties": "R.K. Janaka Sathyajith Rajapakse, No. 124/5, Dutugamunu Street, Kalubovila, Dehiwala. PETITIONER Vs. 01. Mr. Anil Jasinghe, Secretary, Ministry of Health. 02. Dr. Asela Gunawardana, Director General of Health Services, Ministry of Health. 03. Dr. P.W.C. Lal Panapitiya, Deputy Director General, Medical Services I, Ministry of Health. 04. Dr. Priyantha Atapattu, Director Tertiary Care Services, Ministry of Health. All of 01st to 04th Respondents are of: \u201cSuwasiripaya,\u201d No. 385, Ven. Baddegama Wimalawansa Thero Mawatha, Colombo 10. 05. Mr. Sanath J. Ediriweera, Chairman, 06. Mr. N.H.M. Chithrananda, Member, 07. Mr. G.S.A de Silva P C, Member, 08. Dr. A.D.N. de Zoysa, Member, 09. Mrs. S.M. Mohamed, Member, 10. Mrs. Ranjani Nadarajapillai, Member, 11. Mr. M.B.R. Pushpakumara, Member, 12. Prof. N. Selvakkumaran, Member, 13. Dr. Sanath Panawennage, Member, 14. Mrs. T.M.L.C. Senarathna, Chairman, Health Service Committee, 15. Dr. Ananda Hapugoda, Member, Health Service Committee, 16. Mr. Nimal Saranathissa, Member, Health Service Committee, 17. Mrs. W.A.C Wickramathilaka, Secretary, Health Service Committee, All of 05th to 17th Respondents are of: The Public Service Commission, No. 1200/9, Rajamalwatta Road, Battaramulla. 18. Dr. S.P.A Liyanage Ranaweera Deputy Director General National Hospital (Acting), National Hospital of Sri Lanka, Colombo 10. 19. Dr. Sheahan Waas, President, Sri Lanka College of Radiologists, \u201cWijerama House,\u201d No. 6, Wijerama Mawatha, Colombo 07. 20. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-12-03 | `SC/FR/81/2025` | Hon. Sampath B. Abayakoon J - R.K. Janaka Sathyajith Rajapa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-81-2025)
 - 2025-12-03 | `SC/FR/326/2021, SC/FR/327/2021` | Hon. Menaka Wijesundera J - 1. Kanagalingam Wijayadojini,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-326-2021--SC-FR-327-2021)
 - 2025-11-26 | `SC/FR/16/2021` | Hon. Arjuna Obeyesekere J - 1. E.G.R.M.N.N.K. Rathnayaka,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-26-SC-FR-16-2021)
 - 2025-11-26 | `SC/APPEAL/63/2021` | Hon. A. L. Shiran Gooneratne, Acting CJ - Amitha Sandaseeli Kellambi, o... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-26-SC-APPEAL-63-2021)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-11-07 | `SC/APPEAL/31/2017` | Hon. Achala Wengappuli J - National Development Bank Lim... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-31-2017)
 - 2025-11-07 | `SC/APPEAL/105/2012` | Hon. Janak De Silva J - 01.Hitihamy Mudiyanselage Til... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-105-2012)
 - 2025-11-06 | `SC/FR/17/2016` | Hon. Arjuna Obeyesekere J - Sooriyapperumalage Ashoka Abe... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-06-SC-FR-17-2016)
-- 2025-11-06 | `SC/APPEAL/10/2020` | Hon. Mahinda Samayawardhena J - H.M.A. Ruwan Ravindranath, No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-06-SC-APPEAL-10-2020)
 
 ---
 
