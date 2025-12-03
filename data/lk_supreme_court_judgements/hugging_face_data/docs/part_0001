@@ -817,6 +817,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-02-08-SC-EXP-3-2010",
+    "num": "SC/EXP/3/2010",
+    "date_str": "2011-02-08",
+    "description": "Hon. Saleem Marsoof, PC J - Perumpulli Hewage Piyasena Vs...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_exp_3_2010.pdf",
+    "parties": "Perumpulli Hewage Piyasena Vs. Ilankai Tamil Arasu Kadchi, Rajavarothayan Sampathan & 3 others",
+    "judgement_by": "Hon. Saleem Marsoof, PC J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-02-18-SC-CHC-APPEAL-11-2001---aed5d1fb",
     "num": "SC/CHC APPEAL/11/2001, 181/97(1)",
     "date_str": "2011-02-18",
@@ -826,6 +838,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_11_2001_181_97_1.pdf",
     "parties": "Indian Bank, Vs. Acuity Stock Brokers (Pvt) Limited Formerly Forbes ABN AMRO SECURITIES (PVT) Ltd.",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-02-18-SCSC-CHC-APPEAL-11-2001",
+    "num": "SCSC/CHC APPEAL/11/2001",
+    "date_str": "2011-02-18",
+    "description": "Hon. R.K.S. Suresh Chandra J - Indian Bank, Vs. Acuity Stock...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_11_2001.pdf",
+    "parties": "Indian Bank, Vs. Acuity Stock Brokers (Pvt) Limited Formerly Forbes ABN AMRO SECURITIES (PVT) Ltd.",
+    "judgement_by": "Hon. R.K.S. Suresh Chandra J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
@@ -877,6 +901,30 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-03-10-SC-FR-589-2009",
+    "num": "SC/FR/589/2009",
+    "date_str": "2011-03-10",
+    "description": "Hon. Dr. Shirani A. Bandaranayake J - Harshani S. Siriwardana, \u201cSha...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_589_2009.pdf",
+    "parties": "Harshani S. Siriwardana, \u201cShanthi\u201d, Kudagammana, Divulapitiya. Petitioner Vs. 1. Malsiri J. Seneviratne, Secretary, Ministry of Health, Indigenous Medicine, Social Welfare and Women\u2019s Affairs, Probation and Child Care and Council Affairs, Western Province, Independence Square, Colombo 07. 2. The Provincial Public Service Commission, Western Province, Independence Square, Colombo 07. 3. V. Rajapakse, Secretary, The Provincial Public Service Commission, Western Province, Independence Square, Colombo 07. 4. Dr. G. Kariyawasam, Provincial Director, Western Province, Department of Social Welfare Services, No. 5/2, Madiwela Road, Embuldeniya, Nugegoda. 5. Hon. The Attorney-General, Attorney General\u2019s Department, Hulftsdorp, Colombo 12. Respondents",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-03-10-SC-FR-598-2008",
+    "num": "SC/FR/598/2008",
+    "date_str": "2011-03-10",
+    "description": "Dr. Shirani A. Bandaranayake J - Dr. W.L.D.S.G. Perera, No. 59...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_598_2008.pdf",
+    "parties": "Dr. W.L.D.S.G. Perera, No. 59, Kattota, Nittambuwa. Petitioner Vs. 1. Justice P.R.P. Perera, Chairman, 2. Prof. Dayasiri Fernando, Member, 3. W.P.S. Jayawardene, Member, 4. Palitha M. Kumarasinghe, Member, 5. Prof. M.S. Mookia, Member, 6. Prof. M. Rohanadheera, Member, 7. Gunapala Wickramaratne, Member, 8. S.A. Wijeratne, Member, 9. Dr. Bernad Soyza, Member, all of Public Service Commission, No. 356/B, Galle Road (Carlwil Place), Colombo 03. 10. Nimal Bandara, Secretary, Ministry of Education, Isurupaya, Battaramulla. 11. K.Mohamed Thambi, Additional Secretary (Educational Service Establishments), Ministry of Education, Isurupaya, Battaramulla. 12. Hon. The Attorney-General, Attorney General\u2019s Department, Colombo 12. Respondents",
+    "judgement_by": "Dr. Shirani A. Bandaranayake J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-03-11-SC-APPEAL-30-2009",
     "num": "SC/APPEAL/30/2009",
     "date_str": "2011-03-11",
@@ -925,6 +973,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-03-15-SC-FR-464-2007",
+    "num": "SC/FR/464/2007",
+    "date_str": "2011-03-15",
+    "description": "Hon. P.A. Ratnayake J - Abdul Razak Mohamed Hussain 4...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_464_2007.pdf",
+    "parties": "Abdul Razak Mohamed Hussain 416/1, New Street, Weligama. Petitioner Vs. 1. M.M.N.D. Bandara, Secretary, Ministry of Education, Isurupaya, Battaramulla. 2. S. Thillainadarajah Additional Secretary, Education Service Branch, Ministry of Education, Isurupaya, Battaramulla. 3. S.L. Gunawardena Additional Secretary, Education Service Branch, Ministry of Education, Isurupaya, Battaramulla. 4. L.U.W. De Soysa Senior Assistant Secretary, Education Service Branch, Ministry of Education, Isurupaya, Battaramulla. 5. Padma Siriwardena Director General of Establishment, Ministry of Public Administration and Home Affairs, Independence Square, Colombo 07. 6. K.A. Thilakaratne Director General of Pensions Department of Pensions Maligawatte- Secretariat, Colombo 10. 7. H.D.L. Gunawardena Secretary, Public Service Commission, 46, Vauxhall Street, Colombo 02. 8. M.A. Dharmadasa Director of Establishments Ministry of Public Administration and Home Affairs, Independence Square, Colombo 07. 9. Hon. Peter Mohan Maithree Peiris Attorney General Attorney General\\'s Department, Colombo 12. Respondents.",
+    "judgement_by": "Hon. P.A. Ratnayake J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-03-16-SC-FR-464-2007",
     "num": "SC/FR/464/2007",
     "date_str": "2011-03-16",
@@ -934,6 +994,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_464_2007.pdf",
     "parties": "Abdul Razak Mohamed Hussain Vs. M.M.N.D. Bandara, Secretary, Ministry of Education & 8 others",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-03-17-SC-APPEAL-108-2008",
+    "num": "SC/APPEAL/108/2008",
+    "date_str": "2011-03-17",
+    "description": "Hon. Saleem Marsoof PC J - Browns & Company PLC, No. 481...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal108_2008.pdf",
+    "parties": "Browns & Company PLC, No. 481, T. B. Jayah Mawatha, Colombo 10. PETITIONER-PETITIONER-APPELLANT VS. 1. Minister of Labour, Ministry of Labour, Labour Secretariat, Department of Labour, Narahenpita. 2. The Commissioner General of Labour, Labour Secretariat, Department of Labour, Narahenpita. 3. D. A. Wijewardhane, No. 267/02, Polhengoda Road, Kirulapone, Colombo 05. 4. S. N. Wickramasinghe, No. 285/15, Sri Devananda Mawatha, Thumbowila, Piliyandala. 5. P. A. Q. Fernando, No. 483/1, Galle Road, Wadduwa. 6. S. T. N. Perera, No. 37/A, Nalandarama Road, Nugegoda. 7. Browns Engineering (Pvt) Ltd., No. 23, Alfred Place, Colombo 03. RESPONDENT-RESPONDENT-RESPONDENTS",
+    "judgement_by": "Hon. Saleem Marsoof PC J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
