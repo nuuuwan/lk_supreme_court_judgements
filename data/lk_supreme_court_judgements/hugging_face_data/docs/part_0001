@@ -28069,6 +28069,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-12-05-SC-APPEAL-37-2019",
+    "num": "SC/APPEAL/37/2019",
+    "date_str": "2025-12-05",
+    "description": "Hon. Mahinda Samayawardhena J - Vijitha Malini Dias Jayaseker...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_37_2019.pdf",
+    "parties": "Vijitha Malini Dias Jayasekera, No. 21, New Street, Galle. (deceased) 2nd Defendant-Appellant-Appellant Theekshana Shakya Premalal, No. 21, New Street, Galle. Substituted 2A Defendant-Appellant-Appellant Vs. Umagiliyage Kanthi Hemalatha, No. 08, Deniyawatta, Kapuhempala, Akmeemana. (deceased) Plaintiff-Respondent-Respondent Paandigamage Mendis de Silva alias Lesly Paandigama, No. 68/1, Hospital Road, Kalubowila, Colombo. 1st Defendant-Respondent-Respondent Deepani Paandigama, No. 167/1, Hospital Road, Kalubowila, Colombo. 1A Defendant-Respondent-Respondent\n\nView More",
+    "judgement_by": "Hon. Mahinda Samayawardhena J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2025-12-05-SC-APPEAL-37A-2010",
     "num": "SC/APPEAL/37A/2010",
     "date_str": "2025-12-05",
