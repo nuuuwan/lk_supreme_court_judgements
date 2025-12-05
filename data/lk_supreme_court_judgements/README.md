@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_12:03:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_12:44:28-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,338** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-05**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,341** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-05**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (65%), **TXT** (65%) & **🤗 Hugging Face** (65%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-05-SC-APPEAL-191-2025--SC--5db951ee",
-    "num": "SC/APPEAL/191/2025, SC/APPEAL/192/2025",
+    "doc_id": "2025-12-05-SC-FR-414-2016",
+    "num": "SC/FR/414/2016",
     "date_str": "2025-12-05",
-    "description": "Hon. A.L. Shiran Gooneratne J - Hewa Mahawattage Dona Sandya ...",
+    "description": "Hon. Arjuna Obeyesekere J - 1. Atthiligoda Gamage Bhagya,...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_191_192_2025.pdf",
-    "parties": "Hewa Mahawattage Dona Sandya Harshani Karunarathne No. 34, Gothami Road, 2nd Lane, Colombo 08 PLAINTIFF-APPELLANT-APPELLANT Vs. Hewa Mahawattage Dona Manori Jeewani Karunarathne No. 55, Sri Somananda Mawatha, Horana DEFENDANT-RESPONDENT-RESPONDENT\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_414_2016.pdf",
+    "parties": "1. Atthiligoda Gamage Bhagya, 141/4 E, Mola Watta, Rilaulla, Kandana. 2. Raluwe Kankanamge Shantha Siri, No. 38, Siri Sumanagama, Thilakapura, Ambangoda. 3. Mananadewage Dammika Selton, 284/A1, Koopiwatta Road, Balangoda. 4. Abewardana Arachchilage Chandana, \u201cSathuta\u201d, Pahalagama, Kokgala, Ambalanthota. 5. Jayasinghe Arachchige Thushara Dammika Jayasinghe, Dalahena, Kakkapalliya. 6. Balasooriya Gamage Nisantha Rohana Wijerathne, 284/A, Kopiwatta Road, Balangoda. 7. Rajanayaka Mudiyanselage Lahiru Rukshala Rajanayaka, 138/1, Nethmina, Mudunakade, Thalathuoya. PETITIONERS Vs. 1. Ranaviru Seva Authority 2. Anoma Fonseka 2A. J.J.P.S.T. Liyanage 2B. Maj. Gen. D.S.N.K. Senadheera 2nd, 2A and 2B are Chairpersons/Chairmen, Rana Viru Seva Authority. 3. Upulangani Malagamuwa 3A. Ranjith Bandara Meegaswatte 3B. Sonia Kottegoda 3rd, 3A and 3B are Vice Chairpersons/ Chairman, Rana Viru Seva Authority. 4. W.A. Kulasooriya. 4A. I.T. Weerasinghe. 4B. Samanthi Weerasinghe. 4C. Jayantha Edirisinghe 5. Major General Udaya Medawala 5A. Major Gen.L.H.S.C. Silva. 5B. Major Gen. S.T.D. Liyanage. 5C. Maj. Gen. Jagath Gunawardena. 5D. Maj. W.L.P.L. Perera 5C. H.L.V.M. Liyanage 6. Rear. Admiral S.S. Ranasinghe 6A. Rear Admiral Nishantha Ulugethanna 6B. Rear Admiral Kapila Samaraweera 6C. Rear Admiral Y.N. Jayaratne 7. Air Vice Marshal Sumangala Dias. 7A. Air Vice Marshal S.K. Pathirana. 7B. Air Vice Marshal M.D.A.P. Payoe 8. M.D.R.S. Daminda 8A. Ranmal Kodithuwakku 8B. Sanjeewa Dharmarathna 8C. Sajeewa Medawatta 8D. S.W.M. Senarathne 8E. D.J. Pathmini 8th, 8A \u2013 8E are Deputy Inspector General of Police . 9. A.N. Hapugala 9A. Y.P. Sumanawathie 9B. Prejeewa Alwis 10. Major General D.M.D. Alwis 10A. Kanishka De Silva 11. Nilmini Perera 11A. Maj. Gen. D.M.S. Dissanayaka 12. W.P. Nimal Fernando 12A. K.A.H. Kumuduni 12B. H.G.D.M. Aluthwatta The 1st to 12B Respondents are at: The Ranaviru Seva Authority, No. 449, Galle Road, Colombo 03. 13. Eng. Karunasena Hettiarachchi, 13A. K. Waidyarathne, 13B. Gen. H.S.H. Kottegoda 13C. Kamal Gunerathne 13th and 13A \u2013 13C are Secretary, Ministry of Defence. 14. A.P.G. Kithsiri 14A. Sunil Samaraweera 14B. N.K.G.K. Nammuwaththa, 14th, 14A and 14B are Secretary, State Ministry of Defence. 13th, 13A \u2013 13C, 14th and 14A-B Respondents are at 15/5, Baladaksha Mawatha, Colombo 3. 15. H.G. Sumanasinghe, 15A. Thamara D. Perera, Director General 15 and 15A Respondents are at Department of Management Services, Ministry of Finance, Secretariat, Colombo 1. 16. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
 }
 ```
 
@@ -42,6 +42,9 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-12-05 | `SC/FR/414/2016` | Hon. Arjuna Obeyesekere J - 1. Atthiligoda Gamage Bhagya,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-414-2016)
+- 2025-12-05 | `SC/FR/304/2020` | Hon. Arjuna Obeyesekere J - Vithana Arachchige Anurasiri ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-304-2020)
+- 2025-12-05 | `SC/APPEAL/37A/2010` | Hon. Dr. Sobhitha Rajakaruna J - Rev. Wewahamanduwe Wachiswara... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-37A-2010)
 - 2025-12-05 | `SC/APPEAL/191/2025, SC/APPEAL/192/2025` | Hon. A.L. Shiran Gooneratne J - Hewa Mahawattage Dona Sandya ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-191-2025--SC--5db951ee)
 - 2025-12-03 | `SC/FR/81/2025` | Hon. Sampath B. Abayakoon J - R.K. Janaka Sathyajith Rajapa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-81-2025)
 - 2025-12-03 | `SC/FR/326/2021, SC/FR/327/2021` | Hon. Menaka Wijesundera J - 1. Kanagalingam Wijayadojini,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-326-2021--SC-FR-327-2021)
@@ -59,9 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-11-12 | `SC/APPEAL/27/2023` | Hon. M. Sampath K. B. Wijeratne J - 1. Pallemulla Ralalage Malind... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-12-SC-APPEAL-27-2023)
 - 2025-11-10 | `SC/APPEAL/68/2022` | Hon. S. Thurairaja PC Acting CJ - Sri Lanka Transport Board No.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-10-SC-APPEAL-68-2022)
 - 2025-11-10 | `SC/APPEAL/245/2016` | Hon. S. Thurairaja PC Acting CJ - Narandeniye Deepananda Thero,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-10-SC-APPEAL-245-2016)
-- 2025-11-07 | `SC/APPEAL/56/2023` | Hon. K. Priyantha Fernando J - Kumudu Chanda Amaradasa, No.4... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-56-2023)
-- 2025-11-07 | `SC/APPEAL/31/2017` | Hon. Achala Wengappuli J - National Development Bank Lim... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-31-2017)
-- 2025-11-07 | `SC/APPEAL/105/2012` | Hon. Janak De Silva J - 01.Hitihamy Mudiyanselage Til... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-105-2012)
 
 ---
 

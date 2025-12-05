@@ -1,0 +1,4747 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 1 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.06,
+      72.02,
+      534.84,
+      85.58
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.61,
+      87.98,
+      343.45,
+      101.54
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      139.88,
+      504.64,
+      153.5
+    ],
+    "text": "Wanigasinghe Arachchige Abeynanda",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      160.64,
+      373.81,
+      174.26
+    ],
+    "text": "\u201cChandana\u201d",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      181.4,
+      380.29,
+      195.02
+    ],
+    "text": "Godellawella,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      202.16,
+      359.65,
+      215.78
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      496.3,
+      234.98,
+      543.16,
+      248.54
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      300.47,
+      310.55,
+      314.09
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      365.99,
+      471.52,
+      379.61
+    ],
+    "text": "1. Magamadakalapuwage Newton",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      386.75,
+      401.77,
+      400.37
+    ],
+    "text": "Parakrama Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      407.51,
+      356.65,
+      421.13
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      449.05,
+      438.73,
+      462.67
+    ],
+    "text": "2. Sangadasa Wanigasinghe",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      469.93,
+      388.21,
+      483.55
+    ],
+    "text": "Polommaruwa,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      490.69,
+      426.85,
+      504.31
+    ],
+    "text": "Indipokunagoda Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      511.45,
+      356.65,
+      525.07
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      552.97,
+      452.05,
+      566.59
+    ],
+    "text": "3. Hewa Ihalamullage Sirisena",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      573.73,
+      429.97,
+      587.35
+    ],
+    "text": "Indipokunagoda Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      594.64,
+      359.65,
+      608.26
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      636.16,
+      505.48,
+      649.78
+    ],
+    "text": "4. Wewahamanduwe Wachiswara Thero",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      656.92,
+      369.37,
+      670.54
+    ],
+    "text": "Kudavihara",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      677.68,
+      388.21,
+      691.3
+    ],
+    "text": "Polommaruwa,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      698.44,
+      359.65,
+      712.06
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.04,
+      224.66,
+      194.96,
+      238.22
+    ],
+    "text": "SC Appeal No. 37A/ 2010",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.04,
+      252.59,
+      189.8,
+      266.21
+    ],
+    "text": "SC/HCCA/LA/33/2009",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.04,
+      280.67,
+      210.71,
+      294.29
+    ],
+    "text": "SP/HCCA/MA/236/2004(F)",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.04,
+      308.75,
+      213.47,
+      322.37
+    ],
+    "text": "DC Tangalle Case No. 2933/P",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 2 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      479.86,
+      72.02,
+      543.16,
+      85.58
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      113.42,
+      403.45,
+      126.98
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      154.76,
+      504.64,
+      168.38
+    ],
+    "text": "Wanigasinghe Arachchige Abeynanda",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      175.64,
+      373.81,
+      189.26
+    ],
+    "text": "\u201cChandana\u201d",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      196.4,
+      380.29,
+      210.02
+    ],
+    "text": "Godellawella,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      217.16,
+      359.65,
+      230.78
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      439.87,
+      258.77,
+      543.16,
+      272.33
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      300.11,
+      310.55,
+      313.73
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      341.75,
+      471.52,
+      355.37
+    ],
+    "text": "1. Magamadakalapuwage Newton",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      362.51,
+      401.77,
+      376.13
+    ],
+    "text": "Parakrama Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      383.27,
+      356.65,
+      396.89
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      424.81,
+      438.73,
+      438.43
+    ],
+    "text": "2. Sangadasa Wanigasinghe",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      445.57,
+      388.21,
+      459.19
+    ],
+    "text": "Polommaruwa,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      466.33,
+      426.85,
+      479.95
+    ],
+    "text": "Indipokunagoda Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      487.21,
+      356.65,
+      500.83
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      528.73,
+      452.05,
+      542.35
+    ],
+    "text": "3. Hewa Ihalamullage Sirisena",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      549.49,
+      429.97,
+      563.11
+    ],
+    "text": "Indipokunagoda Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      570.25,
+      359.65,
+      583.87
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.05,
+      611.8,
+      505.48,
+      625.42
+    ],
+    "text": "4. Wewahamanduwe Wachiswara Thero",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      632.68,
+      372.49,
+      646.3
+    ],
+    "text": "Kudavihara",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      653.44,
+      388.21,
+      667.06
+    ],
+    "text": "Polommaruwa,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.05,
+      674.2,
+      359.65,
+      687.82
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 3 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      408.55,
+      72.02,
+      543.16,
+      85.58
+    ],
+    "text": "Defendants-Respondents",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      137.42,
+      420.61,
+      150.98
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      202.76,
+      535.0,
+      216.38
+    ],
+    "text": "Rev. Wewahamanduwe Wachiswara Thero",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      223.64,
+      369.37,
+      237.26
+    ],
+    "text": "Kudavihara",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      244.43,
+      388.21,
+      258.05
+    ],
+    "text": "Polommaruwa,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      265.19,
+      359.65,
+      278.81
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      285.95,
+      362.29,
+      299.57
+    ],
+    "text": "(deceased)",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      327.47,
+      505.84,
+      341.09
+    ],
+    "text": "Rev. Mandaduwe Dheerananda Thero",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      348.23,
+      369.37,
+      361.85
+    ],
+    "text": "Kudavihara",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      369.11,
+      388.21,
+      382.73
+    ],
+    "text": "Polommaruwa,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      389.87,
+      359.65,
+      403.49
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      455.47,
+      502.84,
+      469.03
+    ],
+    "text": "4th Defendant-Respondent-Appellant",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.05,
+      517.57,
+      310.55,
+      531.19
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      604.0,
+      504.64,
+      617.62
+    ],
+    "text": "Wanigasinghe Arachchige Abeynanda",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      624.76,
+      373.81,
+      638.38
+    ],
+    "text": "\u201cChandana\u201d",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      645.52,
+      380.29,
+      659.14
+    ],
+    "text": "Godellawella,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      306.05,
+      666.28,
+      359.65,
+      679.9
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      699.1,
+      543.16,
+      712.66
+    ],
+    "text": "Plaintiff-Appellant-Respondent",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 4 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288.05,
+      71.96,
+      471.52,
+      85.58
+    ],
+    "text": "1. Magamadakalapuwage Newton",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      92.72,
+      401.77,
+      106.34
+    ],
+    "text": "Parakrama Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      113.48,
+      356.65,
+      127.1
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      134.24,
+      362.29,
+      147.86
+    ],
+    "text": "(deceased)",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      199.76,
+      441.61,
+      213.38
+    ],
+    "text": "1A. Amarawathie Baduge",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      220.52,
+      494.08,
+      234.14
+    ],
+    "text": "1B. Mahamadakalapuwage Ruchika",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      241.28,
+      494.68,
+      254.9
+    ],
+    "text": "1C. Mahamadakalapuwage Rushani",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      262.07,
+      491.2,
+      275.69
+    ],
+    "text": "1D. Mahamadakalapuwage Ruwini",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      282.83,
+      502.36,
+      296.45
+    ],
+    "text": "1E. Mahamadakalapuwage Rushanga",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      324.35,
+      430.69,
+      337.97
+    ],
+    "text": "All of Parakrama Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      345.35,
+      359.65,
+      358.97
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      333.91,
+      410.69,
+      543.16,
+      424.25
+    ],
+    "text": "1st Defendant-Respondent-Respondents",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      288.05,
+      475.93,
+      438.73,
+      489.55
+    ],
+    "text": "2. Sangadasa Wanigasinghe",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      496.69,
+      388.21,
+      510.31
+    ],
+    "text": "Polommaruwa,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      517.45,
+      426.85,
+      531.07
+    ],
+    "text": "Indipokunagoda Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.05,
+      538.21,
+      356.65,
+      551.83
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      334.99,
+      603.7,
+      543.16,
+      617.26
+    ],
+    "text": "2nd Defendant-Respondent-Respondent",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 5 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      288.05,
+      71.96,
+      452.05,
+      85.58
+    ],
+    "text": "3. Hewa Ihalamullage Sirisena",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      306.05,
+      92.72,
+      429.97,
+      106.34
+    ],
+    "text": "Indipokunagoda Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      306.05,
+      113.48,
+      359.65,
+      127.1
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      306.05,
+      134.24,
+      362.29,
+      147.86
+    ],
+    "text": "(deceased)",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      283.61,
+      175.88,
+      477.16,
+      189.5
+    ],
+    "text": "3A. Hewa Ihalamullage Indra Rohini",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      306.05,
+      196.64,
+      483.76,
+      210.26
+    ],
+    "text": "No. 25/1, Indipokunagoda Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      306.05,
+      217.4,
+      370.93,
+      231.02
+    ],
+    "text": "Boraluwala,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      306.05,
+      238.16,
+      359.65,
+      251.78
+    ],
+    "text": "Tangalle.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      279.65,
+      543.16,
+      325.25
+    ],
+    "text": "3rd Defendant-Respondent-Respondent",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      335.51,
+      255.11,
+      349.13
+    ],
+    "text": "Before: Yasantha Kodagoda PC. J.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      359.63,
+      257.39,
+      373.25
+    ],
+    "text": "Dr. Sobhitha Rajakaruna J.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      383.63,
+      238.79,
+      397.25
+    ],
+    "text": "Menaka Wijesundera J.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      431.77,
+      543.16,
+      445.39
+    ],
+    "text": "Counsel: Manohara de Silva PC. with Ms. Harithriya Kumarage and Ms. Dilmini De Silva",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      452.65,
+      355.09,
+      466.27
+    ],
+    "text": "for the 4th Defendant-Respondent-Appellant.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      481.33,
+      540.0,
+      494.95
+    ],
+    "text": "Rasika Dissanayake with Himal Hewage and Shabir Huzair for the Plaintiff-",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      502.21,
+      246.59,
+      515.83
+    ],
+    "text": "Appellant-Respondent.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.02,
+      531.01,
+      538.96,
+      544.63
+    ],
+    "text": "Hirosha Munasinghe for the Substituted 3A Defendant-Respondent-Respondent.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      588.49,
+      528.64,
+      602.11
+    ],
+    "text": "Written Submissions: Substituted 4A Defendant-Respondent-Appellant - 20.08.2010 &",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      617.32,
+      250.19,
+      630.94
+    ],
+    "text": "14.08.2025",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      3.0,
+      646.0,
+      543.16,
+      659.62
+    ],
+    "text": "Plaintiff-Appellant-Respondent - 25.01.2010 and 28.11.2014 &",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      189.02,
+      666.88,
+      263.03,
+      680.5
+    ],
+    "text": "18.08.2025",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      695.68,
+      516.64,
+      709.3
+    ],
+    "text": "Substituted 3A Defendant-Respondent-Respondent - 05.03.2021",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 6 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      71.96,
+      193.28,
+      85.58
+    ],
+    "text": "Argued on: 03.07.2025",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      124.16,
+      197.72,
+      137.78
+    ],
+    "text": "Decided on: 05.12.2025",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      189.62,
+      223.43,
+      203.18
+    ],
+    "text": "Dr. Sobhitha Rajakaruna J.",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      254.99,
+      542.68,
+      268.61
+    ],
+    "text": "This Court granted Leave to Appeal on 06.05.2010 from the Judgement of the Provincial",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      275.87,
+      542.82,
+      289.49
+    ],
+    "text": "High Court of the Southern Province holden in Matara (\u2018High Court\u2019) dated 17.12.2009. At",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      296.63,
+      543.14,
+      310.25
+    ],
+    "text": "that stage, no specific question of law had been identified by this Court, beyond the general",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      317.51,
+      518.08,
+      331.13
+    ],
+    "text": "questions described in the Petition that need to be addressed in the instant Application.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      350.15,
+      542.92,
+      363.77
+    ],
+    "text": "The Plaintiff-Appellant-Respondent (\u2018Plaintiff\u2019) instituted a Partition Action against the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      370.91,
+      540.0,
+      384.53
+    ],
+    "text": "Defendants-Respondents-Respondents (\u2018Defendants\u2019), including the 4th Defendant-",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      391.67,
+      542.88,
+      405.29
+    ],
+    "text": "Respondent-Appellant (\u20184th Defendant\u2019), seeking a declaration that he is entitled to an",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      412.55,
+      542.83,
+      426.17
+    ],
+    "text": "undivided portion (146.33 Perches) of the subject land and also to get the said land partitioned",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      433.33,
+      542.71,
+      446.95
+    ],
+    "text": "among the parties. The District Court decided that the Plaintiff is not entitled to the title as",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      454.09,
+      543.08,
+      467.71
+    ],
+    "text": "described in the Plaint, and the subject property belongs to the 4th Defendant. However, in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      474.85,
+      542.78,
+      488.47
+    ],
+    "text": "High Court, the Appeal lodged by the Plaintiff was allowed, and he was granted the relief as",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      495.73,
+      263.03,
+      509.35
+    ],
+    "text": "prayed for in the prayer of the Plaint.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      528.37,
+      542.88,
+      541.99
+    ],
+    "text": "The 4th Defendant asserts that the land in question has long been held in possession as property",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      549.13,
+      543.07,
+      562.75
+    ],
+    "text": "belonging to the Polommaruwa Raja Maha Viharaya in Tangalle, spanning many centuries. The",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      570.25,
+      542.94,
+      583.87
+    ],
+    "text": "Chief Incumbent of the said Viharaya has given the property to the Plaintiff\u2019s father,",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      591.28,
+      542.89,
+      604.9
+    ],
+    "text": "Sawundias Wanigasingha, for cultivation under the Planting Agreement \u20184V1\u2019 (Deed No. 561",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      612.04,
+      543.14,
+      625.66
+    ],
+    "text": "dated 26.11.1939). He states that the buildings on Lot No. 3 were constructed by the 2nd and",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      632.8,
+      543.16,
+      646.42
+    ],
+    "text": "3rd Defendants respectively, with the leave and license of the 4th Defendant Thera. The 2nd and",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      653.56,
+      542.7,
+      667.18
+    ],
+    "text": "3rd Defendants were supposed to possess the land after constructing their residences with the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      674.44,
+      264.11,
+      688.06
+    ],
+    "text": "permission of the said 4th Defendant.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 7 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      71.96,
+      542.86,
+      85.58
+    ],
+    "text": "Nevertheless, the Plaintiff maintains that his mother, Leelawathie, obtained prescriptive",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      92.72,
+      541.87,
+      106.34
+    ],
+    "text": "ownership over the property in dispute. Citing the Plaintiff's cross-examination, the 4th",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      113.48,
+      542.9,
+      127.1
+    ],
+    "text": "Defendant highlights that the Plaintiff's mother secured her claim through cultivation, though",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      134.24,
+      543.16,
+      147.86
+    ],
+    "text": "the Plaintiff admitted ignorance regarding how she (Leelawathie) initially gained access to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      155.12,
+      543.08,
+      168.74
+    ],
+    "text": "the land for planting. Drawing on the available evidence, the 4th Defendant underscores that",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      175.88,
+      543.16,
+      189.5
+    ],
+    "text": "Leelawathie never acquired the land, via purchase from any party. Furthermore, the 4th",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      196.64,
+      543.0,
+      210.26
+    ],
+    "text": "Defendant argues that during cross-examination, the Plaintiff acknowledged his mother's",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      217.4,
+      543.16,
+      231.02
+    ],
+    "text": "possession of the property commencing in 1939, the same year the Planting Agreement \u20184V1\u2019",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      238.16,
+      543.05,
+      251.78
+    ],
+    "text": "was executed. Notably, the said Planting Agreement appoints the Plaintiff's father, Sawundias",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      259.07,
+      382.69,
+      272.69
+    ],
+    "text": "Wanigasingha, as the individual responsible for the planting.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      291.71,
+      542.83,
+      305.33
+    ],
+    "text": "The 4th Defendant highlights the multiple contradictions on the part of the evidence in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      312.59,
+      542.93,
+      326.21
+    ],
+    "text": "Plaintiff's testimony. It is contended that the position taken up by the Plaintiff in his pleadings",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      333.35,
+      543.08,
+      346.97
+    ],
+    "text": "was contradicted during cross-examination, when the Plaintiff acknowledged the disputed",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      354.11,
+      543.07,
+      367.73
+    ],
+    "text": "property as State Land. Upon being questioned, during cross-examination as to why his father",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      374.87,
+      542.72,
+      388.49
+    ],
+    "text": "entered into the Planting Agreement given his mother\u2019s alleged ownership, the Plaintiff",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      395.63,
+      543.16,
+      409.25
+    ],
+    "text": "offered no reply and refrained from disputing the validity of the aforesaid Planting Agreement.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      416.41,
+      542.7,
+      430.03
+    ],
+    "text": "The 4th Defendant, drawing attention of this Court to the Plaintiff's testimony, contends that",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      437.17,
+      542.93,
+      450.79
+    ],
+    "text": "at the outset of the District Court Trial, the Plaintiff asserted prescriptive title for both himself",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      458.05,
+      543.02,
+      471.67
+    ],
+    "text": "and his predecessor over the disputed property. Yet, during cross-examination he shifted his",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      478.81,
+      542.78,
+      492.43
+    ],
+    "text": "stance, claiming instead that his mother obtained the title through an informal deed in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      499.69,
+      263.99,
+      513.31
+    ],
+    "text": "exchange for valuable consideration.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      532.33,
+      542.82,
+      545.95
+    ],
+    "text": "The 4th Defendant further contends that the Plaintiff thereafter adopted an entirely different",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      553.09,
+      543.03,
+      566.71
+    ],
+    "text": "position that the subject matter is State Land. Thus, the 4th Respondent asserts that the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      573.85,
+      542.87,
+      587.47
+    ],
+    "text": "Plaintiff is precluded from prevailing on his claim for a declaration of prescriptive title, given",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      594.64,
+      542.72,
+      608.26
+    ],
+    "text": "these successive and inconsistent assertions regarding his alleged ownership. The learned",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      615.52,
+      542.92,
+      629.14
+    ],
+    "text": "High Court Judge proceeded on the premise that the Plaintiff had indeed acquired title by",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      636.28,
+      543.02,
+      649.9
+    ],
+    "text": "prescription, whereas the learned District Judge rejected the Plaintiff's credibility owing to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      657.16,
+      270.47,
+      670.78
+    ],
+    "text": "several inconsistencies in his evidence.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 8 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      71.96,
+      542.86,
+      85.58
+    ],
+    "text": "The 4th Defendant places comparable emphasis on the absence of any documentary proof",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      92.72,
+      542.7,
+      106.34
+    ],
+    "text": "submitted to the District Court to validate the Plaintiff's alleged prescriptive title, apart from",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      113.48,
+      543.01,
+      127.1
+    ],
+    "text": "his Deed No. 1016 (marked 'P1'). Nonetheless, the 4th Defendant maintains that this Deed",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      134.24,
+      542.71,
+      147.86
+    ],
+    "text": "\u2018P1\u2019 fails to bolster the Plaintiff's prescriptive claim, since Leelawathie, as the wife, and the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      155.12,
+      542.82,
+      168.74
+    ],
+    "text": "Plaintiff, as the son of Sawundias Wanigasingha (Planter), are constrained as his heirs,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      176.0,
+      539.56,
+      189.62
+    ],
+    "text": "executors, and administrators by the terms of the said Planting Agreement marked as \u20184V1\u2019.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      208.64,
+      542.89,
+      222.26
+    ],
+    "text": "Additionally, the 4th Defendant submits that in terms of Section 34 of the Buddhist",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      229.4,
+      542.71,
+      243.02
+    ],
+    "text": "Temporalities Ordinance, a claim of prescription cannot be maintained in respect of temple",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      250.19,
+      542.94,
+      263.81
+    ],
+    "text": "property/sangika property. He relies on the Judgement of Waharaka alias Moratota Sobitha",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      271.31,
+      543.11,
+      284.93
+    ],
+    "text": "Thero v Amunugama Ratnapala Thero [1981] 1 Sri LR 201, at 224, in which the Supreme Court",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      292.67,
+      123.08,
+      306.29
+    ],
+    "text": "held that:",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      325.23,
+      542.48,
+      338.57
+    ],
+    "text": "\"When a Viharadhipathi sues to be declared entitled to the office of Viharadhipathi of a temple",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      346.11,
+      542.52,
+      359.45
+    ],
+    "text": "and to eject those disputing his rights or to recover possession of the temple and its endowments",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      366.75,
+      542.78,
+      380.09
+    ],
+    "text": "he is enforcing a right he has in law and any such claim is exempt from the provisions of the",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      387.47,
+      543.08,
+      401.09
+    ],
+    "text": "Prescription Ordinance by virtue of the Provisions of S. 34 Cap. 318. [Buddhist Temporalities",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      408.47,
+      542.5,
+      422.09
+    ],
+    "text": "Ordinance 1931]. Therefore, all cases that have held that such an action is bound by the",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      429.65,
+      542.55,
+      442.99
+    ],
+    "text": "provisions of either Section 3 or Section 10 of the Prescription Ordinance have been wrongly",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      450.49,
+      449.05,
+      464.11
+    ],
+    "text": "decided \u2018and should no longer be considered good law\u201d (emphasis added)",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      483.25,
+      542.8,
+      496.87
+    ],
+    "text": "Meanwhile, the Plaintiff maintains that his mother, Leelawathie, independently held",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      504.13,
+      542.89,
+      517.75
+    ],
+    "text": "possession of the property for 50 years, securing prescriptive ownership in the process, before",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      524.89,
+      543.16,
+      538.51
+    ],
+    "text": "conveying the land to him; he in turn, transferred an undivided share of 20 perches to the 1st",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      545.65,
+      543.02,
+      559.27
+    ],
+    "text": "Defendant. The Plaintiff argues that the 2nd and 3rd Defendants failed to present any credible",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      566.41,
+      542.81,
+      580.03
+    ],
+    "text": "evidence to dispute the Plaintiff\u2019s prescriptive title. He insists that his acquisition of the land",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      587.17,
+      543.14,
+      600.79
+    ],
+    "text": "stems from Deed No. 1016 (marked \u2018P1\u2019), a document undisputed by the 2nd to 4th Defendants.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      608.08,
+      542.69,
+      621.7
+    ],
+    "text": "On this basis, the Plaintiff asserts that he has duly established the pedigree outlined in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      628.96,
+      367.93,
+      642.58
+    ],
+    "text": "Plaint, as well as his rightful title to the disputed property.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      661.6,
+      542.97,
+      675.22
+    ],
+    "text": "The stand taken by the Plaintiff in respect of the \u20184V1\u2019 is that the said Planting Agreement",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      682.36,
+      542.74,
+      695.98
+    ],
+    "text": "was never registered at the Land Registry. He further argues that the land described in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      703.12,
+      543.07,
+      716.74
+    ],
+    "text": "schedule to that Agreement differs clearly from the property in dispute, as the boundaries and",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 9 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      71.96,
+      543.07,
+      85.58
+    ],
+    "text": "the extent reflected in the Plaint bear no resemblance to those in \u20184V1\u2019. Additionally, the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      92.72,
+      542.99,
+      106.34
+    ],
+    "text": "Plaintiff contends that the Defendants did not comply with Section 18(3) of the Partition Act,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      113.48,
+      543.16,
+      127.1
+    ],
+    "text": "having omitted to secure a commission for verifying their claim, since the land apparently",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      134.36,
+      404.65,
+      147.98
+    ],
+    "text": "subject to partition is distinct from the actual contested property.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      167.0,
+      542.97,
+      180.62
+    ],
+    "text": "Another facet of the arguments raised on behalf of the Plaintiff hinges on the Defendants'",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      187.88,
+      543.12,
+      201.5
+    ],
+    "text": "purported inability to furnish reliable proof that the property constitutes sangika property. In",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      208.88,
+      543.05,
+      222.5
+    ],
+    "text": "particular, he maintains that the documents tendered by the 4th Defendant, marked as \u20184V2'",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      229.64,
+      543.12,
+      243.26
+    ],
+    "text": "to '4V7,' were intended to demonstrate the character of the land as sangika property but are",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      250.67,
+      542.87,
+      264.29
+    ],
+    "text": "inadequate as they furnish no clear identification of the relevant parcel of land by omitting to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      271.43,
+      543.0,
+      285.05
+    ],
+    "text": "delineate exact boundaries. It is observed that the 3rd Defendant is the husband of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      292.31,
+      543.16,
+      305.93
+    ],
+    "text": "Plaintiff's sister, and he testified that the disputed property may qualify as sangika property.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      313.31,
+      543.16,
+      326.93
+    ],
+    "text": "The plaintiff does not hold possession of the land in question, whereas the 2nd and 3rd",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      334.07,
+      542.86,
+      347.69
+    ],
+    "text": "Defendants do. The 2nd Defendant is reportedly the son of the Plaintiff's sister. In his",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      354.83,
+      542.89,
+      368.45
+    ],
+    "text": "examination in chief, the 2nd Defendant rejected the assertion that Leelawathie was the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      375.59,
+      542.78,
+      389.21
+    ],
+    "text": "original owner of the land, maintaining instead that it belongs to the Temple. After the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      396.35,
+      542.92,
+      409.97
+    ],
+    "text": "Plaintiff's evidence, the retired \u2018Gramasevaka\u2019 was summoned as a witness, and during his",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      417.13,
+      542.83,
+      430.75
+    ],
+    "text": "cross-examination, he clearly conceded he was unaware of the ownership of the land in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      438.13,
+      118.16,
+      451.75
+    ],
+    "text": "dispute.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      470.65,
+      542.75,
+      484.27
+    ],
+    "text": "Review of the said Planting Agreement reveals that three boundaries correspond with those",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      491.53,
+      542.81,
+      505.15
+    ],
+    "text": "specified in Preliminary Plan No. 881101. The southern boundary alone fails to align;",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      512.29,
+      542.92,
+      525.91
+    ],
+    "text": "nonetheless, the 4th Defendant counters this by suggesting that the surveyor likely overlooked",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      533.05,
+      542.81,
+      546.67
+    ],
+    "text": "or omitted any reference to the land extending beyond the road shown in that Preliminary",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      553.81,
+      543.17,
+      567.43
+    ],
+    "text": "Plan. It is therefore reasonable to infer that the Plaintiff's father, Sawundias Wanigasingha,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      574.57,
+      543.02,
+      588.19
+    ],
+    "text": "implicitly acknowledged the subject land's ownership by the Chief Incumbent Thera, given",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      595.6,
+      312.83,
+      609.22
+    ],
+    "text": "his execution of the Planting Agreement \u20184V1\u2019.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      628.12,
+      542.7,
+      641.74
+    ],
+    "text": "The learned District Judge took the view that, in a partition action, the title of the parties",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      649.0,
+      542.95,
+      662.62
+    ],
+    "text": "needs to be examined thoroughly and the land to be partitioned should be identified correctly",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      669.76,
+      543.01,
+      683.38
+    ],
+    "text": "prior to any partition. The District Court decided that the Plaintiff does not own the total",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      690.52,
+      543.11,
+      704.14
+    ],
+    "text": "extent described in the plan marked \u2018P1\u2019. Drawing from the Planting Agreement \u20184V1\u2019, the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 10 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      71.96,
+      543.11,
+      85.58
+    ],
+    "text": "Trial Judge noted that said \u20184V1\u2019 is very much older than the Deed marked \u2018P1\u2019, rendering it",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      92.72,
+      542.66,
+      106.34
+    ],
+    "text": "untenable to presume that the Plaintiff has been in possession of the subject land for a long",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      113.48,
+      543.07,
+      127.1
+    ],
+    "text": "period. The District Court further observed that the 2nd and 3rd Defendants were made parties",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      134.24,
+      543.03,
+      147.86
+    ],
+    "text": "in its\u2019 proceedings because they hold possession of the property. Moreover, the Trial Judge",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      155.12,
+      542.75,
+      168.74
+    ],
+    "text": "opined that the action could not be dismissed solely for want of evidence regarding the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      175.88,
+      543.0,
+      189.5
+    ],
+    "text": "registration of Deed No. \u20184V1\u2019 at the land registry. The learned District Judge has concluded",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      196.76,
+      427.45,
+      210.38
+    ],
+    "text": "that the Plaintiff failed to prove his case on a balance of probabilities.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      229.4,
+      543.16,
+      243.02
+    ],
+    "text": "The learned High Court Judge, referring to the schedule of the answer of the 4th Defendant,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      250.19,
+      542.75,
+      263.81
+    ],
+    "text": "took the view that the boundaries therein are distinct from the boundaries mentioned in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      270.95,
+      542.75,
+      284.57
+    ],
+    "text": "schedule of the Plaint. Further, she has observed that the extent mentioned in the Answer of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      291.71,
+      542.77,
+      305.33
+    ],
+    "text": "the 4th Defendant and the Plaintiff's Plaint are different. Additionally, the High Court has",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      312.59,
+      543.16,
+      326.21
+    ],
+    "text": "drawn its attention to the fact that no steps were taken to issue a commission to the Surveyor",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      333.35,
+      543.06,
+      346.97
+    ],
+    "text": "General. In summation, the learned High Court Judge decided that the Defendants had failed",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      354.11,
+      543.16,
+      367.73
+    ],
+    "text": "to establish that the land claimed by the Plaintiff and the land subject to the Deed marked as",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      374.87,
+      542.7,
+      388.49
+    ],
+    "text": "\u20184V1\u2019 are the same. As a result, the High Court granted the Plaintiff the reliefs prayed for in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      395.75,
+      197.84,
+      409.37
+    ],
+    "text": "the prayer of the Plaint.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      428.53,
+      543.16,
+      442.15
+    ],
+    "text": "At this stage, I need to draw my attention to the dicta in Gabriel Perera v. Agnes Perera 43",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      449.77,
+      439.33,
+      463.39
+    ],
+    "text": "CLW 82 where Basnayake J. (in agreement with Gratiaen J.), held that:",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      482.41,
+      542.61,
+      496.03
+    ],
+    "text": "\u201cIt is settled rule of interpretation of deeds that, where the portion conveyed is perfectly described,",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      503.45,
+      542.48,
+      516.79
+    ],
+    "text": "and can be precisely ascertained, and no difficulty arises except from a subsequent inconsistent",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      524.21,
+      542.75,
+      537.55
+    ],
+    "text": "statement as to its extent, the inconsistency as to extent should be treated as a mere falsa",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      544.97,
+      542.61,
+      558.31
+    ],
+    "text": "demonstratio not affecting that which is already sufficiently conveyed. Llewellyn vs. Earl of Jersey",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      565.45,
+      314.03,
+      579.07
+    ],
+    "text": "(1843) 11 M. and W. 183, 12 L. J. Ex 243.\u201d",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      598.36,
+      542.98,
+      611.98
+    ],
+    "text": "Therefore, I am satisfied, based on the evidence, that the land described in the said Planting",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      619.12,
+      543.15,
+      632.74
+    ],
+    "text": "Agreement \u20184V1\u2019 is not a completely different land from the land described in the Plaint. Upon",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      640.0,
+      543.06,
+      653.62
+    ],
+    "text": "careful examination of the overall evidence led in the District Court, I am convinced that the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      660.76,
+      542.86,
+      674.38
+    ],
+    "text": "Plaintiff has failed to establish title to the subject property on a balance of probabilities. I arrive",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      681.52,
+      542.78,
+      695.14
+    ],
+    "text": "at such a conclusion given the serious inconsistencies in his evidence and the binding effect",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      702.28,
+      543.16,
+      715.9
+    ],
+    "text": "of the Planting Agreement marked '4V1' executed by his father acknowledging the Chief",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 11 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      71.96,
+      542.95,
+      85.58
+    ],
+    "text": "Incumbent Thera's ownership. The absence of credible evidence supporting a prescriptive title",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      92.84,
+      414.97,
+      106.46
+    ],
+    "text": "over what is demonstrably sangika property is also another reason.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      125.72,
+      542.71,
+      139.34
+    ],
+    "text": "The learned District Judge's conclusions that the Plaintiff does not own the total extent",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      146.48,
+      542.81,
+      160.1
+    ],
+    "text": "described in the plan marked \u2018P1\u2019 and that the action cannot succeed without thorough",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      167.36,
+      543.12,
+      180.98
+    ],
+    "text": "examination of the parties' title and precise identification of the land for partition, are correct",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      188.12,
+      542.95,
+      201.74
+    ],
+    "text": "and unassailable based on the circumstances of this case. Likewise, I am taking the view that",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      208.88,
+      543.12,
+      222.5
+    ],
+    "text": "the evidence revolves around the execution of the said Planting Agreement \u20184V1\u2019 in favour of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      229.64,
+      542.92,
+      243.26
+    ],
+    "text": "the father of the Plaintiff outweighs the ancillary evidence adduced on behalf of the Plaintiff",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      250.43,
+      542.77,
+      264.05
+    ],
+    "text": "in establishing his alleged title. Hence, I am unable to agree with the conclusions of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      271.31,
+      210.11,
+      284.93
+    ],
+    "text": "learned High Court Judge.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      303.95,
+      542.92,
+      317.57
+    ],
+    "text": "Having examined the evidence and the Judgements of the District Court as well as the High",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      324.83,
+      543.09,
+      338.45
+    ],
+    "text": "Court, I consider it appropriate, based on the circumstances of this case, to answer the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      345.59,
+      542.82,
+      359.21
+    ],
+    "text": "following questions arising from the contents of paragraph 10 of the Petition dated",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      366.47,
+      227.75,
+      380.09
+    ],
+    "text": "25.01.2010, in the affirmative;",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      399.11,
+      542.89,
+      412.73
+    ],
+    "text": "1. Did the learned Judges of the High Court fail to give due consideration to the evidence",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      420.01,
+      315.23,
+      433.63
+    ],
+    "text": "led and the documents filed in the Case?",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      452.65,
+      543.17,
+      466.27
+    ],
+    "text": "2. Did the learned Judges of the High Court err in holding that the Defence had failed to",
+    "fonts": [
+      "Arial-ItalicMT",
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      473.65,
+      349.32,
+      487.27
+    ],
+    "text": "prove that the land in suit is a sangika property?",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      506.41,
+      543.17,
+      520.03
+    ],
+    "text": "3. Did the learned Judges of the High Court fail to consider that the Plaintiff had not",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      527.41,
+      541.96,
+      541.03
+    ],
+    "text": "denied that his predecessors entered the land in suit on the Agreement marked \u20184V1\u2019?",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      560.05,
+      543.06,
+      573.67
+    ],
+    "text": "4. Did the High Court err in holding that the Plaintiff had prescriptive title to the land in",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      580.93,
+      133.88,
+      594.55
+    ],
+    "text": "suit?",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      613.6,
+      543.07,
+      627.22
+    ],
+    "text": "5. Did the learned Judges of the High Court fail to consider that the document marked",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      634.36,
+      543.15,
+      647.98
+    ],
+    "text": "\u20184V1\u2019, is only a Planting Agreement under which the Plaintiff's father had been allowed",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      655.24,
+      542.89,
+      668.86
+    ],
+    "text": "to plant coconut trees on the said land and therefore no title to the land can be claimed",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      676.12,
+      333.97,
+      689.74
+    ],
+    "text": "based on the said Agreement marked \u20184V1\u2019?",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      727.43,
+      542.54,
+      756.72
+    ],
+    "text": "Page 12 of 12",
+    "fonts": [
+      "Aptos",
+      "Aptos,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      71.96,
+      542.97,
+      85.58
+    ],
+    "text": "In these circumstances, the Appeal from the Judgment of the learned High Court Judge is",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      92.72,
+      543.11,
+      106.34
+    ],
+    "text": "allowed. Accordingly, the said Judgment of the High Court dated 17.12.2009 is set aside and",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      113.6,
+      528.64,
+      127.22
+    ],
+    "text": "the Judgment of the learned District Judge dated 30.07.2004 is affirmed. I order no costs.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      393.31,
+      244.49,
+      546.28,
+      258.05
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      273.17,
+      218.03,
+      286.73
+    ],
+    "text": "Yasantha Kodagoda PC. J.",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      297.11,
+      116.0,
+      310.73
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      393.31,
+      349.25,
+      546.28,
+      362.81
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      401.75,
+      203.27,
+      415.37
+    ],
+    "text": "Menaka Wijesundera J.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      425.77,
+      116.0,
+      439.39
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      393.31,
+      453.79,
+      546.28,
+      467.35
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
