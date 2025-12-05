@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_12:44:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_13:27:23-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,341** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-05**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,342** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-05**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (65%), **TXT** (65%) & **🤗 Hugging Face** (65%)
 
@@ -46,6 +46,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-12-05 | `SC/FR/304/2020` | Hon. Arjuna Obeyesekere J - Vithana Arachchige Anurasiri ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-304-2020)
 - 2025-12-05 | `SC/APPEAL/37A/2010` | Hon. Dr. Sobhitha Rajakaruna J - Rev. Wewahamanduwe Wachiswara... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-37A-2010)
 - 2025-12-05 | `SC/APPEAL/191/2025, SC/APPEAL/192/2025` | Hon. A.L. Shiran Gooneratne J - Hewa Mahawattage Dona Sandya ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-191-2025--SC--5db951ee)
+- 2025-12-05 | `SC/APPEAL/1/2018` | Hon. Mahinda Samayawardhena J - Kariyawasam Katukoliha Gamage... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-1-2018)
 - 2025-12-03 | `SC/FR/81/2025` | Hon. Sampath B. Abayakoon J - R.K. Janaka Sathyajith Rajapa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-81-2025)
 - 2025-12-03 | `SC/FR/326/2021, SC/FR/327/2021` | Hon. Menaka Wijesundera J - 1. Kanagalingam Wijayadojini,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-326-2021--SC-FR-327-2021)
 - 2025-11-26 | `SC/FR/16/2021` | Hon. Arjuna Obeyesekere J - 1. E.G.R.M.N.N.K. Rathnayaka,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-26-SC-FR-16-2021)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-11-12 | `SC/APPEAL/48/2020` | Hon. A.L. Shiran Gooneratne J - Central Finance Co. PLC. No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-12-SC-APPEAL-48-2020)
 - 2025-11-12 | `SC/APPEAL/27/2023` | Hon. M. Sampath K. B. Wijeratne J - 1. Pallemulla Ralalage Malind... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-12-SC-APPEAL-27-2023)
 - 2025-11-10 | `SC/APPEAL/68/2022` | Hon. S. Thurairaja PC Acting CJ - Sri Lanka Transport Board No.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-10-SC-APPEAL-68-2022)
-- 2025-11-10 | `SC/APPEAL/245/2016` | Hon. S. Thurairaja PC Acting CJ - Narandeniye Deepananda Thero,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-10-SC-APPEAL-245-2016)
 
 ---
 
