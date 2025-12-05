@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_10:53:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--05_11:27:29-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,337** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,338** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-05**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (65%), **TXT** (65%) & **🤗 Hugging Face** (65%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-03-SC-FR-81-2025",
-    "num": "SC/FR/81/2025",
-    "date_str": "2025-12-03",
-    "description": "Hon. Sampath B. Abayakoon J - R.K. Janaka Sathyajith Rajapa...",
+    "doc_id": "2025-12-05-SC-APPEAL-191-2025--SC--5db951ee",
+    "num": "SC/APPEAL/191/2025, SC/APPEAL/192/2025",
+    "date_str": "2025-12-05",
+    "description": "Hon. A.L. Shiran Gooneratne J - Hewa Mahawattage Dona Sandya ...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_81_2025.pdf",
-    "parties": "R.K. Janaka Sathyajith Rajapakse, No. 124/5, Dutugamunu Street, Kalubovila, Dehiwala. PETITIONER Vs. 01. Mr. Anil Jasinghe, Secretary, Ministry of Health. 02. Dr. Asela Gunawardana, Director General of Health Services, Ministry of Health. 03. Dr. P.W.C. Lal Panapitiya, Deputy Director General, Medical Services I, Ministry of Health. 04. Dr. Priyantha Atapattu, Director Tertiary Care Services, Ministry of Health. All of 01st to 04th Respondents are of: \u201cSuwasiripaya,\u201d No. 385, Ven. Baddegama Wimalawansa Thero Mawatha, Colombo 10. 05. Mr. Sanath J. Ediriweera, Chairman, 06. Mr. N.H.M. Chithrananda, Member, 07. Mr. G.S.A de Silva P C, Member, 08. Dr. A.D.N. de Zoysa, Member, 09. Mrs. S.M. Mohamed, Member, 10. Mrs. Ranjani Nadarajapillai, Member, 11. Mr. M.B.R. Pushpakumara, Member, 12. Prof. N. Selvakkumaran, Member, 13. Dr. Sanath Panawennage, Member, 14. Mrs. T.M.L.C. Senarathna, Chairman, Health Service Committee, 15. Dr. Ananda Hapugoda, Member, Health Service Committee, 16. Mr. Nimal Saranathissa, Member, Health Service Committee, 17. Mrs. W.A.C Wickramathilaka, Secretary, Health Service Committee, All of 05th to 17th Respondents are of: The Public Service Commission, No. 1200/9, Rajamalwatta Road, Battaramulla. 18. Dr. S.P.A Liyanage Ranaweera Deputy Director General National Hospital (Acting), National Hospital of Sri Lanka, Colombo 10. 19. Dr. Sheahan Waas, President, Sri Lanka College of Radiologists, \u201cWijerama House,\u201d No. 6, Wijerama Mawatha, Colombo 07. 20. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Sampath B. Abayakoon J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_191_192_2025.pdf",
+    "parties": "Hewa Mahawattage Dona Sandya Harshani Karunarathne No. 34, Gothami Road, 2nd Lane, Colombo 08 PLAINTIFF-APPELLANT-APPELLANT Vs. Hewa Mahawattage Dona Manori Jeewani Karunarathne No. 55, Sri Somananda Mawatha, Horana DEFENDANT-RESPONDENT-RESPONDENT\n\nView More",
+    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-12-05 | `SC/APPEAL/191/2025, SC/APPEAL/192/2025` | Hon. A.L. Shiran Gooneratne J - Hewa Mahawattage Dona Sandya ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-191-2025--SC--5db951ee)
 - 2025-12-03 | `SC/FR/81/2025` | Hon. Sampath B. Abayakoon J - R.K. Janaka Sathyajith Rajapa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-81-2025)
 - 2025-12-03 | `SC/FR/326/2021, SC/FR/327/2021` | Hon. Menaka Wijesundera J - 1. Kanagalingam Wijayadojini,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-326-2021--SC-FR-327-2021)
 - 2025-11-26 | `SC/FR/16/2021` | Hon. Arjuna Obeyesekere J - 1. E.G.R.M.N.N.K. Rathnayaka,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-26-SC-FR-16-2021)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-11-07 | `SC/APPEAL/56/2023` | Hon. K. Priyantha Fernando J - Kumudu Chanda Amaradasa, No.4... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-56-2023)
 - 2025-11-07 | `SC/APPEAL/31/2017` | Hon. Achala Wengappuli J - National Development Bank Lim... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-31-2017)
 - 2025-11-07 | `SC/APPEAL/105/2012` | Hon. Janak De Silva J - 01.Hitihamy Mudiyanselage Til... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-07-SC-APPEAL-105-2012)
-- 2025-11-06 | `SC/FR/17/2016` | Hon. Arjuna Obeyesekere J - Sooriyapperumalage Ashoka Abe... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-06-SC-FR-17-2016)
 
 ---
 
