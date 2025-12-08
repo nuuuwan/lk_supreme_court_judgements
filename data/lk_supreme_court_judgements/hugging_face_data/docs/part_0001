@@ -1609,6 +1609,42 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-11-01-SC-FR-577-2009",
+    "num": "SC/FR/577/2009",
+    "date_str": "2011-11-01",
+    "description": "Hon. Dr. Shirani A. Bandaranayake CJ - Weerawarna Kurukulasooriya Ma...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_577_2009.pdf",
+    "parties": "Weerawarna Kurukulasooriya Madushika Hasanthi Kurukulasooriya, No.2/12, Susantha Mawatha, Panadura. Petitioner Vs. Mr. Anura Edirisinghe, Commissioner General of Examinations, Department of Examinations, P.O. Box. 1503, Colombo. 2. The University Grants Commission, No.20, Ward Place, Colombo 7. 3. Mr. Gamini Samaranayake, Chairman, University Grants Commission, No.20, Ward Place, Colombo \u2013 07. 4. Secretary , Ministry of Education, Isurupaya, Battaramulla. 5. Secretary, Ministry of Higher Education, Ward Place, Colombo 7. 6. The Principal, Thakshila Maha Vidyalaya, Horana. 7. Hon. The Attorney General, Attorney General\u2019s Department, Colombo 12. Respondents",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake CJ"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-11-01-SC-FR-578-2009",
+    "num": "SC/FR/578/2009",
+    "date_str": "2011-11-01",
+    "description": "Hon. Dr. Shirani A. Bandaranayake CJ - Warahenage Pavithra Dananjani...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_578_2009.pdf",
+    "parties": "Warahenage Pavithra Dananjanie De Alwis, No.176/4, 10th Lane, Philominawatta, Dodangoda, Kalutara South. Petitioner Vs. 1. Mr. Anura Edirisinghe, Commissioner General of Examinations, Department of Examinations, P.O. Box: 1503, Colombo. 2. The University Grants Commission, No.20, Ward Place, Colombo 7. 3. Mr. Gamini Samaranayake, Chairman, University Grants Commission, No.20, Ward Place, Colombo \u2013 07 4. Secretary, Ministry of Education, Isurupaya, Battaramulla. 5. Secretary, Ministry of Higher Education, Ward Place, Colombo 7. 6. The Principal, Kalutara Balika National School, Kalutara. 7. Hon. The Attorney General, Attorney General\u2019s Department, Colombo 12. Respondents",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake CJ"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-11-24-SC-APPEAL-106-2007",
+    "num": "SC/APPEAL/106/2007",
+    "date_str": "2011-11-24",
+    "description": "Hon. S.I. Imam J - Malagodagamage Karunawathie, ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_106_2007.pdf",
+    "parties": "Malagodagamage Karunawathie, No. 1212/3/F, Hokandara Road, Pannipitiya. Defendant-Petitioner-Appellant Vs. Gabo Singho Wijendra alias Wijendra Acharige Gabo Singho, No. 75, Old Road, Pannipitiya. Plaintiff-Respondent-Respondent",
+    "judgement_by": "Hon. S.I. Imam J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2012-01-16-SC-RE-4-2011",
     "num": "SC/RE/4/2011",
     "date_str": "2012-01-16",
