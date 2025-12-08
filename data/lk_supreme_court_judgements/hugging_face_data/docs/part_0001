@@ -1597,6 +1597,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-10-12-SC-APPEAL-62-2008",
+    "num": "SC/APPEAL/62/2008",
+    "date_str": "2011-10-12",
+    "description": "Hon. Dr. Shirani A. Bandaranayake CJ - Gurudeniya Lekamgedara Nishan...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_62_2008.pdf",
+    "parties": "Gurudeniya Lekamgedara Nishantha Bandara Presently at Bogambara Prison, Kandy. Accused-Appellant- Appellant Vs. Hon. The Attorney General, Attorney General\u2019s Department, Colombo 12. Complainant-Respondent- Respondent",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake CJ"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2012-01-16-SC-RE-4-2011",
     "num": "SC/RE/4/2011",
     "date_str": "2012-01-16",
@@ -28102,6 +28114,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_1_2018.pdf",
     "parties": "Kariyawasam Katukoliha Gamage Metthananda Heraligaswatta, Katukoliha, Dodanduwa. Substituted Plaintiff-Appellant-Appellant 1. Kariyawasam Katukoliha Gamage Metthananda, Heraligaswatta, Katukoliha, Dodanduwa. 2. Dhammika Kariyawasam Jamanegewatta, Katukoliha, Dodanduwa. Presently at No. 47, Galpoththa Road, Nawala, Rajagiriya. 3. Wannaku Kankanamge Piyadasa (deceased), 3A. A.W.K. Premaseeli (deceased), 3B. Badra Samanmali Wannaku Korala Hettigewatta, Katukoliha, Dodanduwa. 4. Lelwala Gurugamage Ariyasena (deceased), Pinkanda, Dodanduwa. and Others.\n\nView More",
     "judgement_by": "Hon. Mahinda Samayawardhena J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-12-05-SC-APPEAL-16-2021",
+    "num": "SC/APPEAL/16/2021",
+    "date_str": "2025-12-05",
+    "description": "Hon. Achala Wengappuli J - Punchihewage Sampath Kumara a...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_16_2021.pdf",
+    "parties": "Punchihewage Sampath Kumara alias Bindu Presenly in Angunakolapalassa Prison Accused- Appellant -Appellant Vs. Hon. Attorney General Attorney General\u2019sDepartment, Colombo 12. Complainant-Respondent-Respondent-\n\nView More",
+    "judgement_by": "Hon. Achala Wengappuli J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
