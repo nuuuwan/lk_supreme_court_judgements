@@ -1489,6 +1489,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-07-07-SC-HC-CALA-99-2008",
+    "num": "SC/HC CALA/99/2008",
+    "date_str": "2011-07-07",
+    "description": "Hon. Dr. Shirani A. Bandaranayake CJ - Jamburegoda Gamage Lakshman J...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_hc_cala_99_2008.pdf",
+    "parties": "Jamburegoda Gamage Lakshman Jinadasa, No. 15, Main Street, Gampaha. Plaintiff-Appellant (now deceased) Priyanthi Chandrika Jinadasa, No. 10, Church Road, Gampaha. Petitioner Vs. 1. Pilitthu Wasam Gallage Pathma Hemamali, No. 3, Rest House Road, Gampaha. 2. Pilitthu Wasam Gallage Ranjith Siriwardana, No. 3, Rest House Road, Gampaha. 3. Pilitthu Wasam Gallage Swarna Kusum Siriwardana, No. 3, Rest House Road, Gampaha. 4. Pilitthu Wasam Gallage Deepa Priyadarshani Silva, No. 3, Rest House Road, Gampaha. 5. Nupe Vidane Arachchige Kusumawathi, No. 3, Rest House Road, Gampaha. Defendants-Respondents-Respondents",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake CJ"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2011-07-08-SC-HC-CALA-99-2008",
     "num": "SC/HC CALA/99/2008",
     "date_str": "2011-07-08",
@@ -1510,6 +1522,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_35_2011.pdf",
     "parties": "Dasanayakage Gayani Geethika, Samarasinghe Mudalige Nandana Sugathsiri, Samarasinghe Mudalige Mithila Themiya Adithya Samarasinghe Vs D.M.D. Dissanayake, W.H.Premalal Kumarasiri , P.S.Nonis, Director of Education and 3 others",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-07-18-SC-APPEAL-51-2010",
+    "num": "SC/APPEAL/51/2010",
+    "date_str": "2011-07-18",
+    "description": "Hon. Tilakawardane J - M. Wimala Perera M. Premadasa...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_51_2010.pdf",
+    "parties": "M. Wimala Perera M. Premadasa Perera, Both of No. 139, De Waas Lane, Grandpass Road, Colombo 14 Substituted Plaintiff-Appellant-Petitioners vs. R.A. Kalyani Sriyalatha, No. 47, De Waas Lane, Grandpass Road, Colombo 14. Defendant-Respondent-Respondent",
+    "judgement_by": "Hon. Tilakawardane J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
@@ -1558,6 +1582,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_97_2009.pdf",
     "parties": "The Republic of Sri Lanka Vs. Kuruppu Arachchilage Wijetunge alias Wije & Others",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2011-09-29-SC-FR-469-2008",
+    "num": "SC/FR/469/2008",
+    "date_str": "2011-09-29",
+    "description": "Hon. S.I. Imam J - 1. Dr. C.L. Illesinghe, Asiri...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_469_2008.pdf",
+    "parties": "1. Dr. C.L. Illesinghe, Asiri, Kanadarawa, Medawachchiya. 2. Dr. W.M. Yamuna Malkanthi, 94, Manampitiya-East, Manampitiya. 3. Dr. T.J.B. Senadheera, New Puttlam Road, Anuradhapura. 4. Dr. K.S.N.S. Senanayake, 5th Mile Post, Zone 11, Rajanganaya. 5. Dr. K.R.W. Senaratne, Tirrappane, Anuradhapura. 6. Dr. W.G.R. Padmalatha, 145, UC Quarters, New Town, Anuradhapura. AND OTHERS",
+    "judgement_by": "Hon. S.I. Imam J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
