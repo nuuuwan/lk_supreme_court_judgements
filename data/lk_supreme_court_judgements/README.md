@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_14:32:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_14:55:49-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,360** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-05**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,361** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (65%), **TXT** (65%) & **🤗 Hugging Face** (65%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-05-SC-FR-414-2016",
-    "num": "SC/FR/414/2016",
-    "date_str": "2025-12-05",
-    "description": "Hon. Arjuna Obeyesekere J - 1. Atthiligoda Gamage Bhagya,...",
+    "doc_id": "2025-12-10-SC-FR-291-2020",
+    "num": "SC/FR/291/2020",
+    "date_str": "2025-12-10",
+    "description": "Hon. K. Kumudini Wickremasinghe J - Thennakoon Mudiyanselage Laks...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_414_2016.pdf",
-    "parties": "1. Atthiligoda Gamage Bhagya, 141/4 E, Mola Watta, Rilaulla, Kandana. 2. Raluwe Kankanamge Shantha Siri, No. 38, Siri Sumanagama, Thilakapura, Ambangoda. 3. Mananadewage Dammika Selton, 284/A1, Koopiwatta Road, Balangoda. 4. Abewardana Arachchilage Chandana, \u201cSathuta\u201d, Pahalagama, Kokgala, Ambalanthota. 5. Jayasinghe Arachchige Thushara Dammika Jayasinghe, Dalahena, Kakkapalliya. 6. Balasooriya Gamage Nisantha Rohana Wijerathne, 284/A, Kopiwatta Road, Balangoda. 7. Rajanayaka Mudiyanselage Lahiru Rukshala Rajanayaka, 138/1, Nethmina, Mudunakade, Thalathuoya. PETITIONERS Vs. 1. Ranaviru Seva Authority 2. Anoma Fonseka 2A. J.J.P.S.T. Liyanage 2B. Maj. Gen. D.S.N.K. Senadheera 2nd, 2A and 2B are Chairpersons/Chairmen, Rana Viru Seva Authority. 3. Upulangani Malagamuwa 3A. Ranjith Bandara Meegaswatte 3B. Sonia Kottegoda 3rd, 3A and 3B are Vice Chairpersons/ Chairman, Rana Viru Seva Authority. 4. W.A. Kulasooriya. 4A. I.T. Weerasinghe. 4B. Samanthi Weerasinghe. 4C. Jayantha Edirisinghe 5. Major General Udaya Medawala 5A. Major Gen.L.H.S.C. Silva. 5B. Major Gen. S.T.D. Liyanage. 5C. Maj. Gen. Jagath Gunawardena. 5D. Maj. W.L.P.L. Perera 5C. H.L.V.M. Liyanage 6. Rear. Admiral S.S. Ranasinghe 6A. Rear Admiral Nishantha Ulugethanna 6B. Rear Admiral Kapila Samaraweera 6C. Rear Admiral Y.N. Jayaratne 7. Air Vice Marshal Sumangala Dias. 7A. Air Vice Marshal S.K. Pathirana. 7B. Air Vice Marshal M.D.A.P. Payoe 8. M.D.R.S. Daminda 8A. Ranmal Kodithuwakku 8B. Sanjeewa Dharmarathna 8C. Sajeewa Medawatta 8D. S.W.M. Senarathne 8E. D.J. Pathmini 8th, 8A \u2013 8E are Deputy Inspector General of Police . 9. A.N. Hapugala 9A. Y.P. Sumanawathie 9B. Prejeewa Alwis 10. Major General D.M.D. Alwis 10A. Kanishka De Silva 11. Nilmini Perera 11A. Maj. Gen. D.M.S. Dissanayaka 12. W.P. Nimal Fernando 12A. K.A.H. Kumuduni 12B. H.G.D.M. Aluthwatta The 1st to 12B Respondents are at: The Ranaviru Seva Authority, No. 449, Galle Road, Colombo 03. 13. Eng. Karunasena Hettiarachchi, 13A. K. Waidyarathne, 13B. Gen. H.S.H. Kottegoda 13C. Kamal Gunerathne 13th and 13A \u2013 13C are Secretary, Ministry of Defence. 14. A.P.G. Kithsiri 14A. Sunil Samaraweera 14B. N.K.G.K. Nammuwaththa, 14th, 14A and 14B are Secretary, State Ministry of Defence. 13th, 13A \u2013 13C, 14th and 14A-B Respondents are at 15/5, Baladaksha Mawatha, Colombo 3. 15. H.G. Sumanasinghe, 15A. Thamara D. Perera, Director General 15 and 15A Respondents are at Department of Management Services, Ministry of Finance, Secretariat, Colombo 1. 16. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_291_2020.pdf",
+    "parties": "Thennakoon Mudiyanselage Lakshman Thenakoon, Sinharagama, Ralapanawa Nochchiyagama. PETITIONER Vs. 1. R.M.S.C. Rathnayaka Inspector of Police Divisional Vice Squad of the Anuradhapura Division, Police Station, Anuradhapura 2. Rathnayaka, Police Sergeant, Divisional Vice Squad of the Anuradhapura Division, Police Station, Anuradhapura 3. PS 17176 Asela Divisional Vice Squad of the Anuradhapura Division, Police Station, Anuradhapura 4. PC Bandara Divisional Vice Squad of the Anuradhapura Division, Police Station, Anuradhapura. 5. Jayathilake, Chief Inspector of Police The Officer in Charge Police Station, Nochchiyagama 6. C.D. Wickremarathne, Acting Inspector General of Police (As he was then) Police Headquarters, Colombo 01 7. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12 RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-12-10 | `SC/FR/291/2020` | Hon. K. Kumudini Wickremasinghe J - Thennakoon Mudiyanselage Laks... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-10-SC-FR-291-2020)
 - 2025-12-05 | `SC/FR/414/2016` | Hon. Arjuna Obeyesekere J - 1. Atthiligoda Gamage Bhagya,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-414-2016)
 - 2025-12-05 | `SC/FR/304/2020` | Hon. Arjuna Obeyesekere J - Vithana Arachchige Anurasiri ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-304-2020)
 - 2025-12-05 | `SC/CONT/4/2023` | Hon. Menaka Wijesundera J - Botunga Arachchige Chandrarat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-CONT-4-2023)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-11-21 | `SC/APPEAL/48/2024` | Hon. Sampath B. Abayakoon J - AND NOW BETWEEN Rajakaruna Mu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-21-SC-APPEAL-48-2024)
 - 2025-11-19 | `SC/CHC APPEAL/104/2018` | Hon. Arjuna Obeyesekere J - 1. S.C.B. Jayasinghe 2. S.T.B... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-19-SC-CHC-APPEAL-104-2018)
 - 2025-11-19 | `SC/APPEAL/153/2016` | Hon. Sampath B. Abayakoon J - Bogoda Arachchige Manortne, N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-19-SC-APPEAL-153-2016)
-- 2025-11-17 | `SC/FR/79/2019` | Hon. Sampath B. Abayakoon J - 1. Meringnage Sugandi Dinesha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-17-SC-FR-79-2019)
 
 ---
 
