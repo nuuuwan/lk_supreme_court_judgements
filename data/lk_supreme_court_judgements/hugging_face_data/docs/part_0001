@@ -73,6 +73,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2009-03-04-SC-FR-252-2007",
+    "num": "SC/FR/252/2007",
+    "date_str": "2009-03-04",
+    "description": "Hon. Shirani A. Bandaranayake J - M. Azath S. Salley, No. 122, ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_252_2007.pdf",
+    "parties": "M. Azath S. Salley, No. 122, Barnes Place, Colombo 07. Petitioner Vs. 1. Colombo Municipal Council, Town Hall, Colombo 07. 2. Mayor of Colombo, Colombo Municipal Council, Town Hall, Colombo 07. 3. Jayantha Liyanage, Municipal Commissioner, Colombo Municipal Council, Town Hall, Colombo 07. 4. W.A. Leelananda, Chairman, Advertising Committee, Colombo Municipal Council, Town Hall, Colombo 07. 5. Vishaka Dias, Municipal engineer, Colombo Municipal Council, Town Hall, Colombo 07. 6. Nelu Fernando, President, Outdoor Advertising Association of Lanka, No. 188, High Level Road, Nugegoda. 7. Fareed Mohideen, Secretary-General, Outdoor Advertising Association of Lanka, No. 188, High Level Road, Nugegoda. 8. Hon. The Attorney-General, Attorney General\u2019s Department, Colombo 12. 9. Auditor-General, Auditor General\u2019s Department, Independence Square, Colombo 07. Respondents",
+    "judgement_by": "Hon. Shirani A. Bandaranayake J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2009-03-11-SC-APPEAL-74-2007",
     "num": "SC/APPEAL/74/2007",
     "date_str": "2009-03-11",
@@ -130,6 +142,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_56_2008.pdf",
     "parties": "M. Deepthi Kumara Gunaratne & others Vs Dayananda Dissanayake & others",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2009-03-19-SC-FR-67-2008",
+    "num": "SC/FR/67/2008",
+    "date_str": "2009-03-19",
+    "description": "Hon. Shirani A. Bandaranayake J - 1. Sirimasiri Hapuarachchi, L...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_67_2008.pdf",
+    "parties": "1. Sirimasiri Hapuarachchi, Leader of the Party and General Secretary of the party called \u2018Eksath Janatha Peramuna\u2019, 306/C, Batagama North, Ja-Ela. 2. H.D. Keerthi Sampath, Executive Member of the Party called \u2018Eksath Janatha Peramuna\u2019, 306/C, Batagama North, Ja-ela. 3. Anil Chandrasekera, Chief Treasurer of the Party called \u2018Eksath Janatha Peramuna\u2019, 306/C, Batagama North, Ja-ela. Petitioners Vs. 1. Dayananda Dissanayake, Commissioner of Elections, Department of Elections, Elections Secretariat, P.O. Box 2, Rajagiriya 10107. 2. Hon. The Attorney-General, Attorney General\u2019s Department, Colombo 12. Respondents",
+    "judgement_by": "Hon. Shirani A. Bandaranayake J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
@@ -598,6 +622,18 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_3_2000.pdf",
     "parties": "Hon. The Attorney-General Vs Lanka Tractors Limited and another",
     "judgement_by": ""
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2010-03-30-SC-CHC-APPEAL-3-2000",
+    "num": "SC/CHC APPEAL/3/2000",
+    "date_str": "2010-03-30",
+    "description": "Hon. Dr. Shirani A. Bandaranayake J - Hon. The Attorney-General, At...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_3_2000.pdf",
+    "parties": "Hon. The Attorney-General, Attorney General\u2019s Department, Hulftsdorp, Colombo 12. Defendant-Appellant Vs. 1. Lanka Tractors Limited, No. 45/100, Nawala Road, Narahenpita, Colombo 05. 2. Globe Commercial Trading Limited, No. 40/1, Dickman\u2019s Road, Colombo 05. Plaintiffs-Respondents",
+    "judgement_by": "Hon. Dr. Shirani A. Bandaranayake J"
   },
   {
     "doc_type": "lk_supreme_court_judgements",
