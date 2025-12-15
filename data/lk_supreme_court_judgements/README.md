@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_14:34:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--15_14:56:13-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,386** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,387** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.4 GB**), from **2009-01-27** to **2025-12-15**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (65%), **TXT** (65%) & **🤗 Hugging Face** (65%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-10-SC-FR-291-2020",
-    "num": "SC/FR/291/2020",
-    "date_str": "2025-12-10",
-    "description": "Hon. K. Kumudini Wickremasinghe J - Thennakoon Mudiyanselage Laks...",
+    "doc_id": "2025-12-15-SC-FR-186-2019",
+    "num": "SC/FR/186/2019",
+    "date_str": "2025-12-15",
+    "description": "Hon. K. Priyantha Fernando J - 1. Alawaladewage Titus Kumara...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_291_2020.pdf",
-    "parties": "Thennakoon Mudiyanselage Lakshman Thenakoon, Sinharagama, Ralapanawa Nochchiyagama. PETITIONER Vs. 1. R.M.S.C. Rathnayaka Inspector of Police Divisional Vice Squad of the Anuradhapura Division, Police Station, Anuradhapura 2. Rathnayaka, Police Sergeant, Divisional Vice Squad of the Anuradhapura Division, Police Station, Anuradhapura 3. PS 17176 Asela Divisional Vice Squad of the Anuradhapura Division, Police Station, Anuradhapura 4. PC Bandara Divisional Vice Squad of the Anuradhapura Division, Police Station, Anuradhapura. 5. Jayathilake, Chief Inspector of Police The Officer in Charge Police Station, Nochchiyagama 6. C.D. Wickremarathne, Acting Inspector General of Police (As he was then) Police Headquarters, Colombo 01 7. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12 RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_186_2019.pdf",
+    "parties": "1. Alawaladewage Titus Kumara Karunaratne, No. 446/C, Nilpanagoda, Wagowwa. 2. Pingamage Jayasoma, No. 286/C/02, Nilpanagoda, Wagowwa. Petitioner V. 1. Athapaththu Mudiyanselage Priyantha Bandara Athapaththu, Police Constable, Katunayake Police Station, Katunayake. New Address: No. 151/6, Mullegama, Abathanna. 2. Inspector of Police, Katunayake Police Station, Katunayake. 3. Senior Superintendent of Police (SSP), Western Province, Colombo. 4. Inspector General of Police, Police Head Quarters, Colombo 01. 5. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-12-15 | `SC/FR/186/2019` | Hon. K. Priyantha Fernando J - 1. Alawaladewage Titus Kumara... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-15-SC-FR-186-2019)
 - 2025-12-10 | `SC/FR/291/2020` | Hon. K. Kumudini Wickremasinghe J - Thennakoon Mudiyanselage Laks... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-10-SC-FR-291-2020)
 - 2025-12-05 | `SC/FR/414/2016` | Hon. Arjuna Obeyesekere J - 1. Atthiligoda Gamage Bhagya,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-414-2016)
 - 2025-12-05 | `SC/FR/304/2020` | Hon. Arjuna Obeyesekere J - Vithana Arachchige Anurasiri ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-304-2020)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-11-21 | `SC/APPEAL/49/2024` | Hon. Sampath B. Abayakoon J - AND NOW BETWEEN Rajakaruna Mu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-21-SC-APPEAL-49-2024)
 - 2025-11-21 | `SC/APPEAL/48/2024` | Hon. Sampath B. Abayakoon J - AND NOW BETWEEN Rajakaruna Mu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-21-SC-APPEAL-48-2024)
 - 2025-11-19 | `SC/CHC APPEAL/104/2018` | Hon. Arjuna Obeyesekere J - 1. S.C.B. Jayasinghe 2. S.T.B... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-19-SC-CHC-APPEAL-104-2018)
-- 2025-11-19 | `SC/APPEAL/153/2016` | Hon. Sampath B. Abayakoon J - Bogoda Arachchige Manortne, N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-19-SC-APPEAL-153-2016)
 
 ---
 
