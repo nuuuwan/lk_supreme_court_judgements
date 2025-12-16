@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-12-16 13:53:05",
-  "n_docs": 2423,
-  "n_docs_with_pdfs": 1572,
-  "n_docs_with_text": 1572,
+  "time_updated": "2025-12-16 14:33:39",
+  "n_docs": 2427,
+  "n_docs_with_pdfs": 1584,
+  "n_docs_with_text": 1584,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-12-15",
-  "dataset_size": 1424959291,
+  "date_str_max": "2025-12-16",
+  "dataset_size": 1435769052,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-15-SC-FR-186-2019",
-    "num": "SC/FR/186/2019",
-    "date_str": "2025-12-15",
-    "description": "Hon. K. Priyantha Fernando J - 1. Alawaladewage Titus Kumara...",
+    "doc_id": "2025-12-16-SC-APPEAL-81-2019",
+    "num": "SC/APPEAL/81/2019",
+    "date_str": "2025-12-16",
+    "description": "Hon. Mahinda Samayawardhena J - Sellappulige Ravindra Susanth...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_186_2019.pdf",
-    "parties": "1. Alawaladewage Titus Kumara Karunaratne, No. 446/C, Nilpanagoda, Wagowwa. 2. Pingamage Jayasoma, No. 286/C/02, Nilpanagoda, Wagowwa. Petitioner V. 1. Athapaththu Mudiyanselage Priyantha Bandara Athapaththu, Police Constable, Katunayake Police Station, Katunayake. New Address: No. 151/6, Mullegama, Abathanna. 2. Inspector of Police, Katunayake Police Station, Katunayake. 3. Senior Superintendent of Police (SSP), Western Province, Colombo. 4. Inspector General of Police, Police Head Quarters, Colombo 01. 5. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. K. Priyantha Fernando J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_81_2019.pdf",
+    "parties": "Sellappulige Ravindra Susantha De Rosa, No. 111/2, Palugasdamana, Polonnaruwa. Through his Power of Attorney holder, Hondamuni Anoma Priyadharshani, No. 111/2, Palugasdamana, Polonnaruwa. Petitioner-Appellant Vs. 1. Divisional Secretary, Divisional Secretariat, Thamankaduwa, Polannaruwa. 2. Provincial Commissioner of Lands, Department of Provincial Commissioner of Lands, North-Central Province, Anuradhapura. 3. Deputy Commissioner of Lands, Office of the Deputy Commissioner of Lands, Polonnaruwa. 4. Sellappulige Benjamin Rosa, No. 111/1/1, Palugasdamana, Polonnaruwa. 5. Hon. Attorney-General, Attorney-General\u2019s Department, Colombo 12. Respondent-Respondent\n\nView More",
+    "judgement_by": "Hon. Mahinda Samayawardhena J"
   }
 }
