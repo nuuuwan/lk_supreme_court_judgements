@@ -28573,6 +28573,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2025-10-31-SC-APPEAL-5-2017",
+    "num": "SC/APPEAL/5/2017",
+    "date_str": "2025-10-31",
+    "description": "Hon. Yasantha Kodagoda PC J - Jayasundera Mudalige Maxi Per...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_5_2017.pdf",
+    "parties": "Jayasundera Mudalige Maxi Perera No. 106, Vijithapura Mawatha, Walpola, Angoda. 1st Respondent-Appellant-Petitioner -Vs- 1. Sathyaka Haren Samarasekera \u201cAdvantage,\u201d Nowera Road, Singapore. Appearing by his Attorney Somawathie Perera No.43, Sri Mahinda Mawatha, Homagama. Presently at: No.552, Westbury Park, Akuregoda Road, Battaramulla. 2. Somawathie Perera No.43, Sri Mahinda Mawatha, Homagama. Presently at: No.552, Westbury Park, Akuregoda Road, Battaramulla. Petitioner-Respondent-Respondents Registrar of Lands Land Registry, Homagama. Respondent-Respondent-Respondent",
+    "judgement_by": "Hon. Yasantha Kodagoda PC J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2025-11-03-SC-APPEAL-135-2023",
     "num": "SC/APPEAL/135/2023",
     "date_str": "2025-11-03",
