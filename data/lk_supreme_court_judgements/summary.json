@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-12-17 14:33:03",
-  "n_docs": 2431,
-  "n_docs_with_pdfs": 1598,
-  "n_docs_with_text": 1598,
+  "time_updated": "2025-12-17 14:56:15",
+  "n_docs": 2433,
+  "n_docs_with_pdfs": 1600,
+  "n_docs_with_text": 1600,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
   "date_str_max": "2025-12-17",
-  "dataset_size": 1455485336,
+  "dataset_size": 1457637201,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-17-SC-APPEAL-57-2013",
-    "num": "SC/APPEAL/57/2013",
+    "doc_id": "2025-12-17-SC-FR-6-2023",
+    "num": "SC/FR/6/2023",
     "date_str": "2025-12-17",
-    "description": "Hon. Arjuna Obeyesekere J - Kadanage Don Dharmadasa, alia...",
+    "description": "Hon. Mahinda Samayawardhena J - 1. Marapitiya Arachchilge Man...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_57_2013.pdf",
-    "parties": "Kadanage Don Dharmadasa, alias Dammi Mudalali, Kandalama Road, Dambulla. DEFENDANT \u2013 RESPONDENT \u2013 APPELLANT - Vs - Hettiarachchige Kamalita Ranjani Fernando, Koshena, Ikkukhena, Kuliyapitiya. SUBSTITUTED PLAINTIFF \u2013 APPELLANT \u2013 RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_6_2023.pdf",
+    "parties": "1. Marapitiya Arachchilge Manjula Somawardana, No. 143/A, Mailawalana, Kirindiwela. 2. Hewa Pawulage Chandi Dilum Munidasa, No. 7, Kumara Keerthi Mawatha, Walpola, Matara. 3. Amarasingha Arachchilage Mahesh Pradeepa Sampath, No. 20/7/2, Darshana Mawatha, Hokandara South, Hokandara. 4. Wijesinghe Arachchige Haral Prasley Perera, No. 387/5, Goda Uda Road, Ihala Bomiriya, Kaduwela. 5. Sitisekara Mudiyanselage Premarathna Sitisekara, No. 199, Obawatta, Heiyanthuduwa. 6. Wijahaluwalage Amarajeewa, Mailamada, Kumbukwewa. 7. Kadinappulige Ganga Chandi Kularathne, No. 71/2, Katuwalamulla, Ganemulla, 8. Pilapitiye Gedara Darshana Wimalarathne, No. 101/14, Tikiriraja Mawatha, Bandarawatta. AND OTHERS\n\nView More",
+    "judgement_by": "Hon. Mahinda Samayawardhena J"
   }
 }
