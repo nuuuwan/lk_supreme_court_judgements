@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-12-17 13:53:49",
-  "n_docs": 2428,
-  "n_docs_with_pdfs": 1595,
-  "n_docs_with_text": 1595,
+  "time_updated": "2025-12-17 14:33:03",
+  "n_docs": 2431,
+  "n_docs_with_pdfs": 1598,
+  "n_docs_with_text": 1598,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-12-16",
-  "dataset_size": 1453560738,
+  "date_str_max": "2025-12-17",
+  "dataset_size": 1455485336,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-16-SC-APPEAL-81-2019",
-    "num": "SC/APPEAL/81/2019",
-    "date_str": "2025-12-16",
-    "description": "Hon. Mahinda Samayawardhena J - Sellappulige Ravindra Susanth...",
+    "doc_id": "2025-12-17-SC-APPEAL-57-2013",
+    "num": "SC/APPEAL/57/2013",
+    "date_str": "2025-12-17",
+    "description": "Hon. Arjuna Obeyesekere J - Kadanage Don Dharmadasa, alia...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_81_2019.pdf",
-    "parties": "Sellappulige Ravindra Susantha De Rosa, No. 111/2, Palugasdamana, Polonnaruwa. Through his Power of Attorney holder, Hondamuni Anoma Priyadharshani, No. 111/2, Palugasdamana, Polonnaruwa. Petitioner-Appellant Vs. 1. Divisional Secretary, Divisional Secretariat, Thamankaduwa, Polannaruwa. 2. Provincial Commissioner of Lands, Department of Provincial Commissioner of Lands, North-Central Province, Anuradhapura. 3. Deputy Commissioner of Lands, Office of the Deputy Commissioner of Lands, Polonnaruwa. 4. Sellappulige Benjamin Rosa, No. 111/1/1, Palugasdamana, Polonnaruwa. 5. Hon. Attorney-General, Attorney-General\u2019s Department, Colombo 12. Respondent-Respondent\n\nView More",
-    "judgement_by": "Hon. Mahinda Samayawardhena J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_57_2013.pdf",
+    "parties": "Kadanage Don Dharmadasa, alias Dammi Mudalali, Kandalama Road, Dambulla. DEFENDANT \u2013 RESPONDENT \u2013 APPELLANT - Vs - Hettiarachchige Kamalita Ranjani Fernando, Koshena, Ikkukhena, Kuliyapitiya. SUBSTITUTED PLAINTIFF \u2013 APPELLANT \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
   }
 }

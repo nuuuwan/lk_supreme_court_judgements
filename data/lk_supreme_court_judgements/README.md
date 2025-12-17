@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_13:53:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--17_14:33:04-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,428** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2025-12-16**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,431** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2025-12-17**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-16-SC-APPEAL-81-2019",
-    "num": "SC/APPEAL/81/2019",
-    "date_str": "2025-12-16",
-    "description": "Hon. Mahinda Samayawardhena J - Sellappulige Ravindra Susanth...",
+    "doc_id": "2025-12-17-SC-APPEAL-57-2013",
+    "num": "SC/APPEAL/57/2013",
+    "date_str": "2025-12-17",
+    "description": "Hon. Arjuna Obeyesekere J - Kadanage Don Dharmadasa, alia...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_81_2019.pdf",
-    "parties": "Sellappulige Ravindra Susantha De Rosa, No. 111/2, Palugasdamana, Polonnaruwa. Through his Power of Attorney holder, Hondamuni Anoma Priyadharshani, No. 111/2, Palugasdamana, Polonnaruwa. Petitioner-Appellant Vs. 1. Divisional Secretary, Divisional Secretariat, Thamankaduwa, Polannaruwa. 2. Provincial Commissioner of Lands, Department of Provincial Commissioner of Lands, North-Central Province, Anuradhapura. 3. Deputy Commissioner of Lands, Office of the Deputy Commissioner of Lands, Polonnaruwa. 4. Sellappulige Benjamin Rosa, No. 111/1/1, Palugasdamana, Polonnaruwa. 5. Hon. Attorney-General, Attorney-General\u2019s Department, Colombo 12. Respondent-Respondent\n\nView More",
-    "judgement_by": "Hon. Mahinda Samayawardhena J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_57_2013.pdf",
+    "parties": "Kadanage Don Dharmadasa, alias Dammi Mudalali, Kandalama Road, Dambulla. DEFENDANT \u2013 RESPONDENT \u2013 APPELLANT - Vs - Hettiarachchige Kamalita Ranjani Fernando, Koshena, Ikkukhena, Kuliyapitiya. SUBSTITUTED PLAINTIFF \u2013 APPELLANT \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
 }
 ```
 
@@ -42,6 +42,9 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-12-17 | `SC/APPEAL/57/2013` | Hon. Arjuna Obeyesekere J - Kadanage Don Dharmadasa, alia... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-17-SC-APPEAL-57-2013)
+- 2025-12-17 | `SC/APPEAL/197/2015` | Hon. M. Sampath K.B. Wijeratne J - H.M. Sugathadasa No. 85, New ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-17-SC-APPEAL-197-2015)
+- 2025-12-17 | `SC/APPEAL/125/2023` | Hon. Dr. Sobhitha Rajakaruna J - Seylan Bank PLC 90, Seylan To... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-17-SC-APPEAL-125-2023)
 - 2025-12-16 | `SC/APPEAL/81/2019` | Hon. Mahinda Samayawardhena J - Sellappulige Ravindra Susanth... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-16-SC-APPEAL-81-2019)
 - 2025-12-16 | `SC/APPEAL/46/2025` | Hon. Mahinda Samayawardhena J - Jasenthu Liyanage Prasanga de... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-16-SC-APPEAL-46-2025)
 - 2025-12-16 | `SC/APPEAL/113/2020` | Hon. Mahinda Samayawardhena J - Ganiatchi Pathirage Chandra M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-16-SC-APPEAL-113-2020)
@@ -59,9 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-12-05 | `SC/APPEAL/16/2021` | Hon. Achala Wengappuli J - Punchihewage Sampath Kumara a... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-16-2021)
 - 2025-12-05 | `SC/APPEAL/1/2018` | Hon. Mahinda Samayawardhena J - Kariyawasam Katukoliha Gamage... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-1-2018)
 - 2025-12-03 | `SC/FR/81/2025` | Hon. Sampath B. Abayakoon J - R.K. Janaka Sathyajith Rajapa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-81-2025)
-- 2025-12-03 | `SC/FR/326/2021, SC/FR/327/2021` | Hon. Menaka Wijesundera J - 1. Kanagalingam Wijayadojini,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-03-SC-FR-326-2021--SC-FR-327-2021)
-- 2025-11-26 | `SC/FR/16/2021` | Hon. Arjuna Obeyesekere J - 1. E.G.R.M.N.N.K. Rathnayaka,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-26-SC-FR-16-2021)
-- 2025-11-26 | `SC/APPEAL/63/2021` | Hon. A. L. Shiran Gooneratne, Acting CJ - Amitha Sandaseeli Kellambi, o... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-11-26-SC-APPEAL-63-2021)
 
 ---
 
