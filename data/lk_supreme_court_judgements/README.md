@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_15:53:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_16:30:37-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,442** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2025-12-18**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,443** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2025-12-18**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
 
@@ -47,6 +47,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-12-18 | `SC/CHC APPEAL/22/2020` | Hon. Sampath B. Abayakoon J - Hikkaduwa Liyanage Kumuduni M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-18-SC-CHC-APPEAL-22-2020)
 - 2025-12-18 | `SC/CHC APPEAL/2/2021` | Hon. A.L. Shiran Gooneratne J - 1. Oslo Marketing (Private) L... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-18-SC-CHC-APPEAL-2-2021)
 - 2025-12-18 | `SC/APPEAL/130/2025` | Hon. Mahinda Samayawardhena J - Kotte Hewa Swarnamali Thilini... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-18-SC-APPEAL-130-2025)
+- 2025-12-18 | `SC/APPEAL/100/2006` | Hon. Achala Wengappuli J - C.K.N. Rohan Fernando No.64 C... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-18-SC-APPEAL-100-2006)
 - 2025-12-17 | `SC/FR/6/2023` | Hon. Mahinda Samayawardhena J - 1. Marapitiya Arachchilge Man... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-17-SC-FR-6-2023)
 - 2025-12-17 | `SC/APPEAL/57/2013` | Hon. Arjuna Obeyesekere J - Kadanage Don Dharmadasa, alia... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-17-SC-APPEAL-57-2013)
 - 2025-12-17 | `SC/APPEAL/197/2015` | Hon. M. Sampath K.B. Wijeratne J - H.M. Sugathadasa No. 85, New ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-17-SC-APPEAL-197-2015)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-12-05 | `SC/FR/304/2020` | Hon. Arjuna Obeyesekere J - Vithana Arachchige Anurasiri ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-304-2020)
 - 2025-12-05 | `SC/CONT/4/2023` | Hon. Menaka Wijesundera J - Botunga Arachchige Chandrarat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-CONT-4-2023)
 - 2025-12-05 | `SC/APPEAL/77/2019` | Hon. M. Sampath K. B. Wijeratne J - 1. Nawalage Manel Mahendra Di... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-77-2019)
-- 2025-12-05 | `SC/APPEAL/59/2018` | Hon. Janak De Silva J - Nesam Soundaram Ammal, Wetiya... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-59-2018)
 
 ---
 
