@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_12:34:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_13:27:10-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,443** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2025-12-18**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,448** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2025-12-19**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
-- In **JSON**, **PDF** (66%), **TXT** (66%) & **🤗 Hugging Face** (66%)
+- In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
 - In **English**
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-18-SC-RULE-3-2023",
-    "num": "SC/RULE/3/2023",
-    "date_str": "2025-12-18",
-    "description": "Hon. A.L. Shiran Gooneratne J - Ranjan Gamini Gunarathne, No....",
+    "doc_id": "2025-12-19-SC-CHC-APPEAL-45-2018",
+    "num": "SC/CHC APPEAL/45/2018",
+    "date_str": "2025-12-19",
+    "description": "Hon. Arjuna Obeyesekere J - John Sylvester Hora\udbc0\udd9fo Joshua,...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_rule_3_2023.pdf",
-    "parties": "Ranjan Gamini Gunarathne, No. 72/4, Udumulla Road, Battaramulla. COMPLAINANT Vs. Dahanayake Liyana Arachchige Sujeewa Laal Kumara, No.867, Ethul Kotte, Kotte. RESPONDENT\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_45_2018.pdf",
+    "parties": "John Sylvester Hora\udbc0\udd9fo Joshua, 15/ 1, Beach Road, Mount Lavinia. And presently of No. 05, Police Park Avenue, Colombo 05. PLAINTIFF \u2013 APPELLANT Vs. Seylan Bank PLC, Ceylinco Seylan Towers No.90, Galle Road, Colombo 03 DEFENDANT \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
 }
 ```
 
@@ -42,6 +42,10 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2025-12-19 | `SC/CHC APPEAL/45/2018` | Hon. Arjuna Obeyesekere J - John Sylvester Hora􀆟o Joshua,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-19-SC-CHC-APPEAL-45-2018)
+- 2025-12-19 | `SC/APPEAL/59/2022, SC/APPEAL/60/2022, SC/APPEAL/61/2022` | Hon. Menaka Wijesundera J - 1. Kasthuri Arachchiage Pathm... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-19-SC-APPEAL-59-2022--SC-A-a4c9ff3c)
+- 2025-12-19 | `SC/APPEAL/56/2022, SC/APPEAL/57/2022, SC/APPEAL/58/2022` | Hon. Menaka Wijesundera J - Ceylon Steel Corporation Limi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-19-SC-APPEAL-56-2022--SC-A-8a56f23e)
+- 2025-12-19 | `SC/APPEAL/164/2015` | Hon. Menaka Wijesundera J - 1. D.M.H. Abeykulawardena No.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-19-SC-APPEAL-164-2015)
 - 2025-12-18 | `SC/RULE/3/2023` | Hon. A.L. Shiran Gooneratne J - Ranjan Gamini Gunarathne, No.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-18-SC-RULE-3-2023)
 - 2025-12-18 | `SC/FR/244/2017` | Hon. Menaka Wijesundera J - 1. Ranasinghe Arachchige Nade... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-18-SC-FR-244-2017)
 - 2025-12-18 | `SC/CHC APPEAL/22/2020` | Hon. Sampath B. Abayakoon J - Hikkaduwa Liyanage Kumuduni M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-18-SC-CHC-APPEAL-22-2020)
@@ -58,10 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2025-12-16 | `SC/APPEAL/113/2020` | Hon. Mahinda Samayawardhena J - Ganiatchi Pathirage Chandra M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-16-SC-APPEAL-113-2020)
 - 2025-12-15 | `SC/FR/186/2019` | Hon. K. Priyantha Fernando J - 1. Alawaladewage Titus Kumara... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-15-SC-FR-186-2019)
 - 2025-12-10 | `SC/FR/291/2020` | Hon. K. Kumudini Wickremasinghe J - Thennakoon Mudiyanselage Laks... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-10-SC-FR-291-2020)
-- 2025-12-05 | `SC/FR/414/2016` | Hon. Arjuna Obeyesekere J - 1. Atthiligoda Gamage Bhagya,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-414-2016)
-- 2025-12-05 | `SC/FR/304/2020` | Hon. Arjuna Obeyesekere J - Vithana Arachchige Anurasiri ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-FR-304-2020)
-- 2025-12-05 | `SC/CONT/4/2023` | Hon. Menaka Wijesundera J - Botunga Arachchige Chandrarat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-CONT-4-2023)
-- 2025-12-05 | `SC/APPEAL/77/2019` | Hon. M. Sampath K. B. Wijeratne J - 1. Nawalage Manel Mahendra Di... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-05-SC-APPEAL-77-2019)
 
 ---
 

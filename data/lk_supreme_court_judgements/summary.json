@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2025-12-19 12:34:35",
-  "n_docs": 2443,
-  "n_docs_with_pdfs": 1623,
-  "n_docs_with_text": 1623,
+  "time_updated": "2025-12-19 13:27:08",
+  "n_docs": 2448,
+  "n_docs_with_pdfs": 1628,
+  "n_docs_with_text": 1628,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2025-12-18",
-  "dataset_size": 1479233464,
+  "date_str_max": "2025-12-19",
+  "dataset_size": 1481170004,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2025-12-18-SC-RULE-3-2023",
-    "num": "SC/RULE/3/2023",
-    "date_str": "2025-12-18",
-    "description": "Hon. A.L. Shiran Gooneratne J - Ranjan Gamini Gunarathne, No....",
+    "doc_id": "2025-12-19-SC-CHC-APPEAL-45-2018",
+    "num": "SC/CHC APPEAL/45/2018",
+    "date_str": "2025-12-19",
+    "description": "Hon. Arjuna Obeyesekere J - John Sylvester Hora\udbc0\udd9fo Joshua,...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_rule_3_2023.pdf",
-    "parties": "Ranjan Gamini Gunarathne, No. 72/4, Udumulla Road, Battaramulla. COMPLAINANT Vs. Dahanayake Liyana Arachchige Sujeewa Laal Kumara, No.867, Ethul Kotte, Kotte. RESPONDENT\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_45_2018.pdf",
+    "parties": "John Sylvester Hora\udbc0\udd9fo Joshua, 15/ 1, Beach Road, Mount Lavinia. And presently of No. 05, Police Park Avenue, Colombo 05. PLAINTIFF \u2013 APPELLANT Vs. Seylan Bank PLC, Ceylinco Seylan Towers No.90, Galle Road, Colombo 03 DEFENDANT \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
   }
 }
