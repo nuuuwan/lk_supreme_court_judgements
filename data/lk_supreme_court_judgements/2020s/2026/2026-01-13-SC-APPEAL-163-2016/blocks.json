@@ -1,0 +1,5839 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      127.82,
+      71.99,
+      488.8,
+      88.35
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.8,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      145.92,
+      464.69,
+      159.92
+    ],
+    "text": "Abeysekara Patabedendige Robin",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      167.04,
+      342.53,
+      181.04
+    ],
+    "text": "Rajapakshe,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      188.16,
+      338.21,
+      202.16
+    ],
+    "text": "No. 112/9,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      209.28,
+      358.39,
+      223.28
+    ],
+    "text": "Lebanan Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      230.55,
+      352.87,
+      244.55
+    ],
+    "text": "Nuwara Eliya.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      251.67,
+      452.47,
+      265.67
+    ],
+    "text": "Defendant-Appellant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      272.79,
+      233.81,
+      286.77
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      293.91,
+      231.17,
+      307.89
+    ],
+    "text": "CP/HCCA/KAN/51/13",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      315.03,
+      306.53,
+      329.01
+    ],
+    "text": "DC NUWARA ELIYA L1116/05",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      357.29,
+      288.77,
+      371.29
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      399.53,
+      454.87,
+      413.53
+    ],
+    "text": "Ashoka Gamini Hatharasinghe,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      420.65,
+      413.11,
+      434.65
+    ],
+    "text": "No. 96A, Colombo Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      441.77,
+      346.37,
+      455.77
+    ],
+    "text": "Polgahawela.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      462.89,
+      463.99,
+      476.89
+    ],
+    "text": "Plaintiff-Respondent-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      508.04,
+      409.63,
+      522.04
+    ],
+    "text": "Before: Hon. Justice Mahinda Samayawardhena",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      529.28,
+      372.91,
+      543.28
+    ],
+    "text": "Hon. Justice Menaka Wijesundera",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      550.4,
+      409.87,
+      564.4
+    ],
+    "text": "Hon. Justice M. Sampath K.B. Wijeratne",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      577.52,
+      504.67,
+      591.52
+    ],
+    "text": "Counsel: Saumya Amarasekara, P.C., with Shehan Gunawardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.42,
+      598.64,
+      509.95,
+      612.64
+    ],
+    "text": "Subhash Gunathilaka and Pradeep Priyadarshana for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.42,
+      619.76,
+      357.31,
+      633.76
+    ],
+    "text": "Defendant-Appellant-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      158.42,
+      646.88,
+      513.55,
+      660.88
+    ],
+    "text": "Samantha Ratwatte, P.C., with Lalanika Kankanamge and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.78,
+      668.02,
+      529.78,
+      682.02
+    ],
+    "text": "Madhurya Bandara for the Plaintiff-Respondent-Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.42,
+      695.14,
+      238.49,
+      709.14
+    ],
+    "text": "Argued on: 11.09.2025",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      36.04,
+      319.9,
+      62.94
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      72.0,
+      215.33,
+      86.0
+    ],
+    "text": "Written submissions:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      99.12,
+      492.46,
+      113.12
+    ],
+    "text": "By the Defendant-Appellant-Appellant on 30.10.2025.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.42,
+      126.24,
+      500.14,
+      140.24
+    ],
+    "text": "By the Plaintiff-Respondent-Respondent on 30.10.2025.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      153.36,
+      238.49,
+      167.36
+    ],
+    "text": "Decided on: 13.01.2026",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      195.6,
+      218.69,
+      209.58
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      228.75,
+      529.34,
+      242.75
+    ],
+    "text": "The plaintiff instituted this action against the defendant in the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      249.99,
+      529.46,
+      263.99
+    ],
+    "text": "Court of Nuwara Eliya seeking a declaration of title to the land described in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      271.11,
+      529.32,
+      285.11
+    ],
+    "text": "the first schedule to the plaint, ejectment of the defendant from a portion",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      292.23,
+      529.39,
+      306.23
+    ],
+    "text": "thereof described in the second schedule to the plaint and damages. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      313.35,
+      529.34,
+      327.35
+    ],
+    "text": "defendant filed answer seeking the dismissal of the plaintiff\u2019s action and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      334.47,
+      529.46,
+      348.47
+    ],
+    "text": "also made a claim in reconvention for peaceful possession of the entire land.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      355.59,
+      529.53,
+      369.59
+    ],
+    "text": "After trial, the District Court entered judgment for the plaintiff, except for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      376.73,
+      529.33,
+      390.73
+    ],
+    "text": "damages. On appeal, the High Court of Civil Appeal of Kandy affirmed that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      397.85,
+      341.09,
+      411.85
+    ],
+    "text": "judgment. Hence this appeal to this Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      430.97,
+      529.34,
+      444.97
+    ],
+    "text": "At the hearing before this Court, learned President\u2019s Counsel for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      452.09,
+      529.44,
+      466.09
+    ],
+    "text": "defendant-appellant confined her submissions to the following two",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      473.21,
+      188.9,
+      487.21
+    ],
+    "text": "questions of law:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.42,
+      506.36,
+      529.38,
+      520.36
+    ],
+    "text": "(a) Did the District Judge err in law when he framed two additional",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.42,
+      527.48,
+      529.33,
+      541.48
+    ],
+    "text": "issues at the stage of the judgment and immediately proceeded to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.42,
+      548.6,
+      208.58,
+      562.6
+    ],
+    "text": "answer them?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.42,
+      569.84,
+      529.54,
+      583.84
+    ],
+    "text": "(b) Did the High Court fail to apply sections 33 and 34 of the Civil",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.42,
+      590.96,
+      529.39,
+      604.96
+    ],
+    "text": "Procedure Code and the doctrine of estoppel to identify that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.42,
+      612.08,
+      406.87,
+      626.08
+    ],
+    "text": "answers to issues No. 14 and 15 are not viable?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      645.2,
+      529.49,
+      659.2
+    ],
+    "text": "The plaintiff\u2019s pleaded case in a nutshell was that Sumanawathi",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      666.34,
+      529.33,
+      680.34
+    ],
+    "text": "Weerasinghe became entitled to the land by deed marked P6, that she",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.42,
+      687.46,
+      529.33,
+      701.46
+    ],
+    "text": "thereafter transferred the land to the plaintiff by deed of transfer marked",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      36.04,
+      319.9,
+      62.94
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      72.0,
+      529.43,
+      86.0
+    ],
+    "text": "P2, and that the defendant was in unlawful possession of the land described",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      93.12,
+      529.54,
+      107.12
+    ],
+    "text": "in the second schedule to the plaint. The issues were framed on that basis.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      126.24,
+      529.37,
+      140.24
+    ],
+    "text": "The plaintiff commenced his evidence by stating that Sumanawathi",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      147.36,
+      529.37,
+      161.42
+    ],
+    "text": "Weerasinghe, his loku amma, first gifted the land to him by deed of gift No.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      168.48,
+      529.49,
+      182.48
+    ],
+    "text": "5117 marked P1 (subject to her life interest), and for the purpose of further",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      189.6,
+      529.33,
+      203.6
+    ],
+    "text": "manifesting clear title, the same land was thereafter transferred to him by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      210.87,
+      310.13,
+      224.87
+    ],
+    "text": "deed of transfer No. 2892 marked P2.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      244.0,
+      528.7,
+      257.62
+    ],
+    "text": "\u0db8\u0db8 \u0dad\u0db8\u0dba\u0dd2 \u0db8\u0dda \u0db1\u0da9\u0dd4\u0db8\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dd2\u0d9a\u0dbb\u0dd4. \u0db8\u0db8\u0db8 \u0db1\u0da9\u0dd4\u0dc0\u0da7 \u0d85\u0daf\u0dcf\u0dbd \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0db8\u0dd4\u0dbd\u0dd2\u0db1\u0dca\u0db8 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db8\u0dc0\u0dbd\u0dcf",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      264.4,
+      528.7,
+      278.02
+    ],
+    "text": "\u0dad\u0dd2\u0db6\u0dd4\u0db8\u0db1\u0dca \u0db8\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7. \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7 \u0d91\u0dba \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dc0\u0dd4\u0db8\u0db1\u0dca \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0db8\u0daf\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dd4\u0db8\u0dc0\u0db1\u0dca.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      284.8,
+      528.7,
+      298.42
+    ],
+    "text": "\u0db8\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0db8\u0dda \u0db1\u0db8 \u0dc3\u0dd4\u0db8\u0db1\u0dcf\u0dc0\u0dad\u0dd3 \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4. \u0d87\u0dba \u0db8\u0db8\u0db8 \u0db8\u0dda\u0db4\u0dbd \u0db8\u0da7 \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dd2\u0db1\u0dca",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      305.2,
+      528.7,
+      318.82
+    ],
+    "text": "\u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf. \u0d91\u0db8\u0dc3\u0dca \u0daf\u0dd4\u0db1\u0dca\u0db8\u0db1\u0dca \u0dc3\u0dd3. \u0d91\u0dda. \u0d91\u0dbd\u0dca. \u0daf \u0dc3\u0dbd\u0dca\u0dc0\u0dcf \u0db8\u0db1\u0dcf\u0dad\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0dc0\u0dd2\u0dc3\u0db1\u0dca 1984 \u0db8\u0dcf\u0dbb\u0dca\u0dd4 \u0db8\u0dc3 27 \u0dc0\u0db1 \u0daf\u0dd2\u0db1",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      325.72,
+      528.7,
+      339.34
+    ],
+    "text": "\u0dbd\u0dd2\u0dba\u0dcf \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d85\u0dd2\u0d82\u0d9a : 5117 \u0daf\u0dbb\u0dab \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dba \u0db8\u0dad. \u0d91\u0db8 \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf \u0d9a\u0dbb\u0dba \u0db8\u0db8\u0db8",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      346.12,
+      528.7,
+      359.74
+    ],
+    "text": "\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db8\u0dda\u0daf\u0dd3 \u0db4\u0dd0.1 \u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbb \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0db4\u0dad\u0db1\u0dc0\u0dcf. (\u0db4\u0dd0.1 \u0d94\u0db4\u0dca\u0db4\u0dd4",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      366.54,
+      528.7,
+      380.16
+    ],
+    "text": "\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db7\u0dcf\u0dbb\u0dba\u0da7 \u0dba\u0da7\u0dad\u0dca\u0dc0 \u0db7\u0dcf\u0dbb\u0d9c\u0db1\u0dca\u0db1\u0dcf \u0db8\u0dbd\u0dc3 \u0dc0\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0db8\u0dda \u0db1\u0dd3\u0dad\u0dd3\u0da5 \u0db8\u0dc4\u0dad\u0dcf \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0da7\u0dd3.) \u0d91\u0db8\u0dc3\u0dca \u0d91\u0db8 \u0dad\u0dd1\u0d9c\u0dd2",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      387.06,
+      528.7,
+      400.68
+    ],
+    "text": "\u0daf\u0dd3\u0db8\u0db1\u0dcf \u0d9a\u0dbb\u0dba \u0db8\u0dad \u0db8\u0da7 \u0db8\u0dda \u0d89\u0da9\u0db8 \u0dbd\u0dd0\u0db6\u0dd3 \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dad\u0dca \u0d89\u0db1\u0dca\u0db4\u0dc3\u0dd4\u0dc0 \u0db1\u0dd0\u0dc0\u0dad\u0dad\u0dca 1995 \u0d85\u0db8\u0dda\u0dbd\u0dca 17 \u0db8\u0dc0\u0db1\u0dd2 \u0daf\u0dd2\u0db1",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      407.46,
+      528.7,
+      421.08
+    ],
+    "text": "\u0db8\u0da7 \u0db8\u0dda \u0db8\u0dda\u0db4\u0dbd \u0dc3\u0dda\u0db6\u0db1\u0dca\u0db0\u0db8\u0dba\u0db1\u0dca \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0dc4\u0dd2\u0db8\u0dd2\u0d9a\u0db8\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dd2\u0dba \u0dba\u0dd4\u0dd4\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0dcf \u0dc4\u0dd2\u0dad\u0dd4 \u0db1\u0dd2\u0dc3\u0dcf \u0db8\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      427.86,
+      528.7,
+      441.48
+    ],
+    "text": "\u0d85\u0dda\u0db8\u0dcf \u0dc0\u0db1 \u0dc3\u0dd4\u0db8\u0db1\u0dcf\u0dc0\u0dad\u0dd3 \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0db1\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0dad\u0dd2\u0dba \u0d91\u0db8 \u0db8\u0dda\u0db4\u0dbd \u0db8\u0da7 \u0db4\u0dd0\u0dc0\u0dbb\u0dd4\u0dda\u0d9a\u0dbb\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dbb\u0dcf",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      448.26,
+      528.7,
+      461.88
+    ],
+    "text": "\u0dad\u0dd2\u0db8\u0dba\u0db1\u0dc0\u0dcf. \u0d91\u0db8\u0dc3\u0dca \u0db4\u0dc0\u0dbb\u0dcf \u0dad\u0dd2\u0db8\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca 1995.04.17 \u0dc0\u0db1 \u0daf\u0dd2\u0db1 \u0d91\u0db1\u0dca. \u0da7\u0dd3. \u0db8\u0dc4\u0dca\u0dbb\u0dad\u0dca \u0db8\u0db1\u0dcf\u0dad\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0dc0\u0dd2\u0dc3\u0db1\u0dca",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      468.78,
+      528.7,
+      482.4
+    ],
+    "text": "\u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dbb\u0db1 \u0dbd\u0daf \u0d85\u0dd2\u0d82\u0d9a: 2892 \u0daf\u0dbb\u0dab \u0db4\u0dd0\u0dc0\u0dbb\u0dd4\u0dda \u0d9a\u0dbb\u0dba \u0db8\u0dad. \u0d91\u0db8 \u0db4\u0dd0\u0dc0\u0dbb\u0dd4\u0dda \u0d9a\u0dbb\u0dba \u0db8\u0db8\u0db8",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      489.18,
+      528.7,
+      502.8
+    ],
+    "text": "\u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db8\u0dda\u0daf\u0dd3 \u0db4\u0dd0.2 \u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc3\u0dbb \u0db4\u0dad\u0db1\u0dc0\u0dcf. (\u0db4\u0dd0.2 \u0d94\u0db4\u0dca\u0db4\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0dda \u0db7\u0dcf\u0dbb\u0dba\u0da7",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      509.61,
+      528.7,
+      523.23
+    ],
+    "text": "\u0dba\u0da7\u0dad\u0dca\u0dc0 \u0db7\u0dcf\u0dbb\u0d9c\u0db1\u0dca\u0db1\u0dcf \u0db8\u0dbd\u0dc3 \u0dc0\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0db8\u0dda \u0db1\u0dd3\u0dad\u0dd3\u0da5 \u0db8\u0dc4\u0dad\u0dcf \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0da7\u0dd3.) (\u0dc3\u0dcf\u0d9a\u0dca\u0dd2\u0d9a\u0dbb\u0dd4\u0da7 \u0db4\u0dd0.1 \u0db8\u0dbd\u0dca\u0d9b\u0db1\u0dba",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      530.13,
+      528.7,
+      543.75
+    ],
+    "text": "\u0db8\u0db4\u0db1\u0dca\u0dc0\u0dba\u0dd2.) \u0db8\u0db8\u0dc4\u0dd2 \u0dba\u0dda \u0dba\u0dda \u0db8\u0d9a\u0dcf\u0db1\u0dca\u0db8\u0dda\u0dc3 \u0daf\u0dcf\u0dbd\u0dcf \u0dad\u0dd2\u0db8\u0dba\u0db1\u0dc0\u0dcf. \u0d92 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca \u0d9a\u0dd4\u0dbd\u0dd2\u0dba \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba,",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      550.53,
+      528.7,
+      564.15
+    ],
+    "text": "\u0dc1\u0dd4\u0dda\u0db0 \u0dbd\u0dcf\u0db7\u0dba \u0db8\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0db8\u0dba\u0db1\u0dca \u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0dda \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba \u0d86\u0daf\u0dd2\u0dba \u0d87\u0dba\u0db8\u0dda \u0da2\u0dd3\u0dc0\u0dd2\u0dad \u0d9a\u0dcf\u0dbd\u0dba \u0dd4\u0dbd \u0d87\u0dba\u0da7 \u0dbd\u0db6\u0dcf",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      570.93,
+      528.7,
+      584.55
+    ],
+    "text": "\u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0db8\u0db8\u0db8 \u0db4\u0dd0.1 \u0daf\u0dbb\u0dab \u0db8\u0dbd\u0dca\u0d9b\u0dab\u0db8\u0dda \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0db8\u0dc0\u0db1\u0dc0\u0dcf. \u0d92 \u0dc3\u0dba\u0dbd\u0dca\u0dbd\u0db8",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      591.45,
+      528.7,
+      605.07
+    ],
+    "text": "\u0dc3\u0dda\u0dd6\u0dbb\u0dca\u0dab\u0db8\u0dba\u0db1\u0dca \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb \u0dad\u0dd2\u0db8\u0db6\u0db1\u0dc0\u0dcf \u0db8\u0dda \u0db4\u0dd0. 2 \u0daf\u0dbb\u0dab \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0dda \u0d9a\u0dbb\u0db8\u0dba\u0db1\u0dca. \u0d92 \u0d85\u0db1\u0dd4\u0dc0 \u0db8\u0db8 \u0db8\u0dda",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      611.24,
+      282.41,
+      625.47
+    ],
+    "text": "\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0db8\u0dda \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0d9a\u0dcf\u0dbb\u0dba\u0dcf \u0db8\u0dc0\u0db1\u0dc0\u0dcf\u2026",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.42,
+      632.24,
+      529.54,
+      646.24
+    ],
+    "text": "(Pages 3-4 of the proceedings of the District Court dated 18.02.2010)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      665.38,
+      529.54,
+      679.38
+    ],
+    "text": "Giving further prominence to deed of gift No. 5117 marked P1, learned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.42,
+      686.5,
+      529.3,
+      700.5
+    ],
+    "text": "counsel for the defendant also marked the said deed as V1 and subjected",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      36.04,
+      319.9,
+      62.94
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      72.0,
+      529.49,
+      86.0
+    ],
+    "text": "the plaintiff to extensive cross-examination on the basis that the deed of gift",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      93.12,
+      529.3,
+      107.12
+    ],
+    "text": "No. 5117 was an irrevocable deed of gift executed in favour of the plaintiff,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      114.24,
+      529.54,
+      128.24
+    ],
+    "text": "and that, upon the execution of that deed, Sumanawathi Weerasinghe did",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      135.36,
+      529.33,
+      149.36
+    ],
+    "text": "not have any right to effect a further transfer by deed marked P2. This",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.42,
+      156.48,
+      512.26,
+      170.48
+    ],
+    "text": "contention was strongly advanced by learned counsel for the defendant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      177.61,
+      177.86,
+      191.23
+    ],
+    "text": "\u0dc4\u0dbb\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0dab",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      198.13,
+      366.31,
+      211.75
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0dda \u0dc3\u0dd4\u0db8\u0db1\u0dcf\u0dc0\u0dad\u0dd3 \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0d9a\u0dc0\u0dd4\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      218.56,
+      204.5,
+      232.18
+    ],
+    "text": "\u0d8b: \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      238.96,
+      524.74,
+      252.58
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0daf\u0dd0\u0db1\u0dca \u0d94\u0dba \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf \u0db8\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0db8\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc1\u0dca\u0db1\u0d9c\u0dad \u0db8\u0dda\u0db4\u0dbd \u0dad\u0db8\u0db1\u0dca\u0da7 \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf \u0d9a\u0dd2\u0dda\u0dc0\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      259.48,
+      184.34,
+      273.1
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      279.88,
+      280.49,
+      293.5
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0d9a\u0dcf\u0dba\u0dd2 \u0d9a\u0dcf\u0dbd\u0db8\u0dda\u0daf \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd4\u0db1\u0dca\u0db8\u0db1\u0dca?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      300.28,
+      170.18,
+      313.9
+    ],
+    "text": "\u0d8b: 1984.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      320.68,
+      259.13,
+      334.3
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0d9a\u0dcf\u0db8\u0dc4\u0dcf\u0db8\u0daf \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd4\u0db1\u0dca\u0db8\u0db1\u0dca?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      341.2,
+      218.93,
+      354.82
+    ],
+    "text": "\u0d8b: \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dd2\u0db1\u0dca.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      361.62,
+      492.82,
+      375.24
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca \u0d92 \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0 \u0dad\u0db8\u0dba\u0dd2 \u0db4\u0dd0.1 \u0d9a\u0dd2\u0dba\u0dcf \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0db8 \u0dca. 5117 \u0d9a\u0dd2\u0dba\u0db1 \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      382.02,
+      184.34,
+      395.64
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      402.54,
+      528.7,
+      416.16
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d92 \u0dc0\u0dcf\u0db8\u0dda\u0db8 \u0dad\u0db8\u0dcf \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dc3\u0dcf\u0d9a\u0dca\u0dd2 \u0db8\u0daf\u0db8\u0dd2\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0da7\u0dd2\u0dba\u0dcf \u0db8\u0dda \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0db8\u0dda \u0dba\u0dda \u0dba\u0dda \u0db8\u0d9a\u0dcf\u0db1\u0dca\u0db8\u0dda\u0dc3",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      422.94,
+      189.98,
+      436.56
+    ],
+    "text": "\u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dcf \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      443.34,
+      184.34,
+      456.96
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      463.74,
+      255.17,
+      477.36
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0db8\u0dcf\u0db1\u0dc0\u0daf \u0d92 \u0db8\u0d9a\u0dcf\u0db1\u0dca\u0db8\u0dda\u0dc3?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      484.26,
+      356.83,
+      497.88
+    ],
+    "text": "\u0d8b: \u0d85\u0dc0\u0dbd\u0dd2\u0d82\u0d9c\u0dd4 \u0d9a\u0dbd \u0db8\u0db1\u0dcf\u0dc4\u0dd0\u0d9a\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dca \u0d9a\u0dd2\u0dba\u0dbd\u0dcf \u0dad\u0dd2\u0db6\u0dd4\u0dab\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      504.69,
+      515.26,
+      518.31
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca\u0da7 \u0db8\u0dc3\u0dcf\u0dba\u0dcf \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1 \u0dd4\u0dbd\u0dd4\u0dc0\u0db1\u0dca\u0daf \u0d91\u0dc0\u0dd0\u0db1\u0dd2 \u0db8\u0d9a\u0dcf\u0db1\u0dca\u0db8\u0dda\u0dc3\u0dba\u0d9a\u0dca \u0d94\u0db4\u0dca\u0db4\u0dd4\u0db8\u0dda \u0dad\u0dd2\u0db8\u0db6\u0db1\u0dc0\u0dcf\u0daf \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      524.48,
+      339.53,
+      538.71
+    ],
+    "text": "\u0d8b: (\u0dc3\u0dcf\u0d9a\u0dca\u0dd2\u0d9a\u0dbb\u0dd4 \u0dc0\u0dd2\u0dc3\u0db1\u0dca \u0db4\u0dd0.1 \u0db4\u0dbb\u0dd2\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb \u0db6\u0dbd\u0dba\u0dd2.)",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      545.61,
+      301.13,
+      559.23
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca\u0da7 \u0d89\u0dd2\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dd3\u0dc3 \u0d9a\u0dd2\u0dba\u0dc0\u0db1\u0dca\u0db1 \u0dd4\u0dbd\u0dd4\u0dc0\u0db1\u0dca\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      566.01,
+      472.27,
+      579.63
+    ],
+    "text": "\u0d8b: \u0dd4\u0dbd\u0dd4\u0dc0\u0db1\u0dca. (\u0dc3\u0dcf\u0d9a\u0dca\u0dd2\u0d9a\u0dbb\u0dd4 \u0dc0\u0dd2\u0dc3\u0db1\u0dca \u0db4\u0dd0.1 \u0dc4\u0dd2 \u0db4 \u0db8\u0dd4 \u0db4\u0dd2\u0da7\u0dd4\u0db8\u0dda \u0db4\u0dbd\u0dc0\u0db1 \u0db8\u0dda\u0daf\u0dba \u0db8\u0db4\u0db1\u0dca\u0dc0\u0dba\u0dd2.)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      586.41,
+      528.7,
+      600.03
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db4\u0dd0.1 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0db8\u0dda 3 \u0dc0\u0db1 \u0db4\u0dd2\u0da7\u0dd4\u0db8\u0dda \u0db4\u0dbd\u0dc0\u0db1 \u0db8\u0dda\u0daf\u0db8\u0dda \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0db8\u0dc0\u0db1\u0dc0\u0dcf (\u0d9a\u0dd2\u0dba\u0dc0\u0dba\u0dd2.) \u0db8\u0db8\u0dc4\u0dd2 \u0db4\u0dc4\u0dad",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      606.81,
+      528.7,
+      620.43
+    ],
+    "text": "\u0d8b\u0db4\u0db8\u0dbd\u0dca\u0d9b\u0dab\u0db8\u0dda \u0daf\u0dd0\u0d9a\u0dca\u0db8\u0dc0\u0db1 \u0db8\u0dda\u0db4\u0dbd \u0d85\u0dc0\u0dbd\u0dd2\u0d82\u0d9c\u0dd4 \u0d9a\u0dbd \u0db8\u0db1\u0dcf\u0dc4\u0dd0\u0d9a\u0dd2 \u0db1\u0dd2\u0dbb\u0db8\u0db4\u0dca\u0db4\u0d9a\u0dca\u0dc2 \u0dad\u0dba\u0dcf\u0d9c\u0dba\u0d9a\u0dca \u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      627.33,
+      400.75,
+      640.95
+    ],
+    "text": "\u0dad\u0db8\u0dba\u0dd2 \u0dad\u0db8\u0db1\u0dca\u0da7 \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd3\u0dbd\u0dcf \u0dad\u0dd2\u0db8\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      647.73,
+      184.34,
+      661.35
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      668.15,
+      528.7,
+      681.77
+    ],
+    "text": "(\u0db8\u0dda \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db8\u0dda\u0daf\u0dd3 \u0db4\u0dd0.1 \u0db8\u0dbd\u0dca\u0d9b\u0dab\u0dba \u0dc0\u0dd2.1 \u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca\u0daf, \u0d91\u0d9a\u0dd3 \u0db8\u0db4\u0dca\u0db4\u0dc5\u0dd2 \u0db8\u0daf\u0d9a \u0dc0\u0dd2.1\u0d85 \u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca\u0daf \u0dc3\u0dbd\u0d9a\u0dd4\u0dab\u0dd4",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.42,
+      688.67,
+      218.21,
+      702.29
+    ],
+    "text": "\u0d9a\u0dbb \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2.)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.42,
+      36.04,
+      319.9,
+      62.94
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      72.01,
+      470.11,
+      85.63
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0daf\u0dd0\u0db1\u0dca \u0dad\u0db8\u0db1\u0dca \u0db4\u0dd0.2 \u0d9a\u0dd2\u0dba\u0dcf \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dca \u0dbd\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dbd\u0dcf \u0db8\u0db1\u0dca\u0daf \u0db8\u0dda \u0d9c\u0dbb\u0dd4 \u0d85\u0db0\u0dd2\u0d9a\u0dbb\u0dab\u0dba\u0da7?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      92.41,
+      184.34,
+      106.03
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      112.93,
+      257.69,
+      126.55
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d85\u0dd2\u0d82\u0d9a: 2892 \u0daf\u0dbb\u0dab \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      133.33,
+      184.34,
+      146.95
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      153.73,
+      303.53,
+      167.35
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d9a\u0dc0\u0dbb \u0dc3\u0dca\u0dc0\u0db7\u0dcf\u0dc0\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dba\u0dd4\u0dad\u0dca \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dca\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      174.13,
+      219.17,
+      187.75
+    ],
+    "text": "\u0d8b: \u0db4\u0dd0\u0dc0\u0dbb\u0dd4\u0dda \u0d9a\u0dbb\u0dba\u0d9a\u0dca.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      194.65,
+      482.59,
+      208.27
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0db8\u0dc4\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dc0 \u0d9a\u0dbb\u0dd4\u0db8\u0dc0\u0ddd \u0db8\u0daf\u0db8\u0daf\u0db8\u0db1\u0d9a\u0dca \u0d89\u0db1\u0dca\u0db1\u0dc0\u0dcf? (\u0dc3\u0dcf\u0d9a\u0dca\u0dd2\u0d9a\u0dbb\u0dd4\u0da7 \u0db4\u0dd0. 2 \u0db8\u0db4\u0db1\u0dca\u0dc0\u0dba\u0dd2.)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      215.08,
+      184.34,
+      228.7
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      235.48,
+      326.21,
+      249.1
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db4 \u0db8\u0dd4 \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dc0\u0dba \u0dad\u0db8\u0dba\u0dd2 \u0dc3\u0dd4\u0db8\u0db1\u0dcf\u0dc0\u0dad\u0dd3 \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      256.0,
+      184.34,
+      269.62
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      276.4,
+      374.23,
+      290.02
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0daf\u0db8\u0dc0\u0db1\u0dd2 \u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dc0\u0dba \u0dad\u0db8\u0dba\u0dd2 \u0d85\u0db8\u0dc1\u0ddd\u0d9a \u0d9c\u0dcf\u0db8\u0dd2\u0dab\u0dd2 \u0dc4\u0dad\u0dbb\u0dc3\u0dd2\u0d82\u0dc4?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      296.8,
+      184.34,
+      310.42
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      317.2,
+      323.45,
+      330.82
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca\u0da7 \u0d92 \u0db1\u0dda \u0db8\u0daf\u0d9a \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2\u0dc0 \u0db8\u0db4\u0dca\u0db4\u0db1\u0dc0\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      337.72,
+      184.34,
+      351.34
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      358.14,
+      528.7,
+      371.76
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0daf\u0dd0\u0db1\u0dca \u0d91\u0dc4\u0dd2 \u0dc3\u0dd4\u0db8\u0db1\u0dcf\u0dc0\u0dad\u0dd3 \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0d85\u0dbb\u0dca\u0dae\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dbd\u0dcf \u0dad\u0dd2\u0db8\u0db6\u0db1\u0dc0\u0dcf. \u0db8\u0dda \u0d94\u0db4\u0dca\u0db4\u0dd4\u0db8\u0dda \u201c\u0db8\u0dc0\u0db1\u0dca\u0da9\u0dbb\u0dca\u201d",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      378.54,
+      171.38,
+      392.16
+    ],
+    "text": "\u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      399.06,
+      184.34,
+      412.68
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      419.46,
+      271.25,
+      433.08
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u201c\u0db8\u0dc0\u0db1\u0dca\u0da9\u0dbb\u0dca\u201d \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca \u0d9a\u0dc0\u0dd4\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      439.86,
+      207.62,
+      453.48
+    ],
+    "text": "\u0d8b: \u0d9c\u0db1\u0dca\u0db1 \u0db8\u0d9a\u0db1\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      460.26,
+      409.15,
+      473.88
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u201c\u0db8\u0dc0\u0db1\u0dca\u0da9\u0dbb\u0dca\u201d\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0dda\u0d9a\u0dbb\u0dd4 \u0d9a\u0dd2\u0dda\u0db8\u0dc0\u0dcf\u0dad\u0dca \u0db4\u0dd2\u0dbd\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      480.78,
+      200.78,
+      494.4
+    ],
+    "text": "\u0d8b: \u0db4\u0dd2\u0dbd\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      501.18,
+      507.34,
+      514.8
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d8a\u0da7 \u0db4\u0dc3\u0dca\u0db8\u0dc3\u0dca \u0d85\u0db8\u0dc1\u0ddd\u0d9a \u0d9c\u0dcf\u0db8\u0dd2\u0dab\u0dd2 \u0dc4\u0dad\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0d85\u0dbb\u0dca\u0dae\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0dbd\u0dcf \u0dad\u0dd2\u0db8\u0db6\u0db1\u0dc0\u0dcf \u201c\u0db4\u0dbb\u0dca\u0da0\u0dc3\u0dbb\u0dca\u201d \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      521.61,
+      184.34,
+      535.23
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      542.13,
+      256.85,
+      555.75
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db4\u0dbb\u0dca\u0da0\u0dc3\u0dbb\u0dca \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca \u0d9a\u0dc0\u0dd4\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      562.53,
+      244.13,
+      576.15
+    ],
+    "text": "\u0d8b: \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0db1\u0dca\u0db1 \u0dd4\u0dda\u0d9c\u0dbd\u0dba\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      582.93,
+      528.7,
+      596.55
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0dda\u0db8\u0d9a\u0db1\u0dca \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0db8\u0dc0\u0db1\u0dca\u0db8\u0db1\u0dca \u0dc3\u0dd4\u0db8\u0db1\u0dcf\u0dc0\u0dad\u0dd3 \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca \u0dbd\u0d9a\u0dca\u0dc2\u0dba\u0d9a\u0da7 \u0d85\u0db8\u0dc1\u0ddd\u0d9a \u0d9c\u0dcf\u0db8\u0dd2\u0dab\u0dd3",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      603.33,
+      466.99,
+      616.95
+    ],
+    "text": "\u0dc4\u0dad\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0dba\u0db1 \u0d85\u0dba\u0da7 \u0db8\u0dda \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0 \u0dba\u0da7\u0db8\u0dad\u0dca \u0dc0\u0db1 \u0d89\u0da9\u0db8 \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0dc0\u0dcf \u0d9a\u0dd2\u0dda\u0db8\u0dc0\u0dcf\u0dad\u0dca \u0dc4\u0dbb\u0dd2\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      623.85,
+      239.33,
+      637.47
+    ],
+    "text": "\u0d8b: \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0dc0\u0dcf \u0dc0\u0db8\u0dda \u0dad\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      644.25,
+      363.19,
+      657.87
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dc0\u0db8\u0dda \u0db8\u0db1\u0db8\u0dc0\u0dba\u0dd2. \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0dc0\u0dcf \u0d9a\u0dd2\u0dda\u0db8\u0dc0\u0dcf\u0dad\u0dca \u0dc4\u0dbb\u0dd2\u0daf, \u0dc0\u0dd0\u0dbb\u0daf\u0dd2\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      664.67,
+      160.7,
+      678.29
+    ],
+    "text": "\u0d8b: \u0dc4\u0dbb\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      685.19,
+      402.19,
+      698.81
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db4\u0dd0.1 \u0daf\u0dbb\u0dab \u0d94\u0db4\u0dca\u0db4\u0dd4\u0db8\u0dda \u0daf\u0dd2\u0db1\u0dba \u0dad\u0db8\u0db1\u0dca \u0d9a\u0dd2\u0dda\u0dc0\u0dcf 1984.03.27 \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.42,
+      705.59,
+      184.34,
+      719.21
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.42,
+      36.04,
+      319.9,
+      62.94
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      72.01,
+      230.33,
+      85.63
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d92\u0d9a \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dca?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      92.41,
+      184.34,
+      106.03
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      112.93,
+      357.19,
+      126.55
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0daf\u0dd0\u0db1\u0dca \u0d94\u0dba \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0db8\u0dda \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf \u0d9a\u0dcf\u0dbb\u0dba \u0d9a\u0dc0\u0dd4\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      133.33,
+      227.69,
+      146.95
+    ],
+    "text": "\u0d8b: \u0dc3\u0dd4\u0db8\u0db1\u0dcf\u0dc0\u0dad\u0dd3 \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      153.73,
+      243.05,
+      167.35
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0dd1\u0d9c\u0dd2 \u0dbd\u0dd0\u0db6\u0dd4\u0dda\u0d9a\u0dbb\u0dd4 \u0d9a\u0dc0\u0dd4\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      174.13,
+      262.61,
+      187.75
+    ],
+    "text": "\u0d8b: \u0d85\u0db8\u0dc1\u0ddd\u0d9a \u0d9c\u0dcf\u0db8\u0dd2\u0dab\u0dd3 \u0dc4\u0dad\u0dbb\u0dc3\u0dd2\u0d82\u0dc4.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      194.65,
+      453.07,
+      208.27
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d85\u0db8\u0dc1\u0ddd\u0d9a \u0d9c\u0dcf\u0db8\u0dd2\u0dab\u0dd3 \u0dc4\u0dad\u0dbb\u0dc3\u0dd2\u0d82\u0dc4 \u0dba\u0db1 \u0d85\u0dba\u0da7 \u0db8\u0dda \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db8\u0dc0\u0db1\u0dc0\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      215.08,
+      202.34,
+      228.7
+    ],
+    "text": "(\u0db4\u0dd0.1 \u0db8\u0db4\u0db1\u0dca\u0dc0\u0dba\u0dd2.)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      235.48,
+      204.5,
+      249.1
+    ],
+    "text": "\u0d8b: \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db8\u0dc0\u0db1\u0dc0\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      256.0,
+      437.83,
+      269.62
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: 1984.03.27 \u0db8\u0dc0\u0db1\u0dd2\u0daf\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dc3\u0dd4\u0db8\u0db1\u0dcf\u0dc0\u0dad\u0dd3 \u0dc0\u0dd3\u0dbb\u0dc3\u0dd2\u0d82\u0dc4\u0da7 \u0db8\u0dda \u0d89\u0da9\u0db8 \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      276.4,
+      528.7,
+      290.02
+    ],
+    "text": "\u0d8b: \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd2\u0dc3\u0dcf \u0db8\u0daf\u0db8\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0da7\u0db8 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db8\u0dc0\u0db1\u0dc0\u0dcf. \u0db8\u0db8 \u0dc4\u0dbb\u0dd2\u0dba\u0da7 \u0daf\u0db1\u0dca\u0db8\u0db1\u0dca \u0db1\u0dd0. \u0db8\u0da7 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      296.8,
+      144.74,
+      310.42
+    ],
+    "text": "\u0db1\u0dd0.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      317.2,
+      462.43,
+      330.82
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0db8 \u0db1\u0dd0\u0dc0\u0dad \u0d85\u0dc4\u0db1\u0dc0\u0dcf \u0db8\u0dda\u0d9a \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dca? (\u0db4\u0dd0.1 \u0dc3\u0dcf\u0d9a\u0dca\u0dd2\u0d9a\u0dbb\u0dd4\u0da7 \u0db8\u0db4\u0db1\u0dca\u0dc0\u0dba\u0dd2.)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      337.72,
+      161.3,
+      351.34
+    ],
+    "text": "\u0d8b: \u0d94\u0dda.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      358.14,
+      291.77,
+      371.76
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d92\u0db8\u0d9a\u0dca \u0daf\u0dd2\u0db1\u0dba 1984.03.27 \u0db8\u0dc0\u0db1\u0dd2\u0daf\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      378.54,
+      161.3,
+      392.16
+    ],
+    "text": "\u0d8b: \u0d94\u0dda.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      399.06,
+      531.82,
+      412.68
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca \u0d9a\u0dd2\u0dda\u0dc0\u0dcf \u0d94\u0dba \u0d94\u0db4\u0dca\u0db4\u0dd4\u0db8\u0dc0\u0db1\u0dca \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf \u0dad\u0db8\u0db1\u0dca\u0da7 \u0db8\u0dda \u0d89\u0da9\u0db8 \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      419.46,
+      184.34,
+      433.08
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      439.86,
+      431.11,
+      453.48
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0db8 \u0d85\u0dc4\u0db1\u0dca\u0db8\u0db1\u0dca \u0d94\u0dba \u0daf\u0dd2\u0db1\u0dba\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7 \u0db8\u0dda \u0d89\u0da9\u0db8 \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      460.26,
+      330.29,
+      473.88
+    ],
+    "text": "\u0d8b: \u0d92\u0d9a \u0db8\u0da7 \u0dc4\u0dbb\u0dd2\u0dba\u0da7 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0db1\u0dd0. \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0db8\u0daf\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      480.78,
+      328.13,
+      494.4
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca \u0d9a\u0dd3\u0db8\u0dc0\u0db1\u0dd2 \u0db4\u0db1\u0dca\u0dad\u0dd2\u0dba\u0da7 \u0d89\u0db8\u0d9c\u0db1 \u0d9c\u0dad\u0dca\u0dad\u0dcf\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      501.18,
+      214.49,
+      514.8
+    ],
+    "text": "\u0d8b: \u0d92 \u0db8\u0dbd\u0dc0\u0dbd\u0dca \u0d9a\u0dbd\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      521.61,
+      307.97,
+      535.23
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d8b\u0dc3\u0dc3\u0dca \u0db8\u0db4 \u0db8\u0db8\u0dcf\u0db1 \u0d85\u0dd2\u0d82\u0dc1\u0db8\u0dba\u0db1\u0dca\u0daf \u0d9a\u0db8\u0dbd\u0dca?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      542.13,
+      197.18,
+      555.75
+    ],
+    "text": "\u0d8b: \u0db8\u0d9a\u0dcf\u0db8(\u0dbb\u0dca)\u0dc3\u0dca.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      562.53,
+      222.41,
+      576.15
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dc0\u0dcf\u0db1\u0dd2\u0da2 \u0d85\u0dd2\u0d82\u0dc1\u0db8\u0dba\u0db1\u0dca?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      582.93,
+      161.3,
+      596.55
+    ],
+    "text": "\u0d8b: \u0d94\u0dda.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      603.33,
+      228.89,
+      616.95
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0d9a\u0dcf\u0dba\u0dd2 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0dda\u0db8\u0dda\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      623.85,
+      217.97,
+      637.47
+    ],
+    "text": "\u0d8b: 1968 \u0d85\u0dc0\u0dd4\u0dbb\u0dd4\u0dda\u0db8\u0dda.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      644.25,
+      528.7,
+      657.87
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0daf\u0dd0\u0db1\u0dca \u0dad\u0db8\u0db1\u0dca \u0d9a\u0dd2\u0dba\u0dcf \u0dc3\u0da7\u0dd2\u0db1\u0dc0\u0dcf \u0dad\u0dd0\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0\u0d9a\u0dd2\u0db1\u0dca \u0dad\u0db8\u0db1\u0dca\u0da7 \u0d89\u0da9\u0db8\u0d9a\u0dca \u0dbd\u0dd0\u0db6\u0dd4\u0dab\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dad\u0dd0\u0d9c\u0dd2",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      664.67,
+      510.7,
+      678.29
+    ],
+    "text": "\u0daf\u0dd3\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2\u0dba\u0da7 \u0d92 \u0d89\u0da9\u0db8 \u0dad\u0dc0 \u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db8\u0dc0\u0db1\u0dc0\u0daf \u0db1\u0dd0\u0dad\u0dca\u0daf \u0d9a\u0dd2\u0dba\u0dcf \u0dad\u0db8\u0db1\u0dca \u0daf\u0db1\u0dca\u0db8\u0db1\u0dca \u0db1\u0dd0 \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.42,
+      685.19,
+      398.71,
+      698.81
+    ],
+    "text": "\u0d8b: \u0d92\u0d9a \u0db8\u0daf\u0db8\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0da7\u0db8 \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0dcf \u0dad\u0db8\u0dba\u0dd2 \u0db8\u0db8\u0dda \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.42,
+      36.04,
+      319.9,
+      62.94
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      72.01,
+      528.7,
+      85.63
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0dda \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0 \u0dad\u0db8\u0db1\u0dca \u0d89\u0dc3\u0dca\u0dc3\u0dbb \u0db8\u0dc0\u0dbd\u0dcf \u0d9a\u0dd3\u0dc0\u0dcf \u0d9a\u0dd2\u0dc3\u0db8\u0dc3\u0dca\u0dad\u0dca \u0d85\u0dc0\u0dbd\u0dd2\u0d82\u0d9c\u0dd4 \u0d9a\u0dbd \u0db8\u0db1\u0dcf\u0dc4\u0dd0\u0d9a\u0dd2 \u0db1\u0dd2\u0dbb\u0db8\u0db4\u0dca\u0db4\u0d9a\u0dca\u0dc2",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      92.41,
+      449.95,
+      106.03
+    ],
+    "text": "\u0dad\u0dba\u0dcf\u0d9c\u0dba\u0d9a\u0dca \u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca \u0dad\u0dd1\u0d9c\u0dd2 \u0dbd\u0dd0\u0db6\u0dd4\u0dda\u0d9a\u0dcf\u0dbb \u0dad\u0db8\u0db1\u0dca\u0da7 \u0db4\u0dc0\u0dbb\u0dcf \u0daf\u0dd3\u0dbd\u0dcf \u0dad\u0dd2\u0db8\u0db6\u0db1\u0dc0\u0dcf \u0d9a\u0dd2\u0dba\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      112.93,
+      181.34,
+      126.55
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      133.33,
+      396.55,
+      146.95
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d91\u0dad\u0db8\u0d9a\u0dcf\u0da7 \u0db8\u0daf\u0db8\u0d9c\u0dcf\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0da7\u0db8 \u0db8\u0d9a\u0dcf\u0db8\u0dc4\u0dcf\u0db8\u0daf \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db8\u0dc0\u0db1\u0dca\u0db8\u0db1\u0dca?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      153.73,
+      528.7,
+      167.35
+    ],
+    "text": "\u0d8b: \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0db8\u0db8\u0dda \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0dba \u0db8\u0da7 \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0dcf. \u0db8\u0da7\u0dad\u0dca \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2, \u0db8\u0dbd\u0dcf\u0d9a\u0dd4",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      174.13,
+      205.34,
+      187.75
+    ],
+    "text": "\u0d85\u0dda\u0db8\u0dcf\u0da7\u0dad\u0dca \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      194.65,
+      531.82,
+      208.27
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca\u0da7\u0dad\u0dca \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2, \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7\u0dad\u0dca \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0dcf \u0db8\u0dda\u0db8\u0d9a\u0dca \u0dad\u0dd2\u0db8\u0db6\u0db1\u0dc0\u0dcf\u0daf? (\u0db4\u0dd0.1 \u0db8\u0db4\u0db1\u0dca\u0dc0\u0dba\u0dd2.)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      215.08,
+      289.25,
+      228.7
+    ],
+    "text": "\u0d8b: \u0da2\u0dd2\u0dc0\u0dd2\u0dad \u0db6\u0dd4\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0da7 \u0daf\u0dd3\u0dbd\u0dcf \u0dad\u0dd2\u0db8\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      235.48,
+      419.11,
+      249.1
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0da2\u0dd2\u0dc0\u0dd2\u0dad \u0db6\u0dd4\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0dc0\u0db1 \u0db8\u0d9a\u0dcf\u0da7\u0dc3 \u0db8\u0db4\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1 \u0d92\u0db8\u0d9a\u0dca?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      256.0,
+      325.85,
+      269.62
+    ],
+    "text": "\u0d8b: (\u0dc3\u0dcf\u0d9a\u0dca\u0dd2\u0d9a\u0dbb\u0dd4 \u0dc0\u0dd2\u0dc3\u0db1\u0dca \u0db4\u0dd0.1 \u0db4\u0db8\u0dbb\u0dca\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dbb\u0dba\u0dd2.)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      276.4,
+      528.7,
+      290.02
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dbb\u0dd2\u0daf \u0db1\u0dd0\u0dad\u0dca\u0db1\u0dda \u0da2\u0dd2\u0dc0\u0dd2\u0dad \u0db6\u0dd4\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0d9c\u0dd0\u0db1 \u0dc3\u0db3\u0dc4\u0db1\u0d9a\u0dca \u0db1\u0dd0\u0dad\u0dca\u0daf? \u0db8\u0daf\u0db8\u0d9a\u0db1\u0dca \u0db8\u0d9a\u0dcf\u0dba\u0dd2 \u0d91\u0d9a\u0daf",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      296.8,
+      528.7,
+      310.42
+    ],
+    "text": "\u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1? \u0dad\u0db8\u0db1\u0dca\u0da7 \u0d95\u0db1 \u0dad\u0dbb\u0dda \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dc0 \u0dad\u0dd2\u0db8\u0db6\u0db1\u0dc0\u0dcf \u0db8\u0dc3\u0dcf\u0dba\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7. \u0dad\u0db8\u0db1\u0dca\u0da7 \u0db8\u0dc3\u0dcf\u0dba\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      317.2,
+      301.73,
+      330.82
+    ],
+    "text": "\u0db6\u0dd0\u0dbb\u0dd2\u0daf \u0db1\u0dd0\u0dad\u0dca\u0daf \u0d9a\u0dd2\u0dba\u0db1 \u0d9a\u0dcf\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      337.72,
+      528.34,
+      351.34
+    ],
+    "text": "\u0d8b: (\u0db8\u0dda \u0d85\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0db8\u0dda\u0daf\u0dd3 \u0dc3\u0dcf\u0d9a\u0dca\u0dd2\u0d9a\u0dbb\u0dd4 \u0dc0\u0dd2\u0dc3\u0db1\u0dca \u0db4\u0dd0.1 \u0dc4\u0dd2 \u0db8\u0daf\u0db8\u0dc0\u0db1\u0dd2 \u0db4\u0dd2\u0da7\u0dd4\u0db8\u0dda \u0db4\u0dbd\u0db8\u0dc0\u0db1\u0dd2 \u0db8\u0dda\u0daf\u0dba \u0db8\u0db4\u0db1\u0dca\u0dc0\u0dba\u0dd2.)",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      358.14,
+      528.7,
+      371.76
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0db8\u0dc4\u0dd2 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0db8\u0dc0\u0db1\u0dc0\u0dcf (\u0d9a\u0dd2\u0dba\u0dc0\u0dba\u0dd2.) \u0db8\u0dc4\u0dcf\u0db3\u0dba\u0dd2 \u0daf\u0dd0\u0db1\u0dca \u0da2\u0dd2\u0dc0\u0dd2\u0dad \u0db6\u0dd4\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0d9a\u0dca \u0db8\u0dad \u0db8\u0db8\u0dc4\u0dd2 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0db8\u0dc0\u0db1\u0dc0\u0dcf",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      378.54,
+      528.7,
+      392.16
+    ],
+    "text": "\u0d9a\u0dd2\u0dc3 \u0db8\u0dbd\u0dc3\u0d9a\u0dad\u0dca \u0d85\u0dc0\u0dbd\u0dd2\u0d82\u0d9c\u0dd4 \u0d9a\u0dbd \u0db8\u0db1\u0dcf\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc3\u0dca\u0dd2\u0dbb\u0dc3\u0dcf\u0dbb \u0dad\u0dd1\u0dda\u0d9c\u0d9a\u0dca \u0dba\u0db1 \u0db8\u0d9a\u0dcf\u0da7\u0dc3\u0d9a\u0dca \u0d87\u0dd4\u0dbd\u0dad\u0dca \u0db8\u0dc0\u0db1\u0dc0\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      399.06,
+      521.98,
+      412.68
+    ],
+    "text": "\u0db1\u0db8\u0dd4\u0dad\u0dca \u0db8\u0d9a\u0dcf\u0db1\u0dca\u0db8\u0dda\u0dc3 \u0dc3\u0dc4 \u0da2\u0dd2\u0dc0\u0dd2\u0dad \u0db6\u0dd4\u0d9a\u0dca\u0dad\u0dd2\u0dba\u0da7 \u0dba\u0da7\u0dad\u0dca\u0dc0 \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd3\u0dbd\u0dcf \u0dad\u0dd2\u0db8\u0db6\u0db1 \u0db6\u0dc0\u0dad\u0dca \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0db8\u0dc0\u0db1\u0dc0\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      419.46,
+      184.34,
+      433.08
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      439.86,
+      528.7,
+      453.48
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0daf\u0dd0\u0db1\u0dca \u0dc3\u0dcf\u0d9a\u0dca\u0dd2\u0d9a\u0dbb\u0dd4 \u0dad\u0db8\u0db1\u0dca\u0da7 \u0db8\u0dda \u0d9a\u0dd2\u0dc3 \u0db8\u0dbd\u0dc3\u0d9a \u0d85\u0dc0\u0dbd\u0dd2\u0d82\u0d9c\u0dd4 \u0d9a\u0dbd \u0db8\u0db1\u0dcf\u0dc4\u0dd0\u0d9a\u0dd2 \u0dad\u0dd1\u0dda\u0d9c\u0d9a\u0dca \u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      460.26,
+      497.26,
+      473.88
+    ],
+    "text": "\u0db8\u0dda\u0d9a \u0dbd\u0dd0\u0db6\u0dd3 \u0dad\u0dd2\u0db8\u0db6\u0db1 \u0db1\u0dd2\u0dc3\u0dcf \u0db8\u0dda\u0d9a \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dcf\u0da7\u0dc0\u0dad\u0dca \u0d85\u0dc0\u0dbd\u0dd2\u0d82\u0d9c\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1 \u0dd4\u0dbd\u0dd4\u0dc0\u0db1\u0dca\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      480.78,
+      249.65,
+      494.4
+    ],
+    "text": "\u0d8b: \u0db8\u0db8 \u0d92 \u0d9c\u0dd0\u0db1 \u0daf\u0db1\u0dca\u0db8\u0db1\u0dca \u0db1\u0dd1.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      501.18,
+      528.7,
+      514.8
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db8\u0d9a\u0db8\u0dc3\u0dca \u0db8\u0dc0\u0dad\u0dad\u0dca \u0db8\u0dda 1984.03.27 \u0db8\u0dc0\u0db1\u0dd2\u0daf\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dcf\u0da7 \u0db8\u0dda \u0d89\u0da9\u0db8 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db1\u0dd0.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      521.61,
+      192.86,
+      535.23
+    ],
+    "text": "\u0d85\u0dba\u0dd2\u0dad\u0dd2\u0daf \u0db1\u0dd0\u0dad\u0dca\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      542.13,
+      218.45,
+      555.75
+    ],
+    "text": "\u0d8b: \u0d8b\u0dad\u0dca\u0dad\u0dbb\u0dba\u0d9a\u0dca \u0db1\u0dd0\u0dad.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      562.53,
+      528.7,
+      576.15
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0d9a\u0db8\u0dbd\u0dca \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf? \u0dad\u0db8\u0db1\u0dca \u0d85\u0daf\u0dc4\u0dc3\u0dca \u0d9a\u0dbd\u0dcf\u0daf \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0db8\u0d9c\u0db1\u0dca \u0db8\u0dda \u0d89\u0da9\u0db8",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      582.93,
+      253.97,
+      596.55
+    ],
+    "text": "\u0dad\u0dd1\u0dda\u0d9c\u0d9a\u0dca \u0dc0\u0dc1\u0db8\u0dba\u0db1\u0dca \u0dbd\u0dd0\u0db6\u0dd3\u0db8\u0da7?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      603.33,
+      315.53,
+      616.95
+    ],
+    "text": "\u0d8b: \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0db8\u0dda \u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0db8\u0dad\u0db1\u0dca \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      623.85,
+      275.69,
+      637.47
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d92 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca \u0d91\u0dba\u0dcf\u0da7 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db1\u0dd0?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      644.25,
+      316.97,
+      657.87
+    ],
+    "text": "\u0d8b: \u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0db8\u0dad\u0db1\u0dca \u0dbd\u0dd2\u0dba\u0dcf \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.42,
+      664.67,
+      531.82,
+      678.29
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d91\u0dad\u0db8\u0d9a\u0dcf\u0da7 \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd3\u0db8\u0db1\u0dcf\u0d9a\u0dcf\u0dbb\u0dba\u0dcf\u0da7 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db1\u0dd1 \u0d89\u0db1\u0dca\u0db4\u0dc3\u0dd4\u0dc0, \u0dad\u0db8\u0db1\u0dca\u0da7 \u0d9a\u0dd0\u0db8\u0dd0\u0dad\u0dca\u0db8\u0dad\u0db1\u0dca \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.42,
+      36.04,
+      319.9,
+      62.94
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      72.01,
+      528.7,
+      85.63
+    ],
+    "text": "\u0d8b: \u0db8\u0dda\u0d9a \u0daf\u0dd3\u0dbd\u0dcf \u0dad\u0dd2\u0db8\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca, \u0dad\u0dd1\u0d9c\u0dd2 \u0d94\u0db4\u0dca\u0db4\u0dd4\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0dab \u0db6\u0dd4\u0d9a\u0dca\u0dad\u0dd2\u0dba \u0dad\u0db6\u0dcf\u0db8\u0d9c\u0db1 \u0dbd\u0dd2\u0dba\u0dcf \u0dad\u0dd2\u0db8\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca. \u0d92\u0d9a \u0d9c\u0dd0\u0db1",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      92.41,
+      528.7,
+      106.03
+    ],
+    "text": "\u0db8\u0db8 \u0daf\u0db1\u0dca\u0db8\u0db1\u0dca \u0db1\u0dd0. \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf \u0d89\u0db1\u0dca\u0db1 \u0dd4\u0dbb\u0dd4 \u0db8\u0da7 \u0db8\u0dda\u0d9a\u0d9a\u0dca \u0d9a\u0dbb \u0d9c\u0db1\u0dca\u0db1 \u0db6\u0dd0\u0dc4\u0dd0. \u0d92\u0d9a\u0dba\u0dd2 \u0db8\u0db8",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      112.93,
+      175.82,
+      126.55
+    ],
+    "text": "\u0dc4\u0dd2\u0dad\u0db1\u0dca\u0db8\u0db1\u0dca.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      133.33,
+      528.7,
+      146.95
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca \u0dc3\u0dad\u0dcf\u0db8\u0d9c\u0db1 \u0d89\u0db1\u0dca\u0db1 \u0db8\u0dda\u0dc0\u0dbd\u0dca \u0dc4\u0dbb\u0dd2 \u0d9a\u0dd2\u0dba\u0dcf\u0daf \u0dc3\u0dad\u0db1\u0dca\u0db8\u0db1\u0dca. \u0db8\u0d9a\u0db8\u0dc3\u0dca \u0db8\u0dc0\u0dad\u0dad\u0dca \u0db8\u0dda\u0d9a \u0d85\u0dc0\u0dbd\u0dd2\u0d82\u0d9c\u0dd4 \u0d9a\u0dbd",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      153.73,
+      528.7,
+      167.35
+    ],
+    "text": "\u0db8\u0db1\u0dcf\u0dc4\u0dd0\u0d9a\u0dd2 \u0dad\u0dd1\u0dda\u0d9c\u0d9a\u0dca \u0db1\u0dd2\u0dc3\u0dcf \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7 1984.03.27 \u0db8\u0dc0\u0db1\u0dd2\u0daf\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0db8\u0dda \u0dc0\u0dd2\u0dc2\u0dba",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      173.52,
+      528.66,
+      187.75
+    ],
+    "text": "\u0dc0\u0dc3\u0dca\u0dd4\u0da7 \u0dc0\u0db1 \u0d89\u0da9\u0db8 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db1\u0dd1 \u0d9a\u0dd2\u0dba\u0dcf \u0dc0\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dbb\u0dd4 \u0db8\u0dc0\u0db1\u0dd4\u0db8\u0dc0\u0db1\u0dca \u0db8\u0dba\u0ddd\u0da2\u0db1\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf. 1984.03.27",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      194.65,
+      528.7,
+      208.27
+    ],
+    "text": "\u0db8\u0dc0\u0db1\u0dd2\u0daf\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7 \u0db8\u0dda \u0d89\u0da9\u0db8 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db1\u0dd0 \u0d9a\u0dd2\u0dba\u0dcf \u0db8\u0dba\u0ddd\u0da2\u0db1\u0dcf \u0d9a\u0dbb\u0db1\u0dc0\u0dcf",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      215.08,
+      292.73,
+      228.7
+    ],
+    "text": "\u0dc0\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dbb\u0dd4 \u0db8\u0dc0\u0db1\u0dd4\u0db8\u0dc0\u0db1\u0dca. \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      235.48,
+      322.01,
+      249.1
+    ],
+    "text": "\u0d8b: \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db1\u0dd1 \u0d9a\u0dd2\u0dba\u0dcf \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1 \u0db8\u0db8 \u0daf\u0db1\u0dca\u0db8\u0db1\u0dca \u0db1\u0dd0.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      256.0,
+      406.27,
+      269.62
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca \u0db8\u0db8\u0dda \u0db8\u0dba\u0ddd\u0da2\u0db1\u0dcf\u0dc0 \u0db4\u0dd2\u0dc5\u0dd2\u0d9c\u0db1\u0dca\u0db1\u0dc0\u0daf \u0db1\u0dd0\u0dad\u0dca\u0daf \u0d9a\u0dd2\u0dba\u0dcf \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db1?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      276.4,
+      366.79,
+      290.02
+    ],
+    "text": "\u0d8b: \u0db8\u0da7 \u0dbd\u0dd2\u0dda\u0dc0\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0db8\u0db8 \u0dc4\u0dd2\u0dad\u0db1\u0dca\u0db8\u0db1\u0dca \u0db8\u0da7 \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0dcf.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      296.8,
+      314.09,
+      310.42
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d92 \u0d9a\u0dd2\u0dba\u0db1\u0dca\u0db8\u0db1\u0dca \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7 \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0dad\u0dd0?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      317.2,
+      523.42,
+      330.82
+    ],
+    "text": "\u0d8b: \u0db8\u0da7\u0dad\u0dca \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2, \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7\u0dad\u0dca \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2. \u0db8\u0da7 \u0dbd\u0dd2\u0dba\u0dd4 \u0db1\u0dd2\u0dc3\u0dcf \u0db8\u0da7 \u0d85\u0dba\u0dd2\u0dad\u0dd2\u0dba\u0dd2 \u0d9a\u0dd2\u0dba\u0dcf \u0db4\u0dd2\u0dbd\u0dd2\u0d9c\u0db1\u0dca\u0db8\u0db1\u0dca.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      337.72,
+      473.47,
+      351.34
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca \u0d9a\u0db1\u0dca\u0daf\u0dba\u0dd2\u0dba\u0dcf \u0db6\u0dcf\u0dbd\u0dc3\u0dd2\u0d82\u0dc4\u0dda \u0d9a\u0dd2\u0dba\u0dcf \u0db8\u0d9a\u0db8\u0db1\u0d9a\u0dd4\u0da7 \u0db8\u0dda \u0db8\u0dda\u0db4\u0dbd \u0db6\u0daf\u0dd4 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf \u0d9a\u0dd2\u0dc0\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      358.14,
+      184.34,
+      371.76
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      378.54,
+      528.7,
+      392.16
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0db6\u0daf\u0dd4 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0db8\u0dda\u0db4\u0db8\u0dbd\u0dca \u0dad\u0db8\u0db1\u0dca\u0da7 \u0dbb\u0dd0\u0db3\u0dd3 \u0dc3\u0da7\u0dd3\u0db8\u0da7 \u0dd4\u0dbd\u0dd4\u0dc0\u0db1\u0dca\u0daf? \u0d91\u0daf\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0db8\u0dda\u0db4\u0db8\u0dbd\u0dca",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      399.06,
+      368.47,
+      412.68
+    ],
+    "text": "\u0dbb\u0dd0\u0db3\u0dd3 \u0dc3\u0da7\u0dd3\u0db8\u0da7 \u0dd4\u0dbd\u0dd4\u0dc0\u0db1\u0dca \u0d9a\u0db1\u0dca\u0daf\u0dba\u0dd2\u0dba\u0dcf \u0db6\u0dcf\u0dbd\u0dc3\u0dd2\u0d82\u0dc4\u0dda\u0da7\u0daf \u0dad\u0db8\u0db1\u0dca\u0da7\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      419.46,
+      201.26,
+      433.08
+    ],
+    "text": "\u0d8b: \u0db6\u0dcf\u0dbd\u0dc3\u0dd2\u0d82\u0dc4\u0dda\u0da7.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      439.86,
+      253.37,
+      453.48
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca\u0da7 \u0d89\u0db1\u0dca\u0db1 \u0dd4\u0dbd\u0dd4\u0dc0\u0db1\u0dca\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      460.26,
+      187.58,
+      473.88
+    ],
+    "text": "\u0d8b: \u0db8\u0da7 \u0db6\u0dd0\u0dc4\u0dd0.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      480.78,
+      266.93,
+      494.4
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0d92 \u0dad\u0db8\u0db1\u0dca \u0d94\u0dc4\u0dd4\u0da7 \u0db6\u0daf\u0dd4 \u0daf\u0dd4\u0db1\u0dca \u0db1\u0dd2\u0dc3\u0dcf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      501.18,
+      184.34,
+      514.8
+    ],
+    "text": "\u0d8b: \u0d91\u0db8\u0dc4\u0db8\u0dba\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      521.61,
+      528.7,
+      535.23
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf \u0dad\u0db8\u0db1\u0dca\u0da7 \u0dad\u0dd0\u0d9c\u0dd2 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0dcf\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7 \u0d92 \u0db8\u0dda\u0db4\u0dbd",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      542.13,
+      162.14,
+      555.75
+    ],
+    "text": "\u0d85\u0dba\u0dd2\u0dad\u0dd2\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      562.53,
+      388.39,
+      576.15
+    ],
+    "text": "\u0d8b: \u0db4\u0dd0\u0dc0\u0dbb\u0dd4\u0dda \u0d9a\u0dbb\u0db8\u0dba\u0db1\u0dca \u0db6\u0daf\u0dd4 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0db6\u0dcf\u0dbd\u0dc3\u0dd2\u0d82\u0dc4\u0dda\u0da7 \u0d85\u0dba\u0dd2\u0dad\u0dd2.",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      582.93,
+      528.7,
+      596.55
+    ],
+    "text": "\u0db4\u0dca\u200d\u0dbb: \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf \u0dad\u0db8\u0db1\u0dca\u0da7 \u0dad\u0dd1\u0d9c\u0dd2 \u0daf\u0dd4\u0db1\u0dca\u0db1\u0da7 \u0db4\u0dc3\u0dd4\u0dc0 \u0dad\u0db8\u0db1\u0dca\u0db8\u0dda \u0db8\u0dbd\u0dcf\u0d9a\u0dd4 \u0d85\u0dda\u0db8\u0dcf\u0da7 \u0db8\u0dda \u0db8\u0dda\u0db4\u0dbd",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      603.33,
+      162.14,
+      616.95
+    ],
+    "text": "\u0d85\u0dba\u0dd2\u0dad\u0dd2\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      623.24,
+      296.57,
+      637.47
+    ],
+    "text": "\u0d8b: \u0d85\u0dba\u0dd2\u0dad\u0dd2 \u0db1\u0dd0, \u0db4\u0dd0\u0dc0\u0dbb\u0dd4\u0dda\u0d9a\u0dbb\u0db8\u0dba\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0.",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.42,
+      644.24,
+      529.54,
+      658.24
+    ],
+    "text": "(Pages 7-13 of the proceedings of the District Court dated 18.02.2010)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.42,
+      677.38,
+      529.51,
+      691.38
+    ],
+    "text": "No issue was raised by the plaintiff with reference to the deed of gift marked",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.42,
+      698.5,
+      529.27,
+      712.5
+    ],
+    "text": "P1. However, at the stage of writing the judgment, the learned District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      36.04,
+      319.9,
+      62.94
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      72.0,
+      529.54,
+      86.0
+    ],
+    "text": "Judge, referring to section 149 of the Civil Procedure Code, framed two",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      93.12,
+      529.51,
+      107.12
+    ],
+    "text": "issues as to whether the plaintiff was entitled to the land on the deed of gift",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      114.24,
+      529.4,
+      128.24
+    ],
+    "text": "marked P1, and, if so, whether the plaintiff could be declared entitled to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      135.36,
+      529.47,
+      149.36
+    ],
+    "text": "land. On the basis of the evidence on record, the learned District Judge",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      156.48,
+      389.59,
+      170.48
+    ],
+    "text": "proceeded to answer both issues in the affirmative.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      189.6,
+      529.34,
+      203.6
+    ],
+    "text": "Learned President\u2019s Counsel for the defendant submits that this course of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      210.75,
+      529.46,
+      224.75
+    ],
+    "text": "action was unwarranted, and that the learned District Judge ought to have",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      231.99,
+      529.49,
+      245.99
+    ],
+    "text": "afforded the defendant an opportunity to be heard before answering the said",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      253.11,
+      529.36,
+      267.11
+    ],
+    "text": "issues. In support of this submission, learned President\u2019s Counsel cited",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      274.23,
+      529.54,
+      288.29
+    ],
+    "text": "several authorities, including my judgment in Podimenike v. Sanjeewani",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      295.35,
+      400.39,
+      309.35
+    ],
+    "text": "(SC/APPEAL/180/2011, SC Minutes of 21.11.2022).",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      328.47,
+      529.22,
+      342.53
+    ],
+    "text": "Section 149 of the Civil Procedure Code states that \u201cThe court may, at any",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      349.59,
+      529.22,
+      363.65
+    ],
+    "text": "time before passing a decree, amend the issues or frame additional issues on",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      370.73,
+      245.33,
+      384.79
+    ],
+    "text": "such terms as it thinks fit.\u201d",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      403.85,
+      529.42,
+      417.91
+    ],
+    "text": "As I stated in Podimenike v. Sanjeewani, although section 149 of the Civil",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      425.09,
+      529.31,
+      439.09
+    ],
+    "text": "Procedure Code permits a District Judge to amend issues or frame",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      446.21,
+      529.32,
+      460.21
+    ],
+    "text": "additional issues at any time before passing the decree, such discretion",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      467.33,
+      529.54,
+      481.39
+    ],
+    "text": "must be exercised with caution, particularly where the Judge, ex mero motu,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      488.45,
+      529.32,
+      502.45
+    ],
+    "text": "raises an issue unknown to both parties at the stage of writing the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      509.6,
+      529.23,
+      523.66
+    ],
+    "text": "judgment. I further observed in that case as follows: \u201cThis does not mean",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      530.72,
+      529.15,
+      544.78
+    ],
+    "text": "that a Judge cannot raise an issue and answer it during the course of writing",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      551.84,
+      529.09,
+      565.9
+    ],
+    "text": "the judgment without hearing the parties; he can, but he must exercise his",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      572.96,
+      529.21,
+      587.02
+    ],
+    "text": "discretion with restraint and circumspection. The case must be decided by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      594.08,
+      529.22,
+      608.14
+    ],
+    "text": "the Judge as it was presented before him by the rival parties, keeping in mind",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      615.2,
+      529.22,
+      629.26
+    ],
+    "text": "that the system of justice we practice is adversarial, not inquisitorial. Even if",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      636.32,
+      529.25,
+      650.38
+    ],
+    "text": "it is inquisitorial, the Judge cannot decide a matter without giving a hearing",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      657.58,
+      525.82,
+      671.64
+    ],
+    "text": "to both parties. The rule of audi alteram partem is applicable to all decision-",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.42,
+      678.7,
+      311.81,
+      692.76
+    ],
+    "text": "making authorities including Judges.\u201d",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      36.04,
+      323.38,
+      62.94
+    ],
+    "text": "10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      72.0,
+      529.32,
+      86.0
+    ],
+    "text": "However, on the facts and circumstances of the present case, I am unable",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      93.12,
+      529.46,
+      107.18
+    ],
+    "text": "to hold that the rule of audi alteram partem was violated by the learned",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      114.24,
+      529.46,
+      128.24
+    ],
+    "text": "District Judge. This is evident from the evidence already referred to. In fact,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      135.36,
+      529.28,
+      149.36
+    ],
+    "text": "the learned District Judge raised the two issues on the basis of the clear",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      156.48,
+      529.46,
+      170.48
+    ],
+    "text": "and unequivocal position taken by learned counsel for the defendant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      177.6,
+      529.32,
+      191.6
+    ],
+    "text": "himself at the trial. Even at this stage, learned President\u2019s Counsel for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      198.84,
+      529.51,
+      212.84
+    ],
+    "text": "defendant does not contend that deed P1 is invalid, nor does she articulate",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      219.99,
+      493.54,
+      233.99
+    ],
+    "text": "any acceptable basis upon which such invalidity could be sustained.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      253.11,
+      529.31,
+      267.11
+    ],
+    "text": "The submission of learned President\u2019s Counsel is founded primarily on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      274.23,
+      529.45,
+      288.23
+    ],
+    "text": "general principles articulated in decided cases, including my own judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      295.35,
+      529.3,
+      309.35
+    ],
+    "text": "However, a principle laid down in a judgment must be understood in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      316.47,
+      529.44,
+      330.47
+    ],
+    "text": "context of the particular facts and circumstances of that case. Such",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      337.59,
+      529.3,
+      351.59
+    ],
+    "text": "principles do not admit of universal application unless the facts and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      358.73,
+      276.05,
+      372.73
+    ],
+    "text": "circumstances are on all fours.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      391.85,
+      529.49,
+      405.85
+    ],
+    "text": "On the unique facts and circumstances of the present case, I am of the view",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      412.97,
+      529.32,
+      426.97
+    ],
+    "text": "that the learned District Judge did not exceed the permissible limits of his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      434.09,
+      529.33,
+      448.09
+    ],
+    "text": "authority in raising the two issues and answering them in the affirmative",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      455.21,
+      411.19,
+      469.21
+    ],
+    "text": "without affording a further opportunity of being heard.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      488.33,
+      447.19,
+      502.33
+    ],
+    "text": "I accordingly answer the first question of law in the negative.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      521.6,
+      529.46,
+      535.6
+    ],
+    "text": "The second question of law is not clear. It is founded on a separate action,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      542.72,
+      529.51,
+      556.72
+    ],
+    "text": "No. 463/L, instituted by Sumanawathie Weerasinghe as the plaintiff against",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      563.84,
+      529.32,
+      577.84
+    ],
+    "text": "the plaintiff in the present action as defendant, seeking to set aside deed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      584.96,
+      529.46,
+      598.96
+    ],
+    "text": "P2. That action was dismissed by the District Court on the basis that, once",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      606.08,
+      529.31,
+      620.08
+    ],
+    "text": "deed P1 was found to be valid, the institution of an action seeking to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      627.2,
+      529.5,
+      641.2
+    ],
+    "text": "invalidate deed P2 was baseless. As is evident from P5, on appeal, the High",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      648.32,
+      263.57,
+      662.32
+    ],
+    "text": "Court affirmed that decision.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.42,
+      681.46,
+      466.87,
+      695.46
+    ],
+    "text": "Sections 33 and 34 of the Civil Procedure Code reads as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.42,
+      36.04,
+      323.38,
+      62.94
+    ],
+    "text": "11",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      72.0,
+      529.05,
+      86.06
+    ],
+    "text": "33. Every regular action shall, as far as practicable, be so framed as",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      93.12,
+      529.08,
+      107.18
+    ],
+    "text": "to afford ground for a final decision upon the subjects in dispute, and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      114.24,
+      396.79,
+      128.3
+    ],
+    "text": "so to prevent further litigation concerning them.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      147.36,
+      529.06,
+      161.42
+    ],
+    "text": "34(1) Every action shall include the whole of the claim which the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      168.48,
+      529.06,
+      182.54
+    ],
+    "text": "plaintiff is entitled to make in respect of the cause of action; but a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      189.6,
+      529.08,
+      203.66
+    ],
+    "text": "plaintiff may relinquish any portion of his claim in order to bring the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      210.75,
+      364.87,
+      224.81
+    ],
+    "text": "action within the jurisdiction of any court.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      243.99,
+      529.08,
+      258.05
+    ],
+    "text": "(2) If a plaintiff omits to sue in respect of, or intentionally relinquishes",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      265.11,
+      529.06,
+      279.17
+    ],
+    "text": "any portion of, his claim, he shall not afterwards sue in respect of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      286.23,
+      529.09,
+      300.29
+    ],
+    "text": "portion so omitted or relinquished. A person entitled to more than one",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      307.35,
+      529.23,
+      321.41
+    ],
+    "text": "remedy in respect of the same cause of action may sue for all or any of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      328.47,
+      529.15,
+      342.53
+    ],
+    "text": "his remedies; but if he omits (except with the leave of the court obtained",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      349.59,
+      529.08,
+      363.65
+    ],
+    "text": "before the hearing) to sue for any of such remedies, he shall not",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      370.73,
+      367.75,
+      384.79
+    ],
+    "text": "afterwards sue for the remedy so omitted.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      403.85,
+      529.09,
+      417.91
+    ],
+    "text": "(3) For the purpose of this section, an obligation and a collateral",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      424.97,
+      529.18,
+      439.03
+    ],
+    "text": "security for its performance shall be deemed to constitute but one cause",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      446.09,
+      178.34,
+      460.15
+    ],
+    "text": "of action.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.42,
+      479.21,
+      529.3,
+      493.21
+    ],
+    "text": "The issues No. 14 and 15 raised by the defendant in this case and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.42,
+      500.33,
+      308.93,
+      514.33
+    ],
+    "text": "answers given to them are as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      533.49,
+      528.7,
+      547.11
+    ],
+    "text": "14. \u0d91\u0d9a\u0dd3 \u0d91\u0dbd\u0dca/463 \u0daf\u0dbb\u0dab \u0db1\u0da9\u0dd4\u0db8\u0dda\u0daf\u0dd3 \u0d91\u0d9a\u0dd3 \u0db1\u0da9\u0dd4\u0db8\u0dda \u0dc0\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dbb\u0dd4 \u0d91\u0db1\u0dda \u0db8\u0db8\u0db8 \u0db1\u0da9\u0dd4\u0db8\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dd2\u0d9a\u0dbb\u0dd4",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      554.01,
+      527.26,
+      567.63
+    ],
+    "text": "\u0dc0\u0dd2\u0dc3\u0db1\u0dca \u0dc3\u0dc0\u0dd2\u0dbd\u0dca \u0db1\u0da9\u0dd4 \u0dc0\u0dd2\u0db0\u0dcf\u0db1 \u0dc3\u0dd2\u0d82\u0d9c\u0dca\u200d\u0dbb\u0dc4\u0db8\u0dda 33 \u0dc4\u0dcf 34 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dbb\u0dc0 \u0dc3\u0dc4\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0db8\u0db1\u0dcf\u0db8\u0dd0\u0dad\u0dca\u0db8\u0dad\u0dca\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      574.4,
+      275.09,
+      588.63
+    ],
+    "text": "\u0d8b: \u0db8\u0db8\u0db8 \u0db1\u0da9\u0dd4\u0dc0\u0da7 \u0d85\u0daf\u0dcf\u0dbd \u0db8\u0db1\u0dcf\u0db8\u0dda.",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      607.65,
+      528.7,
+      621.27
+    ],
+    "text": "15. \u0d91\u0d9a\u0dd3 \u0dc0\u0dd2\u0dc3\u0db3\u0db1\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0dc0\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0d9a\u0dbb\u0dd4\u0db8\u0dda \u0dc0\u0dcf\u0dc3\u0dba\u0da7 \u0db4\u0dd2\u0dc5\u0dd2\u0dd4\u0dbb\u0dd4 \u0dbd\u0dd0\u0db8\u0dda \u0db1\u0dda \u0db8\u0db8\u0db8 \u0db1\u0da9\u0dd4\u0db8\u0dda \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dca\u0db8\u0dbd\u0dca",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      628.17,
+      510.58,
+      641.79
+    ],
+    "text": "\u0d86\u0dba\u0dcf\u0da0\u0db1\u0db8\u0dda \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d87\u0dad\u0dd2 \u0dc3\u0dc4\u0db1 \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0da7\u0dd3\u0db8\u0db8\u0db1\u0dca \u0db4\u0dd0\u0db8\u0dd2\u0dab\u0dd2\u0dbd\u0dd2\u0d9a\u0dbb\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db6\u0db1\u0dca\u0db0\u0db1\u0dba \u0dc0\u0db1\u0dca\u0db8\u0db1\u0dca\u0daf?",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.42,
+      648.56,
+      166.7,
+      662.79
+    ],
+    "text": "\u0d8b: \u0db1\u0dd0\u0dad.",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.42,
+      681.82,
+      529.32,
+      695.82
+    ],
+    "text": "I am unable to comprehend how sections 33 and 34 could be applied",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.42,
+      702.94,
+      529.31,
+      716.94
+    ],
+    "text": "against the plaintiff in the present case, who was only a defendant in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      36.04,
+      323.38,
+      62.94
+    ],
+    "text": "12",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      397.15,
+      36.04,
+      526.83,
+      48.92
+    ],
+    "text": "SC/APPEAL/163/2016",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      72.0,
+      529.36,
+      86.0
+    ],
+    "text": "other action bearing No. 463/L. Learned President\u2019s Counsel for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      93.12,
+      529.5,
+      107.12
+    ],
+    "text": "defendant has not clearly explained, in the post-argument written",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      114.24,
+      529.46,
+      128.24
+    ],
+    "text": "submissions, the basis on which the second question of law was raised. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      135.36,
+      529.46,
+      149.36
+    ],
+    "text": "matters set out in paragraphs 30 to 40 of those submissions do not assist",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      156.48,
+      411.43,
+      170.48
+    ],
+    "text": "in clarifying or substantiating the said question of law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      189.6,
+      529.34,
+      203.6
+    ],
+    "text": "It appears that learned President\u2019s Counsel seeks to suggest that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      210.75,
+      529.33,
+      224.75
+    ],
+    "text": "plaintiff is barred from seeking relief against the defendant in the present",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      231.99,
+      529.24,
+      245.99
+    ],
+    "text": "action on the basis of deed P1 or by way of ejectment, on the ground that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      253.11,
+      529.41,
+      267.11
+    ],
+    "text": "such relief was not sought in action No. 463/L by way of a claim in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      274.23,
+      529.34,
+      288.23
+    ],
+    "text": "reconvention. This argument does not commend itself to me. As already",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      295.35,
+      529.42,
+      309.35
+    ],
+    "text": "noted, the plaintiff in the present case was only a defendant in that action,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      316.47,
+      529.31,
+      330.47
+    ],
+    "text": "and that action itself was dismissed on the footing that deed P1 was valid.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      337.59,
+      492.82,
+      351.59
+    ],
+    "text": "Sections 33 and 34 are not attracted to the facts of the present case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      370.73,
+      491.86,
+      384.73
+    ],
+    "text": "I accordingly answer the second question of law also in the negative.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      403.85,
+      529.51,
+      417.85
+    ],
+    "text": "There is no need to consider the questions of law raised by learned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      424.97,
+      304.85,
+      438.97
+    ],
+    "text": "President\u2019s Counsel for the plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      458.09,
+      417.43,
+      472.09
+    ],
+    "text": "Accordingly, the appeal is dismissed but without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      359.35,
+      524.36,
+      529.54,
+      538.36
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      545.48,
+      232.61,
+      559.48
+    ],
+    "text": "Menaka Wijesundera, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      566.6,
+      133.22,
+      580.6
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      359.35,
+      587.84,
+      529.54,
+      601.84
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      630.08,
+      269.57,
+      644.08
+    ],
+    "text": "M. Sampath K.B. Wijeratne, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.42,
+      651.22,
+      133.22,
+      665.22
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      355.75,
+      672.34,
+      529.54,
+      686.34
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
