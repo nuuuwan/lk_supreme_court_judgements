@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--14_06:40:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--14_18:38:19-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,467** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-01-13**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,468** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-01-14**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-01-13-SC-SPL-LA-366-2022",
-    "num": "SC/SPL LA/366/2022",
-    "date_str": "2026-01-13",
-    "description": "Hon. Mahinda Samayawardhena J - Baddegama, Telikada-Majuwana ...",
+    "doc_id": "2026-01-14-SC-CHC-APPEAL-18-2021",
+    "num": "SC/CHC APPEAL/18/2021",
+    "date_str": "2026-01-14",
+    "description": "Hon. K. Priyantha Fernando J - Gamlath Kaushala Duminda Yaha...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_spl_la_366_2022.pdf",
-    "parties": "Baddegama, Telikada-Majuwana Multi Purpose Co-Operative Society Ltd., Kurumeme, Galle Road, Baddegama. Respondent-Respondent-Petitioner Vs. Wickrama Arachchi Ariyarathna Abeywickrama, Ganegama North, Baddegama. Applicant-Appellant-Respondent\n\nView More",
-    "judgement_by": "Hon. Mahinda Samayawardhena J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_18_2021.pdf",
+    "parties": "Gamlath Kaushala Duminda Yahampath, No.65/18A, 5th Lane, Nawala. Defendant - Appellant People\\'s Bank, No.75, Sir Chittampalam A. Gardiner Mawatha, Colombo 02. Plaintiff - Respondent\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-01-14 | `SC/CHC APPEAL/18/2021` | Hon. K. Priyantha Fernando J - Gamlath Kaushala Duminda Yaha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-14-SC-CHC-APPEAL-18-2021)
 - 2026-01-13 | `SC/SPL LA/366/2022` | Hon. Mahinda Samayawardhena J - Baddegama, Telikada-Majuwana ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-SPL-LA-366-2022)
 - 2026-01-13 | `SC/HC CALA/184/2016` | Hon. Mahinda Samayawardhena J - Talib Tawfiq Al Nakib, Flat N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-HC-CALA-184-2016)
 - 2026-01-13 | `SC/FR/344/2016` | Hon. K. Priyantha Fernando J - Mudugamuwe Arachchilage Milan... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-FR-344-2016)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-01-13 | `SC/APPEAL/113/2018` | Hon. Mahinda Samayawardhena J - Malavige Sunil Padmasiri, 136... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-113-2018)
 - 2026-01-13 | `SC/APPEAL/106/2013` | Hon. Mahinda Samayawardhena J - Bisowasanthi Walgampaya, “Niw... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-106-2013)
 - 2025-12-19 | `SC/CHC APPEAL/45/2018` | Hon. Arjuna Obeyesekere J - John Sylvester Hora􀆟o Joshua,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-19-SC-CHC-APPEAL-45-2018)
-- 2025-12-19 | `SC/APPEAL/59/2022, SC/APPEAL/60/2022, SC/APPEAL/61/2022` | Hon. Menaka Wijesundera J - 1. Kasthuri Arachchiage Pathm... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2025/2025-12-19-SC-APPEAL-59-2022--SC-A-a4c9ff3c)
 
 ---
 

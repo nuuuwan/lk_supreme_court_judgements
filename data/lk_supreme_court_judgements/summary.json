@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-01-14 06:40:38",
-  "n_docs": 2467,
-  "n_docs_with_pdfs": 1647,
-  "n_docs_with_text": 1647,
+  "time_updated": "2026-01-14 18:38:17",
+  "n_docs": 2468,
+  "n_docs_with_pdfs": 1648,
+  "n_docs_with_text": 1648,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-01-13",
-  "dataset_size": 1489628309,
+  "date_str_max": "2026-01-14",
+  "dataset_size": 1489779107,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-01-13-SC-SPL-LA-366-2022",
-    "num": "SC/SPL LA/366/2022",
-    "date_str": "2026-01-13",
-    "description": "Hon. Mahinda Samayawardhena J - Baddegama, Telikada-Majuwana ...",
+    "doc_id": "2026-01-14-SC-CHC-APPEAL-18-2021",
+    "num": "SC/CHC APPEAL/18/2021",
+    "date_str": "2026-01-14",
+    "description": "Hon. K. Priyantha Fernando J - Gamlath Kaushala Duminda Yaha...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_spl_la_366_2022.pdf",
-    "parties": "Baddegama, Telikada-Majuwana Multi Purpose Co-Operative Society Ltd., Kurumeme, Galle Road, Baddegama. Respondent-Respondent-Petitioner Vs. Wickrama Arachchi Ariyarathna Abeywickrama, Ganegama North, Baddegama. Applicant-Appellant-Respondent\n\nView More",
-    "judgement_by": "Hon. Mahinda Samayawardhena J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_18_2021.pdf",
+    "parties": "Gamlath Kaushala Duminda Yahampath, No.65/18A, 5th Lane, Nawala. Defendant - Appellant People\\'s Bank, No.75, Sir Chittampalam A. Gardiner Mawatha, Colombo 02. Plaintiff - Respondent\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
   }
 }
