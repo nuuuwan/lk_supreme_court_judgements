@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--22_06:40:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--22_18:38:22-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,474** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-01-20**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,476** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-01-22**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-01-20-SC-APPEAL-51-2022",
-    "num": "SC/APPEAL/51/2022",
-    "date_str": "2026-01-20",
-    "description": "Hon. Mahinda Samayawardhena J - 1. Ranasinghe Mudiyanselage B...",
+    "doc_id": "2026-01-22-SC-APPEAL-5-2015",
+    "num": "SC/APPEAL/5/2015",
+    "date_str": "2026-01-22",
+    "description": "HON. S. THURAIRAJA, PC, J - Dr. (Mrs.) Mangala Gunatilake...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_51_2022.pdf",
-    "parties": "1. Ranasinghe Mudiyanselage Bandara Menike alias Bandu Menike, (deceased) No. 208 A, Kurunduwatta Road, Kadugannawa. 1st Defendant-Appellant-Appellant 1A. R.M. Chandrawathie, No. 203/A, Kurunduwatta Road, Kotabogoda, Kadugannawa. 1B. V.G. Amitha Kumarihamy, No. 208 B, Kuruduwatta Road, Kotabogoda, Kadugannawa. 1C. V.J. Sheelawathie Podimenike, \u201cAdhikari Sewana\u201d, Alpitiya, Dewanagala. 1D. V.J. Seetha Menike, No. 227, Pussepitiya Walawwa, Menikdiwela. 1E. Ranasinghe Mudiyanselage Punchi Mahaththayo, No. 208/3, Kurunduwatta Road, Kotabogoda, Kadugannawa. 1F. Saumya Kumari Ranasinghe, Muthupanawatta, Urapola, Kadugannawa. 1G. Laxman Bandara Ranasinghe, Muthupanawatta, Urapola, Kadugannawa. 1H. Ranasinghe Mudiyanselage Dinesh Prasanna Herath, Kuruduwatta Road, Kotabogoda, Kadugannawa. 1I. Ranasinghe Mudiyanselage Chanaka Pradeep Ranasinghe, Kuruduwatta Road, Kotabogoda, Kadugannawa. 1J. Ranasinghe Mudiyanselage Dharshika Nishadi Herath, Kuruduwatta Road, Kotabogoda, Kadugannawa. Substituted 1A to 1J Defendant-Appellant-Appellants 2. Ranasinghe Mudiyanselage Anura Ranasinghe Bandara, No. 208/A, Kurunduwatta Road, Kadugannawa. 2nd Defendant-Appellant-Appellant Vs. 1. Senevirathna Bandaralage Karunathilleka Bandara, No. 208/C, Karase Gedara Watta, Kurunduwatta Road, Kadugannawa. 2. Senevirathna Bandaralage Chandrathilleke Bandara, No. 208/C, Karase Gedara Watta, Kurunduwatta Road, Kadugannawa. 3. Senevirathna Bandaralage Senevirathna Dissanayake, No. 208/C, Karase Gedara Watta, Kurunduwatta Road, Kadugannawa. 4. Senevirathna Bandaralage Senevirathna Bandara, No. 208/C/1, Kurunduwatta Road, Kadugannawa. 5. Senevirathna Bandaralage Biso Menike Epitahagedara, Wewathenna, Gampola. 6. Senevirathna Bandaralage Dayawathie Menike, No. 39, Haliyadda, Danture. 7. Ekanayake Mudiyanselage Nawarathna Bandara, No. 41, Kurunduwatta Road, Kadugannawa. Plaintiff-Respondent-Respondents\n\nView More",
-    "judgement_by": "Hon. Mahinda Samayawardhena J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_5_2015.pdf",
+    "parties": "Dr. (Mrs.) Mangala Gunatilake No. 864/5, Kotte Road, Etul Kotte. PETITIONER -Vs- 1. The University Grants Commission No. 20, Ward Place, Colombo 7. 2(a) Prof S. S. M. Kshanika Hirimburegama Chairperson, The University Grants Commission, No. 20, Ward Place, Colombo 7. 3. The University of Colombo No. 94, Cumaratunga Munidasa Mawatha, Colombo 03. 4(a) Dr. W. Kumara Hirimburegama The Vice Chancellor, University of Colombo, No. 94, Cumaratunga Munidasa Mawatha, Colombo 03. 5. Mr T. L. R. Silva Acting Registrar, University of Colombo, No. 94, Cumaratunga Munidasa Mawatha, Colombo 03. 6. Dr. Tudor Weerasinghe The Rector, Sri Palee Campus, Wewala, Horana. 7. Prof. Indralal de Silva Dean, Faculty of Arts, University of Colombo, No. 94, Cumaratunga Munidasa Mawatha, Colombo 03. 8. Prof. Marie ES Perera, Dean, Faculty of Education, University of Colombo, No. 94, Cumaratunga Munidasa Mawatha, Colombo 03. 9. Mr. N. Selvakkumaran, Dean, Faculty of Law, University of Colombo, No. 94, Cumaratunga Munidasa Mawatha, Colombo 03. AND OTHERS\n\nView More",
+    "judgement_by": "HON. S. THURAIRAJA, PC, J"
 }
 ```
 
@@ -42,6 +42,8 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-01-22 | `SC/APPEAL/5/2015` | HON. S. THURAIRAJA, PC, J - Dr. (Mrs.) Mangala Gunatilake... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-22-SC-APPEAL-5-2015)
+- 2026-01-22 | `SC/APPEAL/138/2019` | HON. S. THURAIRAJA, PC, J - 1. The Director General, Comm... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-22-SC-APPEAL-138-2019)
 - 2026-01-20 | `SC/APPEAL/51/2022` | Hon. Mahinda Samayawardhena J - 1. Ranasinghe Mudiyanselage B... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-20-SC-APPEAL-51-2022)
 - 2026-01-16 | `SC/FR/70/2025` | Hon. Dr. Sobhitha Rajakaruna J - 1. Kurudu Hewage Miheli Thisa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-16-SC-FR-70-2025)
 - 2026-01-16 | `SC/FR/415/2015` | Hon. P. Padman Surasena CJ - 1. I. M. Weerasena Premasingh... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-16-SC-FR-415-2015)
@@ -60,8 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-01-13 | `SC/APPEAL/45/2017` | Hon. Mahinda Samayawardhena J - 2. Mohamed Kalid Sitti Fathum... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-45-2017)
 - 2026-01-13 | `SC/APPEAL/22/2015` | Hon. Mahinda Samayawardhena J - Kodithuwakku Archchige Dona W... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-22-2015)
 - 2026-01-13 | `SC/APPEAL/213/2017` | Hon. Mahinda Samayawardhena J - Jayalathge Amarsinghe, No. 10... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-213-2017)
-- 2026-01-13 | `SC/APPEAL/19/2020` | Hon. Mahinda Samayawardhena J - Raluwe Don Francisco Sunil Ch... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-19-2020)
-- 2026-01-13 | `SC/APPEAL/178/2025` | Hon. Mahinda Samayawardhena J - Dona Chandra Malkanthi Wethth... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-178-2025)
 
 ---
 
