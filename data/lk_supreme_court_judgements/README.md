@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_06:40:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_18:38:35-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,478** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-01-22**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,482** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-01-28**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-01-22-SC-FR-85-2011",
-    "num": "SC/FR/85/2011",
-    "date_str": "2026-01-22",
-    "description": "Hon. M. Sampath K. B. Wijeratne J - 1. O.C. Subasinghe, Hatton Po...",
+    "doc_id": "2026-01-28-SC-CONTEMPT-6-2025",
+    "num": "SC/CONTEMPT/6/2025",
+    "date_str": "2026-01-28",
+    "description": "Hon. Mahinda Samayawardhena J - Hayleys Lifesciences (Pvt) Li...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_85_2011.pdf",
-    "parties": "1. O.C. Subasinghe, Hatton Police Station, Hatton. 2. E.M.C.P. Ratnayake, Mirihana Police Station, Mirihana. 3. M.M.R.C. Munasinghe, Galnawa Police Station, Galnawa. 4. D.M.C.K. Dhanaka, Damana Police Station, Damana. 5. C. Wickramaratne, Lunugamwehera Police Station, Lunugamwehera. 6. R.A.J. Kumara, Police Anti Vice Squad. Walana, Panadura. 7. N.S. Ranasinghe, Matugama Police Station, Matugama. 8. W.K.G. Chamika, Gampaha Police Station, Gampaha. 9. R.S.K.P. Dilantha, Matara Police Station, Matara. 10. H.A.N.S. Seneviratne, Fort Police Station, Fort. 11. K.R. Pushpakumara, Ampara Police Station, Ampara. 12. S.J. Chaminda, Police Fraud Bureau, Wellawatta. 13. B.H.C.R. Sanjeewa, Hikkaduwa Police Station, Hikkaduwa. 14. P.P. Gunarathne, Mannar Police Station, Mannar. 15. N.M.S. de Silva, Maradana Police Station, Maradana. 16. K.P.C.L. Kariyawasam, Special Investigations Unit, Police Headquarters, Colombo 01. 17. A.M.N.P. Adhikaram, Deraniyagala Pollice Station, Deraniyagala. 18. L.P.W. Siriwardena, Minister Security Division, Colombo 02. 19. A.V.S.C. Abeygunasekara, Beliaththa Police Station, Beliaththa. 20. M.M.P.L.P.W.B. Manatunga, Police Headquarters, Colombo 01. 21. P.P.J. Ramanayake, Crimes Division (Western Province North) Peliyagoda. 22. H.T.S. Kumara, Eheliyagoda Police Station, Eheliyagoda. 23. B.V.C.P. Benaragama, Panadura Police Station, Panadura. 24. D.S. Mawadawilaga, Kegalle Police Station, Kegalle. 25. M.R. Dayananda, Criminal Investigation Department, Police Headquarters, Colombo 01. 26. A.D.S. Attanayake, Judicial Security Division, Colombo 02. 27. S.B. Alahakoon, Matara Police Station, Matara. 28. S.W.A.P.R. Samarawickrema, Kegalle Police Station, Kegalle. 29. W.D.S. Ariyaratne, Police Narcotics Bureau, Police Headquarters, Colombo 01. 30. H.K.P. Matharaarachchi, Mini ster Security Division, Colombo 02. 31. M. Anura, Ahangama Police Station, Ahangama. 32. P.R.M. Wasanthakumara, Wariyapola Police Station, Wariyapola. 33. U.G.S.B. Ranaweera, Matale Police Station, Kalpitiya. 34. S.A.A. Dewapriya, Kalpitiya Police Station, Kalpitiya. 35. H.B.T.K. Priyadarshana, Borella Police Station, Borella. 36. R.M.R.J. Rajapakse, Kankasanthurai Police Station, Kankasanthurai. 37. K.P.T. De Silva, Galle Police Station, Galle. 38. H.M.R.B. Hearath, Aralaganwila Police Station, Aralaganwila. 39. H.M.A.G.D. Bandara, Pettah Police Station, Pettah. 40. A.M.K. Wijeybandara, Criminal Investigation Department, Police Headquarters, Colombo 01. PETITIONERS vs 1. Mahinda Balasooriya, The Inspector General of Police, Police Headquarters, Colombo 01. 1A. N.K. Illangakoon, The Inspector General of Police, Police Headquarters, Colombo 01. 1B. Pujith Jayasundara, The Inspector General of Police, Police Headquarters, Colombo 01. AND OTHERS\n\nView More",
-    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_contempt_6_2025.pdf",
+    "parties": "Hayleys Lifesciences (Pvt) Limited, No. 25, Foster Lane, Colombo 10. Also at No. 400, Deans Road, Colombo 07. Complainant Vs. 1. Pathirana Karunrathne Sujeewa Prasanna Sandares, Manager Projects, Mervynsons Pvt Ltd, No. 98, Norris Canal Road, Colombo 10. And also at No. 596/2A, Halgahadeniya Road, Kalapaluwawa. 2. Mervynsons Pvt Ltd, No. 98, Norris Canal Road, Colombo 10. 3. Randolph Nihal Desmond Peiris, Director, Mervynsons Pvt Ltd. No. 98, Norris Canal Road, Colombo 10. Also at No. 81 A, Kynsey Arcade, Kynsey Road, Colombo 08. 4. Simon Martin Peiris, Director, Mervynsons Pvt Ltd. No. 98, Norris Canal Road, Colombo 10. Also at No. 80D, Ward Place, Colombo 07. Also at No. 93 Goldhurst Terrace, London NW63HA, England. 5. Niall Keiran Peiris, Director, Mervynsons Pvt Ltd, No. 98, Norris Canal Road, Colombo 10. Also at No. 80D, Ward Place, Colombo 07. Also at No. 93 Goldhurst Terrace, London NW63HA, England. Accused\n\nView More",
+    "judgement_by": "Hon. Mahinda Samayawardhena J"
 }
 ```
 
@@ -42,6 +42,10 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-01-28 | `SC/CONTEMPT/6/2025` | Hon. Mahinda Samayawardhena J - Hayleys Lifesciences (Pvt) Li... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-28-SC-CONTEMPT-6-2025)
+- 2026-01-28 | `SC/APPEAL/97/2014` | Hon. K. Kumudini Wickremasinghe, J - Hasitha Nayanjana Munasinghe ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-28-SC-APPEAL-97-2014)
+- 2026-01-28 | `SC/APPEAL/248/2025` | Hon. Mahinda Samayawardhena J - Mervynsons Pvt Ltd No. 98, No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-28-SC-APPEAL-248-2025)
+- 2026-01-28 | `SC/APPEAL/110/2023` | Hon. Justice Arjuna Obeyesekere - Soorya Balashakthi Lankapura,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-28-SC-APPEAL-110-2023)
 - 2026-01-22 | `SC/FR/85/2011` | Hon. M. Sampath K. B. Wijeratne J - 1. O.C. Subasinghe, Hatton Po... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-22-SC-FR-85-2011)
 - 2026-01-22 | `SC/APPEAL/5/2015` | HON. S. THURAIRAJA, PC, J - Dr. (Mrs.) Mangala Gunatilake... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-22-SC-APPEAL-5-2015)
 - 2026-01-22 | `SC/APPEAL/138/2019` | HON. S. THURAIRAJA, PC, J - 1. The Director General, Comm... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-22-SC-APPEAL-138-2019)
@@ -58,10 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-01-13 | `SC/FR/344/2016` | Hon. K. Priyantha Fernando J - Mudugamuwe Arachchilage Milan... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-FR-344-2016)
 - 2026-01-13 | `SC/CHC APPEAL/13/2012` | Hon. Mahinda Samayawardhena J - Talib Tawfiq Al Nakib, Flat N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-CHC-APPEAL-13-2012)
 - 2026-01-13 | `SC/APPEAL/86/2014` | Hon. Mahinda Samayawardhena J - Bambaragama Somaratne Thero, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-86-2014)
-- 2026-01-13 | `SC/APPEAL/80/2018` | Hon. Mahinda Samayawardhena J - 1. Palamuni Eresha Deepani Si... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-80-2018)
-- 2026-01-13 | `SC/APPEAL/70/2020` | Hon. Mahinda Samayawardhena J - Dayapala De Silva, No.478/4, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-70-2020)
-- 2026-01-13 | `SC/APPEAL/66/2024` | Hon. Mahinda Samayawardhena J - H.M. Thilakarathna (Deceased)... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-66-2024)
-- 2026-01-13 | `SC/APPEAL/45/2017` | Hon. Mahinda Samayawardhena J - 2. Mohamed Kalid Sitti Fathum... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-45-2017)
 
 ---
 
