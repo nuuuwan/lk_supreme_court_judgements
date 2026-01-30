@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_06:44:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--30_18:39:06-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,482** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-01-28**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,486** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-01-30**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-01-28-SC-CONTEMPT-6-2025",
-    "num": "SC/CONTEMPT/6/2025",
-    "date_str": "2026-01-28",
-    "description": "Hon. Mahinda Samayawardhena J - Hayleys Lifesciences (Pvt) Li...",
+    "doc_id": "2026-01-30-SC-FR-503-2019",
+    "num": "SC/FR/503/2019",
+    "date_str": "2026-01-30",
+    "description": "Hon. P. Padman Surasena CJ - Lebby Thambi Jesmin, Ellawewa...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_contempt_6_2025.pdf",
-    "parties": "Hayleys Lifesciences (Pvt) Limited, No. 25, Foster Lane, Colombo 10. Also at No. 400, Deans Road, Colombo 07. Complainant Vs. 1. Pathirana Karunrathne Sujeewa Prasanna Sandares, Manager Projects, Mervynsons Pvt Ltd, No. 98, Norris Canal Road, Colombo 10. And also at No. 596/2A, Halgahadeniya Road, Kalapaluwawa. 2. Mervynsons Pvt Ltd, No. 98, Norris Canal Road, Colombo 10. 3. Randolph Nihal Desmond Peiris, Director, Mervynsons Pvt Ltd. No. 98, Norris Canal Road, Colombo 10. Also at No. 81 A, Kynsey Arcade, Kynsey Road, Colombo 08. 4. Simon Martin Peiris, Director, Mervynsons Pvt Ltd. No. 98, Norris Canal Road, Colombo 10. Also at No. 80D, Ward Place, Colombo 07. Also at No. 93 Goldhurst Terrace, London NW63HA, England. 5. Niall Keiran Peiris, Director, Mervynsons Pvt Ltd, No. 98, Norris Canal Road, Colombo 10. Also at No. 80D, Ward Place, Colombo 07. Also at No. 93 Goldhurst Terrace, London NW63HA, England. Accused\n\nView More",
-    "judgement_by": "Hon. Mahinda Samayawardhena J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_503_2019.pdf",
+    "parties": "Lebby Thambi Jesmin, Ellawewa, Hijjapura, Kebethigollawa. PETITIONER Vs. 1. Roshan Sanjeewa, Officer-in-Charge, Horowpathana Police Station, Horowpathana. 2. 28071 Premaratne, Police Sergeant, Horowpathana Police Station, Horowpathana. 3. 10516 Sisira, Police Sergeant, Horowpathana Police Station, Horowpathana. 4. 33685 Jayathilaka, Police Constable, Horowpathana Police Station, Horowpathana. 5. Officer-in-Charge, Kebethigollawa Police Station, Kebethigollawa. 6. Officer-in-Charge, Terrorist Investigation Division, Colombo 01. 7. Thilina Hewapathirane, Superintendent of Police, Anuradhapura. 8. Inspector General of police, Police Headquarters, Colombo 01. 9. Hon. Attorney General , Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. P. Padman Surasena CJ"
 }
 ```
 
@@ -42,6 +42,10 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-01-30 | `SC/FR/503/2019` | Hon. P. Padman Surasena CJ - Lebby Thambi Jesmin, Ellawewa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-30-SC-FR-503-2019)
+- 2026-01-30 | `SC/FR/500/2019` | Hon. P. Padman Surasena CJ - Mohideed Bawa Naufer No. 169,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-30-SC-FR-500-2019)
+- 2026-01-30 | `SC/FR/356/2021, SC/FR/358/2021, SC/FR/364/2021, SC/FR/365/2021, SC/FR/402/2021, SC/FR/408/2021, SC/FR/432/2021` | Hon. P. Padman Surasena CJ - 1. E. M. I. B. Wijerathna, No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-30-SC-FR-356-2021--SC-FR-3-2bad0f08)
+- 2026-01-30 | `SC/FR/125/2020` | Hon. P. Padman Surasena CJ - Thevatheepan Priyadharshan, K... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-30-SC-FR-125-2020)
 - 2026-01-28 | `SC/CONTEMPT/6/2025` | Hon. Mahinda Samayawardhena J - Hayleys Lifesciences (Pvt) Li... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-28-SC-CONTEMPT-6-2025)
 - 2026-01-28 | `SC/APPEAL/97/2014` | Hon. K. Kumudini Wickremasinghe, J - Hasitha Nayanjana Munasinghe ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-28-SC-APPEAL-97-2014)
 - 2026-01-28 | `SC/APPEAL/248/2025` | Hon. Mahinda Samayawardhena J - Mervynsons Pvt Ltd No. 98, No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-28-SC-APPEAL-248-2025)
@@ -58,10 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-01-16 | `SC/APPEAL/22/2018` | Hon. Janak De Silva J - 1. Sujatha Kuruppu, 19A, Kiri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-16-SC-APPEAL-22-2018)
 - 2026-01-14 | `SC/CHC APPEAL/18/2021` | Hon. K. Priyantha Fernando J - Gamlath Kaushala Duminda Yaha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-14-SC-CHC-APPEAL-18-2021)
 - 2026-01-13 | `SC/SPL LA/366/2022` | Hon. Mahinda Samayawardhena J - Baddegama, Telikada-Majuwana ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-SPL-LA-366-2022)
-- 2026-01-13 | `SC/HC CALA/184/2016` | Hon. Mahinda Samayawardhena J - Talib Tawfiq Al Nakib, Flat N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-HC-CALA-184-2016)
-- 2026-01-13 | `SC/FR/344/2016` | Hon. K. Priyantha Fernando J - Mudugamuwe Arachchilage Milan... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-FR-344-2016)
-- 2026-01-13 | `SC/CHC APPEAL/13/2012` | Hon. Mahinda Samayawardhena J - Talib Tawfiq Al Nakib, Flat N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-CHC-APPEAL-13-2012)
-- 2026-01-13 | `SC/APPEAL/86/2014` | Hon. Mahinda Samayawardhena J - Bambaragama Somaratne Thero, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-01-13-SC-APPEAL-86-2014)
 
 ---
 
