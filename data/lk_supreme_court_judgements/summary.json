@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-02-03 06:47:15",
-  "n_docs": 2493,
-  "n_docs_with_pdfs": 1673,
-  "n_docs_with_text": 1673,
+  "time_updated": "2026-02-03 18:39:00",
+  "n_docs": 2500,
+  "n_docs_with_pdfs": 1680,
+  "n_docs_with_text": 1680,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-02-02",
-  "dataset_size": 1507892292,
+  "date_str_max": "2026-02-03",
+  "dataset_size": 1510774529,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-02-SC-APPEAL-59-2020",
-    "num": "SC/APPEAL/59/2020",
-    "date_str": "2026-02-02",
-    "description": "Hon. Sampath B. Abayakoon J - Abdul Hussain Musheeda Begam,...",
+    "doc_id": "2026-02-03-SC-FR-194-2021",
+    "num": "SC/FR/194/2021",
+    "date_str": "2026-02-03",
+    "description": "Hon. S. Thurairaja, PC J - 1. Kottewathth Hewage Dharmak...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_59_2020.pdf",
-    "parties": "Abdul Hussain Musheeda Begam, No. 7/3, St. Sebastian Street, Colombo 12. 9TH DEFENDANT-APPELLANT- APPELLANT Vs. 1. Mohamed Rauf Ahamed Nuhuman, No. 22, Hildon Place, Colombo 04. (Now Deceased) 1A. Mohamed Hadi Siththi Hirrziya, 1B. Mohamed Zakeer, 1C. Fathima Zeinab, 1D. Siththy Zahara, All of them, No. 22, Hildon Place, Colombo 04 2. Mohamed Rauf Hassan Bari, No. 22, Hildon Place, Colombo 04. 3. Mohamed Rauf Furkan Ali, No. 22, Hildon Place, Colombo 04. 4. Mohamed Rauf Ismath Asmeer, No. 22. Hildon Place, Colombo 04. 5. Mohamed Rauf Samsul Samaan, Colombo 04. (Now Deceased) 5A. Sakeena Zaki, No. 22, Hildon Place, Colombo 04. PLAINTIFF-RESPONDENT- RESPONDENTS 1. Kaliyur Rahaman Ahamed Siddeek, No. 150, Peradeniya Road, Kandy. 2. Polwattage Wijeratne, No. 277/9, Negombo Road, Peliyagoda. (Now Deceased). 2A. A. A. A. Swarnalatha Wijeratne, No. 33, Raddolugama, Lanka Land, Seeduwa. 3. Sellathurai Thambiraja, No. 31/1, Mayfield Road, Colombo 13. (Now Deceased) 3A. Malarmahal Thambiraja, No. 31/1, Mayfield Road, Colombo 13. 4. Malarmahal Thambiraja, No. 31/1, Mayfield Road, Colombo 13. 5. Kannuthurai Devadas, No. 11/1A, Schofield Place, Colombo 03. 6. Parameshwari Devadas, No. 11/1A, Schofield Place, Colombo 03. 7. Abdul Hussain Mumtaz Hussain, No. 33/3, Akbar Mawatha, Colombo 12. (Deceased). 8. Another Person DEFENDANT-RESPONDENT- RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Sampath B. Abayakoon J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_194_2021.pdf",
+    "parties": "1. Kottewathth Hewage Dharmakeerthi No. 9/6, Mission road, Pitakotte 2. Upali Lokusooriya No. 112/12, Raja Samaranayake Mawatha, Kurusa Junction, Alubomulla 3. Abayaratne Pathirannahelage Nihal Ananda Abayaratne No. 23, Grenier Road, Colombo 08 4. Jasentu Liyana Harsha Kumar Jayatilake 268/7, Rukmal Mayatha, Gothatuwa PETITIONER S - Vs 1. Mr. P.B.S.C. Nonis Director General of Customs Customs House, No. 40 , Main Colombo 11. 2. Hon. Justice Jagath Balapatabendi Chairman The Public Service Commission 1200/9, Rajamalwatta Road, Battaramulla. 3. Mrs. Indrani Sugathadasa Member The Public Service Commission 1200/9, Rajamalwatta Road, Battaramulla. 4. Mr. Suntaram Arumainayaham Member The Public Service Commission 1200/9, Rajamalwatta Road, Battaramulla. and Others\n\nView More",
+    "judgement_by": "Hon. S. Thurairaja, PC J"
   }
 }
