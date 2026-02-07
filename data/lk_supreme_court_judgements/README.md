@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--06_18:39:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--07_06:43:54-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,515** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-06**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,516** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-06**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -46,6 +46,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-06 | `SC/CHC APPEAL/23/2013` | Hon. Janak De Silva J - M/S Dwellco Developments (Pri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-CHC-APPEAL-23-2013)
 - 2026-02-06 | `SC/APPEAL/44/2025` | Hon. Menaka Wijesundera J - The General Consistory of the... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-APPEAL-44-2025)
 - 2026-02-06 | `SC/APPEAL/162/2019` | Hon. Mahinda Samayawardhena J - Brandywattage Siriyawathee, N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-APPEAL-162-2019)
+- 2026-02-06 | `SC/APPEAL/139/2024` | Hon. Sampath B. Abayakoon J - Tech Pacific Lanka Pvt Ltd, N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-APPEAL-139-2024)
 - 2026-02-05 | `SC/RULE/5/2024` | Hon. Achala Wengappuli J - The Registrar, Supreme Court ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-RULE-5-2024)
 - 2026-02-05 | `SC/RULE/3/2024` | Hon. Achala Wengappuli J - The Registrar, Supreme Court ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-RULE-3-2024)
 - 2026-02-05 | `SC/FR/925/2009` | Hon. S. Thurairaja PC J - 1. L.M.S.P. Pitawala, Technic... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-FR-925-2009)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-03 | `SC/APPEAL/19/2022 with SC/SPL LA/414/2019` | Hon. Kumuduni Wickremasinghe J Dissenting Hon. Janak De Silva J - Seevananthyagam Kanjana C12/0... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-03-SC-APPEAL-19-2022-with--e50cb511)
 - 2026-02-03 | `SC/APPEAL/185/2019` | Hon. Dr. Sobhitha Rajakaruna J - Priyanganie Sunimala Anokha J... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-03-SC-APPEAL-185-2019)
 - 2026-02-03 | `SC/APPEAL/160/2015` | Hon. Kumuduni Wickremasinghe J - H.M. Suddharma Kumari, Of Cha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-03-SC-APPEAL-160-2015)
-- 2026-02-03 | `SC/APPEAL/139/2022` | Hon. Dr. Sobhitha Rajakaruna J - Malwatte Valley Plantations P... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-03-SC-APPEAL-139-2022)
 
 ---
 
