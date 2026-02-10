@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_06:54:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_18:40:35-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,519** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-09**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,522** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (67%), **TXT** (67%) & **🤗 Hugging Face** (67%)
 
@@ -19,14 +19,14 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-09-SC-CHC-APPEAL-25-2017",
-    "num": "SC/CHC APPEAL/25/2017",
-    "date_str": "2026-02-09",
-    "description": "Hon. Mahinda Samayawardhena J - Sri Lanka Ports Management & ...",
+    "doc_id": "2026-02-10-SC-APPEAL-96-2025",
+    "num": "SC/APPEAL/96/2025",
+    "date_str": "2026-02-10",
+    "description": "Hon. Mahinda Samayawardhena J - Piliyandala Tharuna Bauddha S...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_25_2017.pdf",
-    "parties": "Sri Lanka Ports Management & Consultancy Services Ltd, No. 19, Church Street, Colombo 01. 1st Defendant-Appellant Vs. Tanyo Haulage (Pvt) Ltd, No. 23, Rodney Street, Colombo 08. Plaintiff-Respondent Sri Lanka Ports Authority, No.19, Church Street, Colombo 01. 2nd Defendant-Respondent\n\nView More",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_96_2025.pdf",
+    "parties": "Piliyandala Tharuna Bauddha Samithiya (Young Buddhist Association), No. 11, Maharagama Road, Piliyandala. Plaintiff-Appellant-Appellant Vs. Satharasinghe Achcige Don Chaminda, No. 272/B, U.D.T. Wimal Perera Mawatha, Kesbewa. Defendant-Respondent-Respondent\n\nView More",
     "judgement_by": "Hon. Mahinda Samayawardhena J"
 }
 ```
@@ -42,9 +42,12 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-02-10 | `SC/APPEAL/96/2025` | Hon. Mahinda Samayawardhena J - Piliyandala Tharuna Bauddha S... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-APPEAL-96-2025)
+- 2026-02-09 | `SC/FR/46/2020, SC/FR/47/2020, SC/FR/48/2020` | Hon. Yasantha Kodagoda PC J - SC/FR/46/2020: Mohamed Ibrahi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-09-SC-FR-46-2020--SC-FR-47-42de89f3)
 - 2026-02-09 | `SC/CHC APPEAL/25/2017` | Hon. Mahinda Samayawardhena J - Sri Lanka Ports Management & ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-09-SC-CHC-APPEAL-25-2017)
 - 2026-02-09 | `SC/APPEAL/78/2022` | Hon. K. Priyantha Fernando J - G.A.D. Sumanapala Watte Gedar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-09-SC-APPEAL-78-2022)
 - 2026-02-09 | `SC/APPEAL/172/2014` | Hon. Mahinda Samayawardhena J - 5. P.P.B. Jayasekara, Nikapit... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-09-SC-APPEAL-172-2014)
+- 2026-02-06 | `SC/FR/212/2021` | Hon. Yasantha Kodagoda PC J - 1. Hansa Brahmana Malthunga M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-FR-212-2021)
 - 2026-02-06 | `SC/FR/155/2023` | Hon. Menaka Wijesundera J - Nona Moreen Noor No. B/4/2/7,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-FR-155-2023)
 - 2026-02-06 | `SC/CHC APPEAL/23/2013` | Hon. Janak De Silva J - M/S Dwellco Developments (Pri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-CHC-APPEAL-23-2013)
 - 2026-02-06 | `SC/APPEAL/44/2025` | Hon. Menaka Wijesundera J - The General Consistory of the... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-APPEAL-44-2025)
@@ -59,9 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-05 | `SC/APPEAL/68/2021 WITH SC/APPEAL/69/2021` | Hon. A.L. Shiran Gooneratne J - SC/APPEAL/68/2021: Jayalath A... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-APPEAL-68-2021-WITH--230af2c7)
 - 2026-02-05 | `SC/APPEAL/38/2020` | Hon. Sampath B. Abayakoon J - 1. John Lanka Deshapriya Ferd... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-APPEAL-38-2020)
 - 2026-02-05 | `SC/APPEAL/158/2017` | Hon. P. Padman Surasena CJ - 1. Kariyapperuma Arachchige D... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-APPEAL-158-2017)
-- 2026-02-05 | `SC/APPEAL/155/2015` | Hon. Mahinda Samayawardhena J - 1. Sri Lanka Coconut Producer... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-APPEAL-155-2015)
-- 2026-02-03 | `SC/FR/194/2021` | Hon. S. Thurairaja, PC J - 1. Kottewathth Hewage Dharmak... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-03-SC-FR-194-2021)
-- 2026-02-03 | `SC/APPEAL/241/2016` | Hon. Kumuduni Wickremasinghe J - W.A. Jayantha Thamel, Galmuru... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-03-SC-APPEAL-241-2016)
 
 ---
 
