@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--12_07:21:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--12_18:39:52-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,524** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,525** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-12**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-10-SC-FR-261-2019",
-    "num": "SC/FR/261/2019",
-    "date_str": "2026-02-10",
-    "description": "Hon. A.L. Shiran Gooneratne J - Nithijanatham Baskaran, C/O:N...",
+    "doc_id": "2026-02-12-SC-FR-267-2018",
+    "num": "SC/FR/267/2018",
+    "date_str": "2026-02-12",
+    "description": "Hon. P. Padman Surasena CJ - 1. Godagama Vidana Arachchige...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_261_2019.pdf",
-    "parties": "Nithijanatham Baskaran, C/O:N. Sivathiruchenthuranathan, Kaithady West, Kaithady, Jaffna. PETITIONER Vs. 1. University of Jaffna, Thirunelvelvy, Jaffna. 2. Prof. Ratnam Wikneswaran, Former Vice Chancellor, University of Jaffna, Thirunelvelvy, Jaffna. 2A. Prof. K. Kandasamy, Competent Authority, University of Jaffna, Thirunelvelvy, Jaffna. 3. Dr. K. Suthakar, Dean, Faculty of Arts, University of Jaffna, Thirunelvelvy, Jaffna. 4. Dr. (Mrs.) B. J. Rasanen, Head, Department of Sociology, University of Jaffna, Thirunelvelvy, Jaffna. 5. Mrs. A. Rajakumar, Senate Nominee (Council Member) University of Jaffna, Thirunelvelvy, Jaffna. 6. Mr. P. E. Eswaradasan Council Nominee (Council Member) University of Jaffna, Thirunelvelvy, Jaffna. 7. Prof. Jayadeva Uyangoda, Council Nominee (Council Member) University of Jaffna, Thirunelvelvy, Jaffna. 8. Dr. A. A. Kadirgamar, 63, Rakka Lane, Nallur, Jaffna. 9. University Grant Commission, Ward Place, Colombo 07. 10. The Registrar, University of Jaffna, Thirunelvelvy, Jaffna. 11. Hon. Attorney General, Attorney-General\u2019s Department, Hulftsdorp, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_267_2018.pdf",
+    "parties": "1. Godagama Vidana Arachchige Norbert Perera No. 134/A, Gampala Road, Navalapitiya. 2. Thilak Jans Chandralal Disanayake No. 126, Hiressagala Road, Pilimathalawa. 3. Warnakulasuriy Dehiwalage Gamini Kapiladewa Costa, No. 84, Meerigama Road, Dunagaha. PETITIONERS Vs. 1. H.M.P.B. Herath Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 1A. Dammika Muthugala Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 1B. Amal Edirisooriya Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 1C. A. Muthumala, Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 1D. Dr. Shemal Fernando Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 2. Apsara Caldera Director, Ministry of Provincial Councils, Local Government & Sports, No. 09, Phillip Gunawardana Mawatha, Colombo 07. (Ceased to Hold Office) 3. I.P. Wijeratne Director (Sports) Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. AND OTHERS\n\nView More",
+    "judgement_by": "Hon. P. Padman Surasena CJ"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-02-12 | `SC/FR/267/2018` | Hon. P. Padman Surasena CJ - 1. Godagama Vidana Arachchige... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-12-SC-FR-267-2018)
 - 2026-02-10 | `SC/FR/261/2019` | Hon. A.L. Shiran Gooneratne J - Nithijanatham Baskaran, C/O:N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-FR-261-2019)
 - 2026-02-10 | `SC/APPEAL/96/2025` | Hon. Mahinda Samayawardhena J - Piliyandala Tharuna Bauddha S... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-APPEAL-96-2025)
 - 2026-02-10 | `SC/APPEAL/102/2023` | Hon. A.L. Shiran Gooneratne J - 1. Pandithakoralalage Don Hil... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-APPEAL-102-2023)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-05 | `SC/FR/198/2025` | Hon. Arjuna Obeyesekere J - Isula Damsith Jayaratne, 07/3... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-FR-198-2025)
 - 2026-02-05 | `SC/CONTEMPT/1/2024` | Hon. Achala Wengappuli J - The Registrar, Supreme Court ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-CONTEMPT-1-2024)
 - 2026-02-05 | `SC/CHC APPEAL/11/2006` | Hon. A.L. Shiran Gooneratne J - Seylan Bank Limited No. 33, S... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-CHC-APPEAL-11-2006)
-- 2026-02-05 | `SC/APPEAL/68/2021 WITH SC/APPEAL/69/2021` | Hon. A.L. Shiran Gooneratne J - SC/APPEAL/68/2021: Jayalath A... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-05-SC-APPEAL-68-2021-WITH--230af2c7)
 
 ---
 
