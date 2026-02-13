@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-02-13 06:50:21",
-  "n_docs": 2525,
-  "n_docs_with_pdfs": 1705,
-  "n_docs_with_text": 1705,
+  "time_updated": "2026-02-13 18:39:32",
+  "n_docs": 2533,
+  "n_docs_with_pdfs": 1713,
+  "n_docs_with_text": 1713,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-02-12",
-  "dataset_size": 1530423451,
+  "date_str_max": "2026-02-13",
+  "dataset_size": 1533420618,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-12-SC-FR-267-2018",
-    "num": "SC/FR/267/2018",
-    "date_str": "2026-02-12",
-    "description": "Hon. P. Padman Surasena CJ - 1. Godagama Vidana Arachchige...",
+    "doc_id": "2026-02-13-SC-FR-10-2012",
+    "num": "SC/FR/10/2012",
+    "date_str": "2026-02-13",
+    "description": "Hon. Kumuduni Wickremasinghe J - Don Prasanna Mervyn Thusharak...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_267_2018.pdf",
-    "parties": "1. Godagama Vidana Arachchige Norbert Perera No. 134/A, Gampala Road, Navalapitiya. 2. Thilak Jans Chandralal Disanayake No. 126, Hiressagala Road, Pilimathalawa. 3. Warnakulasuriy Dehiwalage Gamini Kapiladewa Costa, No. 84, Meerigama Road, Dunagaha. PETITIONERS Vs. 1. H.M.P.B. Herath Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 1A. Dammika Muthugala Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 1B. Amal Edirisooriya Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 1C. A. Muthumala, Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 1D. Dr. Shemal Fernando Director General, Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. 2. Apsara Caldera Director, Ministry of Provincial Councils, Local Government & Sports, No. 09, Phillip Gunawardana Mawatha, Colombo 07. (Ceased to Hold Office) 3. I.P. Wijeratne Director (Sports) Department of Sports Development, No. 09, Phillip Gunawardana Mawatha, Colombo 07. AND OTHERS\n\nView More",
-    "judgement_by": "Hon. P. Padman Surasena CJ"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_10_2012.pdf",
+    "parties": "Don Prasanna Mervyn Thusharaka Jayamanna of No. 3A, Horton Terrace, Colombo 07 Carrying on the business in the name and style of \u201cD. P. J. Holdings\u201d at DPJ House, Jesmin Park, Narahenpita Road, Nawala. Petitioner V. 1. Prof. Nimal de Silva, Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01A. Pro. Prishantha Gunawardana Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01B. Prof. Gamini Adhikari Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01C. Gamini Ranasinghe Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01D. Nilan Cooray Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 2. Sarath Wijesekara Pathirana Director (Finance) Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. and Others\n\nView More",
+    "judgement_by": "Hon. Kumuduni Wickremasinghe J"
   }
 }
