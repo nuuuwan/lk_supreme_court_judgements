@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_06:47:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_18:40:11-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,533** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-13**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,534** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-17**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-13-SC-FR-10-2012",
-    "num": "SC/FR/10/2012",
-    "date_str": "2026-02-13",
-    "description": "Hon. Kumuduni Wickremasinghe J - Don Prasanna Mervyn Thusharak...",
+    "doc_id": "2026-02-17-SC-CHC-APPEAL-25-2022",
+    "num": "SC/CHC APPEAL/25/2022",
+    "date_str": "2026-02-17",
+    "description": "Hon. Arjuna Obeyesekere J - Na\udbc0\udd9fons Trust Bank, No. 242, U...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_10_2012.pdf",
-    "parties": "Don Prasanna Mervyn Thusharaka Jayamanna of No. 3A, Horton Terrace, Colombo 07 Carrying on the business in the name and style of \u201cD. P. J. Holdings\u201d at DPJ House, Jesmin Park, Narahenpita Road, Nawala. Petitioner V. 1. Prof. Nimal de Silva, Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01A. Pro. Prishantha Gunawardana Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01B. Prof. Gamini Adhikari Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01C. Gamini Ranasinghe Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01D. Nilan Cooray Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 2. Sarath Wijesekara Pathirana Director (Finance) Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. and Others\n\nView More",
-    "judgement_by": "Hon. Kumuduni Wickremasinghe J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_25_2022.pdf",
+    "parties": "Na\udbc0\udd9fons Trust Bank, No. 242, Union Place, Colombo 2. PLAINTIFF \u2013 APPELLANT - Vs - N. Gamage Niruka Sudarshani Perera, No. 285, Modara Street, Colombo 15. DEFENDANT \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-02-17 | `SC/CHC APPEAL/25/2022` | Hon. Arjuna Obeyesekere J - Na􀆟ons Trust Bank, No. 242, U... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-17-SC-CHC-APPEAL-25-2022)
 - 2026-02-13 | `SC/FR/10/2012` | Hon. Kumuduni Wickremasinghe J - Don Prasanna Mervyn Thusharak... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-13-SC-FR-10-2012)
 - 2026-02-13 | `SC/APPEAL/95/2025` | Hon. Mahinda Samayawardhena J - Weerasinghe Kodikankanamalage... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-13-SC-APPEAL-95-2025)
 - 2026-02-13 | `SC/APPEAL/9/2016` | Hon. Sampath B. Abayakoon J - 1. Nanayakkarawasam Ihalage S... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-13-SC-APPEAL-9-2016)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-06 | `SC/FR/212/2021` | Hon. Yasantha Kodagoda PC J - 1. Hansa Brahmana Malthunga M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-FR-212-2021)
 - 2026-02-06 | `SC/FR/155/2023` | Hon. Menaka Wijesundera J - Nona Moreen Noor No. B/4/2/7,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-FR-155-2023)
 - 2026-02-06 | `SC/CHC APPEAL/23/2013` | Hon. Janak De Silva J - M/S Dwellco Developments (Pri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-CHC-APPEAL-23-2013)
-- 2026-02-06 | `SC/APPEAL/44/2025` | Hon. Menaka Wijesundera J - The General Consistory of the... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-06-SC-APPEAL-44-2025)
 
 ---
 

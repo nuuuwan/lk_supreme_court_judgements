@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-02-17 06:47:06",
-  "n_docs": 2533,
-  "n_docs_with_pdfs": 1713,
-  "n_docs_with_text": 1713,
+  "time_updated": "2026-02-17 18:40:09",
+  "n_docs": 2534,
+  "n_docs_with_pdfs": 1714,
+  "n_docs_with_text": 1714,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-02-13",
-  "dataset_size": 1535283804,
+  "date_str_max": "2026-02-17",
+  "dataset_size": 1536462459,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-13-SC-FR-10-2012",
-    "num": "SC/FR/10/2012",
-    "date_str": "2026-02-13",
-    "description": "Hon. Kumuduni Wickremasinghe J - Don Prasanna Mervyn Thusharak...",
+    "doc_id": "2026-02-17-SC-CHC-APPEAL-25-2022",
+    "num": "SC/CHC APPEAL/25/2022",
+    "date_str": "2026-02-17",
+    "description": "Hon. Arjuna Obeyesekere J - Na\udbc0\udd9fons Trust Bank, No. 242, U...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_10_2012.pdf",
-    "parties": "Don Prasanna Mervyn Thusharaka Jayamanna of No. 3A, Horton Terrace, Colombo 07 Carrying on the business in the name and style of \u201cD. P. J. Holdings\u201d at DPJ House, Jesmin Park, Narahenpita Road, Nawala. Petitioner V. 1. Prof. Nimal de Silva, Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01A. Pro. Prishantha Gunawardana Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01B. Prof. Gamini Adhikari Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01C. Gamini Ranasinghe Former Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 01D. Nilan Cooray Director General, Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. 2. Sarath Wijesekara Pathirana Director (Finance) Central Cultural Fund, No. 212/1, Bauddhaloka Mawatha, Colombo 7. and Others\n\nView More",
-    "judgement_by": "Hon. Kumuduni Wickremasinghe J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_25_2022.pdf",
+    "parties": "Na\udbc0\udd9fons Trust Bank, No. 242, Union Place, Colombo 2. PLAINTIFF \u2013 APPELLANT - Vs - N. Gamage Niruka Sudarshani Perera, No. 285, Modara Street, Colombo 15. DEFENDANT \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. Arjuna Obeyesekere J"
   }
 }
