@@ -1,0 +1,9439 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      92.85,
+      60.78,
+      506.2,
+      76.27
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      209.95,
+      76.88,
+      385.48,
+      92.37
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.8,
+      154.42,
+      439.36,
+      168.81
+    ],
+    "text": "SC/CHC/Appeal/43/2022 Saravanamuthu Vimalachandran",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.8,
+      176.82,
+      359.54,
+      191.21
+    ],
+    "text": "HC/CIVIL/68/2017/MR \u2018Kumarakoodam\u2019",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.8,
+      199.22,
+      393.94,
+      213.61
+    ],
+    "text": "Thamotherampillai Rd,",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.8,
+      221.62,
+      361.69,
+      236.01
+    ],
+    "text": "Chavakachcheri.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.8,
+      266.42,
+      340.02,
+      280.81
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.5,
+      307.77,
+      281.06,
+      322.16
+    ],
+    "text": "vs",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.8,
+      343.67,
+      409.17,
+      358.06
+    ],
+    "text": "1. Agasthya (Private) Limited,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      372.07,
+      323.34,
+      386.46
+    ],
+    "text": "No. 03-5/1,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      394.28,
+      348.4,
+      408.86
+    ],
+    "text": "1st Chapel Lane,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      416.87,
+      325.15,
+      431.26
+    ],
+    "text": "Colombo 6.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.8,
+      464.22,
+      404.47,
+      478.61
+    ],
+    "text": "2. Subramaniam Pirabaharan,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      492.62,
+      309.77,
+      507.01
+    ],
+    "text": "Director,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      515.02,
+      386.08,
+      529.41
+    ],
+    "text": "Agasthya (Private) Ltd,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      537.42,
+      323.34,
+      551.81
+    ],
+    "text": "No. 03-5/1,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      559.63,
+      345.12,
+      574.21
+    ],
+    "text": "1st Chapel Lane",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      582.22,
+      325.15,
+      596.61
+    ],
+    "text": "Colombo 6.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.8,
+      610.62,
+      387.69,
+      625.01
+    ],
+    "text": "3. Subramaniam Vasihran,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      639.02,
+      309.77,
+      653.41
+    ],
+    "text": "Director,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      661.42,
+      386.08,
+      675.81
+    ],
+    "text": "Agasthya (Private) Ltd,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      683.82,
+      323.34,
+      698.21
+    ],
+    "text": "No. 03-5/1,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      706.03,
+      348.4,
+      720.61
+    ],
+    "text": "1st Chapel Lane,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.8,
+      728.62,
+      325.15,
+      743.01
+    ],
+    "text": "Colombo 6.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.05,
+      36.57,
+      348.05,
+      50.96
+    ],
+    "text": "DEFENDANTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.05,
+      81.42,
+      366.6,
+      95.81
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.05,
+      111.32,
+      433.96,
+      125.71
+    ],
+    "text": "Saravanamuthu Vimalachandran",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.05,
+      133.72,
+      355.64,
+      148.11
+    ],
+    "text": "\u2018Kumarakoodam\u2019",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.05,
+      156.12,
+      384.29,
+      170.51
+    ],
+    "text": "Thamotherampillai Rd,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.05,
+      178.52,
+      350.19,
+      192.91
+    ],
+    "text": "Chavakachcheri.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269.5,
+      223.32,
+      436.35,
+      237.71
+    ],
+    "text": "PLAINTIFF \u2013 APPELLANT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      269.5,
+      260.67,
+      281.06,
+      275.06
+    ],
+    "text": "vs",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.8,
+      311.52,
+      409.17,
+      325.91
+    ],
+    "text": "1. Agasthya (Private) Limited,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      339.92,
+      323.34,
+      354.31
+    ],
+    "text": "No. 03-5/1,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      362.13,
+      348.4,
+      376.71
+    ],
+    "text": "1st Chapel Lane,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      384.72,
+      325.15,
+      399.11
+    ],
+    "text": "Colombo 6.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243.95,
+      432.07,
+      404.47,
+      446.46
+    ],
+    "text": "2. Subramaniam Pirabaharan,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      460.47,
+      309.77,
+      474.86
+    ],
+    "text": "Director,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      482.87,
+      386.08,
+      497.26
+    ],
+    "text": "Agasthya (Private) Ltd,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      505.27,
+      323.34,
+      519.66
+    ],
+    "text": "No. 03-5/1,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      527.48,
+      345.12,
+      542.06
+    ],
+    "text": "1st Chapel Lane",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      550.07,
+      325.15,
+      564.46
+    ],
+    "text": "Colombo 6.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      243.95,
+      597.42,
+      387.69,
+      611.81
+    ],
+    "text": "3. Subramaniam Vasihran,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      625.82,
+      309.77,
+      640.21
+    ],
+    "text": "Director,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      648.22,
+      386.08,
+      662.61
+    ],
+    "text": "Agasthya (Private) Ltd,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      670.62,
+      323.34,
+      685.01
+    ],
+    "text": "No. 03-5/1,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      692.83,
+      348.4,
+      707.41
+    ],
+    "text": "1st Chapel Lane,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.8,
+      715.42,
+      325.15,
+      729.81
+    ],
+    "text": "Colombo 6.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.8,
+      737.82,
+      451.55,
+      752.21
+    ],
+    "text": "DEFENDANTS - RESPONDENTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "2",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.8,
+      36.57,
+      459.11,
+      85.26
+    ],
+    "text": "BEFORE: Achala Wengappuli, J. Dr. Sobhitha Rajakaruna, J. M. Sampath K. B. Wijeratne J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.8,
+      105.17,
+      503.5,
+      153.86
+    ],
+    "text": "COUNSEL: Kuvera De Zoysa, P.C., with Kevin Dias Instructed by L.A.S.M. Tharuka for the Plaintiff-Appellant.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.05,
+      173.77,
+      542.0,
+      239.61
+    ],
+    "text": "V. Puvitharan, P.C., with Ratnam Ushanthanie & N. Amarasena instructed by Subhani Kalugamage for the 1st-3rd Defendants-Respondents.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.8,
+      259.52,
+      347.85,
+      273.91
+    ],
+    "text": "ARGUED ON : 03.09.2025",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.8,
+      289.42,
+      347.85,
+      303.81
+    ],
+    "text": "DECIDED ON: 19.02.2026",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.8,
+      325.32,
+      265.18,
+      339.71
+    ],
+    "text": "M. Sampath K. B. Wijeratne J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      368.67,
+      208.94,
+      383.06
+    ],
+    "text": "Factual Background.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      411.77,
+      541.95,
+      426.16
+    ],
+    "text": "The Plaintiff -Appellant instituted the action bearing No. HC Civil 68/2017/MR in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      434.17,
+      541.95,
+      448.56
+    ],
+    "text": "the High Court of the Western Province (Exercising Civil Jurisdiction), holden in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      456.38,
+      540.83,
+      470.96
+    ],
+    "text": "Colombo (commonly known as Commercial High Court) against the 1st to 4th",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      478.97,
+      541.9,
+      493.36
+    ],
+    "text": "Defendants-Respondents inter alia, claiming a sum of Rupees 40 Million, being the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      501.18,
+      542.0,
+      515.76
+    ],
+    "text": "amount due under the agreement and also claimed as damages, from the 1st, 2nd, and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      523.58,
+      540.83,
+      538.16
+    ],
+    "text": "4th Defendants\u2013Respondents jointly and severally, 1 arising from the failure of the 1st",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      546.17,
+      542.0,
+      560.56
+    ],
+    "text": "Defendant\u2013Respondent Company to honour the terms and conditions agreed upon in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      568.57,
+      541.95,
+      582.96
+    ],
+    "text": "Agreement No. 809 dated 09 June 2014, marked \u2018P4\u2019. In the original, plaint,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      590.78,
+      541.95,
+      605.36
+    ],
+    "text": "'Agasthya (Private) Limited' was named as the 1st Defendant and \u2018Mangai (Private)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      613.18,
+      541.95,
+      627.76
+    ],
+    "text": "Limited\u2019 was named as the 2nd Defendant. Subsequently, Mangai (Pvt) Limited had",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      635.77,
+      257.83,
+      650.16
+    ],
+    "text": "been removed from the caption.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      680.57,
+      541.95,
+      694.96
+    ],
+    "text": "The Plaintiff-Appellant, Saravanamuthu Vimalachandran, being a Sri Lankan born",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      702.97,
+      541.95,
+      717.36
+    ],
+    "text": "British citizen operating his business from London, instructed his brother-in-law",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      725.37,
+      542.0,
+      739.76
+    ],
+    "text": "Yoganathan Thirurerakan who handled his investments in Sri Lanka, to invest money",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.25,
+      747.58,
+      542.0,
+      762.16
+    ],
+    "text": "in two apartments which will be built by the original 2nd Defendant-Respondent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.8,
+      766.1,
+      202.19,
+      778.28
+    ],
+    "text": "1 Vide paragraph 19 of the Plaint.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "3",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "company. Accordingly, Yoganathan Thirurerakan entered into Agreement No.1481",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      58.78,
+      541.95,
+      73.36
+    ],
+    "text": "dated June 30, 2008 (\u201cP1\u201d) with the 2nd Defendant-Respondent. The core undertaking",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      81.18,
+      541.95,
+      95.76
+    ],
+    "text": "in the said agreement was for the original 2nd Defendant company to complete and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      103.77,
+      541.95,
+      118.16
+    ],
+    "text": "transfer the unencumbered title of two apartments units, Winter and Autumn, located",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      125.98,
+      541.95,
+      140.56
+    ],
+    "text": "on the 5th Floor of the apartment complex to Yoganathan Thirurerakan. Based on the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      148.38,
+      540.88,
+      162.96
+    ],
+    "text": "aforesaid promise, Yoganathan Thirurerakan paid Rs. 24,100,000/- to the original 2nd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      170.97,
+      541.95,
+      185.36
+    ],
+    "text": "Defendant-Respondent, upon the instructions of the Plaintiff-Appellant, as the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      193.37,
+      320.63,
+      207.76
+    ],
+    "text": "consideration in full for the two apartments.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      237.98,
+      541.95,
+      252.56
+    ],
+    "text": "However, the original 2nd Defendant-Respondent company failed to convey and hand",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      260.57,
+      541.95,
+      274.96
+    ],
+    "text": "over possession of the two apartments as agreed. Thereafter, the plaintiff had",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      282.97,
+      541.95,
+      297.36
+    ],
+    "text": "corresponded through multiple letters on various dates in an effort to persuade the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      305.37,
+      542.0,
+      319.76
+    ],
+    "text": "Defendants-Respondents to abide by the terms and conditions. When analysing the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      327.77,
+      541.95,
+      342.16
+    ],
+    "text": "contents of each letter, it can be concluded that, the Plaintiff-Appellant had received a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      350.17,
+      541.95,
+      364.56
+    ],
+    "text": "letter dated August 28, 2013, which is not attached to the brief, from Mr.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      372.57,
+      542.0,
+      386.96
+    ],
+    "text": "Sathananthan who was the controlling shareholder and Managing Director of Mangai",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      394.78,
+      541.95,
+      409.36
+    ],
+    "text": "(Pvt) Limited (original 2nd Defendant) guaranteeing the repayment of a sum of Rs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      417.37,
+      541.95,
+      431.76
+    ],
+    "text": "32,900,000/- to the Plaintiff-Appellant. Subsequently, on December 27, 2013 the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      439.77,
+      542.0,
+      454.16
+    ],
+    "text": "Plaintiff-Appellant had sent another letter addressed to both Mr. Sathananthan and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      462.17,
+      541.95,
+      476.56
+    ],
+    "text": "Mangai (Pvt) Limited claiming the full payment of Rs. 32,900,000/- which was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      484.57,
+      541.95,
+      498.96
+    ],
+    "text": "already acknowledged in the previous letter dated August 28, 2013. Additionally, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      506.97,
+      541.95,
+      521.36
+    ],
+    "text": "Plaintiff had instructed Yoganathan Thirurerakan to register a caveat in the land",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      529.37,
+      541.95,
+      543.76
+    ],
+    "text": "registry of Colombo in respect of the property. However, in this instance, Agasthya",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      551.58,
+      541.95,
+      566.16
+    ],
+    "text": "(Pvt) Limited, the 1st Defendant-Respondent of the present action, by letter dated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      574.17,
+      542.0,
+      588.56
+    ],
+    "text": "January 20, 2014 (\u2018P3\u2019), informed that the company named \u2018Mangai (Private)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      596.57,
+      541.95,
+      610.96
+    ],
+    "text": "Limited\u2019 is presently not in existence and rejected the liabilities on behalf of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      618.97,
+      541.95,
+      633.36
+    ],
+    "text": "Mangai (Pvt) Ltd. According to the Journal Entry No. 9 dated April 4, 2018, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      641.37,
+      541.95,
+      655.76
+    ],
+    "text": "learned Judge of the Commercial High Court was informed that Mangai (Private)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      663.58,
+      541.95,
+      678.16
+    ],
+    "text": "Limited was the previous name of the present 1st Defendant-Respondent company,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      686.17,
+      541.95,
+      700.56
+    ],
+    "text": "Agasthya (Private) Limited. The certificate of incorporation pursuant to Section 8 (3)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      708.57,
+      542.0,
+      722.96
+    ],
+    "text": "(b) of the Companies Act No 7 of 2007 filed of record further confirms the name",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      730.97,
+      541.95,
+      745.36
+    ],
+    "text": "change occurred on February 16, 2012. It is noteworthy that this name change",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      753.37,
+      542.0,
+      767.76
+    ],
+    "text": "occurred after the escalation of the disagreement between the two parties.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      36.38,
+      541.95,
+      50.96
+    ],
+    "text": "Nevertheless, by the same letter dated April 4, 2018, the 1st Defendant\u2013Respondent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      58.97,
+      542.0,
+      73.36
+    ],
+    "text": "Company, without prejudice to its rights, expressly acknowledged its liability to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      81.37,
+      344.4,
+      95.76
+    ],
+    "text": "settle the sum of Rs. 24,100,000/- without delay.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      124.47,
+      541.95,
+      138.86
+    ],
+    "text": "However, since the Defendants-Respondents delayed making the payments, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      146.68,
+      540.83,
+      161.26
+    ],
+    "text": "Plaintiff-Appellant returned to Sri Lanka and after negotiations with the 3rd and 4th",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      169.27,
+      541.95,
+      183.66
+    ],
+    "text": "Defendant-Respondents, on June 9, 2014, entered into a fresh agreement bearing No.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      191.67,
+      541.95,
+      206.06
+    ],
+    "text": "809, attested by M. N. T. Peiris, Notary Public (\u2018P4\u2019) and under the Clause 2 of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      214.07,
+      541.95,
+      228.46
+    ],
+    "text": "new agreement the parties agreed to cancel and annul the previous sales agreement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      236.47,
+      541.95,
+      250.86
+    ],
+    "text": "No. 1481 and renounce all rights and claims whatsoever pertaining to the said sales",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      258.87,
+      541.95,
+      273.26
+    ],
+    "text": "agreement upon the fulfillment of the terms and conditions set out in the new",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      281.27,
+      542.0,
+      295.66
+    ],
+    "text": "agreement, as outlined below. In essence, both the party of the first part and the party",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      303.67,
+      541.95,
+      318.06
+    ],
+    "text": "of the second part agreed, accepted, and declared that once the obligations set out in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      326.07,
+      541.95,
+      340.46
+    ],
+    "text": "Clause 1 of the new agreement('P4') are fulfilled, neither party shall have any further",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      348.47,
+      541.95,
+      362.86
+    ],
+    "text": "claim whatsoever arising from the previous sales agreement No. 1481 ('P1'). In the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      370.68,
+      541.95,
+      385.26
+    ],
+    "text": "new agreement ('P4'), the party of the first part was the 1st Defendant-Respondent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      393.27,
+      541.95,
+      407.66
+    ],
+    "text": "company; the party of the second part was Yokanathan Thiruverakan, and the party of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      415.67,
+      541.95,
+      430.06
+    ],
+    "text": "the third part was the Plaintiff-Appellant. The following clauses of the said",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      438.07,
+      328.85,
+      452.46
+    ],
+    "text": "agreement are pertinent to the present appeal:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      482.87,
+      541.95,
+      497.26
+    ],
+    "text": "01.The party of the first part shall and will pay unto the Party of the second part or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      505.27,
+      541.95,
+      519.66
+    ],
+    "text": "to his authorised nominee a sum of Rupees Forty Million (Rs.40,000,000/-) in the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      527.67,
+      541.95,
+      542.06
+    ],
+    "text": "following manner as per the terms of the said Agreement No 1481 and in terms",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.25,
+      550.07,
+      262.2,
+      564.46
+    ],
+    "text": "clause 15 of the said Agreement:",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.25,
+      594.87,
+      541.95,
+      609.26
+    ],
+    "text": "i.That the party of the first part shall and will pay unto the Party of the second",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.25,
+      617.27,
+      541.95,
+      631.66
+    ],
+    "text": "part or to his authorised nominee a sum of RUPEES TEN MILLION",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.25,
+      639.67,
+      541.95,
+      654.06
+    ],
+    "text": "(Rs.10,000,000/-) by way of a cheque/bank draft drawn in favour of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.25,
+      662.07,
+      542.0,
+      676.46
+    ],
+    "text": "nominee of the party of the Second part 'Saravanamuthu Vimalachandran' on",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.25,
+      684.28,
+      269.09,
+      698.86
+    ],
+    "text": "or before 10th August 2014.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.25,
+      706.87,
+      541.95,
+      721.26
+    ],
+    "text": "ii. That the party of the first part shall and will pay unto the Party of the second",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.25,
+      729.27,
+      541.95,
+      743.66
+    ],
+    "text": "part or to his authorised nominee a sum of RUPEES TEN MILLION",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.25,
+      751.67,
+      541.95,
+      766.06
+    ],
+    "text": "(Rs.10,000,000/-) by way of a cheque/bank draft drawn in favour of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      36.57,
+      542.0,
+      50.96
+    ],
+    "text": "nominee of the party of the Second part 'Saravanamuthu Vimalachandran' on",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      58.78,
+      289.11,
+      73.36
+    ],
+    "text": "or before 10th September 2014.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.25,
+      81.37,
+      541.95,
+      95.76
+    ],
+    "text": "iii. That the party of the first part shall and will pay unto the Party of the second",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      103.77,
+      541.95,
+      118.16
+    ],
+    "text": "part or to his authorised nominee a sum of RUPEES TEN MILLION",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      126.17,
+      541.95,
+      140.56
+    ],
+    "text": "(Rs.10,000,000/-) by way of a cheque/bank draft drawn in favour of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      148.57,
+      542.0,
+      162.96
+    ],
+    "text": "nominee of the party of the Second part 'Saravanamuthu Vimalachandran' on",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      170.78,
+      276.82,
+      185.36
+    ],
+    "text": "or before 10th October 2014.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.25,
+      193.37,
+      541.95,
+      207.76
+    ],
+    "text": "iv. That the party of the first part will enter into an agreement to transfer with",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      215.77,
+      541.95,
+      230.16
+    ],
+    "text": "Saravanamuthu Vimalachandran (holder of NIC No. 721321274V) to transfer",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      238.17,
+      541.95,
+      252.56
+    ],
+    "text": "an apartment which is in the extend of 800sq.ft and on the 2nd floor with two",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      260.57,
+      541.95,
+      274.96
+    ],
+    "text": "(2) bed rooms at premises bearing assessment No 37, Daya Road, Colombo",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      282.97,
+      542.0,
+      297.36
+    ],
+    "text": "06 which is of the value of Rupees Ten Million (Rs 10,000,000/-) on or before",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      305.37,
+      541.95,
+      319.76
+    ],
+    "text": "the 10th August ,2014 subject to the title and all other documents in place and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      327.77,
+      541.95,
+      342.16
+    ],
+    "text": "the effective date of transfer of the property to be on or before the 10th August",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.25,
+      350.17,
+      157.5,
+      364.56
+    ],
+    "text": ",2015",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      394.97,
+      542.0,
+      409.36
+    ],
+    "text": "02.That the Party of the Second part in consideration of the above said payment of a",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      417.37,
+      541.95,
+      431.76
+    ],
+    "text": "total sum of Rupees Forty Million (Rs.40,000,000/-) as aforesaid is hereby agree to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      439.77,
+      541.95,
+      454.16
+    ],
+    "text": "cancel and annul the said Sale agreement No.1481 dated June 30, 2008 attested by",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      462.17,
+      541.95,
+      476.56
+    ],
+    "text": "Raatnam Raaguraajah Notary Public of Colombo ,and also renounce all rights and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      484.57,
+      541.95,
+      498.96
+    ],
+    "text": "claims whatsoever pertaining to the said sale agreement on the conclusion of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      506.97,
+      541.95,
+      521.36
+    ],
+    "text": "terms and conditions set out in sub sections (i),(ii)and (iii) and sign and execute the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      529.37,
+      340.82,
+      543.76
+    ],
+    "text": "Agreement referred to in (iv) of Clause 1 above.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      572.47,
+      542.0,
+      586.86
+    ],
+    "text": "Consequent to this new agreement('P4'), the Plaintiff-Appellant proceeded to cancel",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      594.87,
+      541.95,
+      609.26
+    ],
+    "text": "and revoke the caveat registered against the subject property in accordance with",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      617.08,
+      538.63,
+      631.66
+    ],
+    "text": "Clause 3 of the agreement, on the belief that the 1st, 3rd and 4th Defendants-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      639.67,
+      541.95,
+      654.06
+    ],
+    "text": "Respondents would comply with the terms and conditions agreed upon. However,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      661.88,
+      541.95,
+      676.46
+    ],
+    "text": "despite repeated reminders, the 1st Defendant-Respondent failed to perform its",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      684.47,
+      425.27,
+      698.86
+    ],
+    "text": "obligations in accordance with the terms of Agreement No. 809.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      729.27,
+      541.95,
+      743.66
+    ],
+    "text": "Despite the Plaintiff-Appellant awaiting the aforesaid Defendants- Respondent to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.25,
+      751.67,
+      541.95,
+      766.06
+    ],
+    "text": "honour their commitments, and after exhausting all available means and efforts, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "6",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "Defendants-Respondents nevertheless failed to comply with the agreement.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      58.97,
+      542.0,
+      73.36
+    ],
+    "text": "Consequently, the Plaintiff-Appellant sent four letters of demand dated April 18,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      81.18,
+      542.0,
+      95.76
+    ],
+    "text": "2016 (\u2018P5\u2019) to Agasthya (Pvt) Limited, 2nd Defendant, 3rd Defendant and to the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      103.77,
+      541.95,
+      118.16
+    ],
+    "text": "Secretary of the Agasthya (Pvt) Ltd, demanding the settlement of Rs. 30,000,000/-.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      126.17,
+      542.0,
+      140.56
+    ],
+    "text": "Additionally, the Plaintiff further demanded compensation in the sum of Rs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      148.38,
+      541.9,
+      162.96
+    ],
+    "text": "10,000,000/- to be paid within 30 days for the 1st Defendant-Respondent\u2019s failure to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      170.97,
+      542.0,
+      185.36
+    ],
+    "text": "transfer the apartment to the Plaintiff-Appellant on or before August 10, 2014, as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      193.37,
+      541.95,
+      207.76
+    ],
+    "text": "agreed. It is noteworthy that, based on the evidence presented, the Plaintiff-Appellant",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      215.77,
+      541.95,
+      230.16
+    ],
+    "text": "did not initiate any legal action against the Defendants-Respondents for a period of",
+    "fonts": [
+      "LiberationSerif"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      238.17,
+      541.95,
+      252.56
+    ],
+    "text": "one year and ten months, from June 9, 2014, the date the parties entered into the",
+    "fonts": [
+      "LiberationSerif"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      260.57,
+      541.95,
+      274.96
+    ],
+    "text": "agreement, until the date of the letter of demand, which suggests that the Plaintiff",
+    "fonts": [
+      "LiberationSerif"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      282.97,
+      541.95,
+      297.36
+    ],
+    "text": "was awaiting the Defendants-Respondents\u2019 compliance with the agreement.",
+    "fonts": [
+      "LiberationSerif"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      305.18,
+      541.9,
+      319.76
+    ],
+    "text": "Exacerbating the issue, the 2nd and 3rd Defendants replied by letter dated May 17,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      327.77,
+      541.95,
+      342.16
+    ],
+    "text": "2016 (\u2018P6\u2019) denying all the averments and allegations in the above letter dated April",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      350.17,
+      541.95,
+      364.56
+    ],
+    "text": "18, 2016 and liabilities to pay any money to the Plaintiff-Respondent. Furthermore,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      372.38,
+      541.95,
+      386.96
+    ],
+    "text": "Defendants-Respondents denied that the 1st Defendant-Respondent company had",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      394.97,
+      541.95,
+      409.36
+    ],
+    "text": "entered into the Agreement No. 809, leaving the Plaintiff no other option other than a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      417.37,
+      133.02,
+      431.76
+    ],
+    "text": "lawsuit.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      461.98,
+      541.95,
+      476.56
+    ],
+    "text": "Since the 1st Defendant-Respondent company had still failed to comply with the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      484.57,
+      542.0,
+      498.96
+    ],
+    "text": "terms and conditions stated above, the Plaintiff-Appellant instituted an action against",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      506.78,
+      541.95,
+      521.36
+    ],
+    "text": "the 1st Defendant-Respondent company in the Commercial High Court of the Western",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      529.37,
+      541.95,
+      543.76
+    ],
+    "text": "Province Holden in Colombo, seeking a cumulative loss of Rs. 40 million caused by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      551.58,
+      541.95,
+      566.16
+    ],
+    "text": "the latter. The 1st Defendant-Respondent filed its answer moving to for a dismissal of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      574.17,
+      541.95,
+      588.56
+    ],
+    "text": "the Plaint. After trial, the learned Commercial High Court Judge delivered the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      596.38,
+      541.95,
+      610.96
+    ],
+    "text": "judgment dated November 29, 2021 in 1st Defendant-Respondent's favour by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      618.97,
+      542.0,
+      633.36
+    ],
+    "text": "dismissing the Plaintiff-Appellant's action. Being aggrieved by the judgment of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      641.37,
+      542.0,
+      655.76
+    ],
+    "text": "Commercial High Court, the Plaintiff-Appellant, appealed to this Court seeking to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      663.77,
+      541.95,
+      678.16
+    ],
+    "text": "have the judgment of the Commercial High Court set aside on the grounds stated in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.25,
+      686.17,
+      154.29,
+      700.56
+    ],
+    "text": "the petition.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "7",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      57.27,
+      139.18,
+      71.66
+    ],
+    "text": "Analysis",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      100.37,
+      329.84,
+      114.76
+    ],
+    "text": "The legal standing of the Plaintiff-Appellant",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      143.47,
+      541.95,
+      157.86
+    ],
+    "text": "The Plaintiff-Appellant is the third party in the agreement No. 809 referred to above,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      165.87,
+      537.68,
+      180.26
+    ],
+    "text": "but is also named as a nominee of Yokanathan Thiruverakan, who is the brother-in-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      188.27,
+      542.0,
+      202.66
+    ],
+    "text": "law of the Plaintiff-Appellant. The Plaintiff-Appellant\u2019s main contention is that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      210.67,
+      541.95,
+      225.06
+    ],
+    "text": "learned High Court Judge was erred in determining that the Plaintiff-Appellant could",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      233.07,
+      541.95,
+      247.46
+    ],
+    "text": "not have maintained the action in the Commercial High Court on the basis that he",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      255.47,
+      541.95,
+      269.86
+    ],
+    "text": "was merely a nominee of Yokanathan Thiruverakan. On the other hand, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      277.87,
+      541.95,
+      292.26
+    ],
+    "text": "Defendant-Respondents' argument is that since the main parties to the agreement are",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      300.27,
+      541.95,
+      314.66
+    ],
+    "text": "the party of the first part and party of the second part, the terms and conditions set out",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      322.67,
+      541.95,
+      337.06
+    ],
+    "text": "only bind the said two parties and not the Plaintiff-Appellant. Hence, if any cause of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      344.88,
+      538.62,
+      359.46
+    ],
+    "text": "action has accrued against the party of the first part, namely, the 1st, Defendant-",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      367.47,
+      541.95,
+      381.86
+    ],
+    "text": "Respondent, it lies in favour of the party of the second part, namely, Yokanathan",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      389.87,
+      542.0,
+      404.26
+    ],
+    "text": "Thiruverakan and not the Plaintiff-Appellant. Accordingly, it was argued that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      412.27,
+      538.28,
+      426.66
+    ],
+    "text": "Plaintiff-Appellant lacks any legal right to maintain an action against the Defendants-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      434.67,
+      371.44,
+      449.06
+    ],
+    "text": "Respondents for any alleged breach of the agreement.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      477.77,
+      541.95,
+      492.16
+    ],
+    "text": "As already stated above, in the agreement No. 809, the Plaintiff-Appellant is named",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      500.17,
+      541.95,
+      514.56
+    ],
+    "text": "as the \u201cparty of the third part\u201d. Nevertheless, Clause 1 of the agreement provides that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      522.57,
+      542.0,
+      536.96
+    ],
+    "text": "the \u201cparty of the first part\u201d is required to make the agreed payment either to the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      544.97,
+      541.95,
+      559.36
+    ],
+    "text": "\u201cparty of the second part\u201d, namely Yokanathan Thiruverakan, or to his \u201cauthorized",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      567.37,
+      541.95,
+      581.76
+    ],
+    "text": "nominee,\u201d who is also the party of the third part. Further, as per Clause 1 (iv) of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      589.77,
+      542.0,
+      604.16
+    ],
+    "text": "same agreement the \u201cparty of the first part\u201d is obliged to enter into a separate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      612.17,
+      542.0,
+      626.56
+    ],
+    "text": "agreement with the \u201cparty of the third part\u201d, namely Saravanamuthu Vimalachandran,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      634.57,
+      542.0,
+      648.96
+    ],
+    "text": "the Plaintiff-Appellant, for the purpose of transferring the subject apartment. The",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      656.97,
+      541.95,
+      671.36
+    ],
+    "text": "learned Judge of the Commercial High Court has also acknowledged correctly the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      679.2,
+      541.95,
+      693.76
+    ],
+    "text": "fact that the Clause 1(iv) of agreement \u201cP4\u201d may give rise to a cause of action2 since",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      701.77,
+      542.0,
+      716.16
+    ],
+    "text": "it makes the Plaintiff-Appellant a party to the agreement No. 809. The relevant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.25,
+      724.17,
+      529.86,
+      738.56
+    ],
+    "text": "clause, clause No. 1, of the agreement is already reproduced above in this judgment.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56.8,
+      766.1,
+      278.6,
+      778.28
+    ],
+    "text": "2 Paragraph 18 of the judgment of the High Court.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "8",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "It is logically untenable and contradictory to contend that the Plaintiff-Appellant is a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      58.97,
+      542.0,
+      73.36
+    ],
+    "text": "party to the agreement in terms of Clause 1(iv), while simultaneously asserting that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      81.37,
+      541.95,
+      95.76
+    ],
+    "text": "he is not a party to that very agreement under Clauses 1(i), (ii), and (iii).",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      103.77,
+      538.05,
+      118.16
+    ],
+    "text": "Furthermore, it is evident that the \u201cparty of the third part\u201d, namely the Plaintiff-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      126.17,
+      541.95,
+      140.56
+    ],
+    "text": "Appellant, is one of the principal signatories to this agreement and is also the party to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      148.57,
+      542.0,
+      162.96
+    ],
+    "text": "whom the apartment was to be transferred or, alternatively, the value of the same was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      170.97,
+      542.0,
+      185.36
+    ],
+    "text": "to be paid. Because, Clause 15 of Agreement No. 1481 contemplated the repayment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      193.37,
+      542.0,
+      207.76
+    ],
+    "text": "of money by the Respondents (Vendors) to Yokanathan (Purchaser) as a safeguard",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      215.77,
+      542.0,
+      230.16
+    ],
+    "text": "against any monetary loss occasioned by the Defendants-Respondents\u2019 failure to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      238.17,
+      541.95,
+      252.56
+    ],
+    "text": "execute the conveyance in the name of the Plaintiff-Appellant, such repayment being",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      260.57,
+      542.0,
+      274.96
+    ],
+    "text": "intended ultimately for the benefit of the Plaintiff-Appellant. Therefore, I am of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      282.97,
+      440.17,
+      297.36
+    ],
+    "text": "view that the Plaintiff is a principal party to the agreement No 809.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      326.07,
+      541.95,
+      340.46
+    ],
+    "text": "Furthermore, under Clause 8 of the same agreement, the Plaintiff-Appellant as a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      348.28,
+      540.83,
+      362.86
+    ],
+    "text": "party thereto, is also expressly entitled to initiate legal actions against the 1st",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      370.87,
+      541.95,
+      385.26
+    ],
+    "text": "Defendant-Respondent company if the dispute is not resolved within 30 days of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      393.27,
+      541.95,
+      407.66
+    ],
+    "text": "receiving notice, as stipulated in the agreement. Clause 08 of the agreement is as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      415.67,
+      134.82,
+      430.06
+    ],
+    "text": "follows:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127.7,
+      458.77,
+      528.05,
+      473.16
+    ],
+    "text": "\"08. In the event of a dispute, controversy or claim arising out of or relating",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127.7,
+      481.17,
+      528.05,
+      495.56
+    ],
+    "text": "to this Agreement, or the breach, or invalidity thereof, the Parties will use",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127.7,
+      503.57,
+      528.1,
+      517.96
+    ],
+    "text": "their best efforts to settle promptly such dispute through direct negotiation",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127.7,
+      525.97,
+      528.05,
+      540.36
+    ],
+    "text": "subject to the above clause. The Parties have right to resort for legal",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127.7,
+      548.37,
+      528.05,
+      562.76
+    ],
+    "text": "remedy if the dispute is not settled within thirty (30) days from the date",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127.7,
+      570.77,
+      528.0,
+      585.16
+    ],
+    "text": "either Party has notified the other Party of the nature of the dispute and of",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      127.7,
+      593.17,
+      471.04,
+      607.56
+    ],
+    "text": "the measures that should be taken to rectify it.\" [Emphasis added]",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      637.97,
+      541.95,
+      652.36
+    ],
+    "text": "Accordingly, it is my considered view that the conclusion reached by the learned",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      660.37,
+      541.95,
+      674.76
+    ],
+    "text": "High Court Judge, that the Plaintiff- Appellant lacks locus standi on the basis that he",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      682.77,
+      542.0,
+      697.16
+    ],
+    "text": "is not a party to Agreement No. 809, is misconceived, inconsistent with the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      92.25,
+      705.17,
+      382.19,
+      719.56
+    ],
+    "text": "agreement taken in its entirety, and cannot be sustained.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      532.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "9",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "On the other hand, if the Plaintiff-Appellant is considered to be a \u201cnominee\u201d as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      58.97,
+      541.95,
+      73.36
+    ],
+    "text": "contended by the Defendants-Respondents, which then makes him a \u201cthird party\u201d to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      81.37,
+      541.95,
+      95.76
+    ],
+    "text": "the contract, still the Plaintiff-Appellant is capable of initiating a legal action since he",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      103.77,
+      541.95,
+      118.16
+    ],
+    "text": "is the ultimate beneficiary of the agreement. This is because, as stated above,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      126.17,
+      541.95,
+      140.56
+    ],
+    "text": "although the Plaintiff-Appellant is described as a \u201cnominee\u201d in Agreement No. 809, a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      148.57,
+      542.0,
+      162.96
+    ],
+    "text": "careful consideration of the transaction as a whole makes it evident that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      170.97,
+      541.95,
+      185.36
+    ],
+    "text": "apartment was intended to be purchased for the Plaintiff-Appellant. The Clause 1(iv)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      193.37,
+      541.95,
+      207.76
+    ],
+    "text": "of the agreement No. 809 lays down that: \u201cThat the party of the first part will enter",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      215.77,
+      541.95,
+      230.16
+    ],
+    "text": "into an agreement to transfer with SARAVANAMUTHU VIMALACHANDRAN",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      238.17,
+      542.0,
+      252.56
+    ],
+    "text": "(holder of NIC No. 721321274V) to transfer an apartment\u2026.\u201d [emphasis added],",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      260.57,
+      541.95,
+      274.96
+    ],
+    "text": "which supports the above position. The ideal doctrine of law that could have been",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      282.97,
+      542.0,
+      297.36
+    ],
+    "text": "utilized by the Defendants-Respondents against the Plaintiff-Appellant would have",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      305.37,
+      541.95,
+      319.76
+    ],
+    "text": "been the \u201cdoctrine of privity of contract\u201d which means, that third parties could",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      327.77,
+      542.0,
+      342.16
+    ],
+    "text": "neither sue nor be sued under a contract. But, what was in fact raised by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      350.17,
+      541.95,
+      364.56
+    ],
+    "text": "Defendants-Respondents was the legal rights of a 'nominee' in the context of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      372.57,
+      541.95,
+      386.96
+    ],
+    "text": "insurance policy, as referred to in Paragraph 32 of the written submissions, which is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      394.97,
+      280.89,
+      409.36
+    ],
+    "text": "totally irrelevant to the case at hand.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      438.07,
+      542.0,
+      452.46
+    ],
+    "text": "This doctrine of privity was initially formed as a part of the UK law through several",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      460.47,
+      541.95,
+      474.86
+    ],
+    "text": "judicial precedents. The application of this doctrine could be first found in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      482.87,
+      541.85,
+      497.26
+    ],
+    "text": "historical UK case, Tweddle vs Atkinson (1861) where the claimant was engaged to",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      505.27,
+      541.95,
+      519.66
+    ],
+    "text": "be married, and his father and future father-in-law made a contract providing that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      527.67,
+      542.0,
+      542.06
+    ],
+    "text": "each of them would give a certain sum of money to the claimant. Even though the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      550.07,
+      542.0,
+      564.46
+    ],
+    "text": "contract expressly provided that the claimant was entitled to enforce it, the court held",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      572.47,
+      541.9,
+      586.86
+    ],
+    "text": "that he could not do so, as he was not a party to the contract. Even where a contract is",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      594.87,
+      541.95,
+      609.26
+    ],
+    "text": "made for the benefit of a third party, under the traditional common law rules, that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      617.27,
+      287.13,
+      631.66
+    ],
+    "text": "third party still had no rights under it.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      660.37,
+      541.95,
+      674.76
+    ],
+    "text": "However, constant repercussions suffered by third parties due to breach of contracts,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      682.77,
+      541.95,
+      697.16
+    ],
+    "text": "led the authorities to reform the aspects of the doctrine of privity over the years. Back",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      705.17,
+      541.95,
+      719.56
+    ],
+    "text": "in 1937 the Law Revision Committee of the UK called for legislation to enable a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      727.57,
+      541.95,
+      741.96
+    ],
+    "text": "third party who is expressly given rights under a contract to enforce those rights",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      92.25,
+      749.97,
+      541.95,
+      764.36
+    ],
+    "text": "directly. Lord Scarman commented in 1980 in Woodar Investment Development Ltd",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      36.4,
+      541.9,
+      50.96
+    ],
+    "text": "vs Wimpey Construction UK Ltd 3 that: \u2018If the opportunity arises, I hope the House",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      58.97,
+      541.9,
+      73.36
+    ],
+    "text": "will reconsider Tweddle vs Atkinson and the other cases which stand guard over this",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      81.2,
+      541.95,
+      95.76
+    ],
+    "text": "unjust rule.\u2019 4 In Darlington Borough Council vs Wiltshier Northern Ltd [1995] 1",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      103.77,
+      541.9,
+      118.16
+    ],
+    "text": "WLR 68, where, Wiltshier entered into a finance agreement with a Morgan Grenfell,",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      126.17,
+      541.95,
+      140.56
+    ],
+    "text": "a finance company to build a recreational centre for the benefit of the Council and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      148.57,
+      542.0,
+      162.96
+    ],
+    "text": "Wiltshier\u2019s work was defective. Consequently, Morgan Grenfell assigned all of their",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      170.97,
+      541.95,
+      185.36
+    ],
+    "text": "rights and causes of action against Wiltshier under the contract to the Council. The",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      193.37,
+      541.95,
+      207.76
+    ],
+    "text": "Council sued for damages under breach of contract. The Court of Appeal held in",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      215.77,
+      541.95,
+      230.16
+    ],
+    "text": "favour of the Council. Both Wiltshier and Morgan Grenfell intended the contract to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      238.17,
+      542.0,
+      252.56
+    ],
+    "text": "benefit the Council. It was foreseeable that any breach would cause the Council loss.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      260.57,
+      541.95,
+      274.96
+    ],
+    "text": "Accordingly, the Council gained the right to recover their own damages when",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      282.97,
+      542.0,
+      297.36
+    ],
+    "text": "Morgan Grenfell assigned their contractual rights. The Court held that damages",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      305.37,
+      541.95,
+      319.76
+    ],
+    "text": "should be assessed as if the Council had always been a party to the contract.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      327.77,
+      541.95,
+      342.16
+    ],
+    "text": "Eventually, the Law Commission issued a report in 1996, which proposed that, in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      350.17,
+      541.95,
+      364.56
+    ],
+    "text": "certain circumstances, the privity of contract rule should no longer apply. This led to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      372.57,
+      541.95,
+      386.96
+    ],
+    "text": "the enactment of the Contracts (Rights of Third Parties) Act 1999 converting the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      394.97,
+      541.95,
+      409.36
+    ],
+    "text": "common law into proper legislative provisions, so that now the doctrine of privity, in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      417.2,
+      541.95,
+      431.76
+    ],
+    "text": "the form of a rule, has only a very limited application in the UK legal system.5 The",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      439.77,
+      541.95,
+      454.16
+    ],
+    "text": "Contracts (Rights of Third Parties) Act 1999, UK enables third parties to enforce",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      462.17,
+      541.9,
+      476.56
+    ],
+    "text": "contractual terms in certain situations; where the contract expressly provides that they",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      484.4,
+      541.95,
+      498.96
+    ],
+    "text": "may do so6; or the contract purports to confer a benefit upon them. Section 1of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      506.97,
+      394.37,
+      521.36
+    ],
+    "text": "Contracts (Rights of Third Parties) Act 1999 is as follows.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      551.77,
+      367.95,
+      566.16
+    ],
+    "text": "\u201c1. Right of third party to enforce contractual term.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      92.25,
+      594.87,
+      541.95,
+      609.26
+    ],
+    "text": "(1) Subject to the provisions of this Act, a person who is not a party to a contract (a",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      111.0,
+      617.27,
+      466.56,
+      631.66
+    ],
+    "text": "\u201cthird party\u201d) may in his own right enforce a term of the contract if,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.8,
+      648.27,
+      388.31,
+      662.66
+    ],
+    "text": "(a)the contract expressly provides that he may, or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.8,
+      670.67,
+      507.3,
+      685.06
+    ],
+    "text": "(b)subject to subsection (2), the term purports to confer a benefit on him.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.8,
+      728.15,
+      521.82,
+      778.28
+    ],
+    "text": "3 Woodar Investment Development Ltd vs Wimpey Construction UK Ltd [1980] 1 All ER 571 at Page 591.4 Catherin Elliott & Frances Quinn, Contract Law, 8th edition, Page 277.5 Ibid.6 Section 1(1) (a) of the Contracts (Rights of Third Parties) Act 1999.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.0,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      527.2,
+      778.81,
+      538.76,
+      792.09
+    ],
+    "text": "11",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "(2) Subsection (1)(b) does not apply if on a proper construction of the contract it",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      111.0,
+      58.97,
+      541.95,
+      73.36
+    ],
+    "text": "appears that the parties did not intend the term to be enforceable by the third",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      111.0,
+      81.37,
+      140.94,
+      95.76
+    ],
+    "text": "party.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      115.82,
+      541.95,
+      130.21
+    ],
+    "text": "(3) The third party must be expressly identified in the contract by name, as a member",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      138.22,
+      542.0,
+      152.61
+    ],
+    "text": "of a class or as answering a particular description but need not be in existence when",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      160.62,
+      234.99,
+      175.01
+    ],
+    "text": "the contract is entered into.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      191.62,
+      541.95,
+      206.01
+    ],
+    "text": "(4) This section does not confer a right on a third party to enforce a term of a",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      214.02,
+      542.0,
+      228.41
+    ],
+    "text": "contract otherwise than subject to and in accordance with any other relevant terms",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      236.42,
+      171.26,
+      250.81
+    ],
+    "text": "of the contract.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      267.42,
+      541.95,
+      281.81
+    ],
+    "text": "(5) For the purpose of exercising his right to enforce a term of the contract, there",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      289.82,
+      541.95,
+      304.21
+    ],
+    "text": "shall be available to the third party any remedy that would have been available to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      312.22,
+      520.86,
+      326.61
+    ],
+    "text": "him in an action for breach of contract if he had been a party to the contract (\u2026)\u201d",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      357.02,
+      541.95,
+      371.41
+    ],
+    "text": "In light of the evolution of privity of contracts applied in the common law, it is clear",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      379.42,
+      541.95,
+      393.81
+    ],
+    "text": "that the present leaning of law is to recognize the rights of third parties under a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      401.82,
+      541.95,
+      416.21
+    ],
+    "text": "contract rather than denying it, which should also be absorbed into our legal system.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      424.22,
+      541.95,
+      438.61
+    ],
+    "text": "In the case at hand, even if the Plaintiff-Appellant is considered to be a third party",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      446.62,
+      542.0,
+      461.01
+    ],
+    "text": "being a \u2018nominee\u2019 as claimed by the Defendants-Respondents, still justice demands",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      469.02,
+      541.95,
+      483.41
+    ],
+    "text": "that he should be able to enforce the contract under Clause 8 of Agreement 'P4',",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      491.42,
+      541.95,
+      505.81
+    ],
+    "text": "where he is expressly allowed to resort to legal remedies as the party of the third part",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      513.82,
+      385.56,
+      528.21
+    ],
+    "text": "and for whom the contract purported to confers benefits.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      558.62,
+      541.95,
+      573.01
+    ],
+    "text": "I do concede the fact that unlike the UK context as described above, the enforceable",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      581.02,
+      541.95,
+      595.41
+    ],
+    "text": "rights of third parties under the law of contract are yet to be widened in Sri Lankan",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      603.42,
+      541.95,
+      617.81
+    ],
+    "text": "law in terms of written law. The number of cases that this court hears regularly, in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      625.82,
+      541.95,
+      640.21
+    ],
+    "text": "which third parties suffer grave injustice, necessitates the prompt revision of third",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      648.22,
+      367.27,
+      662.61
+    ],
+    "text": "parties' enforceable rights under the law of contracts.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      691.32,
+      541.95,
+      705.71
+    ],
+    "text": "Be that as it may, in my view, the Plaintiff-Appellant\u2019s rights are enforceable within",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      92.25,
+      713.72,
+      244.47,
+      728.11
+    ],
+    "text": "the existing legal framework.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "12",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "In my view, the judges should determine, on the circumstances of each case, to which",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      58.97,
+      541.95,
+      73.36
+    ],
+    "text": "extent a 'nominee' creates contractual relationships within a particular contract,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      81.37,
+      541.95,
+      95.76
+    ],
+    "text": "especially where the impugned contract has been entered into for the ultimate benefit",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      103.77,
+      541.95,
+      118.16
+    ],
+    "text": "of the 'nominee'. In my view, in the present instance, the role of the \u201cnominee\u201d",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      126.17,
+      541.95,
+      140.56
+    ],
+    "text": "cannot be confined solely to that of a person authorised to receive a cheque or bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      148.57,
+      541.95,
+      162.96
+    ],
+    "text": "draft on behalf of Yokanathan Thiruverakan, but warrants due consideration in light",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      170.97,
+      268.31,
+      185.36
+    ],
+    "text": "of the surrounding circumstances.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      208.87,
+      541.95,
+      223.26
+    ],
+    "text": "Similarly, in the present case, the breach of the agreements has caused loss to none",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      231.27,
+      541.95,
+      245.66
+    ],
+    "text": "other than the Plaintiff-Appellant, inasmuch as the subject apartments were intended,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      253.67,
+      541.95,
+      268.06
+    ],
+    "text": "from the outset, to be ultimately acquired by the Plaintiff. And also, ignorance of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      276.07,
+      541.95,
+      290.46
+    ],
+    "text": "Plaintiff-Appellant\u2019s claims might definitely lead to a grave injustice due to several",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      298.47,
+      292.48,
+      312.86
+    ],
+    "text": "other reasons which will be dealt later.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      343.27,
+      273.03,
+      357.66
+    ],
+    "text": "Contingent/Conditional contract",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      388.07,
+      541.95,
+      402.46
+    ],
+    "text": "In addition to that, this transaction should not be determined merely by looking into",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      410.47,
+      542.0,
+      424.86
+    ],
+    "text": "the subsequent agreement 'P4', but agreement 'P1' should also be taken into account.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      432.87,
+      541.95,
+      447.26
+    ],
+    "text": "Because, as per Clause 04 of Agreement \u2018P4\u2019, the parties are supposed to renounce",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      455.27,
+      541.95,
+      469.66
+    ],
+    "text": "the Agreement 'P1', only upon fulfillment of Clause 1(i) to (iv) of the Agreement 'P4'",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      477.67,
+      541.95,
+      492.06
+    ],
+    "text": "by the Defendants-Respondents. As a result, the initial contract namely 'P1' has",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      500.07,
+      418.38,
+      514.46
+    ],
+    "text": "become a conditional contract with the consent of both parties.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      543.17,
+      541.95,
+      557.56
+    ],
+    "text": "The Black's Law dictionary defines the term 'conditional contract', \"as an agreement",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      565.57,
+      541.95,
+      579.96
+    ],
+    "text": "that is enforceable only if another agreement is performed or if another particular",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      587.8,
+      292.65,
+      602.36
+    ],
+    "text": "prerequisite or condition is satisfied\".7",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      631.07,
+      541.95,
+      645.46
+    ],
+    "text": "Sections 31 and 32 of the Indian Contract Act 1872 also, defines the term contingent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      653.47,
+      309.77,
+      667.86
+    ],
+    "text": "contract and its enforce ability as follows.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      698.27,
+      541.95,
+      712.66
+    ],
+    "text": "\u201cSection 31 -Contingent contract defined -A contingent contract is a contract to do",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      720.67,
+      542.0,
+      735.06
+    ],
+    "text": "or not to do something, if some event, collateral to such contract, does or does not",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      92.25,
+      743.07,
+      133.75,
+      757.46
+    ],
+    "text": "happen.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.8,
+      765.91,
+      343.62,
+      778.28
+    ],
+    "text": "7Black's Law Dictionary, Bryan A.Garner ,11th Edn, Page 399.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.0,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "13",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      58.97,
+      541.95,
+      73.36
+    ],
+    "text": "Section 32- Enforcement of contracts contingent on an event happening-",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      81.37,
+      541.95,
+      95.76
+    ],
+    "text": "Contingent contracts to do or not to do anything if an uncertain future event happens",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      103.77,
+      541.95,
+      118.16
+    ],
+    "text": "cannot be enforced by law unless and until that event has happened. If the event",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      126.17,
+      349.47,
+      140.56
+    ],
+    "text": "becomes impossible, such contracts become void.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      170.97,
+      119.67,
+      185.36
+    ],
+    "text": "(\u2026)\u201d",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      214.07,
+      541.95,
+      228.46
+    ],
+    "text": "The agreement 'P1' operates as a contingent contract, which will only be given effect",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      236.47,
+      541.95,
+      250.86
+    ],
+    "text": "upon the fulfillment of certain clauses in agreement 'P4'. Clauses 04 and 06 of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      258.87,
+      399.58,
+      273.26
+    ],
+    "text": "said agreement articulate the contingent clauses as follows.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      303.67,
+      541.95,
+      318.06
+    ],
+    "text": "04. Both the Party of the first part and the Party of the second part hereby",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      326.07,
+      542.0,
+      340.46
+    ],
+    "text": "agree, accept and declare that upon fulfilling obligations stated in sub",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      348.47,
+      541.95,
+      362.86
+    ],
+    "text": "sections (i),(ii) and (iii) and sign and execute the Agreement referred to in",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      370.87,
+      542.0,
+      385.26
+    ],
+    "text": "(iv) of clause 1 above there is no further or any claim whatsoever arising from",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      393.27,
+      541.95,
+      407.66
+    ],
+    "text": "the sales agreement No 1481 from the other party and hereby undertakes to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      415.67,
+      371.89,
+      430.06
+    ],
+    "text": "fully abide by the provisions of this Agreement.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      438.07,
+      147.88,
+      452.46
+    ],
+    "text": "(\u2026)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      460.47,
+      541.95,
+      474.86
+    ],
+    "text": "06.Upon fulfilling obligations stated in sub sections (i),(ii) and (iii) and sign",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      482.87,
+      541.95,
+      497.26
+    ],
+    "text": "and execute the Agreement referred to in (iv) the Party of the second part",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      505.27,
+      542.0,
+      519.66
+    ],
+    "text": "shall not initiate any legal or administrative action and also shall not lodge",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      527.67,
+      542.0,
+      542.06
+    ],
+    "text": "any complaint to any constituted authority against the Party of the first part",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      550.07,
+      541.95,
+      564.46
+    ],
+    "text": "except in accordance with the provisions of this Agreement. In the event of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      572.47,
+      542.0,
+      586.86
+    ],
+    "text": "party of the First part fails and does not adhere to this agreement in part or in",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      594.87,
+      541.95,
+      609.26
+    ],
+    "text": "full the Party of the Second Part is free and entitled to take all necessary steps",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      617.27,
+      541.95,
+      631.66
+    ],
+    "text": "to enforce specific performance of the covenants of this agreement and claim",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      639.67,
+      542.0,
+      654.06
+    ],
+    "text": "damages calculated from the date of the said agreement No 1481 subject to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      127.7,
+      662.07,
+      401.99,
+      676.46
+    ],
+    "text": "the provision of clause 08 below.\u201d [emphasis added]",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      706.87,
+      541.95,
+      721.26
+    ],
+    "text": "Obviously, the Defendants-Respondents has not fulfilled the obligations contained in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      729.27,
+      541.95,
+      743.66
+    ],
+    "text": "Clause 1 referred to above, which prevents the party of the second part from",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.25,
+      751.67,
+      541.95,
+      766.06
+    ],
+    "text": "renouncing the rights and obligations undertaken thereby. Therefore, the obligations",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "14",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "specified under Agreement No.1481 (\u2018P1\u2019) are still not superseded or substituted by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      58.97,
+      249.35,
+      73.36
+    ],
+    "text": "the latter, Agreement No. 809.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      103.77,
+      248.77,
+      118.16
+    ],
+    "text": "Surrounding Circumstances",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      146.87,
+      537.63,
+      161.26
+    ],
+    "text": "The consequent agreement 'P4' was entered into after the failure of the Defendants-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      169.27,
+      541.95,
+      183.66
+    ],
+    "text": "Respondents to comply with the initial Agreement 'P1' which is evident from the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      191.67,
+      542.0,
+      206.06
+    ],
+    "text": "correspondence exchanged between the parties. It is a well-settled principle of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      214.07,
+      541.95,
+      228.46
+    ],
+    "text": "contract law that, a person construing a document must have regard to the entirety of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      236.47,
+      541.95,
+      250.86
+    ],
+    "text": "it and not merely to a part, for \"to pronounce on the meaning of a detached part or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      258.87,
+      542.0,
+      273.26
+    ],
+    "text": "extract from an instrument if relating to the same subject is contrary to safe principles",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      281.27,
+      541.95,
+      295.66
+    ],
+    "text": "of correct interpretation.\"8In the present case at hand, a fair determination",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      303.67,
+      541.95,
+      318.06
+    ],
+    "text": "necessitates a comprehensive consideration of both agreements, Agreement No. 1481",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      326.07,
+      541.95,
+      340.46
+    ],
+    "text": "and Agreement No. 809, as well as the correspondence exchanged between the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      348.47,
+      541.95,
+      362.86
+    ],
+    "text": "parties, marked \u2018P2\u2019, \u2018P3\u2019, \u2018P5\u2019, \u2018P6\u2019, and \u2018P7\u2019. C.G Weeramantry clearly lays down",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      370.87,
+      541.95,
+      385.26
+    ],
+    "text": "the importance of taking the correspondence into account where it is necessary as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      393.27,
+      134.47,
+      407.66
+    ],
+    "text": "follows.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      438.07,
+      542.0,
+      452.46
+    ],
+    "text": "\"Where a contract has been effected by correspondence, the entire correspondence",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      460.47,
+      542.0,
+      474.86
+    ],
+    "text": "must be looked to in order to determine the meaning of the contract, and thus two or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      482.87,
+      541.95,
+      497.26
+    ],
+    "text": "more letters are often read together as forming one contract. So also, where a",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      505.27,
+      542.0,
+      519.66
+    ],
+    "text": "contract consists of numerous documents, they must all be read together.........\"",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      527.67,
+      187.55,
+      542.06
+    ],
+    "text": "[emphasis added]9",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      572.47,
+      542.0,
+      586.86
+    ],
+    "text": "It is true that, in the case at hand, the correspondence cannot be considered as a part",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      594.87,
+      542.0,
+      609.26
+    ],
+    "text": "of the agreement 'P4'. Even though, the agreement 'P4' has not been affected by those",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      617.27,
+      541.95,
+      631.66
+    ],
+    "text": "letters, those reveal the intention and capacity of each party who involved in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      639.67,
+      248.41,
+      654.06
+    ],
+    "text": "whole contractual transaction.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      682.77,
+      542.0,
+      697.16
+    ],
+    "text": "The Defendants-Respondents are estopped in law from claiming that the sums",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      92.25,
+      705.17,
+      296.4,
+      719.56
+    ],
+    "text": "payable are not owed to the Appellant.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.8,
+      753.45,
+      454.81,
+      778.28
+    ],
+    "text": "8 C.G. Weeramantry, The Law of Contract Vol 2, Lawman (India) PVT Limited, page 620.9 Ibid.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "15",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "In the present case, a detailed examination of the written correspondence exchanged",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      58.97,
+      542.0,
+      73.36
+    ],
+    "text": "between the parties reveals that Mr. Sathananthan, the controlling shareholder and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      81.37,
+      541.95,
+      95.76
+    ],
+    "text": "Managing Director of Mangai (Private) Limited, expressly acknowledged that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      103.77,
+      541.95,
+      118.16
+    ],
+    "text": "sums payable under Sales Agreement No. 1481 dated June 20, 2008 (\u2018P1\u2019), are in fact",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      126.17,
+      541.95,
+      140.56
+    ],
+    "text": "owed to the Plaintiff-Appellant, specifically, by his letter dated January 20, 2014",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      148.57,
+      542.0,
+      162.96
+    ],
+    "text": "(\u2018P3\u2019).Therefore, as the Plaintiff-Appellant has correctly pointed out in his written",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      170.97,
+      541.95,
+      185.36
+    ],
+    "text": "submissions, Defendants-Respondents had the full knowledge that agreement 'P4'",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      193.37,
+      541.95,
+      207.76
+    ],
+    "text": "was entered into to ensure re-payment of the sums paid under the sales agreement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      215.77,
+      542.0,
+      230.16
+    ],
+    "text": "'P1' and thereby the Defendants-Respondents are estopped from now claiming that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      238.17,
+      381.75,
+      252.56
+    ],
+    "text": "the sums payable is not owed to the Plaintiff-Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      281.27,
+      541.95,
+      295.66
+    ],
+    "text": "The Plaintiff-Appellant relied on the said principle in support of his contention and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      303.67,
+      541.95,
+      318.06
+    ],
+    "text": "cited the following authorities from which I will only reproduce some of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      326.07,
+      541.95,
+      340.46
+    ],
+    "text": "important parts for further clarity. In the case of Welgama vs Wijesundera and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      348.3,
+      233.35,
+      362.86
+    ],
+    "text": "another 10, it was held that,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      393.27,
+      541.95,
+      407.66
+    ],
+    "text": "\" (...)The operation of the doctrine of estoppel is stated in Section 115 of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      415.67,
+      257.0,
+      430.06
+    ],
+    "text": "Evidence Ordinance as follows,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      448.07,
+      542.0,
+      462.46
+    ],
+    "text": "\"When one person has by his declaration, act, or omission intentionally caused or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      470.47,
+      541.95,
+      484.86
+    ],
+    "text": "permitted another person to believe a thing to be true and to act upon such belief,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      492.87,
+      541.95,
+      507.26
+    ],
+    "text": "neither he nor his representative shall be allowed in any suit, or proceeding between",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      515.27,
+      492.26,
+      529.66
+    ],
+    "text": "himself and such person or his representative to deny the truth of that thing.\"",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      547.67,
+      541.95,
+      562.06
+    ],
+    "text": "In England the doctrine of estoppel has been stated as a general principle by Lord",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      570.07,
+      541.95,
+      584.46
+    ],
+    "text": "Denning M. R. in the following statement made in Amalgamated Investment and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      592.47,
+      439.4,
+      606.86
+    ],
+    "text": "Property Co. Ltd., vs. Texas Commerce International Bank Ltd. (2)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      624.87,
+      541.95,
+      639.26
+    ],
+    "text": "(...) When the parties to a transaction proceed on the basis of an underlying",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      647.27,
+      541.95,
+      661.66
+    ],
+    "text": "assumption either of fact or of law- whether due to misrepresentation or mistake",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      669.67,
+      542.0,
+      684.06
+    ],
+    "text": "makes no difference -on which they have conducted the dealings between them",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      692.07,
+      541.95,
+      706.46
+    ],
+    "text": "neither of them will be allowed to go back on that assumption when it would be",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      714.47,
+      542.0,
+      728.86
+    ],
+    "text": "unfair or unjust to allow him to do so. If one of them does seek to go back on it, the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      92.25,
+      736.87,
+      476.5,
+      751.26
+    ],
+    "text": "courts will give the other such remedy as the equity of the case demands.\"",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      56.8,
+      766.1,
+      158.4,
+      778.28
+    ],
+    "text": "10 2006 1 Sri LR 124.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "16",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      57.27,
+      541.9,
+      71.66
+    ],
+    "text": "At the same time, I would like to draw my attention to Paragraph No. 38 of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      79.67,
+      541.95,
+      94.06
+    ],
+    "text": "written submissions submitted by the Defendants-Respondents. Accordingly, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      102.07,
+      541.95,
+      116.46
+    ],
+    "text": "Defendants-Respondents state that letter dated January 20, 2014, marked \u2018P 3\u2019 is a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      124.47,
+      541.95,
+      138.86
+    ],
+    "text": "reply to a letter dated December 27, 2013 which was written on the instructions of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      146.87,
+      542.0,
+      161.26
+    ],
+    "text": "Yokanathan Thiruverakan and not on Plaintiff-Respondent. In my view, the position",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      169.27,
+      541.95,
+      183.66
+    ],
+    "text": "taken by the Defendants\u2013Respondents is incorrect, because, although the said letter is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      191.67,
+      541.95,
+      206.06
+    ],
+    "text": "captioned \u201cRe: Letter dated 20 January 2014 acknowledging the liability of Rs.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      214.07,
+      541.95,
+      228.46
+    ],
+    "text": "24,100,000/- with interest,\u201d the body of the letter states that \u201cyour letter dated 27",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      236.47,
+      542.0,
+      250.86
+    ],
+    "text": "December 2013 addressed to Mangai (Pvt) Limited was received by my client, and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      258.87,
+      541.95,
+      273.26
+    ],
+    "text": "my client forwarded the said letter to me with instructions to reply.\u201d The said letter",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      281.27,
+      541.95,
+      295.66
+    ],
+    "text": "dated December 27, 2013 was a letter written on the instructions of Mr.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      303.67,
+      542.0,
+      318.06
+    ],
+    "text": "Saravanamuthu Vimalachandran, the Plaintiff- Appellant. The Attorney-at-Law who",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      326.07,
+      541.95,
+      340.46
+    ],
+    "text": "was writing the letter has specifically stated that 'I write on the instructions of my",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      348.47,
+      541.95,
+      362.86
+    ],
+    "text": "client,Mr. Saravanamuthu Vimalachandran (...)\u2019. Therefore, it is obvious that the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      370.87,
+      426.35,
+      385.26
+    ],
+    "text": "position taken up by the Defendants-Respondents was incorrect.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      415.67,
+      250.64,
+      430.06
+    ],
+    "text": "Alteration of company name",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      460.47,
+      541.95,
+      474.86
+    ],
+    "text": "The certificate of incorporation referred to above, pursuant to Section 8 (3) (b) of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      482.87,
+      542.0,
+      497.26
+    ],
+    "text": "Companies Act No 7 of 2007 filed of record proves that it was the same 'Mangai",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      505.27,
+      541.95,
+      519.66
+    ],
+    "text": "(Private) Limited which has changed its name into 'Agasthya' (Pvt) Ltd\u2019 on February",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      527.67,
+      141.0,
+      542.06
+    ],
+    "text": "16, 2012.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      570.77,
+      542.0,
+      585.16
+    ],
+    "text": "As is apparent from the correspondence, the willingness of the Director of Mangai",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      593.17,
+      541.95,
+      607.56
+    ],
+    "text": "(Private) Limited to settle the amount due changed only subsequent to the alteration",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      615.38,
+      538.66,
+      629.96
+    ],
+    "text": "of the 1st Defendant-Respondent company\u2019s name. The evidence of Plaintiff-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      637.97,
+      542.0,
+      652.36
+    ],
+    "text": "Appellant and Defendants-Respondents reveal that the Defendants-Respondents were",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      660.37,
+      541.95,
+      674.76
+    ],
+    "text": "fully aware of the liabilities attached to Mangai (Pvt) Ltd at the time of conducting",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      682.77,
+      541.95,
+      697.16
+    ],
+    "text": "the negotiations with the Plaintiff- Appellant prior to Agreement 'P4'.It raises a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      705.17,
+      541.95,
+      719.56
+    ],
+    "text": "reasonable doubt as to whether the former Directors of Mangai (Private) Limited",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      727.57,
+      541.95,
+      741.96
+    ],
+    "text": "changed the company\u2019s name to its present name with the intention of evading the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      92.25,
+      749.97,
+      541.95,
+      764.36
+    ],
+    "text": "liabilities and obligations attached to the former corporate entity. The Plaintiff-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "17",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "Appellant in his Petition to the High Court has referred to a \u201chabit of shifting the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      58.8,
+      541.95,
+      73.36
+    ],
+    "text": "registered office from time to time\u201d as well 11,which has not been substantiated",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      81.2,
+      349.6,
+      95.76
+    ],
+    "text": "through evidence. for the satisfaction of the court.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      124.47,
+      542.0,
+      138.86
+    ],
+    "text": "The law permits a company to change its name at any time, provided the prescribed",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      146.87,
+      541.95,
+      161.26
+    ],
+    "text": "legal process is duly followed. Nevertheless, the effect of changing the name does not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      169.27,
+      541.95,
+      183.66
+    ],
+    "text": "imply a formation of a new corporate entity or a dissolution of old company.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      191.67,
+      541.95,
+      206.06
+    ],
+    "text": "Consequently, when a company changes its name, it still recognizes the continued",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      214.07,
+      541.95,
+      228.46
+    ],
+    "text": "existence of the old company and rights and obligations attached to it",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      236.3,
+      541.95,
+      250.86
+    ],
+    "text": "notwithstanding the change of the name.12Especially, the company may continue",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      258.87,
+      541.95,
+      273.26
+    ],
+    "text": "legal proceedings commenced by or against the company in its former name even",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      281.27,
+      541.95,
+      295.66
+    ],
+    "text": "after the change of its name.13 This has been incorporated as a statutory obligation not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      303.67,
+      541.95,
+      318.06
+    ],
+    "text": "only in Sri Lankan Company Act but also in the UK context as follows. Both Sri",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      325.9,
+      366.3,
+      340.46
+    ],
+    "text": "Lankan14 and UK Companies Acts15 lays down that,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      366.27,
+      541.95,
+      380.66
+    ],
+    "text": "\"the change of name shall not affect any rights or obligations of the company, or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      388.67,
+      541.95,
+      403.06
+    ],
+    "text": "render ineffective any legal proceedings by or against the company. Any legal",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      411.07,
+      541.95,
+      425.46
+    ],
+    "text": "proceedings that might have been continued or commenced against it by its former",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      433.47,
+      439.7,
+      447.86
+    ],
+    "text": "name, may be continued or commenced against it by its new name.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      458.72,
+      116.09,
+      473.11
+    ],
+    "text": "(...)\"",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      488.62,
+      541.95,
+      503.01
+    ],
+    "text": "These principles have been elaborated in several land mark judgments as well.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      511.02,
+      541.95,
+      525.41
+    ],
+    "text": "(Oshkosh B' Gosh Incorporated vs. Dan Marbel Incorporated Ltd (1988) 4 BCC",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      533.42,
+      536.66,
+      547.81
+    ],
+    "text": "795(CA), Economic Investment Corporation Ltd. v. CIT (1970) 75 ITR 233(Cal):",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      555.82,
+      541.95,
+      570.21
+    ],
+    "text": "(1970) 40 Comp Cas 1, Pioneer Protective Glass Fibre Pvt Ltd vs. Fibre Glass",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      578.22,
+      502.22,
+      592.61
+    ],
+    "text": "Pilkington Ltd. (1986) 60ComCases707 (Cal)(DB):(1985)3Comp LJ 309(Cal).",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      621.15,
+      541.9,
+      635.71
+    ],
+    "text": "Since the historical case, Salomon vs Salomon16, the fiction of separate corporate",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      643.72,
+      541.95,
+      658.11
+    ],
+    "text": "personality has been the sole foundation of the English company law, which means",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.25,
+      666.12,
+      542.0,
+      680.51
+    ],
+    "text": "that the company is a separate entity from its directors and owners, and it has distinct",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.8,
+      702.85,
+      464.94,
+      778.28
+    ],
+    "text": "11 Paragraph 14(e) of the Petition to the High Court.12 Dr. K.R.Chandratre, All about Privet Limited Companies, 2nd Edition.13 Malhati Tea Syndicate Ltd vs Revenue Officer, Jalpaiguri (1973) 43 Comp Cas 337(Cal).14 Section 8(4) of the Companies Act, Sri Lanka.15 Section 81 of the Companies Act 2006, UK.16 Salomon vs Salomon & Co Ltd [1897] AC 22.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      7.0,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "18",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      36.57,
+      541.95,
+      50.96
+    ],
+    "text": "rights and liabilities as an autonomous legal person. Usually, this metaphoric veil",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      58.97,
+      541.95,
+      73.36
+    ],
+    "text": "existing between the company and its owners remains intact except where it has been",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      81.37,
+      541.95,
+      95.76
+    ],
+    "text": "used by the shareholders/directors to commit a fraud or to evade their liabilities. If",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      103.77,
+      542.0,
+      118.16
+    ],
+    "text": "the Defendants-Respondents intended to cloak themselves behind a new identity to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      126.17,
+      541.95,
+      140.56
+    ],
+    "text": "evade existing liabilities attached to them under the old name would obviously",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      148.57,
+      541.95,
+      162.96
+    ],
+    "text": "constitute 'fraud' within the meaning of the law. In such cases, the court will not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      170.97,
+      541.95,
+      185.36
+    ],
+    "text": "hesitate to lift the corporate veil and make the shareholders/directors personally liable",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      193.37,
+      541.95,
+      207.76
+    ],
+    "text": "for the obligations of the company. Therefore, in the current case at hand also the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      215.77,
+      541.95,
+      230.16
+    ],
+    "text": "alteration in the name of Mangai (Pvt) Ltd is no reason for its Directors to reject the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      238.17,
+      350.37,
+      252.56
+    ],
+    "text": "obligations it had towards the Plaintiff-Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      282.97,
+      202.67,
+      297.36
+    ],
+    "text": "Principles of Equity",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      323.07,
+      542.0,
+      337.46
+    ],
+    "text": "As the Court of last resort of the country, this Court would never hesitate to correct",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      345.47,
+      541.95,
+      359.86
+    ],
+    "text": "the deficiency resulting from the loopholes of positive law which prevents the parties",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      367.87,
+      541.95,
+      382.26
+    ],
+    "text": "from achieving a just and reasonable outcome as such conducts strikes at the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      390.27,
+      541.85,
+      404.66
+    ],
+    "text": "foundation of fairness and equity. The well-known Latin maxim Ubi jus ibi",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      412.5,
+      541.9,
+      427.06
+    ],
+    "text": "remedium; \u201cwhere there is a right, there is a remedy\u201d squarely covers this case.17",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      435.07,
+      537.84,
+      449.46
+    ],
+    "text": "Because the Plaintiff-Appellant is justified in seeking redress for the Defendants-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      457.47,
+      538.32,
+      471.86
+    ],
+    "text": "Respondents\u2019 violation of his contractual rights. At first sight, while the Defendants-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      479.87,
+      541.95,
+      494.26
+    ],
+    "text": "Respondents seemed to enjoy a favorable legal position, a thorough scrutiny of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      502.27,
+      541.95,
+      516.66
+    ],
+    "text": "facts and evidence establishes that the Plaintiff-Appellant has, in fact, borne the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      524.67,
+      541.95,
+      539.06
+    ],
+    "text": "prejudice arising from this contractual transaction. The Defendants-Respondents have",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      547.07,
+      541.95,
+      561.46
+    ],
+    "text": "deliberately attempted to evade their liabilities to the Plaintiff-Appellant by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      569.47,
+      541.95,
+      583.86
+    ],
+    "text": "misinterpreting the contractual terms and applicable legal principles, thereby",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      591.87,
+      472.12,
+      606.26
+    ],
+    "text": "warranting the application of equitable remedies in the interest of justice.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      635.67,
+      154.34,
+      650.06
+    ],
+    "text": "Conclusion",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      679.47,
+      541.95,
+      693.86
+    ],
+    "text": "In light of the above analysis, I hold that the learned High Court judge of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      701.87,
+      542.0,
+      716.26
+    ],
+    "text": "Commercial High Court erred in dismissing the Plaintiff-Appellant\u2019s action. I allow",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      724.27,
+      541.95,
+      738.66
+    ],
+    "text": "the appeal, set aside the judgment of the High Court judge dated November 29, 2021",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      92.25,
+      746.67,
+      426.84,
+      761.06
+    ],
+    "text": "and direct to enter judgment in favour of the Plaintiff-Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      56.8,
+      766.1,
+      462.73,
+      778.28
+    ],
+    "text": "17 Sardar Amarjit Singh Kalra vs Promod Gupta & Ors. Appeal (civil) 1027-1028 of 1992.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "19",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      36.57,
+      538.2,
+      50.96
+    ],
+    "text": "Admittedly, the Plaintiff-Appellant has paid Rs.241,000,000/- through his brother-in-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      58.97,
+      541.95,
+      73.36
+    ],
+    "text": "law to Mangai (Private) Limited which later changed its name into Agasthya (Pvt)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      81.37,
+      542.0,
+      95.76
+    ],
+    "text": "Ltd. The fact that this amount was paid prior to the execution of agreement No. 1481",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      103.77,
+      541.95,
+      118.16
+    ],
+    "text": "(\u2018P1\u2019) on June 30, 2008 was certified by the notary in the attestation to the agreement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      126.17,
+      541.95,
+      140.56
+    ],
+    "text": "as well. However, when the second agreement No. 809 (\u2018P4\u2019) was entered into on",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      148.57,
+      541.95,
+      162.96
+    ],
+    "text": "June 09, 2014, Mangai (Private) Limited has agreed to pay Rs.30 million in three",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      170.97,
+      541.95,
+      185.36
+    ],
+    "text": "installments and to enter into another agreement to transfer an apartment at the value",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      193.37,
+      541.95,
+      207.76
+    ],
+    "text": "of Rs.10 million to the Plaintiff-Appellant on or before the agreed dates, aggregating",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      215.77,
+      541.95,
+      230.16
+    ],
+    "text": "to a value of Rs.40 million. Accordingly, the sum owed by Mangai (Private) Limited",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      238.17,
+      541.95,
+      252.56
+    ],
+    "text": "as at the date of filing action has to be taken as Rs. 40 million with the interest and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      260.57,
+      538.36,
+      274.96
+    ],
+    "text": "damages, if any. However, in the plaint filed on February 08, 2017, the Plaintiff-",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      282.97,
+      541.95,
+      297.36
+    ],
+    "text": "Appellant claimed only Rs.40 million together with legal interest from the date of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      305.37,
+      133.1,
+      319.76
+    ],
+    "text": "plaint.18",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      349.17,
+      541.95,
+      363.56
+    ],
+    "text": "Accordingly, I allow the appeal and hold that the Plaintiff-Appellant is entitled to the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      371.57,
+      541.95,
+      385.96
+    ],
+    "text": "said relief prayed for in paragraph (a) of the Plaint filed in the Commercial High",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      393.97,
+      541.95,
+      408.36
+    ],
+    "text": "Court. Further, the Plaintiff-Appellant is entitled to the costs in this court as well as in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      416.37,
+      240.92,
+      430.76
+    ],
+    "text": "the Commercial High Court.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      307.15,
+      449.47,
+      518.87,
+      463.86
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.8,
+      489.52,
+      218.18,
+      503.91
+    ],
+    "text": "Achala Wengappuli, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.8,
+      512.42,
+      134.62,
+      526.81
+    ],
+    "text": "I Agree.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      304.95,
+      535.32,
+      516.67,
+      549.71
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      593.72,
+      249.19,
+      608.11
+    ],
+    "text": "Dr. Sobhitha Rajakaruna, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.25,
+      617.87,
+      134.07,
+      632.26
+    ],
+    "text": "I Agree.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      304.95,
+      643.52,
+      516.67,
+      657.91
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      56.8,
+      766.1,
+      359.86,
+      778.28
+    ],
+    "text": "18 Vide page 61 of the Commercial High Court brief filed of record.",
+    "fonts": [
+      "LiberationSerif",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      526.75,
+      778.81,
+      538.75,
+      792.09
+    ],
+    "text": "20",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

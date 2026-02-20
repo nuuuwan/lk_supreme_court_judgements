@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-02-20 06:44:37",
-  "n_docs": 2536,
-  "n_docs_with_pdfs": 1716,
-  "n_docs_with_text": 1716,
+  "time_updated": "2026-02-20 18:39:14",
+  "n_docs": 2542,
+  "n_docs_with_pdfs": 1722,
+  "n_docs_with_text": 1722,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-02-17",
-  "dataset_size": 1540420244,
+  "date_str_max": "2026-02-20",
+  "dataset_size": 1543568403,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-17-SC-CHC-APPEAL-25-2022",
-    "num": "SC/CHC APPEAL/25/2022",
-    "date_str": "2026-02-17",
-    "description": "Hon. Arjuna Obeyesekere J - Na\udbc0\udd9fons Trust Bank, No. 242, U...",
+    "doc_id": "2026-02-20-SC-MISCELLANEOUS-2-2011",
+    "num": "SC/MISCELLANEOUS/2/2011",
+    "date_str": "2026-02-20",
+    "description": "Hon. Janak De Silva J - W.M. Nawarathna Bandara, \u201cRat...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_25_2022.pdf",
-    "parties": "Na\udbc0\udd9fons Trust Bank, No. 242, Union Place, Colombo 2. PLAINTIFF \u2013 APPELLANT - Vs - N. Gamage Niruka Sudarshani Perera, No. 285, Modara Street, Colombo 15. DEFENDANT \u2013 RESPONDENT\n\nView More",
-    "judgement_by": "Hon. Arjuna Obeyesekere J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_miscellaneous_2_2011.pdf",
+    "parties": "W.M. Nawarathna Bandara, \u201cRathnamahal\u201d, Marapana, Rathnapura. LICENSEE \u2013 RESPONDENT \u2013 APPELLANT \u2013 APPELLANT Vs. 1. Chamila Widyalankara, No. 119, Marapana, Rathnapura. 2. G.J.R.N. Wimalananda, No. 191, \u201cSevana\u201d, Marapana, Rathnapura. 3. T.S.D.V. Karunarathne, No. 191, \u201cSevana\u201d, Marapana, Rathnapura. 4. A.G. Prabath Amerathunga, Galaudawatte, Marapana, Rathnapura 5. D. Upali Jayaweera, \u201cRaveen\u201d, Marapana South, Marapana. PETITIONER \u2013 RESPONDENT - RESPONDENTS 6. National Gem and Jewellery Authority, No. 25, Galle Face Terrace, Colombo 03. 7. Mr. Rohan De S. Daluwatta \u2013 The Chairman, National Gem and Jewellery Authority, No. 25, Galle Face Terrace, Colombo 03. 8. Dr. R. H. S. Samarathunga \u2013 The Secretary, Ministry of Environment, \u201cSampathpaya\u201d, No. 82, Rajamalwatte Road, Battaramulla. RESPONDENTS Mr. Pradeep Gunawardane \u2013 The Chairman, National Gem & Jewellery Authority, No. 25, Galle Face Terrace, Colombo 03. Mr. Anura Dissanayake \u2013 The Secretary, Ministry of Mahaweli Development & Environment, \u201cSobadama Piyasa\u201d, 416/C/1, Robert Gunawardana Mw, Battaramulla. ADDED RESPONDENT - RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
   }
 }
