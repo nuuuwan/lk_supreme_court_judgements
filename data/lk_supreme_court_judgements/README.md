@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_06:45:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_18:40:00-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,543** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-20**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,545** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-20**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -43,7 +43,9 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ## 🆕 20 Latest documents
 
 - 2026-02-20 | `SC/MISCELLANEOUS/2/2011` | Hon. Janak De Silva J - W.M. Nawarathna Bandara, “Rat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-MISCELLANEOUS-2-2011)
+- 2026-02-20 | `SC/FR/320/2019` | Hon. Menaka Wijesundera J - B.A. Bannet Sumanasiri Jayawa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-320-2019)
 - 2026-02-20 | `SC/FR/19/2009` | Hon. Arjuna Obeyesekere J - Diyunuge Seetha Mathew, No. 1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-19-2009)
+- 2026-02-20 | `SC/FR/108/2020` | Hon. Menaka Wijesundera J - Godallage Priyantha Kumara, L... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-108-2020)
 - 2026-02-20 | `SC/CHC APPEAL/45/2017` | Hon. A.L. Shiran Gooneratne J - Thissa Nagodavithana, No. A1/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-CHC-APPEAL-45-2017)
 - 2026-02-20 | `SC/CHC APPEAL/26/2015` | Hon. Sampath K. B. Wijeratne J - GLOBAL RUBBER INDUSTRIES (PVT... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-CHC-APPEAL-26-2015)
 - 2026-02-20 | `SC/APPEAL/14/2020` | Hon. Sampath B. Abayakoon J - Arambegoda Lokugamage Ajith P... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-APPEAL-14-2020)
@@ -60,8 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-12 | `SC/FR/267/2018` | Hon. P. Padman Surasena CJ - 1. Godagama Vidana Arachchige... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-12-SC-FR-267-2018)
 - 2026-02-10 | `SC/FR/261/2019` | Hon. A.L. Shiran Gooneratne J - Nithijanatham Baskaran, C/O:N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-FR-261-2019)
 - 2026-02-10 | `SC/APPEAL/96/2025` | Hon. Mahinda Samayawardhena J - Piliyandala Tharuna Bauddha S... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-APPEAL-96-2025)
-- 2026-02-10 | `SC/APPEAL/102/2023` | Hon. A.L. Shiran Gooneratne J - 1. Pandithakoralalage Don Hil... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-APPEAL-102-2023)
-- 2026-02-09 | `SC/FR/46/2020, SC/FR/47/2020, SC/FR/48/2020` | Hon. Yasantha Kodagoda PC J - SC/FR/46/2020: Mohamed Ibrahi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-09-SC-FR-46-2020--SC-FR-47-42de89f3)
 
 ---
 
