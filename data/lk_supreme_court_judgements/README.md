@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--26_06:44:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--26_18:40:01-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,545** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.5 GB**), from **2009-01-27** to **2026-02-20**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,550** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-02-26**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-20-SC-MISCELLANEOUS-2-2011",
-    "num": "SC/MISCELLANEOUS/2/2011",
-    "date_str": "2026-02-20",
-    "description": "Hon. Janak De Silva J - W.M. Nawarathna Bandara, \u201cRat...",
+    "doc_id": "2026-02-26-SC-APPEAL-197-2017",
+    "num": "SC/APPEAL/197/2017",
+    "date_str": "2026-02-26",
+    "description": "Hon. Sampath B. Abayakoon J - H.A.D. Samson Arthur Dharmawa...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_miscellaneous_2_2011.pdf",
-    "parties": "W.M. Nawarathna Bandara, \u201cRathnamahal\u201d, Marapana, Rathnapura. LICENSEE \u2013 RESPONDENT \u2013 APPELLANT \u2013 APPELLANT Vs. 1. Chamila Widyalankara, No. 119, Marapana, Rathnapura. 2. G.J.R.N. Wimalananda, No. 191, \u201cSevana\u201d, Marapana, Rathnapura. 3. T.S.D.V. Karunarathne, No. 191, \u201cSevana\u201d, Marapana, Rathnapura. 4. A.G. Prabath Amerathunga, Galaudawatte, Marapana, Rathnapura 5. D. Upali Jayaweera, \u201cRaveen\u201d, Marapana South, Marapana. PETITIONER \u2013 RESPONDENT - RESPONDENTS 6. National Gem and Jewellery Authority, No. 25, Galle Face Terrace, Colombo 03. 7. Mr. Rohan De S. Daluwatta \u2013 The Chairman, National Gem and Jewellery Authority, No. 25, Galle Face Terrace, Colombo 03. 8. Dr. R. H. S. Samarathunga \u2013 The Secretary, Ministry of Environment, \u201cSampathpaya\u201d, No. 82, Rajamalwatte Road, Battaramulla. RESPONDENTS Mr. Pradeep Gunawardane \u2013 The Chairman, National Gem & Jewellery Authority, No. 25, Galle Face Terrace, Colombo 03. Mr. Anura Dissanayake \u2013 The Secretary, Ministry of Mahaweli Development & Environment, \u201cSobadama Piyasa\u201d, 416/C/1, Robert Gunawardana Mw, Battaramulla. ADDED RESPONDENT - RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Janak De Silva J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_197_2017.pdf",
+    "parties": "H.A.D. Samson Arthur Dharmawardena, (deceased) Molagoda. DEFENDANT-APPELLANT- APPELLANT 1A. Kusuma Welgama 1B. Buddhika Sampath 1C. Chandani Indika 1D. Chamila Buddhika Dharmawardena. All of: No. 192, Sampath Bakery, Molagoda, Kegalle. SUBSTITUTED DEFENDANT- APPELLANT-APPELLANTS Vs. 1. Abdul Hasan Mohamed Ameen, 2. Abdul Hasan Mohamed Sharook, Both of : No. 142, Molagoda. PLAINTIFF-RESPONDENT- RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
 }
 ```
 
@@ -42,6 +42,11 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-02-26 | `SC/APPEAL/197/2017` | Hon. Sampath B. Abayakoon J - H.A.D. Samson Arthur Dharmawa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-26-SC-APPEAL-197-2017)
+- 2026-02-25 | `SC/FR/237/2012` | Hon. Achala Wengappuli, J - 1. Graduate Employees’ Union,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-FR-237-2012)
+- 2026-02-25 | `SC/FR/23/2014` | Hon. Yasantha Kodagoda, PC J - 1. D.D. Matharaarachchi No. 1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-FR-23-2014)
+- 2026-02-25 | `SC/APPEAL/54/2020` | Hon. Achala Wengappuli, J - Santhiyagu Chandana De Silva,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-APPEAL-54-2020)
+- 2026-02-25 | `SC/APPEAL/54/2018` | Hon. Achala Wengappuli, J - 1a. Gamage Siriyawathie 1b. M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-APPEAL-54-2018)
 - 2026-02-20 | `SC/MISCELLANEOUS/2/2011` | Hon. Janak De Silva J - W.M. Nawarathna Bandara, “Rat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-MISCELLANEOUS-2-2011)
 - 2026-02-20 | `SC/FR/320/2019` | Hon. Menaka Wijesundera J - B.A. Bannet Sumanasiri Jayawa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-320-2019)
 - 2026-02-20 | `SC/FR/19/2009` | Hon. Arjuna Obeyesekere J - Diyunuge Seetha Mathew, No. 1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-19-2009)
@@ -57,11 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-13 | `SC/APPEAL/188/2016 with SC/APPEAL/189/2016` | Hon. Kumuduni Wickremasinghe J - Rasnayake Mudiyanselage Sanje... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-13-SC-APPEAL-188-2016-with-99483a32)
 - 2026-02-13 | `SC/APPEAL/162/2017` | Hon. Sampath B. Abayakoon J - K.H.G. Sirisena (More correct... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-13-SC-APPEAL-162-2017)
 - 2026-02-13 | `SC/APPEAL/140/2019` | Hon. Mahinda Samayawardhena J - 1. Ramalingam Nadarajah 2. Ra... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-13-SC-APPEAL-140-2019)
-- 2026-02-13 | `SC/APPEAL/105/2015` | Hon. Mahinda Samayawardhena J - Suduwadewa Ariyaratne alias D... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-13-SC-APPEAL-105-2015)
-- 2026-02-13 | `SC/APPEAL/101/2019` | Hon. Kumuduni Wickremasinghe J - Seylan Bank PLC Seylan Towers... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-13-SC-APPEAL-101-2019)
-- 2026-02-12 | `SC/FR/267/2018` | Hon. P. Padman Surasena CJ - 1. Godagama Vidana Arachchige... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-12-SC-FR-267-2018)
-- 2026-02-10 | `SC/FR/261/2019` | Hon. A.L. Shiran Gooneratne J - Nithijanatham Baskaran, C/O:N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-FR-261-2019)
-- 2026-02-10 | `SC/APPEAL/96/2025` | Hon. Mahinda Samayawardhena J - Piliyandala Tharuna Bauddha S... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-10-SC-APPEAL-96-2025)
 
 ---
 
