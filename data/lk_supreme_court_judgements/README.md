@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--27_18:39:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--28_06:41:05-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,558** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-02-27**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,559** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-02-27**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -50,6 +50,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-26 | `SC/FR/255/2019` | Hon. Dr. Sobhitha Rajakaruna, J - Mohammed Thufail Mohammed Mil... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-26-SC-FR-255-2019)
 - 2026-02-26 | `SC/FR/194/2017` | Hon. Dr. Sobhitha Rajakaruna, J - B.R.P.R. Gunasena No 159/1, P... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-26-SC-FR-194-2017)
 - 2026-02-26 | `SC/CHC APPEAL/19/2010` | Hon. Achala Wengappuli, J - Sampath Bank PLC, Having its ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-26-SC-CHC-APPEAL-19-2010)
+- 2026-02-26 | `SC/APPEAL/33/2021` | Hon. Dr. Sobhitha Rajakaruna J - 1a. Ven Ahungalle Wimaladhamm... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-26-SC-APPEAL-33-2021)
 - 2026-02-26 | `SC/APPEAL/197/2017` | Hon. Sampath B. Abayakoon J - H.A.D. Samson Arthur Dharmawa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-26-SC-APPEAL-197-2017)
 - 2026-02-25 | `SC/FR/237/2012` | Hon. Achala Wengappuli, J - 1. Graduate Employees’ Union,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-FR-237-2012)
 - 2026-02-25 | `SC/FR/23/2014` | Hon. Yasantha Kodagoda, PC J - 1. D.D. Matharaarachchi No. 1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-FR-23-2014)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-20 | `SC/FR/108/2020` | Hon. Menaka Wijesundera J - Godallage Priyantha Kumara, L... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-108-2020)
 - 2026-02-20 | `SC/CHC APPEAL/45/2017` | Hon. A.L. Shiran Gooneratne J - Thissa Nagodavithana, No. A1/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-CHC-APPEAL-45-2017)
 - 2026-02-20 | `SC/CHC APPEAL/26/2015` | Hon. Sampath K. B. Wijeratne J - GLOBAL RUBBER INDUSTRIES (PVT... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-CHC-APPEAL-26-2015)
-- 2026-02-20 | `SC/APPEAL/14/2020` | Hon. Sampath B. Abayakoon J - Arambegoda Lokugamage Ajith P... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-APPEAL-14-2020)
 
 ---
 
