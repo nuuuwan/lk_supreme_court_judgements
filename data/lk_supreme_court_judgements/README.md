@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_06:48:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--03_18:39:30-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,559** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-02-27**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,560** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-02-27-SC-FR-391-2013",
-    "num": "SC/FR/391/2013",
-    "date_str": "2026-02-27",
-    "description": "Hon. Kumuduni Wickremasinghe J - 3. Manoja Pathirana, Former C...",
+    "doc_id": "2026-03-03-SC-FR-168-2024",
+    "num": "SC/FR/168/2024",
+    "date_str": "2026-03-03",
+    "description": "Hon. Sampath B. Abayakoon J - Rathnayake Mudiyanselage Thar...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_391_2013.pdf",
-    "parties": "3. Manoja Pathirana, Former Chairman, Vocational Training Authority of Sri Lanka, No 354/2, Elvitigala Mawatha, Narahenpita PETITIONER Vs. 1. Colombo Municipal Council, Town Hall, Colombo 07 2. J.M.Bhadrani Jayawardena, Municipal Commissioner, Colombo Municipal Council Town Hall, Colombo 07 2A. V.K.A. Anura, Municipal Commissioner, Colombo Municipal Council, Town Hall, Colombo 07. 2B.L.R.L.Wickremaratne, Municipal Commissioner, Colombo Municipal Council, Townhall, Colombo 07 2C.Roshanie Dissanayake, Municipal Commissioner, Colombo Municipal Council, Townhall, Colombo 07 (SUBSTITUTED 2C RESPONDENT) 3.Governor, Secretariat of the Governor Western Province, No 98/4, Havelock Road, Colombo 05 4.Chandrani Samarakoon, Commissioner of Local Government, Department of Local Government(Western Province), Independence Square, Colombo 07 4A.Kasun Apa Senevirathne, Commissioner of Local Government, Department of Local Government(Western Province), Independence Square, Colombo 07. (SUBSTITUTED 4A RESPONDENT) 5. V.Rajapakshe, Secretary, Provincial Public Service Commission(Western Province), Independence Square, Colombo 07. 5A.M.G.A.Thilakerathne, Secretary, Provincial Public Service Commission(Western Province), Independence Square, Colombo 07 5B.Thilak Senarath, Secretary, Provincial Public Service Commission(Western Province), Independence Square , Colombo 07. (SUBSTITUTED 5B RESPONDENT) 6. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Kumuduni Wickremasinghe J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_168_2024.pdf",
+    "parties": "Rathnayake Mudiyanselage Tharindu Amila Uduwaragedera, Jayasewana, Bandarawela Road, Ettampitiya. PETITIONER Vs. 1. Sameera Madushanka Ranasinghe, Sub Inspector of Police, Borella Police Station. Police Station Road, Borella. 2. Amila Bulathsinhala (70648), Police Constable, Borella Police Station, Police Station Road, Borella. 3. Janaka Withanage, Chief Inspector, Officer in Charge, Borella Police Station, Police Station Road, Borella. 4. A.G.J. Chandrakumara, Deputy Inspector General, Colombo District, Sri Lanka Police Head Quarters, Colombo 01. 5. T.M.W.D Tennakoon, (former) Senior Deputy Inspector General of Police, Western Province. Currently Inspector General of Police, Sri Lanka Police Headquarters, Colombo 01. 6. Mr. C.D. Wickramarathne, (former) Inspector General of Police, Sri Lanka Police Headquarters, Colombo 01. 7. Hon. Attorney General, Attorney General\\'s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-03 | `SC/FR/168/2024` | Hon. Sampath B. Abayakoon J - Rathnayake Mudiyanselage Thar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-03-SC-FR-168-2024)
 - 2026-02-27 | `SC/FR/391/2013` | Hon. Kumuduni Wickremasinghe J - 3. Manoja Pathirana, Former C... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-391-2013)
 - 2026-02-27 | `SC/FR/309/2014` | Hon. Kumuduni Wickremasinghe J - 1. D.M. Yahampath No.6A, Sadu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-309-2014)
 - 2026-02-27 | `SC/FR/210/2016` | Hon. Menaka Wijesundera J - Dinesh Rajeewa Hettiarachchi,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-210-2016)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-20 | `SC/FR/19/2009` | Hon. Arjuna Obeyesekere J - Diyunuge Seetha Mathew, No. 1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-19-2009)
 - 2026-02-20 | `SC/FR/108/2020` | Hon. Menaka Wijesundera J - Godallage Priyantha Kumara, L... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-108-2020)
 - 2026-02-20 | `SC/CHC APPEAL/45/2017` | Hon. A.L. Shiran Gooneratne J - Thissa Nagodavithana, No. A1/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-CHC-APPEAL-45-2017)
-- 2026-02-20 | `SC/CHC APPEAL/26/2015` | Hon. Sampath K. B. Wijeratne J - GLOBAL RUBBER INDUSTRIES (PVT... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-CHC-APPEAL-26-2015)
 
 ---
 
