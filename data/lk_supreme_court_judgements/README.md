@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--04_06:45:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--04_18:39:27-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,560** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-03**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,565** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-04**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-03-SC-FR-168-2024",
-    "num": "SC/FR/168/2024",
-    "date_str": "2026-03-03",
-    "description": "Hon. Sampath B. Abayakoon J - Rathnayake Mudiyanselage Thar...",
+    "doc_id": "2026-03-04-SC-MICS-1-2016",
+    "num": "SC/MICS/1/2016",
+    "date_str": "2026-03-04",
+    "description": "Hon. K. Priyantha Fernando J - 1. W. Sudarman Gunarathna No....",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_168_2024.pdf",
-    "parties": "Rathnayake Mudiyanselage Tharindu Amila Uduwaragedera, Jayasewana, Bandarawela Road, Ettampitiya. PETITIONER Vs. 1. Sameera Madushanka Ranasinghe, Sub Inspector of Police, Borella Police Station. Police Station Road, Borella. 2. Amila Bulathsinhala (70648), Police Constable, Borella Police Station, Police Station Road, Borella. 3. Janaka Withanage, Chief Inspector, Officer in Charge, Borella Police Station, Police Station Road, Borella. 4. A.G.J. Chandrakumara, Deputy Inspector General, Colombo District, Sri Lanka Police Head Quarters, Colombo 01. 5. T.M.W.D Tennakoon, (former) Senior Deputy Inspector General of Police, Western Province. Currently Inspector General of Police, Sri Lanka Police Headquarters, Colombo 01. 6. Mr. C.D. Wickramarathne, (former) Inspector General of Police, Sri Lanka Police Headquarters, Colombo 01. 7. Hon. Attorney General, Attorney General\\'s Department, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Sampath B. Abayakoon J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_misc_1_2016.pdf",
+    "parties": "1. W. Sudarman Gunarathna No. 490/1, Huladduwa, Gatahatta. 2. K.A. Ranaweera Near the Police Station of Avissawella, Avissawella. Appellants V. 1. National Gem and Jewellery Authority, No. 25, Galleface Terrace, Colombo 3. 2. S.M. Piyathissa, Secretary, State Ministry of Gem and Jewellery, Related Industries, No. 561/3, Elvitigala Mawatha, Colombo 05. 4. R. A. Dharmarathna Uduwaka, Galahatta 5. R.A. Kumarasiri, \u201cNimali\u201d, Thorangoda, Ehaliyagoda.\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
 }
 ```
 
@@ -42,7 +42,12 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-04 | `SC/MICS/1/2016` | Hon. K. Priyantha Fernando J - 1. W. Sudarman Gunarathna No.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-MICS-1-2016)
+- 2026-03-04 | `SC/APPEAL/41/2024` | Hon. A. L. Shiran Gooneratne, J - 1. Medawalal Lekamalage Sujat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-41-2024)
+- 2026-03-04 | `SC/APPEAL/38/2025` | Hon. M. Sampath K. B. Wijeratne J - Binal Investment (Pvt) Ltd. N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-38-2025)
+- 2026-03-04 | `SC/APPEAL/109/2022` | Hon. S. Thurairaja PC J - Pan Asia Banking Corporation ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-109-2022)
 - 2026-03-03 | `SC/FR/168/2024` | Hon. Sampath B. Abayakoon J - Rathnayake Mudiyanselage Thar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-03-SC-FR-168-2024)
+- 2026-03-03 | `SC/APPEAL/1/2016` | Hon. M. Sampath K. B. Wijeratne J - Saranasin Patabandigei Jayati... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-03-SC-APPEAL-1-2016)
 - 2026-02-27 | `SC/FR/391/2013` | Hon. Kumuduni Wickremasinghe J - 3. Manoja Pathirana, Former C... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-391-2013)
 - 2026-02-27 | `SC/FR/309/2014` | Hon. Kumuduni Wickremasinghe J - 1. D.M. Yahampath No.6A, Sadu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-309-2014)
 - 2026-02-27 | `SC/FR/210/2016` | Hon. Menaka Wijesundera J - Dinesh Rajeewa Hettiarachchi,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-210-2016)
@@ -57,11 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-25 | `SC/FR/23/2014` | Hon. Yasantha Kodagoda, PC J - 1. D.D. Matharaarachchi No. 1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-FR-23-2014)
 - 2026-02-25 | `SC/APPEAL/54/2020` | Hon. Achala Wengappuli, J - Santhiyagu Chandana De Silva,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-APPEAL-54-2020)
 - 2026-02-25 | `SC/APPEAL/54/2018` | Hon. Achala Wengappuli, J - 1a. Gamage Siriyawathie 1b. M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-APPEAL-54-2018)
-- 2026-02-20 | `SC/MISCELLANEOUS/2/2011` | Hon. Janak De Silva J - W.M. Nawarathna Bandara, “Rat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-MISCELLANEOUS-2-2011)
-- 2026-02-20 | `SC/FR/320/2019` | Hon. Menaka Wijesundera J - B.A. Bannet Sumanasiri Jayawa... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-320-2019)
-- 2026-02-20 | `SC/FR/19/2009` | Hon. Arjuna Obeyesekere J - Diyunuge Seetha Mathew, No. 1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-19-2009)
-- 2026-02-20 | `SC/FR/108/2020` | Hon. Menaka Wijesundera J - Godallage Priyantha Kumara, L... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-FR-108-2020)
-- 2026-02-20 | `SC/CHC APPEAL/45/2017` | Hon. A.L. Shiran Gooneratne J - Thissa Nagodavithana, No. A1/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-20-SC-CHC-APPEAL-45-2017)
 
 ---
 

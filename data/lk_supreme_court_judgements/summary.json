@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-03-04 06:45:21",
-  "n_docs": 2560,
-  "n_docs_with_pdfs": 1740,
-  "n_docs_with_text": 1740,
+  "time_updated": "2026-03-04 18:39:25",
+  "n_docs": 2565,
+  "n_docs_with_pdfs": 1745,
+  "n_docs_with_text": 1745,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-03-03",
-  "dataset_size": 1558275635,
+  "date_str_max": "2026-03-04",
+  "dataset_size": 1560585557,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-03-SC-FR-168-2024",
-    "num": "SC/FR/168/2024",
-    "date_str": "2026-03-03",
-    "description": "Hon. Sampath B. Abayakoon J - Rathnayake Mudiyanselage Thar...",
+    "doc_id": "2026-03-04-SC-MICS-1-2016",
+    "num": "SC/MICS/1/2016",
+    "date_str": "2026-03-04",
+    "description": "Hon. K. Priyantha Fernando J - 1. W. Sudarman Gunarathna No....",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_168_2024.pdf",
-    "parties": "Rathnayake Mudiyanselage Tharindu Amila Uduwaragedera, Jayasewana, Bandarawela Road, Ettampitiya. PETITIONER Vs. 1. Sameera Madushanka Ranasinghe, Sub Inspector of Police, Borella Police Station. Police Station Road, Borella. 2. Amila Bulathsinhala (70648), Police Constable, Borella Police Station, Police Station Road, Borella. 3. Janaka Withanage, Chief Inspector, Officer in Charge, Borella Police Station, Police Station Road, Borella. 4. A.G.J. Chandrakumara, Deputy Inspector General, Colombo District, Sri Lanka Police Head Quarters, Colombo 01. 5. T.M.W.D Tennakoon, (former) Senior Deputy Inspector General of Police, Western Province. Currently Inspector General of Police, Sri Lanka Police Headquarters, Colombo 01. 6. Mr. C.D. Wickramarathne, (former) Inspector General of Police, Sri Lanka Police Headquarters, Colombo 01. 7. Hon. Attorney General, Attorney General\\'s Department, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Sampath B. Abayakoon J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_misc_1_2016.pdf",
+    "parties": "1. W. Sudarman Gunarathna No. 490/1, Huladduwa, Gatahatta. 2. K.A. Ranaweera Near the Police Station of Avissawella, Avissawella. Appellants V. 1. National Gem and Jewellery Authority, No. 25, Galleface Terrace, Colombo 3. 2. S.M. Piyathissa, Secretary, State Ministry of Gem and Jewellery, Related Industries, No. 561/3, Elvitigala Mawatha, Colombo 05. 4. R. A. Dharmarathna Uduwaka, Galahatta 5. R.A. Kumarasiri, \u201cNimali\u201d, Thorangoda, Ehaliyagoda.\n\nView More",
+    "judgement_by": "Hon. K. Priyantha Fernando J"
   }
 }
