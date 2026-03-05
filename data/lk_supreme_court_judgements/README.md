@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--05_06:47:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--05_18:39:58-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,565** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-04**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,566** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-05**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-04-SC-MICS-1-2016",
-    "num": "SC/MICS/1/2016",
-    "date_str": "2026-03-04",
-    "description": "Hon. K. Priyantha Fernando J - 1. W. Sudarman Gunarathna No....",
+    "doc_id": "2026-03-05-SC-FR-181-2021",
+    "num": "SC/FR/181/2021",
+    "date_str": "2026-03-05",
+    "description": "Hon. Sampath B. Abayakoon J - 1. Gamage Don Yasasvin Hemant...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_misc_1_2016.pdf",
-    "parties": "1. W. Sudarman Gunarathna No. 490/1, Huladduwa, Gatahatta. 2. K.A. Ranaweera Near the Police Station of Avissawella, Avissawella. Appellants V. 1. National Gem and Jewellery Authority, No. 25, Galleface Terrace, Colombo 3. 2. S.M. Piyathissa, Secretary, State Ministry of Gem and Jewellery, Related Industries, No. 561/3, Elvitigala Mawatha, Colombo 05. 4. R. A. Dharmarathna Uduwaka, Galahatta 5. R.A. Kumarasiri, \u201cNimali\u201d, Thorangoda, Ehaliyagoda.\n\nView More",
-    "judgement_by": "Hon. K. Priyantha Fernando J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_181_2021.pdf",
+    "parties": "1. Gamage Don Yasasvin Hemantha Kumara Sudasinghe, No. 430/2B, Sunethradevi Road, Kohuwala, Nugegoda. 2. Iresha Menike Jayathilake Banda, No. 54, Samudrasanna Road, Mount Lavinia. 3. Jayalath Arrachchige Dona Hasanthi Jayalath, Udaya, Halpita, Polgasowita. 4. Rathnayake Mudiyanselage Susantha Rathnayake, No. 311/07, Hettiyadeniya Road, Gampaha. 5. Mannapperuma Mudiyanselage Premasiri Anura Bandara, No. 45/1, 1st Lane, Pengirigaswatta Road, Gangodawila, Nugegoda. PETITIONERS Vs. 1. S. H. Munasinghe, Secretary, Ministry of Health, Suwasiripaya, No. 385, Rev. Baddegana Wimalawansa Thero Mawatha, Colombo 10. 1A. Janaka Sugathadasa, Secretary, Ministry of Health, Suwasiripaya, No. 385, Rev. Baddegana Wimalawansa Thero Mawatha, Colombo 10. 1AA. Dr. P. G. Mahipala, Secretary, Ministry of Health, Suwasiripaya, No. 385, Rev. Baddegana Wimalawansa Thero Mawatha, Colombo 10. 2. Ayanthi Karunaratne, Acting Director/Tertiary Care, Ministry of Health, Suwasiripaya, No. 385, Rev. Baddegana Wimalawansa Thero Mawatha, Colombo 10. 3. Anver Hamdani, Previous Acting Director/Tertiary Care, Ministry of Health, Suwasiripaya, No. 385, Rev. Baddegana Wimalawansa Thero Mawatha, Colombo 10. AND OTHERS\n\nView More",
+    "judgement_by": "Hon. Sampath B. Abayakoon J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-05 | `SC/FR/181/2021` | Hon. Sampath B. Abayakoon J - 1. Gamage Don Yasasvin Hemant... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-05-SC-FR-181-2021)
 - 2026-03-04 | `SC/MICS/1/2016` | Hon. K. Priyantha Fernando J - 1. W. Sudarman Gunarathna No.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-MICS-1-2016)
 - 2026-03-04 | `SC/APPEAL/41/2024` | Hon. A. L. Shiran Gooneratne, J - 1. Medawalal Lekamalage Sujat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-41-2024)
 - 2026-03-04 | `SC/APPEAL/38/2025` | Hon. M. Sampath K. B. Wijeratne J - Binal Investment (Pvt) Ltd. N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-38-2025)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-25 | `SC/FR/237/2012` | Hon. Achala Wengappuli, J - 1. Graduate Employees’ Union,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-FR-237-2012)
 - 2026-02-25 | `SC/FR/23/2014` | Hon. Yasantha Kodagoda, PC J - 1. D.D. Matharaarachchi No. 1... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-FR-23-2014)
 - 2026-02-25 | `SC/APPEAL/54/2020` | Hon. Achala Wengappuli, J - Santhiyagu Chandana De Silva,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-APPEAL-54-2020)
-- 2026-02-25 | `SC/APPEAL/54/2018` | Hon. Achala Wengappuli, J - 1a. Gamage Siriyawathie 1b. M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-25-SC-APPEAL-54-2018)
 
 ---
 
