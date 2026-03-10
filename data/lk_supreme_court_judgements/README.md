@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--10_06:43:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--10_18:46:21-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,574** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-06**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,575** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-06-SC-FR-396-2019",
-    "num": "SC/FR/396/2019",
-    "date_str": "2026-03-06",
-    "description": "Hon. Menaka Wijesundera J - Balasuriyage Wickramaratne No...",
+    "doc_id": "2026-03-10-SC-APPEAL-5-2024-AND-SC-b399de4c",
+    "num": "SC/APPEAL/5/2024 AND SC/APPEAL/6/2024",
+    "date_str": "2026-03-10",
+    "description": "Hon. S. Thurairaja PC J - Kaveen Saparamdu 71/2 , Horto...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_396_2019.pdf",
-    "parties": "Balasuriyage Wickramaratne No.486/2, Polgaslanda road, Mandawala. Petitioner Vs. 1. Mr. P.H. Manathunga Chairman National Police Commission Block No. 9, BMICH Premises, Bauddhaloka Mawatha, Colombo 07. 2. Mr. K. Karunaharan 3. Mr. Dilshan Kapila Jayasooriya 4. Mr. A.A.M. Illias 5. Mr. Jayantha Jayasinghe All members of the National Police Commission, Block No. 9, BMICH Premises, Bauddhaloka Mawatha, Colombo 07. 6. Ms. Tamara D Perera Secretary National Police Commission, Block No. 9, BMICH Premises, Bauddhaloka Mawatha, Colombo 07. 7. Inspector General of Police, Police Headquarters, Colombo 01. 8. Mr. Sanath J. Ediriweera, Chairman, Public Service Commission, No. 1200/9, Rajamalwatta Road, Battaramulla. 9. Mr. N. H. M. Chithrananda 10. Mr. G. S. A. De Silva PC 11. Dr. A. D. N. De Zoysa 12. Mrs. S. M. Mohomed 13. Mrs. Ranjani Nadarajapillai 14. Mr. M. B. R. Pushpakumara 15. Prof. N. Selvakkumaran All members of the Public Service Commission No. 1200/9, Rajamalwatta Road, Battaramulla. 16. Ms. W. H. M. M. C. K. Dayarathne, Secretary Public Service Commission, No. 1200/9, Rajamalwatta Road, Battaramulla. 17. The Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. Menaka Wijesundera J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_5_and_6_2024.pdf",
+    "parties": "Kaveen Saparamdu 71/2 , Horton Colombo 7 7 th RESPONDENT APPELLANT - Vs 1. Saparamdu Wickramasingha Arachchige Anura Devapriya 129 , Dutugemunu Kohuwala, Dehiwala. 2. Saparamdu Wickramasingha Arachchige Kassapa Devamitta 250/7 , Highlevel Kirulapona, Colombo 6 3. Saparamdu Wickramasingha Arachchige Upulnayani Rajapathirana (nee Saparamadu) 9 , Papiliyana Papiliyana, Nugegoda. PETITIONER RESPONDENTS 1. Tisara Investments (Pvt) Ltd 129 , Dutugemunu Kohuwala, Dehiwala. 2. 2. Saparamdu Wickramasingha Arachchige Don Sanathkumara Devapriya (now deceased) 11 , Papiliyana Papiliyana, Nugegoda. 3. Saparamdu Rupa Malathi (now 11, Papiliyana Mawath a, Papiliyana, Nugegoda. 4. Saparamdu Wickramasingha Arachchige Mohan Sanathkumara 71/2 , Horton Colombo 7. (The 4 th Respondents and the Guardian ad litem of the 6 th Respondent Minor) 5. Desano Investments (Pvt) Ltd 129 , Dutugemunu Kohuwala, Dehiwala. 6. Saveen Saparamdu 71/2 , Horton Colombo 7. 8. Senura Rajapathirana Papiliyana Mawatha, Papiliyana, Nugegoda. 9. Vijeni Rajapathirana Papiliyana Mawatha, Papiliyana, Nugegoda. 10 a. Saparamdu Wickramasingha Arachchige Don Sanathkumara Devapriya 11, Papiliyana Mawatha, Papiliyana, Nugegoda. b. Saparamdu Rupa Malathi 11 , Papiliyana Papiliyana, Nugegoda. c. Saparamdu Wickramasingha Arachchige Mohan Sanathkumara 71/2 , Horton Colombo 7. d. Kshenuka Saparamdu 71/2 , Horton Colombo 7. e. Lalitha Boteju 12/2 , Puranavihara Balapokuna, Colombo 6. f. Nihal Illeperuma 56/12 , Circular Udumulla Road, Battaramulla. g. Marja Van Leeuwan Stitching Weeshuis, Meer En Bosalaan 106 , 2554 GA Den Haag, the Netherlands. h. S.J Pahud de Mortanges Kroes Stitching Weeshuis, Meer En Bosalaan 106 , 2554 GA Den Haag, The Netherlands. The trustees of Somawathi Saparamadu Trust 11 . Dr. Uditha Rajapathirana 9 , Papiliyana Papiliyana, Nugegoda. (Guardian ad litem of the 8 th and 9 th Respondents Minors) RESPONDENT RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. S. Thurairaja PC J"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-10 | `SC/APPEAL/5/2024 AND SC/APPEAL/6/2024` | Hon. S. Thurairaja PC J - Kaveen Saparamdu 71/2 , Horto... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-10-SC-APPEAL-5-2024-AND-SC-b399de4c)
 - 2026-03-06 | `SC/FR/396/2019` | Hon. Menaka Wijesundera J - Balasuriyage Wickramaratne No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-FR-396-2019)
 - 2026-03-06 | `SC/FR/127/2012` | Hon. Kumuduni Wickremasinghe J - L.W. Sameera Sampath, Katukur... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-FR-127-2012)
 - 2026-03-06 | `SC/APPEAL/82/2021` | Hon. Arjuna Obeyesekere J - Villa Ranmanika (Pvt) Limited... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-APPEAL-82-2021)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-02-27 | `SC/FR/309/2014` | Hon. Kumuduni Wickremasinghe J - 1. D.M. Yahampath No.6A, Sadu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-309-2014)
 - 2026-02-27 | `SC/FR/210/2016` | Hon. Menaka Wijesundera J - Dinesh Rajeewa Hettiarachchi,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-210-2016)
 - 2026-02-27 | `SC/FR/16/2024` | Hon. Menaka Wijesundera J - Sooriyagoda Rathambegoda Piti... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-16-2024)
-- 2026-02-27 | `SC/APPEAL/204/2014` | Hon. Achala Wengappuli J - Herath Mudiyanselage Piyasena... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-APPEAL-204-2014)
 
 ---
 
