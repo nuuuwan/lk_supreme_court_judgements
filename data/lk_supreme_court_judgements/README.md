@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--11_06:44:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--11_18:42:41-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,575** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-10**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,580** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-11**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-10-SC-APPEAL-5-2024-AND-SC-b399de4c",
-    "num": "SC/APPEAL/5/2024 AND SC/APPEAL/6/2024",
-    "date_str": "2026-03-10",
-    "description": "Hon. S. Thurairaja PC J - Kaveen Saparamdu 71/2 , Horto...",
+    "doc_id": "2026-03-11-SC-FR-56-2023",
+    "num": "SC/FR/56/2023",
+    "date_str": "2026-03-11",
+    "description": "Hon. Menaka Wijesundera J - Dinesh Priyadarshana Dodangod...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_5_and_6_2024.pdf",
-    "parties": "Kaveen Saparamdu 71/2 , Horton Colombo 7 7 th RESPONDENT APPELLANT - Vs 1. Saparamdu Wickramasingha Arachchige Anura Devapriya 129 , Dutugemunu Kohuwala, Dehiwala. 2. Saparamdu Wickramasingha Arachchige Kassapa Devamitta 250/7 , Highlevel Kirulapona, Colombo 6 3. Saparamdu Wickramasingha Arachchige Upulnayani Rajapathirana (nee Saparamadu) 9 , Papiliyana Papiliyana, Nugegoda. PETITIONER RESPONDENTS 1. Tisara Investments (Pvt) Ltd 129 , Dutugemunu Kohuwala, Dehiwala. 2. 2. Saparamdu Wickramasingha Arachchige Don Sanathkumara Devapriya (now deceased) 11 , Papiliyana Papiliyana, Nugegoda. 3. Saparamdu Rupa Malathi (now 11, Papiliyana Mawath a, Papiliyana, Nugegoda. 4. Saparamdu Wickramasingha Arachchige Mohan Sanathkumara 71/2 , Horton Colombo 7. (The 4 th Respondents and the Guardian ad litem of the 6 th Respondent Minor) 5. Desano Investments (Pvt) Ltd 129 , Dutugemunu Kohuwala, Dehiwala. 6. Saveen Saparamdu 71/2 , Horton Colombo 7. 8. Senura Rajapathirana Papiliyana Mawatha, Papiliyana, Nugegoda. 9. Vijeni Rajapathirana Papiliyana Mawatha, Papiliyana, Nugegoda. 10 a. Saparamdu Wickramasingha Arachchige Don Sanathkumara Devapriya 11, Papiliyana Mawatha, Papiliyana, Nugegoda. b. Saparamdu Rupa Malathi 11 , Papiliyana Papiliyana, Nugegoda. c. Saparamdu Wickramasingha Arachchige Mohan Sanathkumara 71/2 , Horton Colombo 7. d. Kshenuka Saparamdu 71/2 , Horton Colombo 7. e. Lalitha Boteju 12/2 , Puranavihara Balapokuna, Colombo 6. f. Nihal Illeperuma 56/12 , Circular Udumulla Road, Battaramulla. g. Marja Van Leeuwan Stitching Weeshuis, Meer En Bosalaan 106 , 2554 GA Den Haag, the Netherlands. h. S.J Pahud de Mortanges Kroes Stitching Weeshuis, Meer En Bosalaan 106 , 2554 GA Den Haag, The Netherlands. The trustees of Somawathi Saparamadu Trust 11 . Dr. Uditha Rajapathirana 9 , Papiliyana Papiliyana, Nugegoda. (Guardian ad litem of the 8 th and 9 th Respondents Minors) RESPONDENT RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. S. Thurairaja PC J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_56_2023.pdf",
+    "parties": "Dinesh Priyadarshana Dodangoda \u201cDanushka\u201d, Thanahenawatta, Midigama, Ahangama. Petitioner Vs. 1. Saman Jayasinghe Excise Commissioner General Excise Department No. 353, Kotte Road, Rajagiriya. 2. R. A. N. J. Ranaweera, Excise Inspector Excise and Narcotic Unit Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 3. G. D. Pushpakumara, Excise Corporal No. 725, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 4. W. M. D. Indika, Excise Corporal No. 826, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 5. M. D. Gamage, Excise Corporal No. 971, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 6. A. P. Iresh Kavinda, Excise Guard No.1118, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 7. J. A. G. M. Madushanka, Excise Guard No. 1082, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 8. D. M. I. Disanayake Excise Guard No. 1079, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 9. P.T.C. Ekanayake Excise Guard No. 1029, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 10. Dananjaya Officer, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 11. Sugath Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 12. J. I. S. Perera alias Rajagiriye Sujee Higgahawatta Road, Gothatuwa. 13. C. D. Wickramarathne, Inspector General of Police, Police Head Quarters, Colombo 01. 14.Hon. Tiran Alles Minister of Public Security, Ministry of Public Security, 14th floor, Suhurupaya Battaramulla. 15.Honourable Attorney General, Department of the Attorney General, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
 }
 ```
 
@@ -42,6 +42,9 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-11 | `SC/FR/56/2023` | Hon. Menaka Wijesundera J - Dinesh Priyadarshana Dodangod... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-11-SC-FR-56-2023)
+- 2026-03-11 | `SC/FR/372/2020` | Hon. Menaka Wijesundera J - Nanayakkara Godakande Achala ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-11-SC-FR-372-2020)
+- 2026-03-11 | `SC/APPEAL/122/2024` | Hon. Menaka Wijesundera J - Mudugamuwa Hewage Mendis Appu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-11-SC-APPEAL-122-2024)
 - 2026-03-10 | `SC/APPEAL/5/2024 AND SC/APPEAL/6/2024` | Hon. S. Thurairaja PC J - Kaveen Saparamdu 71/2 , Horto... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-10-SC-APPEAL-5-2024-AND-SC-b399de4c)
 - 2026-03-06 | `SC/FR/396/2019` | Hon. Menaka Wijesundera J - Balasuriyage Wickramaratne No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-FR-396-2019)
 - 2026-03-06 | `SC/FR/127/2012` | Hon. Kumuduni Wickremasinghe J - L.W. Sameera Sampath, Katukur... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-FR-127-2012)
@@ -59,9 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-03-03 | `SC/FR/168/2024` | Hon. Sampath B. Abayakoon J - Rathnayake Mudiyanselage Thar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-03-SC-FR-168-2024)
 - 2026-03-03 | `SC/APPEAL/1/2016` | Hon. M. Sampath K. B. Wijeratne J - Saranasin Patabandigei Jayati... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-03-SC-APPEAL-1-2016)
 - 2026-02-27 | `SC/FR/391/2013` | Hon. Kumuduni Wickremasinghe J - 3. Manoja Pathirana, Former C... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-391-2013)
-- 2026-02-27 | `SC/FR/309/2014` | Hon. Kumuduni Wickremasinghe J - 1. D.M. Yahampath No.6A, Sadu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-309-2014)
-- 2026-02-27 | `SC/FR/210/2016` | Hon. Menaka Wijesundera J - Dinesh Rajeewa Hettiarachchi,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-210-2016)
-- 2026-02-27 | `SC/FR/16/2024` | Hon. Menaka Wijesundera J - Sooriyagoda Rathambegoda Piti... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-16-2024)
 
 ---
 

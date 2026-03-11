@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-03-11 06:44:05",
-  "n_docs": 2575,
-  "n_docs_with_pdfs": 1755,
-  "n_docs_with_text": 1755,
+  "time_updated": "2026-03-11 18:42:39",
+  "n_docs": 2580,
+  "n_docs_with_pdfs": 1760,
+  "n_docs_with_text": 1760,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-03-10",
-  "dataset_size": 1573702093,
+  "date_str_max": "2026-03-11",
+  "dataset_size": 1576162259,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-10-SC-APPEAL-5-2024-AND-SC-b399de4c",
-    "num": "SC/APPEAL/5/2024 AND SC/APPEAL/6/2024",
-    "date_str": "2026-03-10",
-    "description": "Hon. S. Thurairaja PC J - Kaveen Saparamdu 71/2 , Horto...",
+    "doc_id": "2026-03-11-SC-FR-56-2023",
+    "num": "SC/FR/56/2023",
+    "date_str": "2026-03-11",
+    "description": "Hon. Menaka Wijesundera J - Dinesh Priyadarshana Dodangod...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_5_and_6_2024.pdf",
-    "parties": "Kaveen Saparamdu 71/2 , Horton Colombo 7 7 th RESPONDENT APPELLANT - Vs 1. Saparamdu Wickramasingha Arachchige Anura Devapriya 129 , Dutugemunu Kohuwala, Dehiwala. 2. Saparamdu Wickramasingha Arachchige Kassapa Devamitta 250/7 , Highlevel Kirulapona, Colombo 6 3. Saparamdu Wickramasingha Arachchige Upulnayani Rajapathirana (nee Saparamadu) 9 , Papiliyana Papiliyana, Nugegoda. PETITIONER RESPONDENTS 1. Tisara Investments (Pvt) Ltd 129 , Dutugemunu Kohuwala, Dehiwala. 2. 2. Saparamdu Wickramasingha Arachchige Don Sanathkumara Devapriya (now deceased) 11 , Papiliyana Papiliyana, Nugegoda. 3. Saparamdu Rupa Malathi (now 11, Papiliyana Mawath a, Papiliyana, Nugegoda. 4. Saparamdu Wickramasingha Arachchige Mohan Sanathkumara 71/2 , Horton Colombo 7. (The 4 th Respondents and the Guardian ad litem of the 6 th Respondent Minor) 5. Desano Investments (Pvt) Ltd 129 , Dutugemunu Kohuwala, Dehiwala. 6. Saveen Saparamdu 71/2 , Horton Colombo 7. 8. Senura Rajapathirana Papiliyana Mawatha, Papiliyana, Nugegoda. 9. Vijeni Rajapathirana Papiliyana Mawatha, Papiliyana, Nugegoda. 10 a. Saparamdu Wickramasingha Arachchige Don Sanathkumara Devapriya 11, Papiliyana Mawatha, Papiliyana, Nugegoda. b. Saparamdu Rupa Malathi 11 , Papiliyana Papiliyana, Nugegoda. c. Saparamdu Wickramasingha Arachchige Mohan Sanathkumara 71/2 , Horton Colombo 7. d. Kshenuka Saparamdu 71/2 , Horton Colombo 7. e. Lalitha Boteju 12/2 , Puranavihara Balapokuna, Colombo 6. f. Nihal Illeperuma 56/12 , Circular Udumulla Road, Battaramulla. g. Marja Van Leeuwan Stitching Weeshuis, Meer En Bosalaan 106 , 2554 GA Den Haag, the Netherlands. h. S.J Pahud de Mortanges Kroes Stitching Weeshuis, Meer En Bosalaan 106 , 2554 GA Den Haag, The Netherlands. The trustees of Somawathi Saparamadu Trust 11 . Dr. Uditha Rajapathirana 9 , Papiliyana Papiliyana, Nugegoda. (Guardian ad litem of the 8 th and 9 th Respondents Minors) RESPONDENT RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. S. Thurairaja PC J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_56_2023.pdf",
+    "parties": "Dinesh Priyadarshana Dodangoda \u201cDanushka\u201d, Thanahenawatta, Midigama, Ahangama. Petitioner Vs. 1. Saman Jayasinghe Excise Commissioner General Excise Department No. 353, Kotte Road, Rajagiriya. 2. R. A. N. J. Ranaweera, Excise Inspector Excise and Narcotic Unit Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 3. G. D. Pushpakumara, Excise Corporal No. 725, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 4. W. M. D. Indika, Excise Corporal No. 826, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 5. M. D. Gamage, Excise Corporal No. 971, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 6. A. P. Iresh Kavinda, Excise Guard No.1118, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 7. J. A. G. M. Madushanka, Excise Guard No. 1082, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 8. D. M. I. Disanayake Excise Guard No. 1079, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 9. P.T.C. Ekanayake Excise Guard No. 1029, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 10. Dananjaya Officer, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 11. Sugath Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 12. J. I. S. Perera alias Rajagiriye Sujee Higgahawatta Road, Gothatuwa. 13. C. D. Wickramarathne, Inspector General of Police, Police Head Quarters, Colombo 01. 14.Hon. Tiran Alles Minister of Public Security, Ministry of Public Security, 14th floor, Suhurupaya Battaramulla. 15.Honourable Attorney General, Department of the Attorney General, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
   }
 }
