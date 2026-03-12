@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_06:40:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_18:39:19-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,580** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-11**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,583** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-12**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-11-SC-FR-56-2023",
-    "num": "SC/FR/56/2023",
-    "date_str": "2026-03-11",
-    "description": "Hon. Menaka Wijesundera J - Dinesh Priyadarshana Dodangod...",
+    "doc_id": "2026-03-12-SC-APPEAL-165-2019",
+    "num": "SC/APPEAL/165/2019",
+    "date_str": "2026-03-12",
+    "description": "Hon. Justice Dr. Sobhitha Rajakaruna - Herath Mudiyanselage Kapuru M...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_56_2023.pdf",
-    "parties": "Dinesh Priyadarshana Dodangoda \u201cDanushka\u201d, Thanahenawatta, Midigama, Ahangama. Petitioner Vs. 1. Saman Jayasinghe Excise Commissioner General Excise Department No. 353, Kotte Road, Rajagiriya. 2. R. A. N. J. Ranaweera, Excise Inspector Excise and Narcotic Unit Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 3. G. D. Pushpakumara, Excise Corporal No. 725, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 4. W. M. D. Indika, Excise Corporal No. 826, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 5. M. D. Gamage, Excise Corporal No. 971, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 6. A. P. Iresh Kavinda, Excise Guard No.1118, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 7. J. A. G. M. Madushanka, Excise Guard No. 1082, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 8. D. M. I. Disanayake Excise Guard No. 1079, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 9. P.T.C. Ekanayake Excise Guard No. 1029, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 10. Dananjaya Officer, Excise and Narcotic Unit, Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 11. Sugath Excise Department No. 838/2/1, Thalagaha Junction, Gothatuwa, Angoda. 12. J. I. S. Perera alias Rajagiriye Sujee Higgahawatta Road, Gothatuwa. 13. C. D. Wickramarathne, Inspector General of Police, Police Head Quarters, Colombo 01. 14.Hon. Tiran Alles Minister of Public Security, Ministry of Public Security, 14th floor, Suhurupaya Battaramulla. 15.Honourable Attorney General, Department of the Attorney General, Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. Menaka Wijesundera J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_165_2019.pdf",
+    "parties": "Herath Mudiyanselage Kapuru Menika \u201cSirisevana\u201d, Wewa Pahala, Meewellewa, Nikaweratiya. PETITIONER-APPELLANT Vs. 1. The Land Commissioner-General Land Commissioner General\\'s Department, No. 7, Gregory\\'s Avenue, Colombo 7. 2. The Divisional Secretary of Kotawehera Divisional Secretariat, Kotawehera. 3. Provincial Land Commissioner (NorthWestern Province), Provincial Land Commissioner\\'s Office (N.W.P.), Kurunegala. 4. Ven. Mahamithawa Ayupala Viharadhipathi, Sri Shailatharamaya, Meewellewa. RESPONDENTS-RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Justice Dr. Sobhitha Rajakaruna"
 }
 ```
 
@@ -42,8 +42,11 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-12 | `SC/APPEAL/165/2019` | Hon. Justice Dr. Sobhitha Rajakaruna - Herath Mudiyanselage Kapuru M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-APPEAL-165-2019)
+- 2026-03-12 | `SC/APPEAL/152/2025` | Hon.Justice Sampath K. B. Wijeratne - K.G. Abeyrathna Galpoththegod... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-APPEAL-152-2025)
 - 2026-03-11 | `SC/FR/56/2023` | Hon. Menaka Wijesundera J - Dinesh Priyadarshana Dodangod... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-11-SC-FR-56-2023)
 - 2026-03-11 | `SC/FR/372/2020` | Hon. Menaka Wijesundera J - Nanayakkara Godakande Achala ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-11-SC-FR-372-2020)
+- 2026-03-11 | `SC/FR/158/2012` | Hon. Justice Arjuna Obeyesekere - 1. Kuruppu Mullage Priyantha,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-11-SC-FR-158-2012)
 - 2026-03-11 | `SC/APPEAL/122/2024` | Hon. Menaka Wijesundera J - Mudugamuwa Hewage Mendis Appu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-11-SC-APPEAL-122-2024)
 - 2026-03-10 | `SC/APPEAL/5/2024 AND SC/APPEAL/6/2024` | Hon. S. Thurairaja PC J - Kaveen Saparamdu 71/2 , Horto... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-10-SC-APPEAL-5-2024-AND-SC-b399de4c)
 - 2026-03-06 | `SC/FR/396/2019` | Hon. Menaka Wijesundera J - Balasuriyage Wickramaratne No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-FR-396-2019)
@@ -59,9 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-03-04 | `SC/APPEAL/41/2024` | Hon. A. L. Shiran Gooneratne, J - 1. Medawalal Lekamalage Sujat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-41-2024)
 - 2026-03-04 | `SC/APPEAL/38/2025` | Hon. M. Sampath K. B. Wijeratne J - Binal Investment (Pvt) Ltd. N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-38-2025)
 - 2026-03-04 | `SC/APPEAL/109/2022` | Hon. S. Thurairaja PC J - Pan Asia Banking Corporation ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-109-2022)
-- 2026-03-03 | `SC/FR/168/2024` | Hon. Sampath B. Abayakoon J - Rathnayake Mudiyanselage Thar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-03-SC-FR-168-2024)
-- 2026-03-03 | `SC/APPEAL/1/2016` | Hon. M. Sampath K. B. Wijeratne J - Saranasin Patabandigei Jayati... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-03-SC-APPEAL-1-2016)
-- 2026-02-27 | `SC/FR/391/2013` | Hon. Kumuduni Wickremasinghe J - 3. Manoja Pathirana, Former C... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-02-27-SC-FR-391-2013)
 
 ---
 
