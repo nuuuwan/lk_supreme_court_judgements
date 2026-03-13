@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_06:46:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_18:39:19-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,583** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-12**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,590** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-13**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (68%), **TXT** (68%) & **🤗 Hugging Face** (68%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-12-SC-APPEAL-165-2019",
-    "num": "SC/APPEAL/165/2019",
-    "date_str": "2026-03-12",
-    "description": "Hon. Justice Dr. Sobhitha Rajakaruna - Herath Mudiyanselage Kapuru M...",
+    "doc_id": "2026-03-13-SC-FR-410-2019",
+    "num": "SC/FR/410/2019",
+    "date_str": "2026-03-13",
+    "description": "Hon. S. Thurairaja PC J - Budgama Mudalige Thamila Dinu...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_165_2019.pdf",
-    "parties": "Herath Mudiyanselage Kapuru Menika \u201cSirisevana\u201d, Wewa Pahala, Meewellewa, Nikaweratiya. PETITIONER-APPELLANT Vs. 1. The Land Commissioner-General Land Commissioner General\\'s Department, No. 7, Gregory\\'s Avenue, Colombo 7. 2. The Divisional Secretary of Kotawehera Divisional Secretariat, Kotawehera. 3. Provincial Land Commissioner (NorthWestern Province), Provincial Land Commissioner\\'s Office (N.W.P.), Kurunegala. 4. Ven. Mahamithawa Ayupala Viharadhipathi, Sri Shailatharamaya, Meewellewa. RESPONDENTS-RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Justice Dr. Sobhitha Rajakaruna"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_410_2019.pdf",
+    "parties": "Budgama Mudalige Thamila Dinushi Perera Attorney-at-Law 391/1/2, Dam Street, Colombo 12. PETITIONER For and on behalf of Devabandanage Ruwan Kumara of 216, Kakiriobada, Thalawilla, Suriyawewa, who is presently held at an undisclosed location. (abductee) -Vs- 1. Chandana Wickramaratne Acting Inspector General of Police Police Head Quarters, Colombo 1. 1A. Priyantha Weerasooriya Acting Inspector General of Police Police Head Quarters, Colombo 01. 2. Senior DIG Organized Crimes Unit Colombo 1. 3. Head Quarters Inspector Mirihana Police Station Mirihana. 4. Officer In Charge, Mirihana Law Enforcement Unit, Mirihana Police Station Mirihana. 5. Officer In Charge, Wellawa Police Station, Wellawa. 6. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. S. Thurairaja PC J"
 }
 ```
 
@@ -42,6 +42,12 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-13 | `SC/FR/410/2019` | Hon. S. Thurairaja PC J - Budgama Mudalige Thamila Dinu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-13-SC-FR-410-2019)
+- 2026-03-13 | `SC/APPEAL/39/2023, SC/APPEAL/40/2023, SC/APPEAL/41/2023, SC/APPEAL/42/2023, SC/APPEAL/43/2023, SC/APPEAL/44/2023, SC/APPEAL/45/2023, SC/APPEAL/46/2023` | Hon. S. Thurairaja PC J - Lanka Marine Services (Privat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-13-SC-APPEAL-39-2023--SC-A-077a4a57)
+- 2026-03-12 | `SC/FR/428/2016` | Hon. Achala Wengappuli J - Benthota Payagala Arachchilag... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-FR-428-2016)
+- 2026-03-12 | `SC/FR/250/2020` | Hon. Achala Wengappuli J - 1. Jayakodi Arachchilage Amar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-FR-250-2020)
+- 2026-03-12 | `SC/APPEAL/205/2014` | Hon. Achala Wengappuli J - (deceased) Abdul Latif Ahamed... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-APPEAL-205-2014)
+- 2026-03-12 | `SC/APPEAL/177/2023` | Hon. Achala Wengappuli J - Henarath Mohottige Janaka Cha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-APPEAL-177-2023)
 - 2026-03-12 | `SC/APPEAL/165/2019` | Hon. Justice Dr. Sobhitha Rajakaruna - Herath Mudiyanselage Kapuru M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-APPEAL-165-2019)
 - 2026-03-12 | `SC/APPEAL/152/2025` | Hon.Justice Sampath K. B. Wijeratne - K.G. Abeyrathna Galpoththegod... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-APPEAL-152-2025)
 - 2026-03-11 | `SC/FR/56/2023` | Hon. Menaka Wijesundera J - Dinesh Priyadarshana Dodangod... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-11-SC-FR-56-2023)
@@ -56,12 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-03-06 | `SC/APPEAL/58/2019` | Hon. M. Sampath K. B. Wijeratne J - Hewage Lionel Gunarathne, Sir... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-APPEAL-58-2019)
 - 2026-03-06 | `SC/APPEAL/15/2014` | Hon. Kumuduni Wickremasinghe J - Ceylon Petroleum Corporation,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-APPEAL-15-2014)
 - 2026-03-06 | `SC/APPEAL/136/2015` | Hon. Arjuna Obeyesekere J - L. J. Abeywickrema, 388/4, Ar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-06-SC-APPEAL-136-2015)
-- 2026-03-05 | `SC/FR/82/2017` | Hon. M. Sampath K. B. Wijeratne J - S. Samarakoon, No. A8/2/1, Ma... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-05-SC-FR-82-2017)
-- 2026-03-05 | `SC/FR/181/2021` | Hon. Sampath B. Abayakoon J - 1. Gamage Don Yasasvin Hemant... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-05-SC-FR-181-2021)
-- 2026-03-04 | `SC/MICS/1/2016` | Hon. K. Priyantha Fernando J - 1. W. Sudarman Gunarathna No.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-MICS-1-2016)
-- 2026-03-04 | `SC/APPEAL/41/2024` | Hon. A. L. Shiran Gooneratne, J - 1. Medawalal Lekamalage Sujat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-41-2024)
-- 2026-03-04 | `SC/APPEAL/38/2025` | Hon. M. Sampath K. B. Wijeratne J - Binal Investment (Pvt) Ltd. N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-38-2025)
-- 2026-03-04 | `SC/APPEAL/109/2022` | Hon. S. Thurairaja PC J - Pan Asia Banking Corporation ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-04-SC-APPEAL-109-2022)
 
 ---
 

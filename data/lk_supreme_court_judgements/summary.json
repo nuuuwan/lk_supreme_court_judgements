@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-03-13 06:46:17",
-  "n_docs": 2583,
-  "n_docs_with_pdfs": 1763,
-  "n_docs_with_text": 1763,
+  "time_updated": "2026-03-13 18:39:18",
+  "n_docs": 2590,
+  "n_docs_with_pdfs": 1770,
+  "n_docs_with_text": 1770,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-03-12",
-  "dataset_size": 1581703027,
+  "date_str_max": "2026-03-13",
+  "dataset_size": 1584978385,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-12-SC-APPEAL-165-2019",
-    "num": "SC/APPEAL/165/2019",
-    "date_str": "2026-03-12",
-    "description": "Hon. Justice Dr. Sobhitha Rajakaruna - Herath Mudiyanselage Kapuru M...",
+    "doc_id": "2026-03-13-SC-FR-410-2019",
+    "num": "SC/FR/410/2019",
+    "date_str": "2026-03-13",
+    "description": "Hon. S. Thurairaja PC J - Budgama Mudalige Thamila Dinu...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_165_2019.pdf",
-    "parties": "Herath Mudiyanselage Kapuru Menika \u201cSirisevana\u201d, Wewa Pahala, Meewellewa, Nikaweratiya. PETITIONER-APPELLANT Vs. 1. The Land Commissioner-General Land Commissioner General\\'s Department, No. 7, Gregory\\'s Avenue, Colombo 7. 2. The Divisional Secretary of Kotawehera Divisional Secretariat, Kotawehera. 3. Provincial Land Commissioner (NorthWestern Province), Provincial Land Commissioner\\'s Office (N.W.P.), Kurunegala. 4. Ven. Mahamithawa Ayupala Viharadhipathi, Sri Shailatharamaya, Meewellewa. RESPONDENTS-RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. Justice Dr. Sobhitha Rajakaruna"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_410_2019.pdf",
+    "parties": "Budgama Mudalige Thamila Dinushi Perera Attorney-at-Law 391/1/2, Dam Street, Colombo 12. PETITIONER For and on behalf of Devabandanage Ruwan Kumara of 216, Kakiriobada, Thalawilla, Suriyawewa, who is presently held at an undisclosed location. (abductee) -Vs- 1. Chandana Wickramaratne Acting Inspector General of Police Police Head Quarters, Colombo 1. 1A. Priyantha Weerasooriya Acting Inspector General of Police Police Head Quarters, Colombo 01. 2. Senior DIG Organized Crimes Unit Colombo 1. 3. Head Quarters Inspector Mirihana Police Station Mirihana. 4. Officer In Charge, Mirihana Law Enforcement Unit, Mirihana Police Station Mirihana. 5. Officer In Charge, Wellawa Police Station, Wellawa. 6. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. S. Thurairaja PC J"
   }
 }
