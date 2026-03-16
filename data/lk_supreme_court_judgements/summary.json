@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-03-16 06:54:34",
-  "n_docs": 2590,
-  "n_docs_with_pdfs": 1770,
-  "n_docs_with_text": 1770,
+  "time_updated": "2026-03-16 18:40:35",
+  "n_docs": 2594,
+  "n_docs_with_pdfs": 1774,
+  "n_docs_with_text": 1774,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-03-13",
-  "dataset_size": 1586987147,
+  "date_str_max": "2026-03-16",
+  "dataset_size": 1588142601,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-13-SC-FR-410-2019",
-    "num": "SC/FR/410/2019",
-    "date_str": "2026-03-13",
-    "description": "Hon. S. Thurairaja PC J - Budgama Mudalige Thamila Dinu...",
+    "doc_id": "2026-03-16-SC-RULE-2-2024",
+    "num": "SC/RULE/2/2024",
+    "date_str": "2026-03-16",
+    "description": "Hon. Yasantha Kodagoda PC J - Hon. M.M.S. Bandara District ...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_410_2019.pdf",
-    "parties": "Budgama Mudalige Thamila Dinushi Perera Attorney-at-Law 391/1/2, Dam Street, Colombo 12. PETITIONER For and on behalf of Devabandanage Ruwan Kumara of 216, Kakiriobada, Thalawilla, Suriyawewa, who is presently held at an undisclosed location. (abductee) -Vs- 1. Chandana Wickramaratne Acting Inspector General of Police Police Head Quarters, Colombo 1. 1A. Priyantha Weerasooriya Acting Inspector General of Police Police Head Quarters, Colombo 01. 2. Senior DIG Organized Crimes Unit Colombo 1. 3. Head Quarters Inspector Mirihana Police Station Mirihana. 4. Officer In Charge, Mirihana Law Enforcement Unit, Mirihana Police Station Mirihana. 5. Officer In Charge, Wellawa Police Station, Wellawa. 6. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. S. Thurairaja PC J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_rule_2_2024.pdf",
+    "parties": "Hon. M.M.S. Bandara District Judge / Magistrate, District / Magistrate\u2019s Court, Kekirawa. 1st Complainant S.M.W. Korasagalla, No. 40-D, Court Road, Kekirawa. 2nd Complainant vs. Roshini Abeyrathne No. A/70, Sekkupitiya, Kekirawa. Respondent\n\nView More",
+    "judgement_by": "Hon. Yasantha Kodagoda PC J"
   }
 }
