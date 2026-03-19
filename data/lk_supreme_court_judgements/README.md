@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--19_06:55:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--19_18:40:00-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,605** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-17**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,609** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-19**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (69%), **TXT** (69%) & **🤗 Hugging Face** (69%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-17-SC-FR-428-2008",
-    "num": "SC/FR/428/2008",
-    "date_str": "2026-03-17",
-    "description": "Hon. K. Priyantha Fernando J - Chandra Wickramasinghe, Presi...",
+    "doc_id": "2026-03-19-SC-FR-327-2015",
+    "num": "SC/FR/327/2015",
+    "date_str": "2026-03-19",
+    "description": "Hon. Janak De Silva J - 1. W. Sunil Abeysiri, 2. M.M....",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_428_2008.pdf",
-    "parties": "Chandra Wickramasinghe, President, Rajagiriya Udyanaya Residents Association, No, 15, Rajagiriya Udyanaya, Nawala Road, Rajagiriya 2. Shelton Wijesinghe, Secretary, Rajagiriya Udyanaya Residents Association, No.4, Rajagiriya Udyanaya, Nawala Road, Rajagiriya (Now Deceased) 3. Jayantha Jayawardena, No, 615/32, Rajagiriya Udyanaya, Nawala Road, Rajagiriya 4. Chula De Silva No, 615/33, Rajagiriya Udyanaya, Nawala Road, Rajagiriya 5. Aurasa Gunasekara, No, 615/14, Rajagiriya Udyanaya, Nawala Road, Rajagirya Petitioners Vs. 1. Sri Lanka Development Corporation, (previously known as Sri Lanka Land Reclamation and Development Corporation), No.5, Kotte Sri Jeyawardenapura Road, Rajagiriya. 2. Karunasena Hettiarachchi. Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya. 2A. Harshana de Silva, Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya 2B. M.H.M.Salaman, Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagirya. 2C. Mr. Asela Iddawela, Chairman, Sri lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenpura Road, Rajagiriya. 2D. Mr. Roshan Gunawardena, Chairman, Sri Lanka Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya 2E. Major General M R W de Zoysa, Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya. 2F. Commodore Eng. Hiran Balasuriya, Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya. 2G. Eng. Saman Senaweera, Chairman, Sri Lanka Land Development Corporation, No. 35, Kotte Sri Jayawardenapura, Denapura Rd. Rajagiriya. 3. Dilshan Gunasekara Working Director Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya. 4. Hon. Dinesh Gunawadena, Minister of Urban Development and Sacred Area Development, Sethsiripaya, Battaramulla. 4A. Hon. Rauff Hakeem M.P., Minister of Water Supply, Drainage and Urban Development, Sethsiripaya, Battaramulla. 4B. Hon. Champika Ranawaka M.P., Minister of Megapolis & Western Development Sethsiripaya, Battaramulla. 4C. Hon. Mahinda Rajapaksa, Prime Minister and Minister of Urban Development, Water Supply & Housing Facilities Sethsiripaya, Battaramulla. 4D. Hon. Prasanna Ranatunge MP, Minister of Urban Development & Housing, Sethsiripaya, Battaramulla. 4E. Hon. Anura Karunathilaka, Minister of Urban Development Constructions and Housing, Sethsiripaya, Battaramulla. 5. Dr. D Ramanujan, Secretary, Ministry of Urban Development and Sacred Area Development and Chairman Urban Development Authority Sethsiripaya, Battaramulla. 5A. Gotabaya Rajapakse, RWP, RSP, psc, MSc, Secretary, Ministry of Defence, Baladaksha Mawatha, Colombo 3. 5B. Karunasena Hettiarachchi, Secretary, Ministry of Water Supply, Drainage and Urban Development, Sethsiripaya, Battaramulla 5C. N. Rupasinghe, Ministry of Megapolis & Western Development, Sethsiripaya, Battaramulla 5D. Dr. Priyath Bandu Wickrama Secretary, Ministry of Urban Development, Water Supply & Housing Facilities, Sethsiripaya, Battaramulla. 5E. Mr. Pradeep Ratnayake, Secretary, Ministry of Urban Development & Housing, Sethsiripaya, Battaramulla. 5F. MR. W.S. Sathyananda, Secretary, Ministry of Urban Development & Housing, Sethsiripaya, Battaramulla. 5G. Mr. Ranjith Ariyarathne, Secretary, Ministry of Urban Development Constructions & Housing, Sethsiripaya, Battaramulla. 6. Central Environmental Authority; Denzil Kobbekaduwa Mawatha, Battaramulla. 7. Jayantha Wickramaratna, Inspector General of Police; Police Head Quarters, Colombo 1. AND OTHERS\n\nView More",
-    "judgement_by": "Hon. K. Priyantha Fernando J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_327_2015-1.pdf",
+    "parties": "1. W. Sunil Abeysiri, 2. M.M. Chandrika Jayakanthi, 3. I.M.T. Ihalagama, 4. T.P.G. Sudharmika Alwis Wijeratne, 5. Sujatha Karunaratne, 6. A. Gamage Priyanthini Yahampath, 7. Nishanthi Kariyapperuma, 8. J. Chandralal Dissanayake, 1st to 8th Petitioners of Sri Lanka Broadcasting Corporation, Colombo 7. 9. Sri Lanka Nidahas Sevaka Sangamaya, No. 493/1, T.B. Jayah Mawatha, Colombo 10. 10. P.P.S. Pathmasiri, The Secretary, Sri Lanka Nidahas Sevaka Sangamaya, Sri Lanka Broadcasting Corporation, Colombo 7. 11. Sri Lanka Broadcasting Corporation Engineers\\' Association, P.O. Box 574, Torrington Square, Colombo 7. 12. Mudith Siriwardena, The Secretary, Sri Lanka Broadcasting Corporation Engineers\\' Association, P.O. Box 574, Torrington Square, Colombo 7. 13. Sri Lanka Broadcasting Corporation Technical Officers\\' Union, Sri Lanka Broadcasting Corporation, Colombo 7. 14. A.H.J.D. Aluthwatta, Assistant Secretary, Sri Lanka Broadcasting Corporation Technical Officers\\' Union, Sri Lanka Broadcasting Corporation, Colombo 7. 15. Radio Broadcasters Union, Sri Lanka Broadcasting Corporation, Colombo 7. 16. Sujeewa Priyashantha, President, Radio Broadcasters Union, Sri Lanka Broadcasting Corporation, Colombo 7. Petitioner Vs. 1. Sri Lanka Broadcasting Corporation, Colombo 7. 2. Nanda Muruththettuwegama, Former Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 2A. Malaka Thalwatta, Former Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 2B. Rohana Dewa Perera, Former Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 2C.Jagath Wickramasinghe, Former Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 2D.Hudson Samarasinghe, Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 3. Deepika Priyadarshini Peiris, Former Board Member, Sri Lanka Broadcasting Corporation, Colombo 7. AND OTHERS\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
 }
 ```
 
@@ -42,6 +42,10 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-19 | `SC/FR/327/2015` | Hon. Janak De Silva J - 1. W. Sunil Abeysiri, 2. M.M.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-327-2015)
+- 2026-03-19 | `SC/FR/283/2022` | Hon. Dr. Sobhitha Rajakaruna J - Manjula Balasooriya Attorney-... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-283-2022)
+- 2026-03-19 | `SC/APPEAL/76/2012` | Hon. Arjuna Obeyesekere J - (1) Gajaweera Arachchige Seel... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-APPEAL-76-2012)
+- 2026-03-19 | `SC/APPEAL/49/2023` | Hon. Arjuna Obeyesekere J - 1. Nalini Perera nee Samarasi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-APPEAL-49-2023)
 - 2026-03-17 | `SC/FR/428/2008` | Hon. K. Priyantha Fernando J - Chandra Wickramasinghe, Presi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-17-SC-FR-428-2008)
 - 2026-03-17 | `SC/CHC APPEAL/19/2013` | Hon. A.H.M.D.Nawaz J - Kaluarachchige Ananda Nimal C... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-17-SC-CHC-APPEAL-19-2013)
 - 2026-03-17 | `SC/APPEAL/93/2023` | Hon. Kumuduni Wickremasinghe J - Balachandranprasth Satheeshar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-17-SC-APPEAL-93-2023)
@@ -58,10 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-03-16 | `SC/APPEAL/221/2025` | Hon. A.L. Shiran Gooneratne J - 1. Commander of Sri Lanka Nav... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-16-SC-APPEAL-221-2025)
 - 2026-03-13 | `SC/FR/410/2019` | Hon. S. Thurairaja PC J - Budgama Mudalige Thamila Dinu... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-13-SC-FR-410-2019)
 - 2026-03-13 | `SC/APPEAL/39/2023, SC/APPEAL/40/2023, SC/APPEAL/41/2023, SC/APPEAL/42/2023, SC/APPEAL/43/2023, SC/APPEAL/44/2023, SC/APPEAL/45/2023, SC/APPEAL/46/2023` | Hon. S. Thurairaja PC J - Lanka Marine Services (Privat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-13-SC-APPEAL-39-2023--SC-A-077a4a57)
-- 2026-03-13 | `SC/APPEAL/11/2018` | Hon. Janak De Silva J - 1. Ganegoda Haputhanthrige Su... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-13-SC-APPEAL-11-2018)
-- 2026-03-12 | `SC/FR/428/2016` | Hon. Achala Wengappuli J - Benthota Payagala Arachchilag... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-FR-428-2016)
-- 2026-03-12 | `SC/FR/250/2020` | Hon. Achala Wengappuli J - 1. Jayakodi Arachchilage Amar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-FR-250-2020)
-- 2026-03-12 | `SC/APPEAL/205/2014` | Hon. Achala Wengappuli J - (deceased) Abdul Latif Ahamed... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-12-SC-APPEAL-205-2014)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-03-19 06:55:16",
-  "n_docs": 2605,
-  "n_docs_with_pdfs": 1785,
-  "n_docs_with_text": 1785,
+  "time_updated": "2026-03-19 18:39:58",
+  "n_docs": 2609,
+  "n_docs_with_pdfs": 1789,
+  "n_docs_with_text": 1789,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-03-17",
-  "dataset_size": 1596651031,
+  "date_str_max": "2026-03-19",
+  "dataset_size": 1599821641,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-17-SC-FR-428-2008",
-    "num": "SC/FR/428/2008",
-    "date_str": "2026-03-17",
-    "description": "Hon. K. Priyantha Fernando J - Chandra Wickramasinghe, Presi...",
+    "doc_id": "2026-03-19-SC-FR-327-2015",
+    "num": "SC/FR/327/2015",
+    "date_str": "2026-03-19",
+    "description": "Hon. Janak De Silva J - 1. W. Sunil Abeysiri, 2. M.M....",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_428_2008.pdf",
-    "parties": "Chandra Wickramasinghe, President, Rajagiriya Udyanaya Residents Association, No, 15, Rajagiriya Udyanaya, Nawala Road, Rajagiriya 2. Shelton Wijesinghe, Secretary, Rajagiriya Udyanaya Residents Association, No.4, Rajagiriya Udyanaya, Nawala Road, Rajagiriya (Now Deceased) 3. Jayantha Jayawardena, No, 615/32, Rajagiriya Udyanaya, Nawala Road, Rajagiriya 4. Chula De Silva No, 615/33, Rajagiriya Udyanaya, Nawala Road, Rajagiriya 5. Aurasa Gunasekara, No, 615/14, Rajagiriya Udyanaya, Nawala Road, Rajagirya Petitioners Vs. 1. Sri Lanka Development Corporation, (previously known as Sri Lanka Land Reclamation and Development Corporation), No.5, Kotte Sri Jeyawardenapura Road, Rajagiriya. 2. Karunasena Hettiarachchi. Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya. 2A. Harshana de Silva, Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya 2B. M.H.M.Salaman, Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagirya. 2C. Mr. Asela Iddawela, Chairman, Sri lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenpura Road, Rajagiriya. 2D. Mr. Roshan Gunawardena, Chairman, Sri Lanka Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya 2E. Major General M R W de Zoysa, Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya. 2F. Commodore Eng. Hiran Balasuriya, Chairman, Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya. 2G. Eng. Saman Senaweera, Chairman, Sri Lanka Land Development Corporation, No. 35, Kotte Sri Jayawardenapura, Denapura Rd. Rajagiriya. 3. Dilshan Gunasekara Working Director Sri Lanka Land Reclamation and Development Corporation, No.35, Kotte Sri Jeyawardenapura Road, Rajagiriya. 4. Hon. Dinesh Gunawadena, Minister of Urban Development and Sacred Area Development, Sethsiripaya, Battaramulla. 4A. Hon. Rauff Hakeem M.P., Minister of Water Supply, Drainage and Urban Development, Sethsiripaya, Battaramulla. 4B. Hon. Champika Ranawaka M.P., Minister of Megapolis & Western Development Sethsiripaya, Battaramulla. 4C. Hon. Mahinda Rajapaksa, Prime Minister and Minister of Urban Development, Water Supply & Housing Facilities Sethsiripaya, Battaramulla. 4D. Hon. Prasanna Ranatunge MP, Minister of Urban Development & Housing, Sethsiripaya, Battaramulla. 4E. Hon. Anura Karunathilaka, Minister of Urban Development Constructions and Housing, Sethsiripaya, Battaramulla. 5. Dr. D Ramanujan, Secretary, Ministry of Urban Development and Sacred Area Development and Chairman Urban Development Authority Sethsiripaya, Battaramulla. 5A. Gotabaya Rajapakse, RWP, RSP, psc, MSc, Secretary, Ministry of Defence, Baladaksha Mawatha, Colombo 3. 5B. Karunasena Hettiarachchi, Secretary, Ministry of Water Supply, Drainage and Urban Development, Sethsiripaya, Battaramulla 5C. N. Rupasinghe, Ministry of Megapolis & Western Development, Sethsiripaya, Battaramulla 5D. Dr. Priyath Bandu Wickrama Secretary, Ministry of Urban Development, Water Supply & Housing Facilities, Sethsiripaya, Battaramulla. 5E. Mr. Pradeep Ratnayake, Secretary, Ministry of Urban Development & Housing, Sethsiripaya, Battaramulla. 5F. MR. W.S. Sathyananda, Secretary, Ministry of Urban Development & Housing, Sethsiripaya, Battaramulla. 5G. Mr. Ranjith Ariyarathne, Secretary, Ministry of Urban Development Constructions & Housing, Sethsiripaya, Battaramulla. 6. Central Environmental Authority; Denzil Kobbekaduwa Mawatha, Battaramulla. 7. Jayantha Wickramaratna, Inspector General of Police; Police Head Quarters, Colombo 1. AND OTHERS\n\nView More",
-    "judgement_by": "Hon. K. Priyantha Fernando J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_327_2015-1.pdf",
+    "parties": "1. W. Sunil Abeysiri, 2. M.M. Chandrika Jayakanthi, 3. I.M.T. Ihalagama, 4. T.P.G. Sudharmika Alwis Wijeratne, 5. Sujatha Karunaratne, 6. A. Gamage Priyanthini Yahampath, 7. Nishanthi Kariyapperuma, 8. J. Chandralal Dissanayake, 1st to 8th Petitioners of Sri Lanka Broadcasting Corporation, Colombo 7. 9. Sri Lanka Nidahas Sevaka Sangamaya, No. 493/1, T.B. Jayah Mawatha, Colombo 10. 10. P.P.S. Pathmasiri, The Secretary, Sri Lanka Nidahas Sevaka Sangamaya, Sri Lanka Broadcasting Corporation, Colombo 7. 11. Sri Lanka Broadcasting Corporation Engineers\\' Association, P.O. Box 574, Torrington Square, Colombo 7. 12. Mudith Siriwardena, The Secretary, Sri Lanka Broadcasting Corporation Engineers\\' Association, P.O. Box 574, Torrington Square, Colombo 7. 13. Sri Lanka Broadcasting Corporation Technical Officers\\' Union, Sri Lanka Broadcasting Corporation, Colombo 7. 14. A.H.J.D. Aluthwatta, Assistant Secretary, Sri Lanka Broadcasting Corporation Technical Officers\\' Union, Sri Lanka Broadcasting Corporation, Colombo 7. 15. Radio Broadcasters Union, Sri Lanka Broadcasting Corporation, Colombo 7. 16. Sujeewa Priyashantha, President, Radio Broadcasters Union, Sri Lanka Broadcasting Corporation, Colombo 7. Petitioner Vs. 1. Sri Lanka Broadcasting Corporation, Colombo 7. 2. Nanda Muruththettuwegama, Former Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 2A. Malaka Thalwatta, Former Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 2B. Rohana Dewa Perera, Former Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 2C.Jagath Wickramasinghe, Former Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 2D.Hudson Samarasinghe, Chairman, Sri Lanka Broadcasting Corporation, Colombo 7. 3. Deepika Priyadarshini Peiris, Former Board Member, Sri Lanka Broadcasting Corporation, Colombo 7. AND OTHERS\n\nView More",
+    "judgement_by": "Hon. Janak De Silva J"
   }
 }
