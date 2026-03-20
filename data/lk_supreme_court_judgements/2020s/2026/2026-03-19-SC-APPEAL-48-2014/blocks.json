@@ -1,0 +1,5496 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      79.45,
+      292.73,
+      250.16,
+      331.92
+    ],
+    "text": "SC / CHC / APPEAL / 19 / 2013 HC / Civil / 552 / 2009 / MR",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      188.34,
+      543.59,
+      202.76
+    ],
+    "text": "In the matter of an appeal made in terms of",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      209.94,
+      543.59,
+      224.36
+    ],
+    "text": "Article 127 of the Constitution of the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      231.54,
+      532.45,
+      245.96
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      285.05,
+      479.73,
+      298.32
+    ],
+    "text": "Demuni Cuthbert Kingsley Silva,",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      310.97,
+      381.27,
+      324.24
+    ],
+    "text": "No.23, 17th Lane,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      336.89,
+      392.35,
+      350.16
+    ],
+    "text": "(Off College Street),",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      362.57,
+      343.89,
+      375.84
+    ],
+    "text": "Kotahena,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      388.49,
+      356.53,
+      401.76
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      440.09,
+      361.98,
+      453.36
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      491.69,
+      315.75,
+      504.96
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      543.53,
+      471.17,
+      556.8
+    ],
+    "text": "Shanthalingam Shanthakumar,",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      569.21,
+      387.39,
+      582.48
+    ],
+    "text": "No.25/1, 17th Lane,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      595.13,
+      392.35,
+      608.4
+    ],
+    "text": "(Off College Street),",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      621.05,
+      343.89,
+      634.32
+    ],
+    "text": "Kotahena,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      646.73,
+      356.53,
+      660.0
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      698.57,
+      369.0,
+      711.84
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.17,
+      288.89,
+      202.93,
+      302.16
+    ],
+    "text": "SC / APPEAL / 48 / 2014",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.17,
+      315.29,
+      220.26,
+      328.56
+    ],
+    "text": "SC / HCCA / LA / 195 / 2014",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.17,
+      341.69,
+      254.57,
+      354.96
+    ],
+    "text": "WP / HCCA / COL / 65 / 2011 (LA)",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.17,
+      368.33,
+      239.6,
+      381.6
+    ],
+    "text": "DC Colombo: DLM / 174 / 2008",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      94.55,
+      81.6,
+      523.21,
+      100.93
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      16.079999923706055
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.12,
+      110.4,
+      473.23,
+      129.73
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      16.079999923706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 1",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      72.17,
+      423.89,
+      85.44
+    ],
+    "text": "AND THEN BETWEEN",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      123.77,
+      471.17,
+      137.04
+    ],
+    "text": "Shanthalingam Shanthakumar,",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      149.69,
+      387.39,
+      162.96
+    ],
+    "text": "No.25/1, 17th Lane,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      175.61,
+      392.35,
+      188.88
+    ],
+    "text": "(Off College Street),",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      201.29,
+      343.89,
+      214.56
+    ],
+    "text": "Kotahena,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      227.21,
+      356.53,
+      240.48
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      278.81,
+      468.18,
+      292.08
+    ],
+    "text": "DEFENDANT \u2013 APPELLANT",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      330.41,
+      315.75,
+      343.68
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      382.25,
+      479.73,
+      395.52
+    ],
+    "text": "Demuni Cuthbert Kingsley Silva,",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      407.93,
+      381.27,
+      421.2
+    ],
+    "text": "No.23, 17th Lane,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      433.85,
+      392.35,
+      447.12
+    ],
+    "text": "(Off College Street),",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      459.77,
+      343.89,
+      473.04
+    ],
+    "text": "Kotahena,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      485.45,
+      356.53,
+      498.72
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      537.29,
+      462.89,
+      550.56
+    ],
+    "text": "PLAINTIFF \u2013 RESPONDENT",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      588.89,
+      418.18,
+      602.16
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      640.49,
+      479.73,
+      653.76
+    ],
+    "text": "Demuni Cuthbert Kingsley Silva,",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      666.41,
+      381.27,
+      679.68
+    ],
+    "text": "No.23, 17th Lane,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.25,
+      692.33,
+      392.35,
+      705.6
+    ],
+    "text": "(Off College Street),",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 2",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      72.17,
+      343.89,
+      85.44
+    ],
+    "text": "Kotahena,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      98.09,
+      356.53,
+      111.36
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      123.77,
+      543.43,
+      137.04
+    ],
+    "text": "PLAINTIFF \u2013 RESPONDENT \u2013 APPELLANT",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      143.69,
+      353.77,
+      156.96
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      195.29,
+      527.5,
+      208.56
+    ],
+    "text": "Nalini Krishnajina Silva nee Ruwanpura,",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      221.21,
+      363.75,
+      234.48
+    ],
+    "text": "23, 17th Lane,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      247.13,
+      392.35,
+      260.4
+    ],
+    "text": "(Off College Street),",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      272.81,
+      343.89,
+      286.08
+    ],
+    "text": "Kotahena,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      298.73,
+      356.53,
+      312.0
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      350.33,
+      458.41,
+      363.6
+    ],
+    "text": "SUBSTITUTED PLAINTIFF \u2013",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      370.25,
+      473.38,
+      383.52
+    ],
+    "text": "RESPONDENT \u2013 APPELLANT",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      421.85,
+      315.75,
+      435.12
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      473.45,
+      471.17,
+      486.72
+    ],
+    "text": "Shanthalingam Shanthakumar,",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      499.37,
+      369.87,
+      512.64
+    ],
+    "text": "25/1, 17th Lane,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      525.29,
+      392.35,
+      538.56
+    ],
+    "text": "(Off College Street),",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      550.97,
+      343.89,
+      564.24
+    ],
+    "text": "Kotahena,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      576.89,
+      356.53,
+      590.16
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      628.49,
+      464.2,
+      641.76
+    ],
+    "text": "DEFENDANT \u2013 APPELLANT \u2013",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.25,
+      648.41,
+      386.83,
+      661.68
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 3",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.25,
+      72.17,
+      252.76,
+      85.44
+    ],
+    "text": "Before: S. Thurairaja, PC, J",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.25,
+      92.09,
+      257.95,
+      105.36
+    ],
+    "text": "A.H.M.D. Nawaz, J &",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.25,
+      111.77,
+      303.5,
+      125.04
+    ],
+    "text": "Mahinda Samayawardhena, J",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.25,
+      151.61,
+      543.32,
+      164.88
+    ],
+    "text": "Counsel: Romesh De Silva, PC with Saumya Amarasekara, PC for the Substituted \u2013",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.25,
+      171.29,
+      327.02,
+      184.56
+    ],
+    "text": "Plaintiff \u2013 Respondent \u2013 Appellant.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.25,
+      211.13,
+      543.32,
+      224.4
+    ],
+    "text": "V. Thevasenathipathy with F. Nissa Faiz for the Defendant \u2013Appellant \u2013",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.25,
+      230.81,
+      213.32,
+      244.08
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.25,
+      270.41,
+      201.98,
+      283.68
+    ],
+    "text": "Argued on: 07.11.2024",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.25,
+      310.25,
+      205.51,
+      323.52
+    ],
+    "text": "Decided on: 19.03.2026",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.25,
+      362.13,
+      236.65,
+      378.86
+    ],
+    "text": "A.H.M.D. Nawaz, J.",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      13.920000076293945
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.25,
+      387.06,
+      543.59,
+      418.05
+    ],
+    "text": "1. The core issues in this case revolve around the question whether the Learned",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      425.46,
+      543.58,
+      439.89
+    ],
+    "text": "District Judge of Colombo rightly allowed an issue based on title, which had",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      447.06,
+      543.58,
+      461.49
+    ],
+    "text": "been raised only in the replication, and whether the Learned High Court",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      468.66,
+      543.58,
+      483.08
+    ],
+    "text": "Judges correctly overturned that decision. The District Judge permitted the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      490.26,
+      543.59,
+      504.68
+    ],
+    "text": "issue on title to proceed despite it being set out in replication rather than in",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      511.86,
+      543.59,
+      526.28
+    ],
+    "text": "the original plaint. However, the Civil Appellate High Court Judges took a",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      533.46,
+      543.57,
+      547.88
+    ],
+    "text": "different stance, disallowing the issue based on procedural grounds to which I",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      555.3,
+      208.05,
+      569.72
+    ],
+    "text": "will advert later.",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.25,
+      598.5,
+      543.59,
+      612.92
+    ],
+    "text": "2. This Court granted leave to appeal on 18 March 2014, in order to evaluate the",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      620.1,
+      543.59,
+      634.52
+    ],
+    "text": "aforesaid quintessential questions, formulating the following questions of law",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.25,
+      641.7,
+      413.21,
+      656.12
+    ],
+    "text": "as substantial having regard to the petition of appeal;",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 4",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      180.25,
+      72.18,
+      543.59,
+      86.61
+    ],
+    "text": "1. When there is no dispute with regard to the dominant land, is",
+    "fonts": [
+      "Arial-BoldMT",
+      "CenturySchoolbook-Bold",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      93.78,
+      543.59,
+      108.21
+    ],
+    "text": "it necessary to plead title in detail to the dominant land in an",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      115.38,
+      475.02,
+      129.81
+    ],
+    "text": "action where the dispute is over the servient land?",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      180.25,
+      158.82,
+      543.58,
+      173.24
+    ],
+    "text": "2. Is it necessary to pray for a declaration of title to the dominant",
+    "fonts": [
+      "Arial-BoldMT",
+      "CenturySchoolbook-Bold",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      180.42,
+      543.59,
+      194.85
+    ],
+    "text": "land when the dispute only relates in respect of the servient",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      202.02,
+      232.46,
+      216.44
+    ],
+    "text": "land?",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      180.25,
+      240.18,
+      543.59,
+      254.6
+    ],
+    "text": "3. Is the Plaintiff entitled to plead title in detail in a replication",
+    "fonts": [
+      "Arial-BoldMT",
+      "CenturySchoolbook-Bold",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      261.78,
+      543.57,
+      276.21
+    ],
+    "text": "where his title to a dominant land is challenged for the first",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      283.62,
+      433.5,
+      298.05
+    ],
+    "text": "time in the answer filed by the Defendant?",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      180.25,
+      321.78,
+      543.58,
+      336.2
+    ],
+    "text": "4. Where a title is pleaded in a replication in order to clarify",
+    "fonts": [
+      "Arial-BoldMT",
+      "CenturySchoolbook-Bold",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      343.38,
+      543.58,
+      357.81
+    ],
+    "text": "rights to an incidental matter to the dispute set out in the",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      364.98,
+      543.58,
+      379.4
+    ],
+    "text": "plaint, is the Plaintiff entitled to raise issues on the said",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      386.58,
+      261.79,
+      401.01
+    ],
+    "text": "pleadings.",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.25,
+      430.02,
+      543.59,
+      444.45
+    ],
+    "text": "3. This is an action filed by the Plaintiff \u2013 Respondent \u2013 Appellant (the Plaintiff)",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.25,
+      451.62,
+      543.59,
+      466.05
+    ],
+    "text": "for a declaration of right of way in favour of his land. The plaint recited the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.25,
+      473.22,
+      240.5,
+      487.65
+    ],
+    "text": "entitlement as follows;",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      494.82,
+      543.59,
+      509.24
+    ],
+    "text": "(a) He is legally in possession of the land described in the 1st",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.25,
+      516.42,
+      343.33,
+      530.84
+    ],
+    "text": "Schedule to the plaint;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.25,
+      559.86,
+      543.58,
+      574.28
+    ],
+    "text": "(b) The Defendant has not disputed the Plaintiff\u2019s possession",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.25,
+      581.46,
+      543.58,
+      595.88
+    ],
+    "text": "to the land described in the 1st Schedule to the plaint or the",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.25,
+      603.06,
+      543.59,
+      617.48
+    ],
+    "text": "title of the Plaintiff\u2019s to the premises described in the 1st",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.25,
+      624.66,
+      343.33,
+      639.08
+    ],
+    "text": "Schedule to the plaint;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 5",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198.25,
+      72.18,
+      543.57,
+      86.61
+    ],
+    "text": "(c) The Plaintiff has acquired prescriptive rights to the land",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.25,
+      93.78,
+      543.58,
+      108.21
+    ],
+    "text": "described in the 1st Schedule and the roadway described in",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.25,
+      115.38,
+      383.32,
+      129.81
+    ],
+    "text": "the 2nd Schedule to the plaint;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198.25,
+      153.78,
+      543.58,
+      168.21
+    ],
+    "text": "(d) The Plaintiff has a right of way over the land described in",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.25,
+      175.38,
+      543.57,
+      189.8
+    ],
+    "text": "the 2nd Schedule to the plaint in order to access his land",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.25,
+      196.98,
+      449.87,
+      211.4
+    ],
+    "text": "described in the 1st Schedule to the plaint;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198.25,
+      235.14,
+      543.58,
+      249.56
+    ],
+    "text": "(e) The Defendant has raised the height of the roadway",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.25,
+      256.74,
+      528.61,
+      271.17
+    ],
+    "text": "described in the 2nd Schedule to the plaint by 52\u201d inches;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      198.25,
+      295.14,
+      543.58,
+      309.57
+    ],
+    "text": "(f) By the said action of the Defendant, he has prevented the",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.25,
+      316.74,
+      543.57,
+      331.17
+    ],
+    "text": "Plaintiff's access to his land over the roadway described in",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.25,
+      338.34,
+      383.32,
+      352.77
+    ],
+    "text": "the 2nd Schedule to the plaint;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.25,
+      359.94,
+      543.59,
+      390.93
+    ],
+    "text": "4. When one looks at this plaint, it is crystal clear that the Plaintiff asserts to be",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.25,
+      398.1,
+      543.58,
+      412.52
+    ],
+    "text": "the holder of a servitude or right of way over a road way which is described in",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.25,
+      419.94,
+      543.58,
+      434.37
+    ],
+    "text": "the 2nd Schedule to the plaint. It has to be noted that the plaint did not set out",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.25,
+      441.54,
+      543.59,
+      455.96
+    ],
+    "text": "a title in the plaint but the Plaintiff was emphatic that he had prescribed to",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.25,
+      463.14,
+      543.59,
+      477.57
+    ],
+    "text": "the roadway and in addition, he was being obstructed in his use and enjoyment",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.25,
+      484.74,
+      278.28,
+      499.17
+    ],
+    "text": "of the roadway by Defendant.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.25,
+      527.94,
+      472.04,
+      542.36
+    ],
+    "text": "5. The prayer of the Plaintiff was formulated in the following tenor;",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.25,
+      566.34,
+      527.5,
+      580.76
+    ],
+    "text": "(a) For a declaration that the Plaintiff has a right of way over the",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.25,
+      587.94,
+      468.38,
+      602.36
+    ],
+    "text": "roadway described in the 2nd Schedule to the plaint;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.25,
+      631.14,
+      533.45,
+      645.57
+    ],
+    "text": "(b) For a declaration that the land described in the 2nd Schedule is",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.25,
+      652.74,
+      516.3,
+      667.16
+    ],
+    "text": "a right of way to the land described in the 1st Schedule to the",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.25,
+      674.34,
+      220.25,
+      688.76
+    ],
+    "text": "plaint;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 6",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.25,
+      72.18,
+      525.23,
+      86.61
+    ],
+    "text": "(c) For order preventing the Defendant from obstructing the road",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180.25,
+      93.78,
+      417.28,
+      108.21
+    ],
+    "text": "described in the 2nd Schedule to the plaint;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.25,
+      136.98,
+      520.34,
+      151.4
+    ],
+    "text": "(d) For a mandatory order directing the Defendant to restore the",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180.25,
+      158.82,
+      542.8,
+      173.24
+    ],
+    "text": "roadway described in the 2nd Schedule to the plaint to its original",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180.25,
+      180.42,
+      238.46,
+      194.85
+    ],
+    "text": "condition.",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.25,
+      223.62,
+      543.59,
+      238.04
+    ],
+    "text": "6. Thus, it is quite clear that the basis of the plaint for a right of way over the",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.25,
+      245.22,
+      543.59,
+      259.65
+    ],
+    "text": "servient tenement was prescriptive user and obstruction thereof by the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.25,
+      266.82,
+      543.59,
+      281.25
+    ],
+    "text": "Defendant. He also asserted possession over the dominant tenement but had",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.25,
+      288.66,
+      267.14,
+      303.08
+    ],
+    "text": "not recited his title thereto.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.25,
+      331.86,
+      505.83,
+      346.29
+    ],
+    "text": "7. The amended answer of the Defendant took up the following positions;",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180.25,
+      375.06,
+      543.58,
+      389.49
+    ],
+    "text": "1. That the Defendant was unaware of the Plaintiff\u2019s possession",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198.25,
+      396.66,
+      543.58,
+      411.08
+    ],
+    "text": "or the title to the land described in the 1st schedule to the plaint.",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198.25,
+      418.5,
+      543.57,
+      432.93
+    ],
+    "text": "In those circumstances the Defendant rejected paragraphs 2",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198.25,
+      440.1,
+      543.58,
+      454.52
+    ],
+    "text": "and 3 of the plaint which is related to the land which is",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198.25,
+      461.7,
+      395.63,
+      476.12
+    ],
+    "text": "described in the 1st schedule hereto.",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      180.25,
+      504.9,
+      543.58,
+      519.33
+    ],
+    "text": "2. The Defendant also denied that the Plaintiff had prescriptive",
+    "fonts": [
+      "Arial-BoldItalicMT",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      198.25,
+      526.5,
+      543.59,
+      540.92
+    ],
+    "text": "rights to the land described in the 1st Schedule.",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.25,
+      569.94,
+      543.58,
+      584.36
+    ],
+    "text": "8. In his amended answer, the Defendant raised a claim in reconvention based",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.25,
+      591.54,
+      543.58,
+      605.96
+    ],
+    "text": "on an alleged encroachment by the Plaintiff onto the roadway and thereby",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.25,
+      613.14,
+      543.59,
+      627.57
+    ],
+    "text": "sought an order to combine the encroached portion to the road way in dispute.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.25,
+      656.34,
+      543.59,
+      670.76
+    ],
+    "text": "9. The Defendant thus challenged the Plaintiff\u2019s title to the roadway in dispute",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.25,
+      678.18,
+      543.59,
+      692.6
+    ],
+    "text": "and prayed for a declaration that he was entitled to use the roadway set out in",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 7",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      72.18,
+      543.58,
+      86.61
+    ],
+    "text": "the 2nd Schedule to the plaint and for a further declaration that the Plaintiff",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      93.78,
+      312.05,
+      108.21
+    ],
+    "text": "had no right over the said roadway.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.25,
+      115.38,
+      543.58,
+      146.37
+    ],
+    "text": "10. From the foregoing it is clear as daylight that even though the Plaintiff claimed",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      153.78,
+      543.59,
+      168.21
+    ],
+    "text": "a right of way over the roadway described in the 2nd Schedule based on his",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      175.38,
+      543.58,
+      189.8
+    ],
+    "text": "prescriptive user, the Defendant sought a declaration that the Plaintiff had no",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      196.98,
+      543.58,
+      211.4
+    ],
+    "text": "right whatsoever over the roadway. The rival pleadings thus exhibited",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      218.58,
+      543.59,
+      233.0
+    ],
+    "text": "elements of actio confessoria and actio negatoria on the part of the Plaintiff and",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      240.18,
+      267.37,
+      254.6
+    ],
+    "text": "the Defendant respectively.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.25,
+      261.78,
+      543.59,
+      293.01
+    ],
+    "text": "11. It is a salient fact that there is no contest raised or an adverse title pleaded",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      300.18,
+      543.59,
+      314.61
+    ],
+    "text": "against the Plaintiff in respect of his dominant tenement. The gravamen of the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      321.78,
+      543.59,
+      336.2
+    ],
+    "text": "complaint of the Defendant is that the Plaintiff had not pleaded his title to the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      343.38,
+      296.51,
+      357.81
+    ],
+    "text": "dominant tenement in the plaint.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.25,
+      364.98,
+      543.58,
+      395.96
+    ],
+    "text": "12. The claim in reconvention comprised two distinct components. First, the",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      403.14,
+      543.58,
+      417.57
+    ],
+    "text": "Defendant alleged encroachment by the Plaintiff upon his land; secondly, he",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      424.98,
+      543.59,
+      439.4
+    ],
+    "text": "sought damages consequent upon such alleged encroachment. In addition, the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      446.58,
+      543.59,
+      461.01
+    ],
+    "text": "Defendant prayed for a declaration that he was entitled to the portion said to",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      468.18,
+      267.13,
+      482.61
+    ],
+    "text": "have been encroached upon.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.25,
+      489.78,
+      543.59,
+      520.76
+    ],
+    "text": "13. In answer to the claim in reconvention, as embodied in the amended answer,",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      527.94,
+      543.59,
+      542.36
+    ],
+    "text": "the Plaintiff filed a replication. In that replication, the Plaintiff set out more",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      549.78,
+      543.58,
+      564.21
+    ],
+    "text": "fully his title to the dominant tenement and, correspondingly, the basis upon",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      571.38,
+      404.01,
+      585.8
+    ],
+    "text": "which he asserted rights over the servient tenement.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.25,
+      592.98,
+      543.59,
+      623.96
+    ],
+    "text": "14. It is significant that the Defendant raised no objection to the replication setting",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      631.14,
+      543.59,
+      645.57
+    ],
+    "text": "out the Plaintiff\u2019s title to the lands described in the 1st and 2nd Schedules. When",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      652.74,
+      543.59,
+      667.16
+    ],
+    "text": "the matter proceeded to trial, the Plaintiff invited the Court to frame issue No.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.25,
+      674.34,
+      185.61,
+      688.76
+    ],
+    "text": "28 as follows:",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 8",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.25,
+      72.18,
+      543.58,
+      86.61
+    ],
+    "text": "Is the Plaintiff the title holder or the owner of the land depicted in",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.25,
+      93.78,
+      543.57,
+      108.21
+    ],
+    "text": "the 1st Schedule as described in the replication. The Defendant",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.25,
+      115.38,
+      543.58,
+      129.81
+    ],
+    "text": "objected to the aforesaid issue raised by the Plaintiff and the",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.25,
+      136.98,
+      543.58,
+      151.4
+    ],
+    "text": "learned District Judge by his order dated 13 October 2011",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.25,
+      158.82,
+      543.59,
+      173.24
+    ],
+    "text": "overruled the objections and proceeded to permit issue No.28 and",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.25,
+      180.42,
+      321.54,
+      194.85
+    ],
+    "text": "have the trial continued.",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.25,
+      214.02,
+      543.59,
+      228.44
+    ],
+    "text": "15. The learned District Judge came to the finding that the dispute between the",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      235.62,
+      543.58,
+      250.04
+    ],
+    "text": "parties is not an action for a declaration of title to the land but in respect of a",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      257.22,
+      543.59,
+      271.65
+    ],
+    "text": "right of way and the question before court was not whether the Plaintiff had",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      278.82,
+      543.59,
+      293.25
+    ],
+    "text": "title to the dominant tenement but whether the Plaintiff was entitled to a right",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      300.66,
+      300.05,
+      315.08
+    ],
+    "text": "of way over the Defendant\u2019s land.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.25,
+      334.26,
+      543.59,
+      348.69
+    ],
+    "text": "16. Aggrieved by the order, the Defendant appealed to the Civil Appellate High",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      355.86,
+      543.59,
+      370.29
+    ],
+    "text": "Court but the High Court took the view that the learned District Judge had",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      377.46,
+      543.59,
+      391.89
+    ],
+    "text": "erred in law when he allowed issue No.28. It is against this judgement of the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      399.06,
+      543.59,
+      413.49
+    ],
+    "text": "High Court of Colombo pronounced on 5 April 2013, the Plaintiff appealed to",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      420.66,
+      224.69,
+      435.08
+    ],
+    "text": "the Supreme Court.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.25,
+      454.5,
+      543.59,
+      468.93
+    ],
+    "text": "17. In his submissions before this court the learned counsel for the Defendant Mr.",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      476.1,
+      543.58,
+      490.52
+    ],
+    "text": "V. Thevasenathipathy contended that the aforesaid issue could not be raised",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      497.7,
+      543.58,
+      512.12
+    ],
+    "text": "by the Plaintiff as it was a fact which should have been pleaded in the plaint.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      519.3,
+      543.59,
+      533.72
+    ],
+    "text": "He argued that the title of the Plaintiff to the dominant tenement would have",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      540.9,
+      543.58,
+      555.33
+    ],
+    "text": "to be set out clearly in the plaint by way of a clear chain of title with numbers",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      562.5,
+      543.58,
+      576.92
+    ],
+    "text": "of relevant deeds and the Plaintiff grievously failed as he presented a plaint",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      584.34,
+      365.83,
+      598.76
+    ],
+    "text": "which was devoid of the material particulars.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.25,
+      617.94,
+      543.59,
+      632.36
+    ],
+    "text": "18. Mr. Romesh De Silva the learned President\u2019s Counsel argued that issues would",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      639.54,
+      543.59,
+      653.96
+    ],
+    "text": "not be confined to the pleadings and it is axiomatic that it could arise even",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.25,
+      661.14,
+      543.7,
+      675.57
+    ],
+    "text": "outside the pleadings \u2013 see the judgement of the Privy Council in Bank of",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      379.53,
+      724.49,
+      534.77,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 9",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      72.18,
+      543.59,
+      86.61
+    ],
+    "text": "Ceylon v. Chelliahpillai1. In fact, it is apposite to recall the principle laid",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      93.78,
+      543.59,
+      108.21
+    ],
+    "text": "down by the Privy Council in this case to the effect that \u201ca case must be tried",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      115.38,
+      543.58,
+      129.81
+    ],
+    "text": "upon the issues on which the right decision of the case appears to the court to",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      136.98,
+      543.7,
+      151.4
+    ],
+    "text": "depend\u201d \u2013 See comparable dicta to this effect in Franklin Fernando v.",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      158.82,
+      316.73,
+      173.24
+    ],
+    "text": "Analectus Fernando and Others2.",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.25,
+      202.02,
+      543.58,
+      216.44
+    ],
+    "text": "19. As I said before, the Plaintiff\u2019s action is classified as actio confessoria, whilst",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      223.62,
+      417.33,
+      238.04
+    ],
+    "text": "the Defendant sued for its counterpart actio negatoria.",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.25,
+      266.82,
+      543.58,
+      281.25
+    ],
+    "text": "20. In a nutshell, \u201cthe great type of real action was the vindicatio for the recovery of",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      288.66,
+      543.57,
+      303.08
+    ],
+    "text": "specific property, as the condictio was the type of personal action. For servitudes",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      310.26,
+      543.57,
+      324.68
+    ],
+    "text": "the appropriate actions were the actio confessoria, claiming a servitude; the",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      331.86,
+      320.51,
+      346.29
+    ],
+    "text": "actio negatoria, denying a servitude\u201d.3",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.25,
+      353.46,
+      543.59,
+      384.45
+    ],
+    "text": "21. Hall and Kellaway on \u201cServitudes\u201d delineate \u201cactio confessoria\u201d and \u201cactio",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.25,
+      391.62,
+      200.24,
+      406.05
+    ],
+    "text": "negatoria\u201d thus;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.25,
+      430.02,
+      543.58,
+      444.45
+    ],
+    "text": "\u201cThe actions recognized by Roman Dutch Law were the actio confessoria",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.25,
+      451.62,
+      543.57,
+      466.05
+    ],
+    "text": "and the actio negatoria or contraria, the former being an action to enforce",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.25,
+      473.22,
+      534.87,
+      487.65
+    ],
+    "text": "a servitude, and the latter to declare a property free from a servitude.\u201d4",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.25,
+      508.74,
+      418.88,
+      523.16
+    ],
+    "text": "22. Wille alluded to actio confessoria in the following tenor:",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.25,
+      552.18,
+      543.58,
+      566.6
+    ],
+    "text": "\u201cThe holder of a servitude may approach a court for a declaration of",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.25,
+      573.78,
+      543.57,
+      588.21
+    ],
+    "text": "rights if his or her rights under the servitude are threatened or have been",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.25,
+      595.38,
+      206.67,
+      609.8
+    ],
+    "text": "infringed.\u201d",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.25,
+      645.22,
+      219.32,
+      670.59
+    ],
+    "text": "1 64 N.L.R. 25 at p 27.",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.960000038146973,
+      10.079999923706055,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.25,
+      670.71,
+      543.06,
+      718.83
+    ],
+    "text": "2 (2015) 1 Sri.L.R. at p 9. 3 See R.W Leage \u201cRoman Private Law Founded on the Institutes of Gaius and Justinian (1906) \u2013 Kissinger Legacy Reprints at p 383. 4 C.G.Hall & E.A.Kellaway Servitudes p.139.",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      379.53,
+      724.49,
+      538.29,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 10",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.25,
+      72.18,
+      400.67,
+      86.61
+    ],
+    "text": "23. The learned authors described actio negatoria thus;",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      180.25,
+      107.7,
+      543.58,
+      122.13
+    ],
+    "text": "\u201cThe actio negatoria, an action in rem, is available to the owner",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      180.25,
+      129.54,
+      493.48,
+      143.96
+    ],
+    "text": "of property to restrict any physical disturbance of land\u201d.",
+    "fonts": [
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.25,
+      165.06,
+      543.59,
+      179.49
+    ],
+    "text": "24. So much for the common law. Turning to Judicial precedents they are galore \u2013",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      186.66,
+      543.59,
+      201.08
+    ],
+    "text": "see J.A.N. de Silva, J (as he then was) in Saparamadu v Melder5;",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      208.26,
+      543.59,
+      222.68
+    ],
+    "text": "Karunadasa v. Jinadasa Subasinghe6; Fernando v Wickremasinghe7;",
+    "fonts": [
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      230.1,
+      543.59,
+      244.52
+    ],
+    "text": "for a discussion on the distinction between the two actiones and the previous",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      251.7,
+      543.7,
+      266.12
+    ],
+    "text": "precedents \u2013 see Gertrude Tressila and Another v Rukmali",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      273.3,
+      217.59,
+      287.73
+    ],
+    "text": "Hathurusinghe.8",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.25,
+      308.82,
+      543.58,
+      323.25
+    ],
+    "text": "25. The forgoing discussion while bringing out the distinction between the two",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      330.66,
+      388.25,
+      345.08
+    ],
+    "text": "actions also brings into sharp focus the following.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.25,
+      366.18,
+      543.58,
+      380.61
+    ],
+    "text": "26. Where the actio negatoria is the bulwark of ownership, enabling the dominus",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      387.78,
+      543.59,
+      402.2
+    ],
+    "text": "to repel unwarranted claims and vindicate the plenitude of his title, the actio",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      409.38,
+      543.59,
+      423.81
+    ],
+    "text": "confessoria stands as the proper remedy of the servitude-holder. It enables",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold",
+      "CenturySchoolbook-BoldIt",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      431.22,
+      543.58,
+      445.64
+    ],
+    "text": "the claimant to affirm and enforce the existence of the servitude, not by",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      452.82,
+      543.59,
+      467.24
+    ],
+    "text": "disputing the ownership of the servient tenement, but by asserting a limited",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      474.42,
+      329.8,
+      488.85
+    ],
+    "text": "real right carved out of that ownership.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.25,
+      508.02,
+      543.58,
+      522.45
+    ],
+    "text": "27. Thus, when the exercise of a servitude is obstructed, the holder may institute",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      529.62,
+      543.59,
+      544.04
+    ],
+    "text": "the actio confessoria to secure recognition of the right and to prevent",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      551.22,
+      543.59,
+      565.64
+    ],
+    "text": "interference with its lawful enjoyment. Unlike the actio negatoria, which",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      573.06,
+      543.59,
+      587.48
+    ],
+    "text": "proclaims freedom from encumbrance, the actio confessoria affirms",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.25,
+      594.66,
+      543.58,
+      609.08
+    ],
+    "text": "entitlement to a defined use \u2014 whether it be a right of way, a right to draw",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.25,
+      670.71,
+      292.09,
+      718.83
+    ],
+    "text": "5 (2004) 3 Sri.L.R.148. 6 CA 1172 / 98 (F) Decided on 16.06.2014. 7 (1998) 3 Sri.L.R. 37. 8 SC Appeal 221 / 2016 Decided on 22.08.2024.",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      379.53,
+      724.49,
+      538.29,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 11",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      72.18,
+      543.59,
+      86.61
+    ],
+    "text": "water, or some other specified utility \u2014 and thereby preserves the integrity of",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      93.78,
+      231.82,
+      108.21
+    ],
+    "text": "the limited real right.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.25,
+      127.38,
+      543.58,
+      141.81
+    ],
+    "text": "28. The actio confessoria presupposes that the claimant is the holder of a servitude,",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      148.98,
+      543.59,
+      163.4
+    ],
+    "text": "whereas the actio negatoria is the appropriate remedy of an owner asserting",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      170.82,
+      543.58,
+      185.24
+    ],
+    "text": "the plenitude of his proprietary rights. In the present case, the Plaintiff",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      192.42,
+      543.59,
+      206.85
+    ],
+    "text": "invokes the former remedy. It therefore becomes incumbent upon him to",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      214.02,
+      543.58,
+      228.44
+    ],
+    "text": "establish, as a fact in issue, the manner in which he became vested with the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      235.62,
+      333.58,
+      250.04
+    ],
+    "text": "servitude which he asserts in his plaint.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.25,
+      269.22,
+      543.58,
+      283.65
+    ],
+    "text": "29. As earlier adverted to, the Plaintiff traces his entitlement to the servitude to",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      290.82,
+      543.59,
+      305.25
+    ],
+    "text": "the deed by which he acquired title to the dominant tenement. It is true that",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      312.66,
+      543.58,
+      327.08
+    ],
+    "text": "this particular articulation emerged more fully in the replication than in the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      334.26,
+      543.58,
+      348.69
+    ],
+    "text": "original plaint. However, the amended answer filed by the Defendant alleges",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      355.86,
+      543.58,
+      370.29
+    ],
+    "text": "encroachment upon his land. In that context, it cannot be said to offend the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      377.46,
+      543.58,
+      391.89
+    ],
+    "text": "rules of pleadings for the Plaintiff to respond that his acts were confined within",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      399.06,
+      543.59,
+      413.49
+    ],
+    "text": "the limits of his own land. For that purpose, the pleading of his title in the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      420.66,
+      376.74,
+      435.08
+    ],
+    "text": "replication becomes both relevant and material.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.25,
+      464.1,
+      543.58,
+      478.52
+    ],
+    "text": "30. In the replication, the Plaintiff sets out the provenance of the servitude and",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      485.7,
+      543.58,
+      500.12
+    ],
+    "text": "the manner of its acquisition. While the plaint originally relied upon",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      507.3,
+      543.58,
+      521.72
+    ],
+    "text": "prescription as a mode of acquisition, the replication clarifies that the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      528.9,
+      543.59,
+      543.33
+    ],
+    "text": "servitude was also created by notarial grant appurtenant to the dominant",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      550.5,
+      543.59,
+      564.92
+    ],
+    "text": "tenement. The learned District Judge, in my view, cannot be faulted for",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      572.34,
+      543.59,
+      586.76
+    ],
+    "text": "framing an issue with reference to the Plaintiff\u2019s title to the dominant",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      593.94,
+      543.59,
+      608.36
+    ],
+    "text": "tenement, for it is by virtue of that title that the servitude\u2014if proved\u2014would",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      615.54,
+      543.58,
+      629.96
+    ],
+    "text": "arise. The ownership of the dominant tenement is not asserted as an",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      637.14,
+      543.58,
+      651.57
+    ],
+    "text": "independent cause of action, but as the juridical foundation upon which the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.25,
+      658.74,
+      197.36,
+      673.16
+    ],
+    "text": "servitude rests.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      379.53,
+      724.49,
+      538.29,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 12",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.25,
+      72.18,
+      543.59,
+      86.61
+    ],
+    "text": "31. Ultimately, what is before this Court is the Plaintiff\u2019s claim to a servitude and",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      93.78,
+      543.58,
+      108.21
+    ],
+    "text": "the Defendant\u2019s denial thereof. It is this assertion of a limited real right,",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      115.38,
+      462.47,
+      129.81
+    ],
+    "text": "coupled with its repudiation, that furnishes the cause of action.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.25,
+      158.82,
+      522.28,
+      173.24
+    ],
+    "text": "A servitude may be acquired either by express grant or by prescription.",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.25,
+      180.42,
+      543.59,
+      194.85
+    ],
+    "text": "32. In the first instance, a servitude over land may be created by deed. Section 2",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      202.02,
+      543.59,
+      216.44
+    ],
+    "text": "of the Prevention of Frauds Ordinance mandates notarial execution in respect",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      223.62,
+      543.6,
+      238.04
+    ],
+    "text": "of the creation of any \u201cinterest or encumbrance affecting land,\u201d and a",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      245.22,
+      540.25,
+      259.65
+    ],
+    "text": "servitude\u2014being a limited real right burdening the servient tenement\u2014",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      266.82,
+      543.58,
+      281.25
+    ],
+    "text": "plainly falls within that statutory requirement. Accordingly, where a servitude",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      288.66,
+      543.58,
+      303.08
+    ],
+    "text": "is constituted by agreement, its validity depends upon compliance with the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      310.26,
+      335.36,
+      324.68
+    ],
+    "text": "formalities prescribed by the Ordinance.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.25,
+      353.46,
+      543.59,
+      367.89
+    ],
+    "text": "33. Apart from express grant, a servitude may also be acquired by prescription.",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      375.06,
+      543.58,
+      389.49
+    ],
+    "text": "The Prescription Ordinance governs this mode of acquisition. A claimant must",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      396.66,
+      543.59,
+      411.08
+    ],
+    "text": "establish uninterrupted and undisturbed enjoyment of the servitude, as of",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      418.5,
+      543.58,
+      432.93
+    ],
+    "text": "right, for a period of ten years or more. Mere temporary inability to exercise",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      440.1,
+      543.59,
+      454.52
+    ],
+    "text": "the right, occasioned by natural causes such as floods or other vis major, does",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      461.7,
+      543.7,
+      476.12
+    ],
+    "text": "not amount to legal interruption. This principle was recognised in Perera v.",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      483.3,
+      543.59,
+      497.73
+    ],
+    "text": "Gunatilleke9, where the Court held that such involuntary suspensions do not",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-BoldIt"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      504.9,
+      433.35,
+      519.33
+    ],
+    "text": "defeat the continuity required for prescriptive acquisition.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.25,
+      526.5,
+      543.58,
+      557.72
+    ],
+    "text": "34. Thus, whether by formal notarial grant or by long and uninterrupted user",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      564.9,
+      543.65,
+      579.33
+    ],
+    "text": "maturing into a legal right, the law recognizes distinct juridical pathways",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      586.5,
+      399.13,
+      600.92
+    ],
+    "text": "through which a servitude may come into existence.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.25,
+      608.1,
+      543.58,
+      639.08
+    ],
+    "text": "35. The Plaintiff has presented this case before Court and it has to be resolved on",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.25,
+      646.26,
+      204.71,
+      660.68
+    ],
+    "text": "the rival claims.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.25,
+      706.71,
+      139.61,
+      718.83
+    ],
+    "text": "9 4 N.L.R. 181",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      379.53,
+      724.49,
+      538.29,
+      737.76
+    ],
+    "text": "SC / APPEAL / 48 / 2014 13",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.25,
+      72.18,
+      543.59,
+      86.61
+    ],
+    "text": "36. In any event, the issue sought to be raised does not suffer from any legal",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      93.78,
+      543.59,
+      108.21
+    ],
+    "text": "impediment for another striking reason. The deeds that bestow ownership of",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      115.38,
+      543.58,
+      129.81
+    ],
+    "text": "the dominant tenement on the Plaintiff have been listed in the list of witnesses",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      136.98,
+      543.59,
+      151.4
+    ],
+    "text": "and documents. These deeds appear to invest the Plaintiff with the grant of a",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      158.82,
+      543.59,
+      173.24
+    ],
+    "text": "servitude, and as such, the Plaintiff could raise his issue having due regard to",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      180.42,
+      543.59,
+      194.85
+    ],
+    "text": "the documents listed in the list of witnesses and documents. Section 146 of the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      202.02,
+      543.59,
+      216.44
+    ],
+    "text": "Civil Procedure Code (the operative provision when the issue on ownership of",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      223.62,
+      543.58,
+      238.04
+    ],
+    "text": "the land was sought to be raised) permitted issues to be framed on documents.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      245.22,
+      543.59,
+      259.65
+    ],
+    "text": "Therefore, issue No.28 must be permitted to be raised and thus, the learned",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      266.82,
+      543.59,
+      281.25
+    ],
+    "text": "District Judge was quite right in allowing that issue to be raised. It is the Civil",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      288.66,
+      543.58,
+      303.08
+    ],
+    "text": "Appellant High Court that fell into an error. In the circumstances, I set aside",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      310.26,
+      543.59,
+      324.68
+    ],
+    "text": "the judgment of the Civil Appellate High Court dated 05.04.2013 and affirm",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      331.86,
+      382.75,
+      346.29
+    ],
+    "text": "the order of the District Court dated 13.10.2011.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.25,
+      375.06,
+      543.58,
+      389.49
+    ],
+    "text": "37. All questions of law touching upon the raising of the issue are answered in",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      396.66,
+      227.37,
+      411.08
+    ],
+    "text": "favor of the Plaintiff.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      90.25,
+      440.1,
+      543.59,
+      454.52
+    ],
+    "text": "38. The appeal of the Plaintiff \u2013 Respondent \u2013 Appellant is allowed and the case is",
+    "fonts": [
+      "ArialMT",
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      461.7,
+      543.59,
+      476.12
+    ],
+    "text": "remanded to the District Court of Colombo to permit issue No.28 to be raised",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      483.3,
+      543.58,
+      497.73
+    ],
+    "text": "and the trial to be proceeded with ensuring an expeditious conclusion of the",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.25,
+      504.9,
+      145.82,
+      519.33
+    ],
+    "text": "trial.",
+    "fonts": [
+      "CenturySchoolbook"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      340.68,
+      540.66,
+      612.6,
+      555.08
+    ],
+    "text": "Judge of the Supreme Court",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.25,
+      597.54,
+      327.7,
+      611.96
+    ],
+    "text": "S. Thurairaja, PC, J.",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.25,
+      623.94,
+      539.83,
+      638.36
+    ],
+    "text": "I agree Judge of the Supreme Court",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.25,
+      676.74,
+      267.57,
+      691.16
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.25,
+      703.14,
+      539.83,
+      717.57
+    ],
+    "text": "I agree Judge of the Supreme Court",
+    "fonts": [
+      "CenturySchoolbook",
+      "CenturySchoolbook-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
