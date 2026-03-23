@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-03-23 06:51:33",
-  "n_docs": 2626,
-  "n_docs_with_pdfs": 1806,
-  "n_docs_with_text": 1806,
+  "time_updated": "2026-03-23 18:40:38",
+  "n_docs": 2633,
+  "n_docs_with_pdfs": 1813,
+  "n_docs_with_text": 1813,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-03-20",
-  "dataset_size": 1616799237,
+  "date_str_max": "2026-03-23",
+  "dataset_size": 1620009243,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-20-SC-APPEAL-84-2025",
-    "num": "SC/APPEAL/84/2025",
-    "date_str": "2026-03-20",
-    "description": "Hon. K.M.G.H. Kulatunga J - 1A. Senerath Arachchige Gunas...",
+    "doc_id": "2026-03-23-SC-FR-328-2011",
+    "num": "SC/FR/328/2011",
+    "date_str": "2026-03-23",
+    "description": "Hon. K. Kumudini Wickremasinghe J - Dr. Indrani Swarna Hassanally...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_84_2025.pdf",
-    "parties": "1A. Senerath Arachchige Gunasinha, Beddewatta, Dimbulgoda, Medamulana. 1B. Senarath Arachchige Dharmasena, Beddewatta, Dimbulgoda, Medamulana. 1C. Senerath Arachchige Pathmini, Beddewatta, Dimbulgoda, Medamulana. SUBSTITUTED DEFENDANT \u2013 RESPONDENT \u2013 PETITIONER \u2013 APPELLANTS Vs. Balamanage Amariyas, Medalanda, Dimbulgoda, Medamulana. PLAINTIFF \u2013 APPELLANT \u2013 RESPONDENT - RESPONDENT\n\nView More",
-    "judgement_by": "Hon. K.M.G.H. Kulatunga J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_328_2011.pdf",
+    "parties": "Dr. Indrani Swarna Hassanally nee Senaratne, No 35B, Torrington Avenue, Colombo 07, Presently of No 52/3, 5th Lane Nawala, Rajagiriya PETITIONER Vs. 1. Mr. Kapila Premadasa, Inspector of Police, Officer- in- Charge, Cinnamon Garden Police Station, Colombo 07. 2. Mr. Hettiarachchi, Inspector of Police, Officer-in-Charge of Minor Offences Branch, Cinnamon Garden Police Station, Colombo 07. 3. Mr. Ajantha, Police Constable(18982), Cinnamon Garden Police Station, Colombo 07. 4. Mr. Mendis, Sergeant, Cinnamon Garden Police Station, Colombo 07. 5. Mr. Roshan De Silva, Assistant Superintendent of Police, Office of Assistant Superintendent of Police, Gampaha. 6. Mr. Anura Senanayake, Deputy Inspector General of Police, Police Head Quarters, Colombo 01. 7. Mr. Panditheratne, Area Manager, Ceylon Electricity Board, High Level Road, Kirulapone, Colombo 06. 8. Mr. Sivapatham Vakeesan, No. 35, Torrington Avenue, Colombo 07. 9. Mrs. Nirmala Vakeesan nee Velliampalam, No. 35, Torrington Avenue, Colombo 07. 10. Inspector General of Police, Police Head Quarters, Colombo 01. 11. Hon. Attorney General, Attorney General\u2019s Department, Hulfsdrop, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
   }
 }
