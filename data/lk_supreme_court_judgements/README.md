@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_06:44:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_18:40:35-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,633** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-23**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,635** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-23**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (69%), **TXT** (69%) & **🤗 Hugging Face** (69%)
 
@@ -46,6 +46,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-03-23 | `SC/CHC APPEAL/66/2014` | Hon. K. Kumudini Wickremasinghe J - Ceylinco Profit Sharing Inves... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-CHC-APPEAL-66-2014)
 - 2026-03-23 | `SC/APPEAL/8/2018` | Hon. A.H.M.D.Nawaz J - K. Nihal Alias Patty, 16, Sam... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-APPEAL-8-2018)
 - 2026-03-23 | `SC/APPEAL/60/4014` | Hon. Kumuduni Wickremasinghe J - Sunethra Gajanayake “Anoma” P... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-APPEAL-60-4014)
+- 2026-03-23 | `SC/APPEAL/60/2014` | Hon. Kumuduni Wickremasinghe J - Sunethra Gajanayake “Anoma” P... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-APPEAL-60-2014)
 - 2026-03-23 | `SC/APPEAL/52/2025` | Hon. K. Kumudini Wickremasinghe J - Abdullah Moosajee, No. 41, Pe... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-APPEAL-52-2025)
 - 2026-03-23 | `SC/APPEAL/39/2022` | Hon. A.H.M.D.Nawaz J - 1. Sinnarajah Sivakumar, 2. H... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-APPEAL-39-2022)
 - 2026-03-23 | `SC/APPEAL/104/2014` | Hon. K. Kumudini Wickremasinghe J - Chandrasiri Perera, Harikaduw... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-APPEAL-104-2014)
@@ -53,6 +54,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-03-20 | `SC/APPEAL/78/2024` | Hon. Arjuna Obeyesekere J - Kumburegama Walawwe Ratnayake... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-78-2024)
 - 2026-03-20 | `SC/APPEAL/67/2016` | Hon. Mahinda Samayawardhena J - Siriwardhana Mudiyanselage Ti... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-67-2016)
 - 2026-03-20 | `SC/APPEAL/47/2023` | Hon. Janak De Silva J - LOLC Finance PLC. No. 100/1, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-47-2023)
+- 2026-03-20 | `SC/APPEAL/36/2018` | Hon. Yasantha Kodagoda PC J - Sithy Fareeda Jeganathan No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-36-2018)
 - 2026-03-20 | `SC/APPEAL/29/2024` | Hon. Mahinda Samayawardhena J - 1. Rajapaksha Pedige Sajeewa ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-29-2024)
 - 2026-03-20 | `SC/APPEAL/29/2021` | Hon. Menaka Wijesundera J - 1. Hussain Saad Hashim \"Alha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-29-2021)
 - 2026-03-20 | `SC/APPEAL/138/2022` | Hon. M. Sampath K. B. Wijeratne J - Sri Lanka Catering Limited, A... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-138-2022)
@@ -60,8 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-03-19 | `SC/FR/397/2019` | Hon. Achala Wengappuli J - 1. Wanigasundara Appuhamilage... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-397-2019)
 - 2026-03-19 | `SC/FR/360/2022` | Hon. A.H.M.D.Nawaz J - 1. Sumith Prasanna Niroshan F... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-360-2022)
 - 2026-03-19 | `SC/FR/327/2015` | Hon. Janak De Silva J - 1. W. Sunil Abeysiri, 2. M.M.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-327-2015)
-- 2026-03-19 | `SC/FR/283/2022` | Hon. Dr. Sobhitha Rajakaruna J - Manjula Balasooriya Attorney-... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-283-2022)
-- 2026-03-19 | `SC/CHC APPEAL/9/2010` | Hon. A.H.M.D.Nawaz J - 1. Asia Security (Private) Li... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-CHC-APPEAL-9-2010)
 
 ---
 
