@@ -31285,6 +31285,18 @@
   },
   {
     "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2026-03-19-SC-APPEAL-242-2016",
+    "num": "SC/APPEAL/242/2016",
+    "date_str": "2026-03-19",
+    "description": "Hon. A.H.M.D.Nawaz J - Denis Crystal Mary Peterson, ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_242_2016_amd1.pdf",
+    "parties": "Denis Crystal Mary Peterson, 369, Mahara, Kadawatha. PLAINTIFF - RESPONDENT \u2013 APPELLANT -VsSara Weerasinghe Alias Jayanthi Thirimawathana, 20, Keels Housing Scheme, Jalthara, Ranala. DEFENDANT - APPELLANT - RESPONDENT",
+    "judgement_by": "Hon. A.H.M.D.Nawaz J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
     "doc_id": "2026-03-19-SC-APPEAL-34-2022",
     "num": "SC/APPEAL/34/2022",
     "date_str": "2026-03-19",
@@ -31618,5 +31630,65 @@
     "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_328_2011.pdf",
     "parties": "Dr. Indrani Swarna Hassanally nee Senaratne, No 35B, Torrington Avenue, Colombo 07, Presently of No 52/3, 5th Lane Nawala, Rajagiriya PETITIONER Vs. 1. Mr. Kapila Premadasa, Inspector of Police, Officer- in- Charge, Cinnamon Garden Police Station, Colombo 07. 2. Mr. Hettiarachchi, Inspector of Police, Officer-in-Charge of Minor Offences Branch, Cinnamon Garden Police Station, Colombo 07. 3. Mr. Ajantha, Police Constable(18982), Cinnamon Garden Police Station, Colombo 07. 4. Mr. Mendis, Sergeant, Cinnamon Garden Police Station, Colombo 07. 5. Mr. Roshan De Silva, Assistant Superintendent of Police, Office of Assistant Superintendent of Police, Gampaha. 6. Mr. Anura Senanayake, Deputy Inspector General of Police, Police Head Quarters, Colombo 01. 7. Mr. Panditheratne, Area Manager, Ceylon Electricity Board, High Level Road, Kirulapone, Colombo 06. 8. Mr. Sivapatham Vakeesan, No. 35, Torrington Avenue, Colombo 07. 9. Mrs. Nirmala Vakeesan nee Velliampalam, No. 35, Torrington Avenue, Colombo 07. 10. Inspector General of Police, Police Head Quarters, Colombo 01. 11. Hon. Attorney General, Attorney General\u2019s Department, Hulfsdrop, Colombo 12. RESPONDENTS\n\nView More",
     "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2026-03-26-SC-APPEAL-81-2011",
+    "num": "SC/APPEAL/81/2011",
+    "date_str": "2026-03-26",
+    "description": "Hon. Mahinda Samayawardhena J - Michael Laurents Cyrille Cade...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_81_2011.pdf",
+    "parties": "Michael Laurents Cyrille Caderamanpulle, No. 15/5, Victoria Place, Off Elvitigala Mawatha, Colombo 8. (Deceased) Joseph Romesh Sherhan Caderamanpulle, No. 33, Booran Road, Canfield, Victoria 3162, Australia. Substituted Respondent-Petitioner-Appellant-Appellant Vs. Ceylon Paper Sacks Limited No. 47, Maligawa Road, Etul Kotte. Petitioner-Respondent-Respondent-Respondent\n\nView More",
+    "judgement_by": "Hon. Mahinda Samayawardhena J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2026-03-26-SC-CHC-APPEAL-10-2017",
+    "num": "SC/CHC APPEAL/10/2017",
+    "date_str": "2026-03-26",
+    "description": "Hon. Mahinda Samayawardhena J - Allianz Insurance Lanka Ltd, ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_10_2017.pdf",
+    "parties": "Allianz Insurance Lanka Ltd, No. 675, Dr. Danister de Silva Mawatha (Baseline Road), Colombo 09. Janashakthi Insurance PLC of No. 46, Muttiah Road, Colombo 02. And presently of No. 55/72, Muttiah Road, Colombo 02. Plaintiff-Appellant Vs. A. Masakorala, \u2018Dharshani Guest House\u2019, Habarana Road, Polonnaruwa, carrying on business as a sole proprietor under the name and style of \u2018Dharshani Constructions\u2019 at No. 42, Pothgul Road, Polonnaruwa. Defendant-Respondent\n\nView More",
+    "judgement_by": "Hon. Mahinda Samayawardhena J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2026-03-26-SC-CHC-APPEAL-102-2018",
+    "num": "SC/CHC APPEAL/102/2018",
+    "date_str": "2026-03-26",
+    "description": "Hon. Mahinda Samayawardhena J - M.D. Sivakumara, Carrying on ...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_102_2018.pdf",
+    "parties": "M.D. Sivakumara, Carrying on business as a sole proprietor, under the name and style of \u2018Omvishkar Exporters\u2019 of No. 4, Angappa Naicken Street, Chennai-600001, India. Plaintiff-Appellant Vs. People\u2019s Bank, No. 75, Sri Chittampalam A. Gardiner Mawatha, Colombo 2. Defendant-Respondent\n\nView More",
+    "judgement_by": "Hon. Mahinda Samayawardhena J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2026-03-26-SC-CHC-APPEAL-38-2023",
+    "num": "SC/CHC APPEAL/38/2023",
+    "date_str": "2026-03-26",
+    "description": "Hon. M. Sampath K. B. Wijeratne J - Pasan Madanayake No. 31, De F...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_38_2023.pdf",
+    "parties": "Pasan Madanayake No. 31, De Fonseka Road, Colombo 05. DEFENDANT-APPELLANT vs 2. DFCC Bank PLC (formerly known as DFCC Vardhana Bank Limited), No. 73/5, Galle Road, Colombo 03. PLAINTIFF \u2013 RESPONDENT\n\nView More",
+    "judgement_by": "Hon. M. Sampath K. B. Wijeratne J"
+  },
+  {
+    "doc_type": "lk_supreme_court_judgements",
+    "doc_id": "2026-03-26-SC-FR-131-2022",
+    "num": "SC/FR/131/2022",
+    "date_str": "2026-03-26",
+    "description": "Hon. Menaka Wijesundera J - Kadigamuwage Dumindu Kalyan P...",
+    "url_metadata": "https://supremecourt.lk/judgements/",
+    "lang": "en",
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_131_2022.pdf",
+    "parties": "Kadigamuwage Dumindu Kalyan P/108, Torrington Housing Complex, Torrington Avenue, Colombo 05. Petitioner Vs. 1. Director, Cultural Affairs, Department of Cultural Affairs, 8th Floor, Sethsiripaaya, Battaramulla. 2. Hon. Minister of Buddhasasana, Religious and Cultural Affairs, Ministry of Buddhasasana, Religious and Cultural Affairs 135, Srimath Anagarika Dharmapala Mawatha, Colombo 07. 3. Secretary to the Ministry of Cultural Affairs, Ministry of Buddhasasana, Religious and Cultural Affairs, 135, Srimath Anagarika Dharmapala Mawatha, Colombo 07. 4. M.L. Sunil Fernando, Retired Additional Secretary of Sri Lanka Administrative Service, No. 937/27, Pothuwarawa road, Malabe. 5. Gardihewa Anusha Gokula, No. 24/25 B, Dankanattha Road, Mabola, Wattala. 6. Secretary to the Public Service Commission, No. 1200/9, Rajamalwattha Road, Battaramulla. 7. Hon. Attorney General, Attorney General\\'s Department, Hulftsdorp street, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
   }
 ]

@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--26_06:52:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--26_18:40:52-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,635** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-23**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,641** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.6 GB**), from **2009-01-27** to **2026-03-26**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (69%), **TXT** (69%) & **🤗 Hugging Face** (69%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-23-SC-FR-328-2011",
-    "num": "SC/FR/328/2011",
-    "date_str": "2026-03-23",
-    "description": "Hon. K. Kumudini Wickremasinghe J - Dr. Indrani Swarna Hassanally...",
+    "doc_id": "2026-03-26-SC-FR-131-2022",
+    "num": "SC/FR/131/2022",
+    "date_str": "2026-03-26",
+    "description": "Hon. Menaka Wijesundera J - Kadigamuwage Dumindu Kalyan P...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_328_2011.pdf",
-    "parties": "Dr. Indrani Swarna Hassanally nee Senaratne, No 35B, Torrington Avenue, Colombo 07, Presently of No 52/3, 5th Lane Nawala, Rajagiriya PETITIONER Vs. 1. Mr. Kapila Premadasa, Inspector of Police, Officer- in- Charge, Cinnamon Garden Police Station, Colombo 07. 2. Mr. Hettiarachchi, Inspector of Police, Officer-in-Charge of Minor Offences Branch, Cinnamon Garden Police Station, Colombo 07. 3. Mr. Ajantha, Police Constable(18982), Cinnamon Garden Police Station, Colombo 07. 4. Mr. Mendis, Sergeant, Cinnamon Garden Police Station, Colombo 07. 5. Mr. Roshan De Silva, Assistant Superintendent of Police, Office of Assistant Superintendent of Police, Gampaha. 6. Mr. Anura Senanayake, Deputy Inspector General of Police, Police Head Quarters, Colombo 01. 7. Mr. Panditheratne, Area Manager, Ceylon Electricity Board, High Level Road, Kirulapone, Colombo 06. 8. Mr. Sivapatham Vakeesan, No. 35, Torrington Avenue, Colombo 07. 9. Mrs. Nirmala Vakeesan nee Velliampalam, No. 35, Torrington Avenue, Colombo 07. 10. Inspector General of Police, Police Head Quarters, Colombo 01. 11. Hon. Attorney General, Attorney General\u2019s Department, Hulfsdrop, Colombo 12. RESPONDENTS\n\nView More",
-    "judgement_by": "Hon. K. Kumudini Wickremasinghe J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_131_2022.pdf",
+    "parties": "Kadigamuwage Dumindu Kalyan P/108, Torrington Housing Complex, Torrington Avenue, Colombo 05. Petitioner Vs. 1. Director, Cultural Affairs, Department of Cultural Affairs, 8th Floor, Sethsiripaaya, Battaramulla. 2. Hon. Minister of Buddhasasana, Religious and Cultural Affairs, Ministry of Buddhasasana, Religious and Cultural Affairs 135, Srimath Anagarika Dharmapala Mawatha, Colombo 07. 3. Secretary to the Ministry of Cultural Affairs, Ministry of Buddhasasana, Religious and Cultural Affairs, 135, Srimath Anagarika Dharmapala Mawatha, Colombo 07. 4. M.L. Sunil Fernando, Retired Additional Secretary of Sri Lanka Administrative Service, No. 937/27, Pothuwarawa road, Malabe. 5. Gardihewa Anusha Gokula, No. 24/25 B, Dankanattha Road, Mabola, Wattala. 6. Secretary to the Public Service Commission, No. 1200/9, Rajamalwattha Road, Battaramulla. 7. Hon. Attorney General, Attorney General\\'s Department, Hulftsdorp street, Colombo 12. Respondents\n\nView More",
+    "judgement_by": "Hon. Menaka Wijesundera J"
 }
 ```
 
@@ -42,6 +42,11 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-03-26 | `SC/FR/131/2022` | Hon. Menaka Wijesundera J - Kadigamuwage Dumindu Kalyan P... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-26-SC-FR-131-2022)
+- 2026-03-26 | `SC/CHC APPEAL/38/2023` | Hon. M. Sampath K. B. Wijeratne J - Pasan Madanayake No. 31, De F... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-26-SC-CHC-APPEAL-38-2023)
+- 2026-03-26 | `SC/CHC APPEAL/102/2018` | Hon. Mahinda Samayawardhena J - M.D. Sivakumara, Carrying on ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-26-SC-CHC-APPEAL-102-2018)
+- 2026-03-26 | `SC/CHC APPEAL/10/2017` | Hon. Mahinda Samayawardhena J - Allianz Insurance Lanka Ltd, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-26-SC-CHC-APPEAL-10-2017)
+- 2026-03-26 | `SC/APPEAL/81/2011` | Hon. Mahinda Samayawardhena J - Michael Laurents Cyrille Cade... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-26-SC-APPEAL-81-2011)
 - 2026-03-23 | `SC/FR/328/2011` | Hon. K. Kumudini Wickremasinghe J - Dr. Indrani Swarna Hassanally... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-FR-328-2011)
 - 2026-03-23 | `SC/CHC APPEAL/66/2014` | Hon. K. Kumudini Wickremasinghe J - Ceylinco Profit Sharing Inves... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-CHC-APPEAL-66-2014)
 - 2026-03-23 | `SC/APPEAL/8/2018` | Hon. A.H.M.D.Nawaz J - K. Nihal Alias Patty, 16, Sam... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-23-SC-APPEAL-8-2018)
@@ -57,11 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-03-20 | `SC/APPEAL/36/2018` | Hon. Yasantha Kodagoda PC J - Sithy Fareeda Jeganathan No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-36-2018)
 - 2026-03-20 | `SC/APPEAL/29/2024` | Hon. Mahinda Samayawardhena J - 1. Rajapaksha Pedige Sajeewa ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-29-2024)
 - 2026-03-20 | `SC/APPEAL/29/2021` | Hon. Menaka Wijesundera J - 1. Hussain Saad Hashim \"Alha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-29-2021)
-- 2026-03-20 | `SC/APPEAL/138/2022` | Hon. M. Sampath K. B. Wijeratne J - Sri Lanka Catering Limited, A... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-20-SC-APPEAL-138-2022)
-- 2026-03-19 | `SC/HCCA APPEAL/242/2016` | Hon. A.H.M.D.Nawaz J - Denis Crystal Mary Peterson, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-HCCA-APPEAL-242-2016)
-- 2026-03-19 | `SC/FR/397/2019` | Hon. Achala Wengappuli J - 1. Wanigasundara Appuhamilage... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-397-2019)
-- 2026-03-19 | `SC/FR/360/2022` | Hon. A.H.M.D.Nawaz J - 1. Sumith Prasanna Niroshan F... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-360-2022)
-- 2026-03-19 | `SC/FR/327/2015` | Hon. Janak De Silva J - 1. W. Sunil Abeysiri, 2. M.M.... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-19-SC-FR-327-2015)
 
 ---
 
