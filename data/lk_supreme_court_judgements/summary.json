@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-03-31 18:41:23",
-  "n_docs": 2666,
-  "n_docs_with_pdfs": 1846,
-  "n_docs_with_text": 1846,
+  "time_updated": "2026-04-01 06:59:58",
+  "n_docs": 2672,
+  "n_docs_with_pdfs": 1852,
+  "n_docs_with_text": 1852,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
   "date_str_max": "2026-03-31",
-  "dataset_size": 1638118635,
+  "dataset_size": 1646411023,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-03-31-SC-CHC-APPEAL-76-2018",
-    "num": "SC/CHC APPEAL/76/2018",
+    "doc_id": "2026-03-31-SC-FR-6-2018",
+    "num": "SC/FR/6/2018",
     "date_str": "2026-03-31",
-    "description": "Hon. Mahinda Samayawardhena J - J. M. Wijeratne, No.120, Kand...",
+    "description": "Hon. Justice Janak De Silva - Pathmasiri Dissanayakalage Pr...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc_appeal_76_2018.pdf",
-    "parties": "J. M. Wijeratne, No.120, Kandalama Road, Dambulla. Defendant-Appellant Vs. Ceylon Grain Elevators PLC, No. 15, Rock House Lane, Colombo 15. Plaintiff-Respondent\n\nView More",
-    "judgement_by": "Hon. Mahinda Samayawardhena J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_6_2018.pdf",
+    "parties": "Pathmasiri Dissanayakalage Priyalal Chaminda Sirisena, 238/10, School Lane, Kanduboda, Delgoda. PETITIONER Vs. 1. Madushanka Dias, Officer in Charge of Miscellaneous Complaints Unit, Police Station, Negombo. 2. Wootler Udayakumara, Headquarters Inspector, Negombo Police Station, Negombo. 3. The Inspector General of Police, Police Headquarters, Colombo 01 4. Hon. Attorney General Attorney General\u2019s Department, Hulftsdorp, Colombo 12. RESPONDENTS\n\nView More",
+    "judgement_by": "Hon. Justice Janak De Silva"
   }
 }
