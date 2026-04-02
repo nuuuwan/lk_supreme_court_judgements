@@ -1,0 +1,1256 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      85.44,
+      72.05,
+      528.97,
+      87.83
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      284.64,
+      87.89,
+      542.65,
+      188.15
+    ],
+    "text": "In the matter of an appeal under and in terms of Article 128 of the Constitution of the Democratic Socialist Republic of Sri Lanka read with Section 5C(1) of the High Court of the Provinces (Special Provisions) Act, No. 19 of 1990, as amended",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      189.41,
+      290.92,
+      268.67
+    ],
+    "text": "SC Appeal No: 59/2015 SC/HC/CALA No: 177/2012 NWP/HCCA/KUR/70/2005 (F) DC Kurunegala Case No: 5226/P",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      284.64,
+      268.73,
+      371.76,
+      347.99
+    ],
+    "text": "W.D. Somasiri, Udakandawala, Melsiripura. PLAINTIFF",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      284.64,
+      348.05,
+      460.01,
+      570.23
+    ],
+    "text": "- Vs \u2013 1. E.M. Seelawathie, Nugagaha Yatin Yana Road, Naabata, Melsiripura. 2. B.M. Weerakoon Banda, Kalugahakumbura, Udakandawela, Melsiripura. DEFENDANTS",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      284.64,
+      570.29,
+      358.16,
+      601.91
+    ],
+    "text": "And between",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      284.64,
+      601.97,
+      448.6,
+      713.03
+    ],
+    "text": "B.M. Weerakoon Banda, Kalugahakumbura, Udakandawela, Malsiripura. 2ND DEFENDANT \u2013 APPELLANT",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      729.07,
+      542.48,
+      755.95
+    ],
+    "text": "2",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.64,
+      72.05,
+      427.5,
+      198.95
+    ],
+    "text": "- Vs - W.D. Somasiri, Udakandawala, Melsiripura. PLAINTIFF \u2013 RESPONDENT",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.64,
+      199.01,
+      457.42,
+      309.95
+    ],
+    "text": "E.M. Seelawathie, Nugagaha Yatin Yana Road, Naabata, Melsiripura. 1ST DEFENDANT \u2013 RESPONDENT",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.64,
+      310.13,
+      386.51,
+      341.75
+    ],
+    "text": "And now between",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.64,
+      341.81,
+      504.65,
+      436.91
+    ],
+    "text": "W.D. Somasiri, Udakandawala, Melsiripura. PLAINTIFF \u2013 RESPONDENT \u2013 APPELLANT",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.64,
+      437.09,
+      545.44,
+      690.83
+    ],
+    "text": "Vs B.M. Weerakoon Banda, Kalugahakumbura, Udakandawela, Malsiripura. 2ND DEFENDANT \u2013 APPELLANT \u2013 RESPONDENT E.M. Seelawathie, Nugagaha Yatin Yana Road, Naabata, Melsiripura. 1ST DEFENDANT \u2013 RESPONDENT \u2013 RESPONDENT",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      729.07,
+      542.48,
+      755.95
+    ],
+    "text": "3",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      72.05,
+      536.87,
+      167.15
+    ],
+    "text": "Before: Kumudini Wickremasinghe, J Arjuna Obeyesekere, J Sampath B. Abayakoon, J Counsel: Dr. Sunil Cooray with Sudarshini Cooray for the Plaintiff \u2013 Respondent \u2013 Appellant",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      167.21,
+      542.57,
+      440.27
+    ],
+    "text": "Rohan Sahabandu, PC with Chathurika Elvitigala and S. Senanayake for the 2nd Defendant \u2013 Appellant \u2013 Respondent Argued on: 25th September 2025 Written Tendered on behalf of the Plaintiff \u2013 Respondent \u2013 Appellant on 26th Submissions: October 2015 Tendered on behalf of the 2nd Defendant \u2013 Appellant \u2013 Respondent on 20th May 2016 Decided on: 2nd April 2026 Obeyesekere, J (1) The Plaintiff \u2013 Respondent \u2013 Appellant [the Plaintiff] filed action in the District Court",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      443.1,
+      542.74,
+      627.47
+    ],
+    "text": "of Kurunegala [the District Court] on 27th October 1999 seeking to partition the land referred to in the Schedule to the plaint. The 1st Defendant \u2013 Respondent \u2013 Respondent [the 1st Defendant] and the 2nd Defendant \u2013 Appellant \u2013 Respondent [the 2nd Defendant] having filed their Statement of Claim and the parties having raised their points of contest, the matter proceeded to trial. By its judgment dated 18th April 2006, the District Court allotted 1/4th share to the Plaintiff and 1/2 share to the 1st Defendant. The District Court did not allot any share to the 2nd Defendant and the balance 1/4th share remained unallotted. (2) Dissatisfied, the 2nd Defendant filed an appeal in the Provincial High Court of the",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.32,
+      630.77,
+      542.44,
+      703.67
+    ],
+    "text": "North Western Province holden at Kurunegala exercising civil appellate jurisdiction [the High Court]. The High Court allowed the appeal and dismissed the Plaintiff\u2019s action. This appeal by the Plaintiff arises from the said judgment. Leave to appeal was granted on 16th March 2015 on four questions of law raised by the Plaintiff and",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      729.07,
+      542.48,
+      755.95
+    ],
+    "text": "4",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.32,
+      71.82,
+      542.75,
+      107.03
+    ],
+    "text": "a further question of law raised on behalf of the 2nd Defendant. All five questions of law have been re-produced at paragraphs 19 and 20 of this judgment.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      110.09,
+      542.42,
+      176.87
+    ],
+    "text": "Facts in brief (3) The Plaintiff stated that (a) by maternal inheritance of Basnayake Mudiyanselage",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      179.7,
+      542.79,
+      306.95
+    ],
+    "text": "Bandara Menike, P.M. Premawathie became the owner of 1/4th of the land referred to in the Schedule to the Plaint, (b) Premawathie transferred her share by Deed No. 1504 dated 20th October 1954 [P1] to Hapuwa, that being the father of the Plaintiff, and (c) by Deed of Gift No. 10135 dated 4th October 1999 [P2], Hapuwa gifted his share to the Plaintiff. (4) The Plaintiff stated further that (a) Basnayake Mudiyanselage Muthu Banda was a",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      310.25,
+      542.92,
+      437.03
+    ],
+    "text": "co-owner of the said land and held 1/2 share, (b) having received the share of Muthu Banda by paternal inheritance, his son, Jayatilake Banda had transferred the said 1/2 share of the said land by Deed No. 414 dated 15th October 1934 [1V2] to Tikiri Banda, and (c) Tikiri Banda in turn had transferred the said share by Deed No. 13067 dated 17th December 1985 [1V1] to Seelawathie, that being the 1st Defendant. (5) It was the position of the Plaintiff that he did not know who owned the balance 1/4th",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.0,
+      439.98,
+      542.82,
+      586.19
+    ],
+    "text": "share of the land but stated that the 2nd Defendant is in possession of that portion of the land and therefore named the 2nd Defendant as a party to the action. Having done so, the Plaintiff stated that he holds an undivided 1/4th share, the 1st Defendant holds an undivided 1/2 share and that the 2nd Defendant holds the balance undivided 1/4th share and moved that the land be partitioned accordingly and for possession of his 1/4th share to be given to him. (6) The 1st and 2nd Defendants filed a joint statement of claim. While claiming that",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.32,
+      589.49,
+      542.75,
+      681.47
+    ],
+    "text": "Bandara Menike, Premawathie, Hapuwa and the Plaintiff neither owned nor possessed 1/4th share of the land, the Defendants admitted that the 1st Defendant owns 1/2 share of the land by the deeds marked 1V1 and 1V2. Thus, one half of the pedigree pleaded by the Plaintiff and the Defendants was common in that both pedigrees admitted the title of the 1st Defendant.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      729.07,
+      542.48,
+      755.95
+    ],
+    "text": "5",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      72.17,
+      542.43,
+      87.95
+    ],
+    "text": "(7) The dispute is with regard to the balance 1/2 share. The Defendants stated further",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.32,
+      91.25,
+      542.92,
+      335.51
+    ],
+    "text": "that the balance 1/2 share was owned by Bandare and through paternal inheritance, Bannaka Mudiyanselage Guneratne Banda, that being the father of the 2nd Defendant became the owner of the said 1/2 share. According to the birth certificate of the 2nd Defendant [2V1], the full name of Bandare is Bannaka Mudiyanselage Bandare. Guneratne Banda had transferred 1/2 share out of his share [i.e. 1/4th share of the land] by Deed No. 17150 dated 4th April 1975 [2V2] to his wife, Ukku Amma, who is the mother of the 2nd Defendant. The 2nd Defendant claimed that Ukku Amma transferred her share to the 2nd Defendant by Deed No. 37036 dated 20th January 1978 [2V3]. The 2nd Defendant stated further that the other 1/4th share of the land held by Guneratne Banda devolved on the 2nd Defendant upon the death of his father. Thus, the 2nd Defendant claimed that he is the owner of the entirety of the balance half of the land, leaving the Plaintiff with no entitlement to the 1/4th share claimed by him.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      338.69,
+      542.52,
+      370.43
+    ],
+    "text": "(8) According to the Commission Plan No. 6741, Lot No. 2 in extent of 1R 12P is",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      373.38,
+      542.85,
+      497.39
+    ],
+    "text": "possessed by the 1st Defendant while Lot No. 1 in extent of 1R 15P is possessed by the 2nd Defendant, with the two lots separated by a fence. The Defendants therefore moved that the action be dismissed. Trial before the District Court and judgment of the District Court (9) The admissions and points of contest were raised on 6th May 2005. While the",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      500.34,
+      542.92,
+      646.55
+    ],
+    "text": "Plaintiff gave evidence and led the evidence of one more witness, the 1st and 2nd Defendants gave evidence and led the evidence of the Surveyor who prepared the Commission Plan. It is clear from the evidence that the parties did not dispute the identity or the location of the land sought to be partitioned, nor the fact that the 1st Defendant owned 1/2 share of the land. It must also be noted that the boundaries set out in the schedule to the deeds produced by all three parties are identical. (10) The Plaintiff produced the land registry extract relating to the said land [P3] which",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.32,
+      649.85,
+      542.72,
+      703.67
+    ],
+    "text": "shows the registration of 1V2 in 1934, followed by P1 in 1954, 1V1 in 1985 and P2 in 1999. The two title deeds of the 2nd Defendant have not been registered in this folio, although 2V2 and 2V3 were executed in 1975 and 1978, respectively.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      729.07,
+      542.48,
+      755.95
+    ],
+    "text": "6",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      72.17,
+      542.54,
+      179.99
+    ],
+    "text": "According to 2V2, a search has not been carried out and 2V2 had been registered in a new folio, even though there was sufficient space in in P3 to record 2V2. To my mind, such a course of action gives rise to a doubt with regard to the authenticity of the pedigree pleaded by the 2nd Defendant. (11) The judgment of the District Court was delivered by the same Judge before whom",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.32,
+      183.29,
+      542.87,
+      294.23
+    ],
+    "text": "the admission and points of contest were raised and the entirety of the evidence was led. Thus, due regard must be had of this fact when considering the judgment of the District Court, since especially in such a situation an appellate Court must be slow to interfere with the findings of the trial court [see Kapugama Wansagamage Dona Murin and others v Ranatunga Arachchige Chandra and others; SC Appeal No. 19/2012; SC minutes of 31st March 2026].",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      297.53,
+      542.43,
+      330.47
+    ],
+    "text": "(12) With regard to the title of the Plaintiff, the District Court held that (a) P1 has been",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.32,
+      333.65,
+      542.83,
+      425.63
+    ],
+    "text": "registered in 1954 whereas 2V2 has been registered only in 1975, and (b) therefore priority must be afforded to P1, and P1 must be afforded a higher evidential value than 2V2. Having rejected the pedigree pleaded by the 2nd Defendant for the balance 1/2 share of the land on this basis, the District Court also held that the 2nd Defendant is not a co-owner of the land. I am in agreement with both findings.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      428.81,
+      542.53,
+      460.55
+    ],
+    "text": "(13) The 2nd Defendant had pleaded in the Statement of Claim that even if Court holds",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.32,
+      463.85,
+      542.45,
+      574.79
+    ],
+    "text": "that the Plaintiff has title, he has nevertheless acquired prescriptive title to the balance 1/2 share of the land. The District Court has held that possession follows ownership and where a person has proved ownership which is now being challenged by another on the basis of possession, such person must establish by evidence that he has ousted the owner and has acquired possession which is adverse to that of the person having paper title.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.0,
+      577.97,
+      542.46,
+      609.71
+    ],
+    "text": "(14) The District Court had thereafter considered the evidence with regard to",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.32,
+      612.66,
+      542.71,
+      685.91
+    ],
+    "text": "prescription and concluded that even though the 2nd Defendant had built a house on the said land, that does not establish that he had acquired prescriptive title to the land claimed by the Plaintiff. The District Court had held further that in any event, the 2nd Defendant has not established the boundaries of the land that he",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      729.07,
+      542.48,
+      755.95
+    ],
+    "text": "7",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100.32,
+      72.17,
+      542.42,
+      107.03
+    ],
+    "text": "claims to have prescribed. Thus, any residual claim to the balance 1/2 share of the land on the basis of prescription has been rejected by the District Court.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      110.09,
+      542.28,
+      141.95
+    ],
+    "text": "(15) Having arrived at the said conclusions, the District Court allowed the partitioning of",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      144.78,
+      542.92,
+      268.91
+    ],
+    "text": "the land with the Plaintiff being allotted 1/4th share, the 1st Defendant 1/2 share and left the other 1/4th share unallotted. The District Court also held that the 2nd Defendant has no soil rights and that he shall dismantle the house built by him. The judgment of the High Court (16) The High Court took the view that the pedigree pleaded by the Plaintiff is incomplete",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      271.74,
+      542.81,
+      456.11
+    ],
+    "text": "in that the Plaintiff has admitted that he does not know the owner of 1/4th share of the land, and that in any event, the Plaintiff has not been able to show from whom Bandara Menike and Muthu Banda got title and whether there was an original owner common to both of them. On that basis, the High Court has rejected the pedigree pleaded by the Plaintiff. I must perhaps state that for the same reason, the High Court held that the pedigree pleaded by the Defendants too is incomplete but held that it has no significance since the Defendants are not seeking to partition the land. (17) The High Court also took the view that the position of the District Court that priority",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100.32,
+      459.41,
+      542.44,
+      494.15
+    ],
+    "text": "must be afforded to the title of the Plaintiff is flawed since the two deeds emanate from two separate pedigrees and hence, P1 and 2V2/2V3 are not competing deeds.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      497.33,
+      542.46,
+      529.07
+    ],
+    "text": "(18) The High Court observed that the reference to prescription in the Statement of Claim",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      100.32,
+      532.02,
+      542.97,
+      662.39
+    ],
+    "text": "is incidental to the paper title of the 2nd Defendant and that in any event, the 2nd Defendant \u201cdoes not claim prescriptive title as against an owner having paper title in which case the Court has to consider questions as to when the prescription commenced and the question of ouster. It is not the position of the 2nd Defendant that he has no paper title to this land but he had acquired rights on prescription.\u201d The High Court however stated that, \u201cIt is highly probable that even if P1 has conveyed any title to Hapuwa it has now been prescribed.\u201d",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      665.57,
+      440.27,
+      716.27
+    ],
+    "text": "(19) The High Court accordingly dismissed the action of the Plaintiff.",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      729.07,
+      542.48,
+      755.95
+    ],
+    "text": "8",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      72.17,
+      542.34,
+      122.87
+    ],
+    "text": "Questions of Law (20) Leave to appeal has been granted on the following questions of law raised by the",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      100.32,
+      126.17,
+      542.68,
+      214.91
+    ],
+    "text": "Plaintiff: (a) Did the High Court err in holding that the 2nd Defendant had prescribed to the entirety of Lot No. 1 in Plan No. 6741? (b) Did the High Court err in holding that the 2nd Defendant is entitled to 1/2 share",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      100.32,
+      218.21,
+      542.73,
+      326.03
+    ],
+    "text": "of the land to be partitioned, whereas according to his deeds, he was only entitled to 1/4th share? (c) Did the High Court err in not appreciating that the Plaintiff has a deed by which he is entitled to 1/4th share? (d) Did the High Court err in holding that the 2nd Defendant has proved his",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      329.21,
+      542.63,
+      379.91
+    ],
+    "text": "pedigree against the pedigree of the Plaintiff? (21) The learned President\u2019s Counsel for the 2nd Defendant raised the following question",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      383.21,
+      542.67,
+      529.07
+    ],
+    "text": "of law \u2013 \u201cThis being a partition action, was there sufficient investigation and examination of the title by the District Court.\u201d Although raised as an additional question of law, the said question was subsumed in the questions of law raised by the Plaintiff. However, at the hearing of this appeal, the learned President\u2019s Counsel for the 2nd Defendant informed that he would not be pursuing with the said question of law raised by him. (22) I have already stated that of the two pedigrees that were before Court, one half is",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      532.02,
+      542.92,
+      719.39
+    ],
+    "text": "common, that being the share of the 1st Defendant. The Plaintiff is not claiming the entirety of the balance half but is relying on P1 for 1/4th share only. In support of his claim, the Plaintiff has produced P1 which has been executed in 1954 and which has been registered in the same folio where 1V2 by which the predecessor of the 1st Defendant got title and 1V1 by which the 1st Defendant got title, has been registered. I must state that I am not in agreement with the finding of the High Court that the pedigree pleaded by the Plaintiff cannot be accepted since it is not complete, for the reason that to say so would be to disregard the pedigree of the 1st Defendant that both parties have admitted.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      729.07,
+      542.48,
+      755.95
+    ],
+    "text": "9",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      71.82,
+      542.62,
+      87.95
+    ],
+    "text": "(23) This brings me to the claim of the 2nd Defendant to the balance 1/2 share of the land.",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      90.9,
+      542.79,
+      305.39
+    ],
+    "text": "The 2nd Defendant claims that his father Guneratne Banda became the owner of 1/2 share by paternal inheritance. The only proof of paper title is 2V2 by which Guneratne Banda had transferred 1/4th share of the entire land to his wife, Ukku Amma in 1975 and who in turn transferred the said 1/4th share to the 2nd Defendant in 1978 by 2V3. While the integrity of 2V2 and 2V3 are in doubt due to it not being registered in the same folio as 1V1 and 1V2, even if they are accepted, there is a lacuna with regard to the other 1/4th share of the entire land that the 2nd Defendant claims Bandare possessed, for the reason that the 2nd Defendant did not lead any evidence to establish that Bandare or Guneratne Banda possessed and enjoyed the said 1/4th share adverse to that of the Plaintiff or his predecessors in title. (24) In deciding which of the two pedigrees is acceptable, the District Court took the view",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100.32,
+      308.57,
+      542.5,
+      362.51
+    ],
+    "text": "that the pedigree pleaded by the Plaintiff must be accepted since P1 has priority. Taking into consideration the above facts and the reasoning adduced by the District Court, I must reiterate that I am in agreement with such conclusion.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      359.45,
+      542.84,
+      389.51
+    ],
+    "text": "(25) The only issue that is left to be considered is whether the 2nd Defendant has",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100.32,
+      392.69,
+      542.92,
+      541.79
+    ],
+    "text": "prescribed to the balance 1/2 share of the land. The High Court did not make a positive pronouncement on this issue since it took the view that the Plaintiff has not proved its paper title. Here too, I am in agreement with the District Court that the 2nd Defendant has not established through evidence the manner in which the Plaintiff had been ousted from his share, or when such ouster took place. Even though the Plaintiff has admitted that the 2nd Defendant is in possession of 1/4th share of the land, I am in agreement with the District Court that the 2nd Defendant has not established prescription against the 1/4th share owned by the Plaintiff.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      544.97,
+      542.39,
+      576.71
+    ],
+    "text": "(26) There is one matter that I wish to advert to prior to concluding. The District Court",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      100.32,
+      579.66,
+      542.92,
+      710.03
+    ],
+    "text": "held that the 2nd Defendant must remove the house he has built and vacate Lot No.1 in Plan No. 6741. In my view, vacating from the entirety of Lot No.1 is not necessary since the Plaintiff is only claiming 1/4th share of the land. Thus, I am of the view that the finding of the District Court in this regard must be set aside. In allotting the 1/4th share that the Plaintiff is entitled to, due regard shall be had to the land on which the Defendants have constructed permanent dwelling units, and such land shall be excluded from the land allotted to the Plaintiff.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      729.07,
+      542.42,
+      755.95
+    ],
+    "text": "10",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      11.019074440002441
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      72.05,
+      542.47,
+      138.71
+    ],
+    "text": "Conclusion (27) In the above circumstances, I am of the view that the High Court erred when it",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      100.32,
+      142.01,
+      542.78,
+      303.83
+    ],
+    "text": "dismissed the action of the Plaintiff. Accordingly, the questions of law are answered as follows: (a) Although the High Court did not make a specific finding that the 2nd Defendant has prescribed to the entirety of Lot No.1 in Plan No. 6741, had any such finding been made, such a finding would have been erroneous since it is not supported by evidence; (b) - (d) \u2013 Yes.",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.503874778747559,
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      306.89,
+      542.38,
+      338.63
+    ],
+    "text": "(28) The judgment of the High Court is accordingly set aside and subject to the above",
+    "fonts": [
+      "CIDFont+F2",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      341.93,
+      542.51,
+      443.27
+    ],
+    "text": "variation, the judgment of the District Court is affirmed. This appeal is allowed, subject to the said variation, without costs.",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      443.33,
+      506.88,
+      538.55
+    ],
+    "text": "JUDGE OF THE SUPREME COURT Kumudini Wickremasinghe, J I agree",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      538.61,
+      503.78,
+      633.71
+    ],
+    "text": "JUDGE OF THE SUPREME COURT Sampath B. Abayakoon, J I agree.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      633.77,
+      504.04,
+      665.63
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.935474395751953
+    ]
+  }
+]
