@@ -1,0 +1,5505 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 1 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.18,
+      74.66,
+      528.87,
+      87.62
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.45,
+      100.94,
+      542.81,
+      186.86
+    ],
+    "text": "In the matter of an appeal in terms of section 754(1) of the Civil Procedure Code read with section 5(1) of the High Court of the Provinces (Special Provisions) Act No. 10 of 1996.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.45,
+      200.18,
+      381.24,
+      213.14
+    ],
+    "text": "People\u2019s Bank,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.45,
+      224.06,
+      525.39,
+      237.02
+    ],
+    "text": "No. 75, Sir Chittampalam A. Gardiner Mw,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.45,
+      247.97,
+      378.36,
+      260.93
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      485.98,
+      295.61,
+      546.03,
+      308.57
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.45,
+      321.89,
+      323.52,
+      334.85
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.45,
+      345.77,
+      450.15,
+      358.73
+    ],
+    "text": "Somerville & Company Ltd,",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      369.65,
+      512.55,
+      382.61
+    ],
+    "text": "P.O. Box 146, No. 137, Vauxhall Street,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      393.53,
+      378.72,
+      406.49
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      473.98,
+      417.43,
+      543.03,
+      430.39
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.45,
+      443.71,
+      420.96,
+      456.67
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      469.87,
+      451.23,
+      482.83
+    ],
+    "text": "Somerville & Company Ltd,",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      493.75,
+      509.67,
+      506.71
+    ],
+    "text": "P.O. Box 146, No. 137, Vauxhall Street,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      517.63,
+      381.6,
+      530.59
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      399.67,
+      541.51,
+      546.03,
+      554.47
+    ],
+    "text": "DEFENDANT \u2013 APPELLANT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      567.82,
+      320.04,
+      580.78
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.45,
+      594.1,
+      381.24,
+      607.06
+    ],
+    "text": "People\u2019s Bank,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.45,
+      617.86,
+      525.39,
+      630.82
+    ],
+    "text": "No. 75, Sir Chittampalam A. Gardiner Mw,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.45,
+      641.74,
+      378.36,
+      654.7
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      400.03,
+      665.62,
+      543.03,
+      678.58
+    ],
+    "text": "PLAINTIFF \u2013 RESPONDENT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.26,
+      306.89,
+      256.42,
+      374.86
+    ],
+    "text": "S.C. C.H.C. Appeal No. 69/2012 Commercial High Court Case No: HC/CIVIL/35/2008",
+    "fonts": [
+      "Aptos,Bold",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 2 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      74.66,
+      376.32,
+      87.62
+    ],
+    "text": "Before : Hon. Janak De Silva, J.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      106.46,
+      403.8,
+      119.42
+    ],
+    "text": "Hon. Priyantha Fernando. J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.05,
+      138.26,
+      422.28,
+      151.22
+    ],
+    "text": "Hon. Sampath B. Abayakoon, J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      190.82,
+      542.81,
+      203.78
+    ],
+    "text": "Counsel : Kuwera de Zoysa, P.C. with Randeewari Arangala for the",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.02,
+      214.58,
+      371.16,
+      227.54
+    ],
+    "text": "Defendant - Appellant",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.05,
+      270.29,
+      542.86,
+      283.25
+    ],
+    "text": "Kushan De Alwis, P.C., with Chamila Wickramanayake",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.05,
+      294.05,
+      543.03,
+      307.01
+    ],
+    "text": "and Shashendra Mudannayake for the Plaintiff -",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.05,
+      317.93,
+      318.24,
+      330.89
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      375.89,
+      537.03,
+      388.85
+    ],
+    "text": "Written Submissions : 25.01.2022 and 18.08.2025 by Defendant - Appellant",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.05,
+      407.71,
+      515.91,
+      420.67
+    ],
+    "text": "18.02.2022 and 19.08.2025 by Plaintiff-Appellant",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      439.51,
+      314.28,
+      452.47
+    ],
+    "text": "Argued on : 30.05.2025",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      465.79,
+      314.28,
+      478.75
+    ],
+    "text": "Decided on : 08.05.2026",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      497.59,
+      164.83,
+      510.55
+    ],
+    "text": "Janak De Silva, J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      529.39,
+      539.95,
+      542.35
+    ],
+    "text": "The Plaintiff\u2013Respondent (Respondent) instituted this action against the Defendant\u2013",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      553.27,
+      543.03,
+      566.23
+    ],
+    "text": "Appellant (Appellant) before the Commercial High Court of Colombo seeking inter alia a",
+    "fonts": [
+      "Calibri",
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      577.06,
+      542.65,
+      590.02
+    ],
+    "text": "judgement and decree in a sum of Rs. 38,860,841.74/= and interest at 34% per annum on",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      600.82,
+      542.87,
+      613.78
+    ],
+    "text": "the said sum from 31.03.2006 until the date of the decree and thereafter legal interest on",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      624.7,
+      361.2,
+      637.66
+    ],
+    "text": "the aggregate sum of the decree until payment in full.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      656.5,
+      542.72,
+      669.46
+    ],
+    "text": "The Respondent led two witnesses and produced documents marked X1 to X16 in support",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      680.26,
+      542.88,
+      693.22
+    ],
+    "text": "of its case. The Appellant did not lead any evidence, but produced documents marked V1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      704.02,
+      122.59,
+      716.98
+    ],
+    "text": "to V3(c).",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 3 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      74.66,
+      542.94,
+      87.62
+    ],
+    "text": "The learned trial judge awarded a sum of Rs. 38,860,841.74/= but did not enter judgment",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      98.42,
+      542.72,
+      111.38
+    ],
+    "text": "as prayed for in the plaint. Instead, he entered judgment awarding 16.75% interest on Rs.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      122.3,
+      543.01,
+      135.26
+    ],
+    "text": "15 million and 34% interest on the balance (Rs. 38,860,841.74 \u2013 Rs. 15,00,000.00). The",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      146.06,
+      314.52,
+      159.02
+    ],
+    "text": "Appellant appeals against the said judgment.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      177.86,
+      219.46,
+      190.82
+    ],
+    "text": "Position of the Respondent",
+    "fonts": [
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      209.66,
+      542.98,
+      222.62
+    ],
+    "text": "The Appellant made an application for a Permanent Overdraft Facility (POD) of Rs.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      233.54,
+      543.0,
+      246.5
+    ],
+    "text": "15,000,000/- and on or about 14.02.2005 the Respondent granted the POD to the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      257.33,
+      230.86,
+      270.29
+    ],
+    "text": "Appellant at 16.75% interest.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      289.13,
+      542.58,
+      302.09
+    ],
+    "text": "However, in the event of payments have been duly made a reduced rate of interest of",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      312.89,
+      542.98,
+      325.85
+    ],
+    "text": "12.75% was applicable for the POD. Further if the Appellant exceeded the permanent",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      336.77,
+      542.99,
+      349.73
+    ],
+    "text": "overdraft limit, the rate of interest applicable for the Temporary Overdraft Facility (TOD)",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      360.53,
+      503.19,
+      373.49
+    ],
+    "text": "would be applicable for the amount in excess over the permanent overdraft limit.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      392.33,
+      542.82,
+      405.29
+    ],
+    "text": "On 28.02.2005, the Appellant exceeded the POD limit for the first time by a sum of Rs.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      416.11,
+      542.46,
+      429.07
+    ],
+    "text": "40,787/17. Accordingly, a sum of Rs. 5,239/73 has been charged as the interest for the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      439.99,
+      542.59,
+      452.95
+    ],
+    "text": "permanent overdraft and a sum of Rs. 39/11 has been charged as a temporary overdraft",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      463.75,
+      296.14,
+      476.71
+    ],
+    "text": "interest for the said sum of Rs. 40,487/17.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      495.55,
+      542.67,
+      508.51
+    ],
+    "text": "Thereafter upon the requests of the Appellant, the Respondent granted overdraft facilities",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      519.43,
+      444.99,
+      532.39
+    ],
+    "text": "to the Appellant subject to a lien over a fixed deposit of the Appellant.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      551.23,
+      412.44,
+      564.19
+    ],
+    "text": "Accordingly, the POD limit was increased up to Rs. 30,750,000/-.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      583.06,
+      542.55,
+      596.02
+    ],
+    "text": "The Respondent granted further overdrafts to the Appellant by way of Real Time Gross",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      606.82,
+      542.96,
+      619.78
+    ],
+    "text": "Settlement (RTGS) amounting to Rs. 319,431/45, Rs. 886,823/41, Rs. 1,500,000/- and Rs.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      630.58,
+      139.27,
+      643.54
+    ],
+    "text": "118,251/64.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      662.38,
+      502.95,
+      675.34
+    ],
+    "text": "The Respondent charged interest at 34% for overdue temporary overdraft facility.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 4 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      74.66,
+      542.52,
+      87.62
+    ],
+    "text": "The Respondent requested the Appellant to bring the debit balance of the said current",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      98.42,
+      542.52,
+      111.38
+    ],
+    "text": "account of the Appellant within the permanent overdraft limit by depositing monies to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      122.3,
+      543.01,
+      135.26
+    ],
+    "text": "the said account. Notwithstanding the same, the Appellant failed to deposit monies to the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      146.06,
+      188.86,
+      159.02
+    ],
+    "text": "said current account.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      177.86,
+      542.69,
+      190.82
+    ],
+    "text": "As the Appellant failed to deposit monies to the said current account and bring down the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      201.62,
+      542.63,
+      214.58
+    ],
+    "text": "overdrawn balance within the permanent overdraft limit as of 31.05.2006, the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      225.5,
+      542.51,
+      238.46
+    ],
+    "text": "Respondent uplifted the fixed deposits subjected to liens upon the request of the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      249.29,
+      542.58,
+      262.25
+    ],
+    "text": "Appellant. Accordingly, by 29.08.2006, the current account of the Appellant had been",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      273.17,
+      297.46,
+      286.13
+    ],
+    "text": "overdrawn by a sum of Rs. 38,857,891/74.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      304.97,
+      542.59,
+      317.93
+    ],
+    "text": "The Respondent on several occasions requested the Appellant to pay and settle the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      328.73,
+      542.93,
+      341.69
+    ],
+    "text": "outstanding balance of the said current account. However, as the Appellant failed and",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      352.49,
+      543.0,
+      365.45
+    ],
+    "text": "neglected to pay and settle the said outstanding sums to the Respondent, this action was",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      376.37,
+      101.35,
+      389.33
+    ],
+    "text": "filed.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      408.19,
+      208.18,
+      421.15
+    ],
+    "text": "Position of the Appellant",
+    "fonts": [
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      439.99,
+      542.63,
+      452.95
+    ],
+    "text": "The answer of the Appellant was a bare denial of the averments in the plaint without any",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      463.75,
+      542.7,
+      476.71
+    ],
+    "text": "substantive position. It was also stated that the alleged cause of action is prescribed and",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      487.51,
+      511.83,
+      500.47
+    ],
+    "text": "that the plaint is not in conformity with the provisions of the Civil Procedure Code.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      519.43,
+      542.98,
+      532.39
+    ],
+    "text": "In terms of Explanation 2 to Section 150 of the Civil Procedure Code, the case enunciated",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      543.19,
+      542.48,
+      556.15
+    ],
+    "text": "must reasonably accord with the party's pleading, i.e., plaint or answer, as the case may",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      566.98,
+      542.7,
+      579.94
+    ],
+    "text": "be. No party can be allowed to make at the trial a case materially different from that which",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      590.86,
+      542.94,
+      603.82
+    ],
+    "text": "he has placed on record, and which his opponent is prepared to meet. The facts proposed",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      614.62,
+      542.76,
+      627.58
+    ],
+    "text": "to be established must in the whole amount to so much of the material part of his case as",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      638.38,
+      304.66,
+      651.34
+    ],
+    "text": "is not admitted in his opponent's pleadings.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      670.18,
+      542.68,
+      683.14
+    ],
+    "text": "In the written submissions, the Appellant seeks to raise certain factual positions not taken",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      694.06,
+      303.94,
+      707.02
+    ],
+    "text": "up in the answer which cannot be allowed.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 5 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      74.66,
+      175.27,
+      87.62
+    ],
+    "text": "Grounds of Appeal",
+    "fonts": [
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      106.46,
+      389.16,
+      119.42
+    ],
+    "text": "The Appellant raised two main grounds of appeal. They are:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      136.25,
+      459.39,
+      151.22
+    ],
+    "text": "(1) The Respondent has failed to prove its claim of Rs. 38,860,841/74.",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      160.01,
+      542.43,
+      174.98
+    ],
+    "text": "(2) The learned trial judge has erred in failing to consider the contradictions and",
+    "fonts": [
+      "ArialMT",
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      185.9,
+      542.66,
+      198.86
+    ],
+    "text": "discrepancies of the evidence given on behalf of the Respondent on the applicable",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      209.66,
+      195.46,
+      222.62
+    ],
+    "text": "rate of interest.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      241.49,
+      543.03,
+      254.45
+    ],
+    "text": "Before proceeding to examine these grounds of appeal, let me examine the basic features",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      265.37,
+      196.3,
+      278.33
+    ],
+    "text": "of an overdraft facility.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      297.17,
+      542.9,
+      310.13
+    ],
+    "text": "My learned brother, Obeyesekere, J. in Nations Trust Bank v. N. Gamage Niruka",
+    "fonts": [
+      "Calibri",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      320.93,
+      543.01,
+      333.89
+    ],
+    "text": "Sudarshani Perera [S.C. C.H.C. Appeal No. 25/2022; S.C.M. 17.02.2026], referred to the",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      344.69,
+      546.03,
+      357.65
+    ],
+    "text": "following two English authorities which discusses the basic features of an overdraft facility.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      376.49,
+      543.01,
+      389.45
+    ],
+    "text": "In Peter Royston Voller v. Lloyds Bank PLC [No. B3/99/1177; 19.10.2000] Wells, J. held",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      400.39,
+      103.03,
+      413.35
+    ],
+    "text": "that:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      432.19,
+      542.49,
+      445.15
+    ],
+    "text": "\u201cIn my judgment, the position is very simple and well established as a matter of",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      455.95,
+      542.36,
+      468.91
+    ],
+    "text": "banking law and practice. It is this. If a current account is opened by a customer",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      479.71,
+      542.59,
+      492.67
+    ],
+    "text": "with a bank with no express agreement as to what the overdraft facility should be,",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      503.59,
+      542.54,
+      516.55
+    ],
+    "text": "then, in circumstances where the customer draws a cheque on the account which",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      527.35,
+      542.45,
+      540.31
+    ],
+    "text": "causes the account to go into overdraft, the customer, by necessary implication,",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      551.23,
+      542.41,
+      564.19
+    ],
+    "text": "requests the bank to grant the customer an overdraft of the necessary amount, on",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      575.02,
+      542.57,
+      587.98
+    ],
+    "text": "its usual terms as to interest and other charges. In deciding to honour the cheque",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      598.78,
+      334.2,
+      611.74
+    ],
+    "text": "the bank, by implication accepts the offer.\u201d",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 6 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      74.66,
+      542.87,
+      87.62
+    ],
+    "text": "The other authority is Barclays Bank Ltd v. W.J. Simms Son and Cooke (Southern) Ltd and",
+    "fonts": [
+      "Calibri",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      98.42,
+      320.28,
+      111.38
+    ],
+    "text": "Another [(1980) 1 QB 699] where Goff, J. held:",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      130.22,
+      542.53,
+      143.18
+    ],
+    "text": "\u201cIt is a basic obligation owed by a bank to its customer that it will honour on",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      154.1,
+      542.35,
+      167.06
+    ],
+    "text": "presentation cheques drawn by the customer on the bank, provided that there are",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      177.86,
+      542.39,
+      190.82
+    ],
+    "text": "sufficient funds in the customer\u2019s account to meet the cheque, or the bank has",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      201.62,
+      542.71,
+      214.58
+    ],
+    "text": "agreed to provide the customer with overdraft facilities sufficient to meet the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      225.5,
+      542.34,
+      238.46
+    ],
+    "text": "cheque. Where the bank honours such a cheque, it acts within its mandate, with",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      249.29,
+      542.58,
+      262.25
+    ],
+    "text": "the result that the bank is entitled to debit the customer\u2019s account with the amount",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      273.17,
+      542.72,
+      286.13
+    ],
+    "text": "of the cheque, and further that the bank\u2019s payment is effective to discharge the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      296.93,
+      542.3,
+      309.89
+    ],
+    "text": "obligation of the customer to the payee on the cheque, because the bank has paid",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      320.69,
+      357.84,
+      333.65
+    ],
+    "text": "the cheque with the authority of the customer.",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      352.49,
+      542.49,
+      365.45
+    ],
+    "text": "In other circumstances, the bank is under no obligation to honour its customer\u2019s",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      376.37,
+      542.43,
+      389.33
+    ],
+    "text": "cheques. If however a customer draws a cheque on the bank without funds in his",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      400.15,
+      542.49,
+      413.11
+    ],
+    "text": "account or agreed overdraft facilities sufficient to meet it, the cheque on",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      423.91,
+      542.66,
+      436.87
+    ],
+    "text": "presentation constitutes a request to the bank to provide overdraft facilities",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      447.79,
+      542.49,
+      460.75
+    ],
+    "text": "sufficient to meet the cheque. The bank has an option whether or not to comply",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      471.55,
+      542.69,
+      484.51
+    ],
+    "text": "with that request. If it declines to do so, it acts entirely within its rights and no legal",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      495.43,
+      542.7,
+      508.39
+    ],
+    "text": "consequences follow as between the bank and its customer. If however the bank",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      519.19,
+      542.39,
+      532.15
+    ],
+    "text": "pays the cheque, it accepts the request and the payment has the same legal",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      542.95,
+      542.41,
+      555.91
+    ],
+    "text": "consequences as if the payment had been made pursuant to previously agreed",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      566.86,
+      542.89,
+      579.82
+    ],
+    "text": "overdraft facilities; the payment is made within the bank\u2019s mandate, and in",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      590.62,
+      542.45,
+      603.58
+    ],
+    "text": "particular the bank is entitled to debit the customer\u2019s account, and the bank\u2019s",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      614.38,
+      509.31,
+      627.34
+    ],
+    "text": "payment discharges the customer\u2019s obligation to the payee on the cheque.\u201d",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 7 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      74.66,
+      542.98,
+      87.62
+    ],
+    "text": "Our Courts have adopted a similar approach. Wigneswaran J, in Gunawardena and others",
+    "fonts": [
+      "Calibri",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      98.42,
+      472.71,
+      111.38
+    ],
+    "text": "v. Indian Overseas Bank [(2001) 2 Sri.L.R.113 at 119-120] stated as follows:",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      130.22,
+      542.49,
+      143.18
+    ],
+    "text": "\u201cAn overdraft facility is afforded by a bank by permitting a customer to overdraw",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      154.1,
+      542.58,
+      167.06
+    ],
+    "text": "his current account up to certain limits. The current account being operative and in",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      177.86,
+      542.45,
+      190.82
+    ],
+    "text": "force the facility too will continue to be operative until cancelled and or unless the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      201.62,
+      542.37,
+      214.58
+    ],
+    "text": "money due to the bank is demanded by it. If the customer does not take steps to",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      225.5,
+      542.67,
+      238.46
+    ],
+    "text": "pay-off the overdrawn amount, interest will accrue on such overdrawn amount and",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      249.29,
+      542.61,
+      262.25
+    ],
+    "text": "shall continue to be a debt due to the bank until there is a repayment of the debt or",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      273.17,
+      542.51,
+      286.13
+    ],
+    "text": "cancellation of the debt. The overdraft facility itself will come to an end, as stated",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      296.93,
+      542.49,
+      309.89
+    ],
+    "text": "above, on the cancellation of the facility or when the bank demands repayment.",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      320.69,
+      542.47,
+      333.65
+    ],
+    "text": "This would be generally so unless there are special arrangements to the contrary.",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      344.57,
+      542.72,
+      357.53
+    ],
+    "text": "It was held in William and Glyn\u2019s Bank Ltd. Vs Barnes (1981 Com. LR 20) that in the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      368.33,
+      542.4,
+      381.29
+    ],
+    "text": "absence of special arrangements overdraft dues are repayable on demand and",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      392.09,
+      542.45,
+      405.05
+    ],
+    "text": "limitation (prescription) will begin to run from the promised date of repayment of",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      415.99,
+      448.71,
+      428.95
+    ],
+    "text": "a fixed term loan or from the date of demand in any other case.\u201d",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      447.79,
+      542.74,
+      460.75
+    ],
+    "text": "There are different types of overdraft facilities offered by banks as part of their banking",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      471.55,
+      542.98,
+      484.51
+    ],
+    "text": "business. My learned brother Obeyesekere, J, in People\u2019s Bank v. Jagoda Gamage",
+    "fonts": [
+      "Calibri",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      495.43,
+      543.03,
+      508.39
+    ],
+    "text": "Nishantha Pradeep Kumara [S.C. Appeal No. 234/2017, S.C.M. 12.12.2022 at page 14]",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      519.19,
+      381.84,
+      532.15
+    ],
+    "text": "explained a Permanent Overdraft Facility (POD) as follows:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      550.99,
+      542.52,
+      563.95
+    ],
+    "text": "\u201cThere may be instances where a customer faces short term cash flow mismatches",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      574.78,
+      542.43,
+      587.74
+    ],
+    "text": "which arises more frequently or are spread over a longer period of time or on a",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      598.66,
+      542.44,
+      611.62
+    ],
+    "text": "more permanent basis, but is able to repay the borrowed sum in short periods of",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      622.42,
+      542.54,
+      635.38
+    ],
+    "text": "time. Such a revolving need for cash could be addressed more effectively through",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      646.18,
+      542.4,
+      659.14
+    ],
+    "text": "an overdraft facility than a long term loan. It would generally be reflected in a",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      670.06,
+      542.45,
+      683.02
+    ],
+    "text": "formal request to the bank by the customer followed by the execution of a written",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      693.82,
+      542.66,
+      706.78
+    ],
+    "text": "agreement containing the specific terms and conditions subject to which the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 8 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      74.66,
+      542.53,
+      87.62
+    ],
+    "text": "customer would be permitted to overdraw his current account. While such an",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      98.42,
+      542.41,
+      111.38
+    ],
+    "text": "agreement could also be temporary as well as permanent, it would, in addition to",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      122.3,
+      542.45,
+      135.26
+    ],
+    "text": "the standard terms and conditions, contain the credit limit upto which the account",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      146.06,
+      542.53,
+      159.02
+    ],
+    "text": "could be overdrawn, the period of the facility and the interest rate that is payable",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      169.82,
+      542.52,
+      182.78
+    ],
+    "text": "on the overdrawn amount. Such a facility involves more than one instance of",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      193.7,
+      542.45,
+      206.66
+    ],
+    "text": "overdrawing, and is an ongoing or revolving facility, enabling the account to be",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      217.46,
+      542.65,
+      230.42
+    ],
+    "text": "operated by the customer by withdrawals within the credit ceiling and payments",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      241.37,
+      542.48,
+      254.33
+    ],
+    "text": "being made to reduce the overdrawn balance as well as the interest that is charged",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      265.13,
+      390.6,
+      278.09
+    ],
+    "text": "at the end of the month on the balance outstanding.\u201d",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      296.93,
+      543.02,
+      309.89
+    ],
+    "text": "He went on to explain a Temporary Overdraft Facility (TOD) [supra. at pages 11-12] as",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      320.69,
+      115.99,
+      333.65
+    ],
+    "text": "follows:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      352.49,
+      542.44,
+      365.45
+    ],
+    "text": "\u201cA customer who does not have sufficient funds in his account but who has an",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      376.37,
+      542.45,
+      389.33
+    ],
+    "text": "urgent or sudden requirement for money although for a limited purpose and a",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      400.15,
+      542.57,
+      413.11
+    ],
+    "text": "temporary period, may seek the assistance of his/her bank by requesting such sum",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      423.91,
+      542.59,
+      436.87
+    ],
+    "text": "of money either orally or through a written request, depending on the relationship",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      447.79,
+      542.48,
+      460.75
+    ],
+    "text": "that exists between the customer and the bank. The easiest form of making this",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      471.55,
+      542.62,
+      484.51
+    ],
+    "text": "sum of money available to the customer is by permitting the customer to overdraw",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      495.43,
+      542.66,
+      508.39
+    ],
+    "text": "his current account. The withdrawal would generally be through a cheque of the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      519.19,
+      542.52,
+      532.15
+    ],
+    "text": "customer, with the standard terms of the bank relating to the settlement of",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      542.95,
+      543.03,
+      555.91
+    ],
+    "text": "overdrafts being applicable thereto. In most instances, this would be a one-off",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      566.86,
+      542.92,
+      579.82
+    ],
+    "text": "overdrawing of the account and is a pure and simple temporary overdraft facility.",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      590.62,
+      542.45,
+      603.58
+    ],
+    "text": "The essential feature of an overdraft facility is that the customer is permitted to",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      614.38,
+      542.57,
+      627.34
+    ],
+    "text": "withdraw from his current account a sum of money over and above the credit",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      638.26,
+      542.98,
+      651.22
+    ],
+    "text": "balance available in such account, or in other words to overdraw the account in",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      662.02,
+      542.69,
+      674.98
+    ],
+    "text": "spite of the account not having sufficient funds. An overdraft facility can take many",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      685.78,
+      461.19,
+      698.74
+    ],
+    "text": "forms, and accordingly, the terms and conditions subject to which:",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      726.97,
+      338.27,
+      756.14
+    ],
+    "text": "Page 9 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      74.66,
+      542.59,
+      87.62
+    ],
+    "text": "(a) the customer would be permitted to overdraw his current account including the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      98.42,
+      403.44,
+      111.38
+    ],
+    "text": "rate of interest payable on the overdrawn amount; and",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      130.22,
+      542.96,
+      143.18
+    ],
+    "text": "(b) the manner in which the overdrawn sum of money must be re-paid, including",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      154.1,
+      534.27,
+      167.06
+    ],
+    "text": "the period within which it must be paid, would vary from one form to the other.\u201d",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      185.9,
+      159.91,
+      198.86
+    ],
+    "text": "Burden of Proof",
+    "fonts": [
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      217.7,
+      542.66,
+      230.66
+    ],
+    "text": "Undoubtedly, the burden of proof was on the Respondent. In order to prove the amount",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      241.49,
+      542.8,
+      254.45
+    ],
+    "text": "due, the Respondent led the evidence of the Operations Manager of the Headquarters",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      265.37,
+      436.59,
+      278.33
+    ],
+    "text": "branch and the Loan Recoveries Officer of the Headquarters branch.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      297.17,
+      543.01,
+      310.13
+    ],
+    "text": "As shown by X4 and X5, Respondent has firstly granted a Rs. 15 million POD facility to the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      320.93,
+      542.98,
+      333.89
+    ],
+    "text": "Appellant. Later as shown by X6(i) and (ii), X7(i) and (ii) and X8(i) and (ii), the POD amount",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      344.69,
+      300.46,
+      357.65
+    ],
+    "text": "was increased to sum of Rs. 30,750,000/=.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      376.49,
+      542.78,
+      389.45
+    ],
+    "text": "Respondent by the letter marked XII(i) dated 06.06.2006, informed the Appellant that the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      400.39,
+      539.99,
+      413.35
+    ],
+    "text": "account has been overdrawn over the permanent limit and the account is now in Non-",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      424.15,
+      542.79,
+      437.11
+    ],
+    "text": "Performing Category and requested the Appellant to make an early arrangement to cover",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      447.91,
+      542.5,
+      460.87
+    ],
+    "text": "the exceeded amount to enable them to get back the account to the regular section.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      471.79,
+      542.47,
+      484.75
+    ],
+    "text": "However, the Appellant failed to bring down the overdraft balance within the POD limit.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      495.55,
+      543.03,
+      508.51
+    ],
+    "text": "When a TOD facility is being switched to non-performing category or overdue category,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      519.43,
+      542.5,
+      532.39
+    ],
+    "text": "the Respondent has to adhere and/or comply with the directives issued by the Central",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      543.19,
+      542.55,
+      556.15
+    ],
+    "text": "Bank and therefore, the Respondent has charged interest at a rate of 34% per annum",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      566.98,
+      542.74,
+      579.94
+    ],
+    "text": "under and in terms of the directives issued by the Central Bank at the time relevant to the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      590.86,
+      163.51,
+      603.82
+    ],
+    "text": "said application.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      622.66,
+      542.72,
+      635.62
+    ],
+    "text": "The Respondent marked in evidence X12, a statement of account of the current account",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      646.42,
+      430.83,
+      659.38
+    ],
+    "text": "of the Appellant and X13, being a duly certified copy of the entries.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      678.22,
+      543.02,
+      691.18
+    ],
+    "text": "Both these documents were not objected to by the Appellant. Neither were they marked",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      701.98,
+      164.23,
+      714.94
+    ],
+    "text": "subject to proof.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      726.97,
+      341.27,
+      756.14
+    ],
+    "text": "Page 10 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      74.66,
+      542.91,
+      87.62
+    ],
+    "text": "Section 90C of the Evidence Ordinance prescribes the mode of proof of entries in bankers'",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      98.42,
+      542.64,
+      111.38
+    ],
+    "text": "book, according to which, a certified copy of any entry in a bankers' book shall, in all legal",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      122.3,
+      542.61,
+      135.26
+    ],
+    "text": "proceedings, be received as prima facie evidence of the existence of such entry, and shall",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      146.06,
+      542.6,
+      159.02
+    ],
+    "text": "be admitted as evidence of the matters, transactions, and accounts therein recorded in",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      169.82,
+      542.6,
+      182.78
+    ],
+    "text": "every case where, and to the same extent as, the original entry itself is now by law",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      193.7,
+      292.9,
+      206.66
+    ],
+    "text": "admissible, but not further or otherwise.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      225.5,
+      451.95,
+      238.46
+    ],
+    "text": "In Agostinu v. Kumaraswamy (59 N.L.R. 132), Basnayake C.J. held that:",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      257.33,
+      542.36,
+      270.29
+    ],
+    "text": "\u201cThe only way of proving entries in a bankers' book is by either producing the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      281.09,
+      542.59,
+      294.05
+    ],
+    "text": "original or certified copies of the entries therein as prescribed by section 90C of the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      304.97,
+      221.86,
+      317.93
+    ],
+    "text": "Evidence Ordinance.\u201d",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      336.77,
+      542.99,
+      349.73
+    ],
+    "text": "I have discussed the applicability of the rationale of Agostinu (supra) in Anthony Saliya",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      360.53,
+      542.99,
+      373.49
+    ],
+    "text": "Godwin Ranasinghe v. Warnasirige Sinharage Paul Jayantha De Silva [S.C.(C.H.C.)",
+    "fonts": [
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      384.29,
+      344.28,
+      397.25
+    ],
+    "text": "Appeal No. 17/2014, S.C.M. 03.10.2025 at 14-15].",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      416.11,
+      542.97,
+      429.07
+    ],
+    "text": "Aluwihare, P.C., J, in his separate judgment at Chandra Gunasekera v. Peoples\u2019s Bank and",
+    "fonts": [
+      "Calibri",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      439.99,
+      542.67,
+      452.95
+    ],
+    "text": "Others [(2019) 1 Sri.L.R. 20], dealt with the principles applicable to the production of",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      463.75,
+      542.72,
+      476.71
+    ],
+    "text": "bankers\u2019 books and certified copies of bankers\u2019 books, under and in terms of the Evidence",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      487.51,
+      190.78,
+      500.47
+    ],
+    "text": "Ordinance as follows:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      519.43,
+      542.47,
+      532.39
+    ],
+    "text": "\u201cAnalysis of the Evidence Ordinance reveals, that the evidentiary provisions in",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      543.19,
+      542.79,
+      556.15
+    ],
+    "text": "Chapter VI, (\u201cBanker\u2019s Books\u201d) are stand-alone provisions relating to documents",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      566.98,
+      542.86,
+      579.94
+    ],
+    "text": "dealing with bank transactions. Chapter VI is a subject-specific evidentiary regime,",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      590.86,
+      542.53,
+      603.82
+    ],
+    "text": "which a party to a case can safely rely on to produce documents falling within the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      614.62,
+      542.4,
+      627.58
+    ],
+    "text": "meaning of \u201cBanker\u2019s books\u201d in section 90A without having to invoke the general",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      638.38,
+      542.43,
+      651.34
+    ],
+    "text": "provisions contained in the Evidence Ordinance relating to documentary evidence,",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      662.26,
+      298.9,
+      675.22
+    ],
+    "text": "in particular Sections 61, 63 and 65.",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      726.97,
+      341.27,
+      756.14
+    ],
+    "text": "Page 11 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      74.66,
+      542.37,
+      87.62
+    ],
+    "text": "It would, in my view, be pertinent to refer to the historical background of these",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      98.42,
+      542.5,
+      111.38
+    ],
+    "text": "provisions, so that any ambiguity as to the application of the provisions in Chapter",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      122.3,
+      542.26,
+      135.26
+    ],
+    "text": "VI could be eliminated. In the scheme of the Evidence Ordinance, the general rule",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      146.06,
+      542.52,
+      159.02
+    ],
+    "text": "is that the original document must be produced to prove the contents of such",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      169.82,
+      542.47,
+      182.78
+    ],
+    "text": "document. The Evidence Ordinance, however, provides certain exceptions to that",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      193.7,
+      542.46,
+      206.66
+    ],
+    "text": "rule. One such exception is \u2018public documents\u2019 and the other is \u2018banker\u2019s books\u2019. The",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      217.46,
+      542.73,
+      230.42
+    ],
+    "text": "significance in the latter is that unlike public documents, banker\u2019s books are private",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      241.37,
+      542.43,
+      254.33
+    ],
+    "text": "documents. E.R.S.R. Coomaraswamy (Law of Evidence, Vol II book I, at page 156)",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      265.13,
+      145.63,
+      278.09
+    ],
+    "text": "states;",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      296.93,
+      542.54,
+      309.89
+    ],
+    "text": "\u201c[N]evertheless, certain cogent, practical reasons have induced the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      320.69,
+      542.62,
+      333.65
+    ],
+    "text": "legislature to equate those private documents to the exceptional position of",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      344.57,
+      542.36,
+      357.53
+    ],
+    "text": "public documents in the matter of their proof in the Courts and to confer a",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      368.33,
+      324.84,
+      381.29
+    ],
+    "text": "limited immunity on the bankers.\u201d",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      400.15,
+      542.45,
+      413.11
+    ],
+    "text": "The immunity conferred on banker\u2019s books is embodied in subsection 3 of Section",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      423.91,
+      542.43,
+      436.87
+    ],
+    "text": "130 of the Evidence Ordinance. Although not directly relevant to the present issue,",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      447.79,
+      447.03,
+      460.75
+    ],
+    "text": "for the sake of completeness, the provision is reproduced below:",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      479.59,
+      542.49,
+      492.55
+    ],
+    "text": "130 (3) - \u201cNo bank shall be compelled to produce the books of such bank in",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      503.35,
+      542.48,
+      516.31
+    ],
+    "text": "any legal proceeding to which such bank is not a party, except as provided",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      527.23,
+      234.22,
+      540.19
+    ],
+    "text": "by section 90D\u201d.",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      559.03,
+      542.45,
+      571.99
+    ],
+    "text": "The effect of this provision is that an original of a document, which falls within the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      582.82,
+      542.47,
+      595.78
+    ],
+    "text": "meaning of \u201cbanker\u2019s books\u201d can be produced under Section 90 D; effectively",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      606.58,
+      542.49,
+      619.54
+    ],
+    "text": "shutting out the mandatory application of the general provisions. The rationale",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      630.46,
+      542.57,
+      643.42
+    ],
+    "text": "behind this provision is that any document which falls within the meaning of",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      654.22,
+      542.37,
+      667.18
+    ],
+    "text": "\u201cbanker\u2019s books\u201d can be proved by producing a certified copy as stipulated in",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      677.98,
+      315.12,
+      690.94
+    ],
+    "text": "Section 90C of the Evidence Ordinance.",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      726.97,
+      341.27,
+      756.14
+    ],
+    "text": "Page 12 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      74.66,
+      542.53,
+      87.62
+    ],
+    "text": "The \u201cstand-alone nature\u201d of these provisions can be further gleaned from the",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      98.42,
+      303.7,
+      111.38
+    ],
+    "text": "wording in Section 90C; which reads,",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      130.22,
+      542.96,
+      143.18
+    ],
+    "text": "\u201cSubject to the provisions of this Chapter, \u2018a certified copy\u2019 of any entry in a",
+    "fonts": [
+      "Calibri-BoldItalic",
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      154.1,
+      542.62,
+      167.06
+    ],
+    "text": "banker\u2019s book shall in all legal proceedings be received as prima facie",
+    "fonts": [
+      "Calibri-BoldItalic",
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      177.86,
+      542.65,
+      190.82
+    ],
+    "text": "evidence of the existence of such entry, and shall be admitted as evidence of",
+    "fonts": [
+      "Calibri-BoldItalic",
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      201.62,
+      542.51,
+      214.58
+    ],
+    "text": "the matters, transactions, and accounts therein recorded in every case",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      225.5,
+      542.93,
+      238.46
+    ],
+    "text": "where, and to the same extent as, the original entry itself is now by law",
+    "fonts": [
+      "Calibri-BoldItalic",
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      249.29,
+      459.99,
+      262.25
+    ],
+    "text": "admissible, but not further or otherwise.\u201d (emphasis added)",
+    "fonts": [
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      281.09,
+      543.03,
+      294.05
+    ],
+    "text": "Accordingly, a \u201ccertified copy\u201d of a document (banker\u2019s books) in terms of Section 90C of",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      304.97,
+      203.38,
+      317.93
+    ],
+    "text": "the Evidence Ordinance,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      336.77,
+      516.87,
+      349.73
+    ],
+    "text": "a) constitutes prima facie evidence of the existence of such entry, and",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      368.57,
+      542.56,
+      381.53
+    ],
+    "text": "b) shall be admitted as evidence of the matters stated, as the original entry",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.02,
+      392.33,
+      175.27,
+      405.29
+    ],
+    "text": "itself.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      424.15,
+      542.92,
+      437.11
+    ],
+    "text": "The Appellant sought to question both witnesses on the method adopted to calculate the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      447.91,
+      542.83,
+      460.87
+    ],
+    "text": "outstanding amount and interest due set out in X12 and X13 with a view to establishing",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      471.79,
+      396.48,
+      484.75
+    ],
+    "text": "that the calculation of the amount and interest is erroneous.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      503.59,
+      542.64,
+      516.55
+    ],
+    "text": "However, the several communications between the Appellant and the Respondent",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      527.35,
+      542.94,
+      540.31
+    ],
+    "text": "marked as X14(i) to X14(viii) prior to the institution of this action does not in any way",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      551.23,
+      545.67,
+      564.19
+    ],
+    "text": "reflect a challenge by the Appellant to the amounts made available as overdraft facilities.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      583.06,
+      542.71,
+      596.02
+    ],
+    "text": "Moreover, the Respondent by letter dated 16.08.2007 marked as X15(i) demanded a sum",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      606.82,
+      542.8,
+      619.78
+    ],
+    "text": "of Rs. 38,860,841.74 and interest at 34% from the Appellant. In response, the Appellant",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      630.58,
+      542.65,
+      643.54
+    ],
+    "text": "by letter dated 30.08.2007 marked X16 only requested the Respondent to refrain from",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      654.46,
+      542.59,
+      667.42
+    ],
+    "text": "taking any steps to jeopardise the endeavours the Appellant is making to resolve the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      678.22,
+      542.95,
+      691.18
+    ],
+    "text": "present financial predicament of the Appellant. There was no denial of the principal",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      701.98,
+      335.52,
+      714.94
+    ],
+    "text": "amount and interest claimed by the Respondent.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      726.97,
+      341.27,
+      756.14
+    ],
+    "text": "Page 13 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      74.66,
+      542.98,
+      87.62
+    ],
+    "text": "The Respondent submitted that the Appellant was sent monthly statements on the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      98.42,
+      542.67,
+      111.38
+    ],
+    "text": "overdrafts from time to time and the Appellant did not challenge the accuracy of the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      122.3,
+      208.66,
+      135.26
+    ],
+    "text": "amounts set out therein.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      154.1,
+      542.85,
+      167.06
+    ],
+    "text": "Learned President\u2019s Counsel for the Appellant countered by referring Court to the decision",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      177.86,
+      543.03,
+      190.82
+    ],
+    "text": "in Tai Hing Cotton Mill Ltd v. Liu Chong Hing Bank Ltd and Others [(1985) 2 All ER 947]",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      201.62,
+      542.47,
+      214.58
+    ],
+    "text": "where the Privy Council held that the customer was not under a duty to take reasonable",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      225.5,
+      542.54,
+      238.46
+    ],
+    "text": "precautions in the management of his business with the bank to prevent forged cheques",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      249.29,
+      542.52,
+      262.25
+    ],
+    "text": "being presented for payment nor was he under a duty to check his periodic bank",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      273.17,
+      542.99,
+      286.13
+    ],
+    "text": "statements so as to enable him to notify the bank of any unauthorized debit items because",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      296.93,
+      542.63,
+      309.89
+    ],
+    "text": "such wider duties were not necessary incidents of the banker/customer relationship since",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      320.69,
+      514.23,
+      333.65
+    ],
+    "text": "the business of banking was not the business of the customer but that of the bank.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      352.49,
+      542.48,
+      365.45
+    ],
+    "text": "Nevertheless, the Privy Council did not stop there. They went on to hold that in order to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      376.37,
+      542.59,
+      389.33
+    ],
+    "text": "impose an express obligation on a customer to examine his monthly statements and to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      400.15,
+      543.01,
+      413.11
+    ],
+    "text": "make those statements, in the absence of query, unchallengeable by the customer after",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      423.91,
+      542.45,
+      436.87
+    ],
+    "text": "the expiry of a time limit, the burden of the obligation and of the sanction imposed had",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      447.79,
+      272.98,
+      460.75
+    ],
+    "text": "to be brought home to the customer.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      479.59,
+      542.56,
+      492.55
+    ],
+    "text": "The monthly statements sent to the Appellant specifically directed the Appellant to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      503.35,
+      542.52,
+      516.31
+    ],
+    "text": "carefully check the statement and to bring any error or discrepancy to the notice of the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      527.23,
+      543.04,
+      540.19
+    ],
+    "text": "Respondent at once. This is sufficient, in my view to make it incumbent on the Appellant",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      550.99,
+      474.39,
+      563.95
+    ],
+    "text": "to have raised any concerns on the accuracy of the statements immediately.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      582.82,
+      540.63,
+      595.78
+    ],
+    "text": "No such evidence was lead. In fact, no witnesses were called on behalf of the Appellant.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      614.62,
+      545.8,
+      627.58
+    ],
+    "text": "In Edrick De Silva v. Chandradasa De Silva (70 N.L.R. 170 at 174) H.N.G. Fernando, C.J.,",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      638.38,
+      542.65,
+      651.34
+    ],
+    "text": "observed that where the plaintiff has in a civil case led evidence sufficient in law to prove",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      662.26,
+      542.6,
+      675.22
+    ],
+    "text": "a factum probandum, the failure of the defendant to adduce evidence which contradicts",
+    "fonts": [
+      "Calibri",
+      "Calibri-Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      686.02,
+      542.51,
+      698.98
+    ],
+    "text": "it adds a new factor in favour of the plaintiff. There is then an additional \"matter before",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      726.97,
+      341.27,
+      756.14
+    ],
+    "text": "Page 14 of 14",
+    "fonts": [
+      "Aptos",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      74.66,
+      542.51,
+      87.62
+    ],
+    "text": "the Court\", which the definition in Section 3 of the Evidence Ordinance requires the Court",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      98.42,
+      542.52,
+      111.38
+    ],
+    "text": "to take into account, namely that the evidence led by the plaintiff is uncontradicted [See",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      122.3,
+      543.02,
+      135.26
+    ],
+    "text": "Gnanapala Weerakoon Rathnayake v. Don Andrayas Rajapaksa and Another (S.C.",
+    "fonts": [
+      "Calibri-Bold",
+      "Calibri-BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      146.06,
+      356.52,
+      159.02
+    ],
+    "text": "Appeal No. 120/2009, S.C.M. 01.08.2017 at page 5)].",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      177.86,
+      542.47,
+      190.82
+    ],
+    "text": "For all the foregoing reasons, I hold that there is no error in the judgment of the learned",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      201.62,
+      131.47,
+      214.58
+    ],
+    "text": "trial judge.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      233.54,
+      278.74,
+      246.5
+    ],
+    "text": "Appeal is dismissed but without costs.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      78.26,
+      297.17,
+      543.03,
+      310.13
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      328.97,
+      200.62,
+      341.93
+    ],
+    "text": "Priyantha Fernando, J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      360.77,
+      153.07,
+      373.73
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      366.31,
+      392.57,
+      543.03,
+      405.53
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      424.39,
+      213.82,
+      437.35
+    ],
+    "text": "Sampath B. Abayakoon, J.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.02,
+      456.19,
+      153.07,
+      469.15
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      366.31,
+      487.99,
+      543.03,
+      500.95
+    ],
+    "text": "JUDGE OF THE SUPREME COURT",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  }
+]
