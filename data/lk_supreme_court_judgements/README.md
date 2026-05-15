@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--03_06:53:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--15_09:13:31-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,691** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.7 GB**), from **2009-01-27** to **2026-04-02**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,711** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.7 GB**), from **2009-01-27** to **2026-05-14**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (70%), **TXT** (70%) & **🤗 Hugging Face** (70%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-04-02-SC-FR-190-2023",
-    "num": "SC/FR/190/2023",
-    "date_str": "2026-04-02",
-    "description": "Hon. A.L. Shiran Gooneratne J - R. M. Saman Kumara 96/1, Hend...",
+    "doc_id": "2026-05-14-SC-APPEAL-8-2015",
+    "num": "SC/APPEAL/8/2015",
+    "date_str": "2026-05-14",
+    "description": "\u2696 Hon. Justice A.L. Shiran Gooneratne - 1. M.J. Ahamed Azwar No. 51/3...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_190_2023.pdf",
-    "parties": "R. M. Saman Kumara 96/1, Hendrikka Waththa, Diddeniya, Hanwella. Petitioner Vs. 1. Kariyawasam Haputhanthrige Prabhashana Bashitha Nayananjana Police Station, Hanwella. 2. Kande Badalge Suranga Sisira Kumara Police Station, Hanwella. 3. Amila Govinna Officer in Charge, Police Station, Hanwella. 3A. G. U. Wasantha Kumara, Officer in Charge, Police Station, Hanwella. 4. C. D. Wickremaratne Inspector General of Police, Police Headquarters, Colombo 01. 4A. Priyantha Weerasooriya Inspector General of Police, Police Headquarters, Colombo 01. 5. Kapila Kadupitiya Deputy Inspector General of Police of the Western Province South, Mirihana, Nugegoda. 6. Honorable Attorney General Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_8_2015.pdf",
+    "parties": "1. M.J. Ahamed Azwar No. 51/35, Sri Vipulasena Mawatha, Maradana, Colombo 10. 1(a) Fathima Mahiya Hussain, 1(b) Fathima Silmiya, 1(c) Ahamed Azwer Mohomed Azam, 1(d) Ahamed Infaz All of: No 22/7, Elias Place, Ketawalamulla, Colombo 09. Substituted-Plaintiff-Appellant- Appellants Vs 1. Sunil Silva also known as Sunil de Silva, No. 2812, Havelock Road, Colombo 05 1(a). Chandrani Silva also known as Chandrani de Silva, No. 2812, Havelock Road, Colombo 05. 1(b). Shyamali Silva, also known as Shyamali de Silva, No. 2812, Havelock Road, Colombo 05. Presently at: No. 1586/5, Malabe Road, Kottawa, Pannipitiya. And also at: No. 67, Rosemary Avenue, Hounslow, Middlesex TW4 7JQ, United Kingdom. 1(c). Lakmali Roshani de Silva, No. 515, Havelock Road, Wellawatta. 1(d). Atukoralalage Padmalatha, No. 515, Havelock Road, Pamankade, Wellawatta. 1(e). Kaluthota Hewage Hemapala, No. 469, Wewa Road, Boralesgamuwa. 1(f). Harsha Dananjaya, No. 469, Wewa Road, Boralesgamuwa. 1(g). Sriyani De Silva, No. 281, Havelock Road, Wellawatta, Colombo 06. Substituted-Defendant-Respondent- Respondents (2). Chandrani Silva, also known as Chandrani de Silva, No. 2812, Havelock Road, Colombo 05. (3). Shyamali Silva also known as Shyamali de Silva, No. 2812, Havelock Road, Colombo 05. Presently at: No. 1586/5, Malabe Road, Kottawa, Pannipitiya. And also at: No. 67, Rosemary Avenue, Hounslow, Middlesex TW4 7JQ, United Kingdom. Defendant-Respondent- Respondents\nView More",
+    "judgement_by": "\u2696 Hon. Justice A.L. Shiran Gooneratne"
 }
 ```
 
@@ -42,26 +42,26 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
-- 2026-04-02 | `SC/FR/190/2023` | Hon. A.L. Shiran Gooneratne J - R. M. Saman Kumara 96/1, Hend... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-04-02-SC-FR-190-2023)
-- 2026-04-02 | `SC/CHC APPEAL/53/2008` | Hon. Justice Yasantha Kodagoda, PC - Ranjith Sumanasekera No. 411/... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-04-02-SC-CHC-APPEAL-53-2008)
-- 2026-04-02 | `SC/APPEAL/85/2022` | Hon. Sampath B. Abayakoon J - Imbulana Liyanage Dharmawarda... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-04-02-SC-APPEAL-85-2022)
-- 2026-04-02 | `SC/APPEAL/62/2024` | Hon. Justice Dr. Sobhitha Rajakaruna - Dharmakeerthige Dikhene Gedar... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-04-02-SC-APPEAL-62-2024)
-- 2026-04-02 | `SC/APPEAL/59/2015` | Hon. Justice Arjuna Obeyesekere - W.D. Somasiri, Udakandawala, ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-04-02-SC-APPEAL-59-2015)
-- 2026-04-02 | `SC/APPEAL/253/2014` | Hon. Justice Yasantha Kodagoda, PC - Pani Pachchalage Somawathi Pe... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-04-02-SC-APPEAL-253-2014)
-- 2026-03-31 | `SC/FR/6/2018` | Hon. Justice Janak De Silva - Pathmasiri Dissanayakalage Pr... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-FR-6-2018)
-- 2026-03-31 | `SC/FR/311/2015 AND SC/FR/318/2015` | Hon. Justice Yasantha Kodagoda, PC - 1. Nuwan Bopage No. 30/4, Pan... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-FR-311-2015-AND-SC-F-af33a3dc)
-- 2026-03-31 | `SC/CHC APPEAL/76/2018` | Hon. Mahinda Samayawardhena J - J. M. Wijeratne, No.120, Kand... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-CHC-APPEAL-76-2018)
-- 2026-03-31 | `SC/CHC APPEAL/20/2012` | Hon. Mahinda Samayawardhena J - Ceylon Paper Sacks (Private) ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-CHC-APPEAL-20-2012)
-- 2026-03-31 | `SC/APPEAL/86/2022` | Hon. Menaka Wijesundera J - Ahangoda Acharige Karunalatha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-86-2022)
-- 2026-03-31 | `SC/APPEAL/84/2019` | Hon. A.H.M.D.Nawaz J - 1. Nimal G. Punchihewa, Chair... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-84-2019)
-- 2026-03-31 | `SC/APPEAL/26/2011` | Hon. Justice Arjuna Obeyesekere - 2 Vs. T.M.K. Somawathie, Kara... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-26-2011)
-- 2026-03-31 | `SC/APPEAL/200/2012` | Hon. Justice Janak De Silva - Page 3 of 16 Both carrying on... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-200-2012)
-- 2026-03-31 | `SC/APPEAL/19/2012` | Hon. Justice Arjuna Obeyesekere - 2 (1) Kapugama Wansagamage Do... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-19-2012)
-- 2026-03-31 | `SC/APPEAL/188/2019` | Hon. Justice Dr. Sobhitha Rajakaruna - 3. S.J. Nandawathi (Deceased)... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-188-2019)
-- 2026-03-31 | `SC/APPEAL/166/2013` | Hon. Achala Wengappuli J - (Deceased) Thuduwa Hewage Sum... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-166-2013)
-- 2026-03-31 | `SC/APPEAL/159/2019` | Hon. Menaka Wijesundera J - Hewa Hawarige Pedrick Fernand... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-159-2019)
-- 2026-03-31 | `SC/APPEAL/158/2025` | Hon. Mahinda Samayawardhena J - Attorney-General, Attorney-Ge... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-158-2025)
-- 2026-03-31 | `SC/APPEAL/13/2024` | Hon. M. Sampath K. B. Wijeratne J - Rajaguru Mudiyanselage Muthub... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-03-31-SC-APPEAL-13-2024)
+- 2026-05-14 | `SC/APPEAL/8/2015` | ⚖ Hon. Justice A.L. Shiran Gooneratne - 1. M.J. Ahamed Azwar No. 51/3... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-14-SC-APPEAL-8-2015)
+- 2026-05-13 | `SC/APPEAL/42/2018` | ⚖ Hon. Justice Mahinda Samayawardhena - Jamuregoda Gamachchilage Siri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-13-SC-APPEAL-42-2018)
+- 2026-05-13 | `SC/APPEAL/151/2023` | ⚖ Hon. Justice A.L. Shiran Gooneratne - 1. Loku Bogahawattage David S... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-13-SC-APPEAL-151-2023)
+- 2026-05-12 | `SC/HC CALA/247/2024` | ⚖ Hon.Justice Sampath B. Abayakoon - Peoples Bank, No. 75, Sir Chi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-12-SC-HC-CALA-247-2024)
+- 2026-05-11 | `SC/CHC APPEAL/34/2023` | ⚖ Hon.Justice Sampath B. Abayakoon - Pujitha Prabath Weerawardhana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-11-SC-CHC-APPEAL-34-2023)
+- 2026-05-11 | `SC/APPEAL/72/2024` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - 1. S.S.A.U.S.AC. Udayar No. G... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-11-SC-APPEAL-72-2024)
+- 2026-05-11 | `SC/APPEAL/71/2024` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - 1. S.S.A.U.S.A.C. Udayar No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-11-SC-APPEAL-71-2024)
+- 2026-05-08 | `SC/FR/81/2021` | ⚖ Hon. Justice Janak De Silva - Dr. W. A. M. Udari L. Abeyasi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-FR-81-2021)
+- 2026-05-08 | `SC/FR/171/2022` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - W.A.D. Ruwan Weththasingha No... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-FR-171-2022)
+- 2026-05-08 | `SC/FR/15/2018` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - 1. Mahamalage Nidush Nirantha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-FR-15-2018)
+- 2026-05-08 | `SC/CHC APPEAL/17/2020` | ⚖ Hon.Justice Sampath B. Abayakoon - John Keells Office Automation... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-CHC-APPEAL-17-2020)
+- 2026-05-08 | `SC/APPEAL/41/2022` | ⚖ Hon.Justice Menaka Wijesundera - Mohottige Ajith Anuruddha No:... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-APPEAL-41-2022)
+- 2026-05-08 | `SC/APPEAL/13/2023` | ⚖ Hon.Justice Menaka Wijesundera - Wedage Ranjani, Samangama, Ka... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-APPEAL-13-2023)
+- 2026-05-07 | `SC/FR/7/2023` | ⚖ Hon. Justice Janak De Silva - 1. Ahamed Lebbe Mohamed Salee... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-FR-7-2023)
+- 2026-05-07 | `SC/FR/22/2018` | ⚖ Hon. Justice Achala Wengappuli - 1. W.M.D.B. Abeyratne, No.11,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-FR-22-2018)
+- 2026-05-07 | `SC/FR/160/2016` | ⚖ Hon. Justice Achala Wengappuli - 1. W.M.D.B. Abeyratne, No.11,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-FR-160-2016)
+- 2026-05-07 | `SC/APPEAL/77/2017` | ⚖ Hon. Justice Achala Wengappuli - Galabada Kankanamge Jinadasa ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-APPEAL-77-2017)
+- 2026-05-07 | `SC/APPEAL/73/2025` | ⚖ Hon.Justice Sampath B. Abayakoon - Ven. Galpothukande Devinda Th... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-APPEAL-73-2025)
+- 2026-05-07 | `SC/APPEAL/5/2022` | ⚖ Hon. Justice A.H.M.D.Nawaz - Upali Jayasinghe, 716, Baseli... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-APPEAL-5-2022)
+- 2026-05-07 | `SC/APPEAL/131/2013` | ⚖ Hon. Justice A.H.M.D.Nawaz - Gintota Plywood Manufacturers... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-APPEAL-131-2013)
 
 ---
 

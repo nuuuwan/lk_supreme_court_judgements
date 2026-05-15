@@ -2,15 +2,15 @@
   "doc_class_label": "lk_supreme_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens\u2019 rights.",
-  "time_updated": "2026-04-03 06:53:34",
-  "n_docs": 2691,
-  "n_docs_with_pdfs": 1871,
-  "n_docs_with_text": 1871,
+  "time_updated": "2026-05-15 09:13:30",
+  "n_docs": 2711,
+  "n_docs_with_pdfs": 1891,
+  "n_docs_with_text": 1891,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2009-01-27",
-  "date_str_max": "2026-04-02",
-  "dataset_size": 1661345510,
+  "date_str_max": "2026-05-14",
+  "dataset_size": 1669821863,
   "url_source_list": [
     "https://supremecourt.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-04-02-SC-FR-190-2023",
-    "num": "SC/FR/190/2023",
-    "date_str": "2026-04-02",
-    "description": "Hon. A.L. Shiran Gooneratne J - R. M. Saman Kumara 96/1, Hend...",
+    "doc_id": "2026-05-14-SC-APPEAL-8-2015",
+    "num": "SC/APPEAL/8/2015",
+    "date_str": "2026-05-14",
+    "description": "\u2696 Hon. Justice A.L. Shiran Gooneratne - 1. M.J. Ahamed Azwar No. 51/3...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_190_2023.pdf",
-    "parties": "R. M. Saman Kumara 96/1, Hendrikka Waththa, Diddeniya, Hanwella. Petitioner Vs. 1. Kariyawasam Haputhanthrige Prabhashana Bashitha Nayananjana Police Station, Hanwella. 2. Kande Badalge Suranga Sisira Kumara Police Station, Hanwella. 3. Amila Govinna Officer in Charge, Police Station, Hanwella. 3A. G. U. Wasantha Kumara, Officer in Charge, Police Station, Hanwella. 4. C. D. Wickremaratne Inspector General of Police, Police Headquarters, Colombo 01. 4A. Priyantha Weerasooriya Inspector General of Police, Police Headquarters, Colombo 01. 5. Kapila Kadupitiya Deputy Inspector General of Police of the Western Province South, Mirihana, Nugegoda. 6. Honorable Attorney General Attorney General\u2019s Department, Colombo 12. Respondents\n\nView More",
-    "judgement_by": "Hon. A.L. Shiran Gooneratne J"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_8_2015.pdf",
+    "parties": "1. M.J. Ahamed Azwar No. 51/35, Sri Vipulasena Mawatha, Maradana, Colombo 10. 1(a) Fathima Mahiya Hussain, 1(b) Fathima Silmiya, 1(c) Ahamed Azwer Mohomed Azam, 1(d) Ahamed Infaz All of: No 22/7, Elias Place, Ketawalamulla, Colombo 09. Substituted-Plaintiff-Appellant- Appellants Vs 1. Sunil Silva also known as Sunil de Silva, No. 2812, Havelock Road, Colombo 05 1(a). Chandrani Silva also known as Chandrani de Silva, No. 2812, Havelock Road, Colombo 05. 1(b). Shyamali Silva, also known as Shyamali de Silva, No. 2812, Havelock Road, Colombo 05. Presently at: No. 1586/5, Malabe Road, Kottawa, Pannipitiya. And also at: No. 67, Rosemary Avenue, Hounslow, Middlesex TW4 7JQ, United Kingdom. 1(c). Lakmali Roshani de Silva, No. 515, Havelock Road, Wellawatta. 1(d). Atukoralalage Padmalatha, No. 515, Havelock Road, Pamankade, Wellawatta. 1(e). Kaluthota Hewage Hemapala, No. 469, Wewa Road, Boralesgamuwa. 1(f). Harsha Dananjaya, No. 469, Wewa Road, Boralesgamuwa. 1(g). Sriyani De Silva, No. 281, Havelock Road, Wellawatta, Colombo 06. Substituted-Defendant-Respondent- Respondents (2). Chandrani Silva, also known as Chandrani de Silva, No. 2812, Havelock Road, Colombo 05. (3). Shyamali Silva also known as Shyamali de Silva, No. 2812, Havelock Road, Colombo 05. Presently at: No. 1586/5, Malabe Road, Kottawa, Pannipitiya. And also at: No. 67, Rosemary Avenue, Hounslow, Middlesex TW4 7JQ, United Kingdom. Defendant-Respondent- Respondents\nView More",
+    "judgement_by": "\u2696 Hon. Justice A.L. Shiran Gooneratne"
   }
 }
