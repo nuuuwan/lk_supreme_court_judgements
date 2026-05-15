@@ -1,12 +1,11 @@
 import time
 from typing import Generator
 
+from scraper import AbstractDoc
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from utils import Log
-
-from scraper import AbstractDoc
+from utils import Log, TimeFormat
 
 log = Log("JudgementDocWebMixin")
 
@@ -20,20 +19,31 @@ class JudgementDocWebMixin:
         if len(tds) == 0:
             return None
         td_text_list = [td.text for td in tds]
-        assert len(td_text_list) == 7, td_text_list
+        assert (
+            len(td_text_list) == 5
+        ), f"Expected 5 columns in table row, got {len(td_text_list)}: {td_text_list}"
+
+        # date_str
+        date_str_raw = td_text_list[0]
+        assert (
+            len(date_str_raw) == 11
+        ), f"Expected date string of length 11 (%d %B %Y), got {len(date_str_raw)} chars: {repr(date_str_raw)}"
+        date_str = TimeFormat("%Y-%m-%d").format(
+            TimeFormat("%d %B %Y").parse(date_str_raw)
+        )
 
         # num
         num = td_text_list[1]
-        assert num.startswith("SC") or num.startswith("CS"), num
-
-        # date_str
-        date_str = td_text_list[0]
-        assert len(date_str) == 10, date_str
+        assert num.startswith("SC") or num.startswith(
+            "CS"
+        ), f"Case number must start with 'SC' or 'CS', got: {repr(num)}"
 
         # url_pdf
         td_final = tds[-1]
         url_pdf = td_final.find_element(By.TAG_NAME, "a").get_attribute("href")
-        assert url_pdf.endswith(".pdf"), url_pdf
+        assert url_pdf.endswith(
+            ".pdf"
+        ), f"Expected a .pdf URL, got: {repr(url_pdf)}"
 
         # judgement_by, parties, description
         judgement_by = td_text_list[3]
@@ -57,9 +67,11 @@ class JudgementDocWebMixin:
 
     @classmethod
     def __parse_pager__(cls, driver) -> Generator[AbstractDoc, None, None]:
-        table = driver.find_elements(By.XPATH, "//table")[1]
+        table = driver.find_elements(By.XPATH, "//table")[-1]
         trs = table.find_elements(By.TAG_NAME, "tr")
-        assert len(trs) >= 1
+        assert (
+            len(trs) >= 1
+        ), "Expected at least one table row in the results table, but found none"
         for tr in trs:
             try:
                 doc = cls.__parse_tr__(tr)
