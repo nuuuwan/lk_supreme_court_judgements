@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_07:06:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_19:30:11-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,715** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.7 GB**), from **2009-01-27** to **2026-05-15**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,716** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.7 GB**), from **2009-01-27** to **2026-05-18**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (70%), **TXT** (70%) & **🤗 Hugging Face** (70%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-05-15-SC-FR-169-2022",
-    "num": "SC/FR/169/2022",
-    "date_str": "2026-05-15",
-    "description": "\u2696 Hon. Justice Dr. Sobhitha Rajakaruna - 1. H.G.N. Thilakshi No. 65, M...",
+    "doc_id": "2026-05-18-SC-CHC-APPEAL-26-2017",
+    "num": "SC/CHC APPEAL/26/2017",
+    "date_str": "2026-05-18",
+    "description": "\u2696 Hon.Justice K.M.G.H.Kulatunga - Siddiaratchchige Noel Anthony...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_169_2022.pdf",
-    "parties": "1. H.G.N. Thilakshi No. 65, Maspotha Watta, Maspotha. 2. W.I. Jayantha Sugath Kumara No. 137/3, Old School Road, Aluvihare, Matale. 3. N.T. Poodaluella No. 209/F, Janaraja Mawatha, Ranawana Road, Katugastota. 4. J.M.A.D. Jayasinghe No. 92A, Kalukondayawa, Malwana. 5. R. Batagoda No. 72, Ranathisara Uyana, Kamuburugamuwa. 6. L.P.A. Meedeniya No. 30, Akkara 20, Galapitamulla, Hindagolla. PETITIONERS Vs. 1. P.D.D.S.Muthukumarana Government Chief Valuer Department of Valuation, Valuation House No. 748, Maradana Road, Colombo 10. 2. A.S.W.K. Nanayakkara Additional Chief Valuer Department of Valuation, Valuation House No. 748, Maradana Road, Colombo 10. 3. Justice Jagath Balapatabendi, Chairman, 4. Indrani Sugathadasa, Member, 5. T.R.C. Ruberu, Member, 6. Ahamod Lebbe Mohamed Saleem, Member, 7. Dian Gomes, Member, 8. Dilith Jayaweera, Member, 9. W.H. Piyadasa, Member, 10. Suntharam Arumainayaham, Member, The 3rd to 10th Respondents all of: Public Service Commission, No 1200/9, Rajamalwatta Road, Battaramulla. 11. Secretary, Public Service Commission, No 1200/9, Rajamalwatta Road, Battaramulla. AND OTHERS\nView More",
-    "judgement_by": "\u2696 Hon. Justice Dr. Sobhitha Rajakaruna"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_chc-appeal_26_2017.pdf",
+    "parties": "Siddiaratchchige Noel Anthony Nihal de Silva, No. 236, Waragoda Road, Kelaniya. 2. Siddiaratchige Dulanjan Shamal Siddiaratchi, 3. Siddiaratchige Isuru Chinthaka Augustine Siddiaratchi, Both of No. 236, Waragoda Road, Kelaniya. Both presently at 2, Zimmer St., Brampton Ontario, L6S6L3, Canada. Appearing by their lawful Attorney PETITIONER-APPELLANTS Vs. 1. Augustine Motors (Pvt) Limited, No. 57 & 59, Jayantha Weerasekera Mawatha, Colombo 10. 2. K. A. D. T. A. R. Shanthapriya, No. 59, 1/1, Jayantha Weerasekera Mawatha, Colombo 10. 3. K. D. K. D. A. Kathriarachchi, No. 86, Galpoththa Road, Nawala. 4. K. D. G. A. C. Kathriarachchi, No. 86, Galpoththa Road, Nawala. 5. Cyrus Corporate Services (Pvt) Ltd., No. A2, Matha Road, Colombo 08. 6. A. J. S. Associates Chartered Accountants, No. 100/20, Sir Chittampalam A. Gardiner Mawatha, Colombo 02. 7. The Registrar of Companies, No. 400, D. R. Wijewardena Mawatha, Colombo 10. RESPONDENT-RESPONDENTS\nView More",
+    "judgement_by": "\u2696 Hon.Justice K.M.G.H.Kulatunga"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-05-18 | `SC/CHC APPEAL/26/2017` | ⚖ Hon.Justice K.M.G.H.Kulatunga - Siddiaratchchige Noel Anthony... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-18-SC-CHC-APPEAL-26-2017)
 - 2026-05-15 | `SC/FR/169/2022` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - 1. H.G.N. Thilakshi No. 65, M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-15-SC-FR-169-2022)
 - 2026-05-15 | `SC/APPEAL/94/2019 AND SC/APPEAL/95/2019` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - Sri Lanka Savings Bank Ltd. N... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-15-SC-APPEAL-94-2019-AND-S-6c9f1fb1)
 - 2026-05-15 | `SC/APPEAL/192/2018` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - 1A. Sri Narayana Kapuralalage... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-15-SC-APPEAL-192-2018)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-05-08 | `SC/APPEAL/13/2023` | ⚖ Hon.Justice Menaka Wijesundera - Wedage Ranjani, Samangama, Ka... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-APPEAL-13-2023)
 - 2026-05-07 | `SC/FR/7/2023` | ⚖ Hon. Justice Janak De Silva - 1. Ahamed Lebbe Mohamed Salee... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-FR-7-2023)
 - 2026-05-07 | `SC/FR/22/2018` | ⚖ Hon. Justice Achala Wengappuli - 1. W.M.D.B. Abeyratne, No.11,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-FR-22-2018)
-- 2026-05-07 | `SC/FR/160/2016` | ⚖ Hon. Justice Achala Wengappuli - 1. W.M.D.B. Abeyratne, No.11,... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-07-SC-FR-160-2016)
 
 ---
 
