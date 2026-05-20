@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--20_07:08:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--20_19:08:00-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,719** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.7 GB**), from **2009-01-27** to **2026-05-19**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,720** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.7 GB**), from **2009-01-27** to **2026-05-20**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (70%), **TXT** (70%) & **🤗 Hugging Face** (70%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-05-19-SC-FR-8-2025",
-    "num": "SC/FR/8/2025",
-    "date_str": "2026-05-19",
-    "description": "\u2696 Hon. Justice Arjuna Obeyesekere - W.S. Sathyananda, \u2018Nila Piyas...",
+    "doc_id": "2026-05-20-SC-APPEAL-1-2022",
+    "num": "SC/APPEAL/1/2022",
+    "date_str": "2026-05-20",
+    "description": "\u2696 Hon.Justice Sampath K. B. Wijeratne - T. A. Roopa Thenuwara, No. 11...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_8_2025.pdf",
-    "parties": "W.S. Sathyananda, \u2018Nila Piyasa\u2019, 4, Hector Kobbekaduwa Mawatha, Colombo 7. PETITIONER Vs. 1. Professor Kapila Perera, Secretary, Ministry of Transport, Highways, Ports and Civil Aviation, No. 19, Chaithya Road, Colombo 1. 2. Hon. Bimal Rathnayake, Minister of Transport, Highways, Ports and Civil Aviation, No. 19, Chaithya Road, Colombo 1. 3. Mr. S. Aloka Bandara, Secretary, Ministry of Public Administration, Provincial Councils and Local Government, Independence Square, Colombo 7. 4. Hon. Dr. A.H.M.H. Abayarathna, Minister of Public Administration, Provincial Councils and Local Government, Independence Square, Colombo 7. 5. Sanath J. Ediriweera, Chairman, Public Service Commission. 6. W.H.M.M.C.K. Dayaratne, Secretary, Public Service Commission. 7. S.M. Mohamed 8. N.H.M. Chithrananda 9. Prof. N. Selvakkumaran 10. M.B.R. Pushpakumara 11. Dr. A.D.N. de Zoysa 12. R. Nadarajapillai 13. C. Pallegama 14. G.S.A. de Silva, PC 7th \u2013 14th Respondents are Members of the Public Service Commission. 5th \u2013 14th Respondents are at No. 1200/9, Rajamalwatta Road, Battaramulla. 15. Hon. Attorney General, Attorney General\u2019s Department, Colombo 12. RESPONDENTS\nView More",
-    "judgement_by": "\u2696 Hon. Justice Arjuna Obeyesekere"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_appeal_1_2022.pdf",
+    "parties": "T. A. Roopa Thenuwara, No. 11/67, Bodiya Road, Mirihana. And Now No.93, Bia Bellaarta, Soma Lomeardo, Barese 2119, Italy. DEFENDANT \u2013 APPEALLNT \u2013 PETITIONER \u2013 [APPELLANT] T. A. Donald, No. CG6, Kammalwatta Flats, Dematagoda Road, Colombo 09. PLAINTIFF \u2013 RESPONDENT \u2013 RESPONDENT \u2013 [RESPONDENT]\nView More",
+    "judgement_by": "\u2696 Hon.Justice Sampath K. B. Wijeratne"
 }
 ```
 
@@ -42,6 +42,7 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-05-20 | `SC/APPEAL/1/2022` | ⚖ Hon.Justice Sampath K. B. Wijeratne - T. A. Roopa Thenuwara, No. 11... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-20-SC-APPEAL-1-2022)
 - 2026-05-19 | `SC/FR/8/2025` | ⚖ Hon. Justice Arjuna Obeyesekere - W.S. Sathyananda, ‘Nila Piyas... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-19-SC-FR-8-2025)
 - 2026-05-18 | `SC/CHC APPEAL/26/2017` | ⚖ Hon.Justice K.M.G.H.Kulatunga - Siddiaratchchige Noel Anthony... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-18-SC-CHC-APPEAL-26-2017)
 - 2026-05-15 | `SC/FR/169/2022` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - 1. H.G.N. Thilakshi No. 65, M... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-15-SC-FR-169-2022)
@@ -61,7 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-05-08 | `SC/FR/15/2018` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - 1. Mahamalage Nidush Nirantha... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-FR-15-2018)
 - 2026-05-08 | `SC/CHC APPEAL/69/2012` | ⚖ Hon. Justice Janak De Silva - Somerville & Company Ltd, P.O... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-CHC-APPEAL-69-2012)
 - 2026-05-08 | `SC/CHC APPEAL/17/2020` | ⚖ Hon.Justice Sampath B. Abayakoon - John Keells Office Automation... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-CHC-APPEAL-17-2020)
-- 2026-05-08 | `SC/APPEAL/41/2022` | ⚖ Hon.Justice Menaka Wijesundera - Mohottige Ajith Anuruddha No:... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-08-SC-APPEAL-41-2022)
 
 ---
 
