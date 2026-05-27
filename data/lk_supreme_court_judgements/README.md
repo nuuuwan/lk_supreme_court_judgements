@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Supreme Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_07:10:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_19:26:58-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
 A Supreme Court judgment is a binding legal decision that interprets the Constitution and laws, shaping justice, governance, and citizens’ rights.
 
-- [**2,726** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.7 GB**), from **2009-01-27** to **2026-05-26**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
+- [**2,729** documents](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements) (**1.7 GB**), from **2009-01-27** to **2026-05-27**, scraped from [https://supremecourt.lk](https://supremecourt.lk)
 
 - In **JSON**, **PDF** (70%), **TXT** (70%) & **🤗 Hugging Face** (70%)
 
@@ -19,15 +19,15 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 ```json
 {
     "doc_type": "lk_supreme_court_judgements",
-    "doc_id": "2026-05-26-SC-FR-400-2021",
-    "num": "SC/FR/400/2021",
-    "date_str": "2026-05-26",
-    "description": "\u2696 Hon.Justice Sampath B. Abayakoon - A.L. Ariyawansa, 7D, Welegoda...",
+    "doc_id": "2026-05-27-SC-FR-59-2020--SC-FR-60-b57b31c5",
+    "num": "SC/FR/59/2020, SC/FR/60/2020, SC/FR/61/2020 & SC/FR/63/2020",
+    "date_str": "2026-05-27",
+    "description": "\u2696 Hon. Cheif Justice P. Padman Surasena - 1. Godamunne Bolagedara Jagat...",
     "url_metadata": "https://supremecourt.lk/judgements/",
     "lang": "en",
-    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_fr_400_2021.pdf",
-    "parties": "A.L. Ariyawansa, 7D, Welegoda Road, Rahula Junction, Matara. PETITIONER Vs. 1. Secretary, Ministry of Agriculture, No. 80/5, Govijana Mandiraya, Rajamalwatta Lane, Battaramulla. 2. Commissioner General of Agrarian Development, Department of Agrarian Development, No. 24, Sir Marcus Fernando Mawatha, Colombo 07. 3. Assistant Commissioner of Agrarian Development, Department of Agrarian Development, Galle District Office, Labuduwa, Akmeemana. 4. Director General of Establishments, Ministry of Public Administration and Home Affairs, Colombo 07. 5. Hon. Attorney General, Attorney General\u2019s Department, Hulftsdorp, Colombo 12. RESPONDENTS\nView More",
-    "judgement_by": "\u2696 Hon.Justice Sampath B. Abayakoon"
+    "url_pdf": "https://supremecourt.lk/wp-content/uploads/judgements/sc_59_60_61_63_2020.pdf",
+    "parties": "1. Godamunne Bolagedara Jagath Senaka Chandrasekera Bandara, No.786/05, Muwanhelawatta, 1st Lane, Thalangama-North, Battaramulla, Malabe. 2. Kodisinghe Arachchige Jagath Shantha Kodisinghe, Kithalawalana, Meerigama. 3. Amadoruge Palitha Sesiri Amarathunga, Dangashena, Hamangalla, Narangoda. 4. Thammita Arachchige Don Tissa Senanayake, No. 270, Polkotuwa Watta, Pala Hela, Dekatana. 5. Basnayaka Ralalage Dammika Dananjaya Bandara Aruna Shantha Basnayaka, No. 95/A, Katana Road, Hakurukumbura, Meerigama. 6. Pinnaduwage Yasarathna de Silva, No. 181/15, Polhengoda, Kirulapona, Colombo 05. 7. Loku Yaddehige Aruna Shyamantha Chandrapala, 1-1, Quarters, Anderson Flats, Narahenpita. 8. Rammandage Anura Kumara Premarathne, 184/B, Weedagama, Bandaragama. 9. Mahendra Nalin Hettiarachchi, 354/B, Galle Road, Angagoda, Bentota. AND OTHERS\nView More",
+    "judgement_by": "\u2696 Hon. Cheif Justice P. Padman Surasena"
 }
 ```
 
@@ -42,6 +42,9 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 
 ## 🆕 20 Latest documents
 
+- 2026-05-27 | `SC/FR/59/2020, SC/FR/60/2020, SC/FR/61/2020 & SC/FR/63/2020` | ⚖ Hon. Cheif Justice P. Padman Surasena - 1. Godamunne Bolagedara Jagat... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-27-SC-FR-59-2020--SC-FR-60-b57b31c5)
+- 2026-05-27 | `SC/FR/32/2022, SC/FR/33/2022 & SC/FR/34/2022` | ⚖ Hon. Cheif Justice P. Padman Surasena - Ms. Tharmaraja Tharmaja, No. ... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-27-SC-FR-32-2022--SC-FR-33-ce609fad)
+- 2026-05-27 | `SC/APPEAL/60/2021` | ⚖ Hon.Justice Sampath K. B. Wijeratne - Madurapperuma Appuhamilage Ni... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-27-SC-APPEAL-60-2021)
 - 2026-05-26 | `SC/FR/400/2021` | ⚖ Hon.Justice Sampath B. Abayakoon - A.L. Ariyawansa, 7D, Welegoda... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-26-SC-FR-400-2021)
 - 2026-05-26 | `SC/CHC APPEAL/34/2017` | ⚖ Hon.Justice Sampath K. B. Wijeratne - DFCC Bank PLC, (Presently : D... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-26-SC-CHC-APPEAL-34-2017)
 - 2026-05-21 | `SC/FR/71/2020` | ⚖ Hon.Justice Menaka Wijesundera - Rathnayake Mudiyaselage Somal... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-21-SC-FR-71-2020)
@@ -59,9 +62,6 @@ A Supreme Court judgment is a binding legal decision that interprets the Constit
 - 2026-05-14 | `SC/APPEAL/8/2015` | ⚖ Hon. Justice A.L. Shiran Gooneratne - 1. M.J. Ahamed Azwar No. 51/3... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-14-SC-APPEAL-8-2015)
 - 2026-05-13 | `SC/APPEAL/42/2018` | ⚖ Hon. Justice Mahinda Samayawardhena - Jamuregoda Gamachchilage Siri... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-13-SC-APPEAL-42-2018)
 - 2026-05-13 | `SC/APPEAL/151/2023` | ⚖ Hon. Justice A.L. Shiran Gooneratne - 1. Loku Bogahawattage David S... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-13-SC-APPEAL-151-2023)
-- 2026-05-12 | `SC/HC CALA/247/2024` | ⚖ Hon.Justice Sampath B. Abayakoon - Peoples Bank, No. 75, Sir Chi... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-12-SC-HC-CALA-247-2024)
-- 2026-05-11 | `SC/CHC APPEAL/34/2023` | ⚖ Hon.Justice Sampath B. Abayakoon - Pujitha Prabath Weerawardhana... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-11-SC-CHC-APPEAL-34-2023)
-- 2026-05-11 | `SC/APPEAL/72/2024` | ⚖ Hon. Justice Dr. Sobhitha Rajakaruna - 1. S.S.A.U.S.AC. Udayar No. G... | [data](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements/2020s/2026/2026-05-11-SC-APPEAL-72-2024)
 
 ---
 
