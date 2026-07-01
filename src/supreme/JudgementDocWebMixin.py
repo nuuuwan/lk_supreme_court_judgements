@@ -67,7 +67,10 @@ class JudgementDocWebMixin:
 
     @classmethod
     def __parse_pager__(cls, driver) -> Generator[AbstractDoc, None, None]:
-        table = driver.find_elements(By.XPATH, "//table")[-1]
+        tables = driver.find_elements(By.XPATH, "//table")
+        if not tables:
+            pass
+        table = tables[-1]
         trs = table.find_elements(By.TAG_NAME, "tr")
         assert (
             len(trs) >= 1
