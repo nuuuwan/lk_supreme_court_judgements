@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Supreme Court Judgements
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--29_19:38:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--30_07:08:34-green)
 
 [https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements](https://github.com/nuuuwan/lk_supreme_court_judgements/tree/data/data/lk_supreme_court_judgements)
 
